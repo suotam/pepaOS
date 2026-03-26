@@ -1,6 +1,8 @@
 import { NextResponse } from 'next/server'
 import { get_calendar_events_in_range } from '@/lib/google-tools'
 
+export const dynamic = 'force-dynamic'
+
 export async function GET(request: Request) {
   try {
     const url = new URL(request.url)

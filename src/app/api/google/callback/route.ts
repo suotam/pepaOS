@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { exchangeCodeForToken, logAction } from '../../../../lib/google/oauth'
 
+export const dynamic = 'force-dynamic'
+
 export async function GET(request: NextRequest) {
   try {
     const url = new URL(request.url)

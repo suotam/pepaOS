@@ -1,6 +1,8 @@
-import dynamic from 'next/dynamic'
+import nextDynamic from 'next/dynamic'
 
-const PropertyMapClient = dynamic(() => import('./property-map-client'), { ssr: false })
+export const dynamic = 'force-dynamic'
+
+const PropertyMapClient = nextDynamic(() => import('./property-map-client'), { ssr: false })
 
 export default function PropertiesMapPage() {
   return <PropertyMapClient />

@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getAuthorizationUrl } from '../../../../lib/google/oauth'
 
+export const dynamic = 'force-dynamic'
+
 export async function GET(request: NextRequest) {
   try {
     const redirectTo = new URL(request.url).searchParams.get('redirectTo') || '/dashboard'
