@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/workflows/runner",
+      "schedule": "30 8 * * *"
+    }
+  ]
+}
