@@ -81,20 +81,32 @@ function matchesCronExpression(expression: string, date: Date) {
   )
 }
 
-function ranInSameMinute(lastRun: string | null | undefined, now: Date) {
+function ranAtOrAfter(lastRun: string | null | undefined, threshold: Date) {
   if (!lastRun) return false
   const parsed = new Date(lastRun)
   if (Number.isNaN(parsed.getTime())) return false
-  return (
-    parsed.getFullYear() === now.getFullYear() &&
-    parsed.getMonth() === now.getMonth() &&
-    parsed.getDate() === now.getDate() &&
-    parsed.getHours() === now.getHours() &&
-    parsed.getMinutes() === now.getMinutes()
-  )
+  return parsed.getTime() >= threshold.getTime()
 }
 
-export async function getDueWorkflows(now = new Date()) {
+function floorToMinute(date: Date) {
+  const next = new Date(date)
+  next.setSeconds(0, 0)
+  return next
+}
+
+function findLatestMatchingTime(expression: string, now: Date, lookbackMinutes: number) {
+  const end = floorToMinute(now)
+  for (let offset = 0; offset < lookbackMinutes; offset += 1) {
+    const candidate = new Date(end)
+    candidate.setMinutes(candidate.getMinutes() - offset)
+    if (matchesCronExpression(expression, candidate)) {
+      return candidate
+    }
+  }
+  return null
+}
+
+export async function getDueWorkflows(now = new Date(), lookbackMinutes = 1) {
   const { data: workflows, error } = await supabase
     .from('workflows')
     .select('*')
@@ -107,10 +119,11 @@ export async function getDueWorkflows(now = new Date()) {
 
   return ((workflows || []) as WorkflowRow[]).filter((workflow) => {
     if (!workflow.schedule) return false
-    if (!matchesCronExpression(workflow.schedule, now)) return false
+    const matchedTime = findLatestMatchingTime(workflow.schedule, now, Math.max(1, lookbackMinutes))
+    if (!matchedTime) return false
     const config = (workflow.config_json || {}) as WorkflowTaskConfig
     const lastRun = typeof (config as any).last_run === 'string' ? (config as any).last_run : null
-    return !ranInSameMinute(lastRun, now)
+    return !ranAtOrAfter(lastRun, matchedTime)
   })
 }
 

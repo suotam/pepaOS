@@ -18,7 +18,9 @@ async function handleRun(request: NextRequest) {
   }
 
   const now = new Date()
-  const dueWorkflows = await getDueWorkflows(now)
+  const requestedLookback = Number(request.nextUrl.searchParams.get('lookbackMinutes') || '5')
+  const lookbackMinutes = Number.isFinite(requestedLookback) ? Math.min(Math.max(requestedLookback, 1), 60) : 5
+  const dueWorkflows = await getDueWorkflows(now, lookbackMinutes)
   const results: Array<{ id: string; name: string; status: 'success' | 'error'; message?: string }> = []
 
   for (const workflow of dueWorkflows) {
@@ -37,6 +39,7 @@ async function handleRun(request: NextRequest) {
 
   return NextResponse.json({
     checkedAt: now.toISOString(),
+    lookbackMinutes,
     dueCount: dueWorkflows.length,
     results,
   })

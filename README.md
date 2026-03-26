@@ -72,6 +72,30 @@ If you also set `RUIAN_CSV_PATH` in `.env.local`, the app will automatically use
 
 That keeps the map coordinates exact for both old and newly added records instead of relying only on heuristic fallback coordinates.
 
+## Workflow scheduling on Vercel Hobby
+
+Vercel Hobby does not support minute-level Vercel Cron jobs. For production workflow execution on Hobby, the app now uses an external scheduler that calls the runner endpoint:
+
+- endpoint: `/api/workflows/runner`
+- auth header: `Authorization: Bearer ${CRON_SECRET}`
+
+This repository includes a GitHub Actions scheduler in [workflow-runner.yml](./.github/workflows/workflow-runner.yml) that calls the endpoint every 5 minutes with `lookbackMinutes=5`, so scheduled workflows that became due between pings are still executed.
+
+Required GitHub repository secrets:
+
+- `APP_BASE_URL`
+  - example: `https://your-app.vercel.app`
+- `CRON_SECRET`
+  - same value as the `CRON_SECRET` environment variable on Vercel
+
+Required Vercel environment variable:
+
+```env
+CRON_SECRET=your-long-random-secret
+```
+
+This setup is the recommended way to keep Sreality import workflows running on Vercel Hobby.
+
 ## Agent Commands
 
 Try these queries in the agent chat:
