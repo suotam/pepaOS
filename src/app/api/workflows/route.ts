@@ -4,6 +4,7 @@ import { supabase } from '../../../lib/supabase'
 import { workflowEngine } from '../../../lib/workflow-engine'
 
 export const dynamic = 'force-dynamic'
+export const maxDuration = 300
 
 function buildWorkflowName(name: string | undefined, to: string, subject: string) {
   if (name?.trim()) return name.trim()
@@ -83,7 +84,9 @@ export async function POST(request: NextRequest) {
 
       if (error) throw error
 
-      workflowEngine.scheduleWorkflow(data.id, schedule)
+      if (!process.env.VERCEL) {
+        workflowEngine.scheduleWorkflow(data.id, schedule)
+      }
       return NextResponse.json({ workflow: data })
     }
 
@@ -138,7 +141,7 @@ export async function POST(request: NextRequest) {
 
       if (error) throw error
 
-      if (data.schedule && data.status !== 'paused') {
+      if (!process.env.VERCEL && data.schedule && data.status !== 'paused') {
         workflowEngine.scheduleWorkflow(data.id, data.schedule)
       } else {
         workflowEngine.stopWorkflow(data.id)

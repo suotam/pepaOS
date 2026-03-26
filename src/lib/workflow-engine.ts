@@ -28,6 +28,92 @@ type WorkflowRow = {
   config_json: WorkflowTaskConfig | null
 }
 
+function expandCronPart(part: string, min: number, max: number) {
+  if (part === '*') {
+    return { kind: 'any' as const }
+  }
+
+  if (part.startsWith('*/')) {
+    const step = Number(part.slice(2))
+    return { kind: 'step' as const, step: Number.isFinite(step) && step > 0 ? step : null }
+  }
+
+  return {
+    kind: 'list' as const,
+    values: part.split(',').flatMap((token) => {
+      const trimmed = token.trim()
+      if (!trimmed) return []
+      if (trimmed.includes('-')) {
+        const [startRaw, endRaw] = trimmed.split('-')
+        const start = Number(startRaw)
+        const end = Number(endRaw)
+        if (!Number.isFinite(start) || !Number.isFinite(end)) return []
+        const values: number[] = []
+        for (let value = start; value <= end; value += 1) {
+          if (value >= min && value <= max) values.push(value)
+        }
+        return values
+      }
+      const value = Number(trimmed)
+      return Number.isFinite(value) && value >= min && value <= max ? [value] : []
+    }),
+  }
+}
+
+function matchesCronValue(part: string, value: number, min: number, max: number) {
+  const expanded = expandCronPart(part, min, max)
+  if (expanded.kind === 'any') return true
+  if (expanded.kind === 'step') return expanded.step ? value % expanded.step === 0 : false
+  return expanded.values.includes(value)
+}
+
+function matchesCronExpression(expression: string, date: Date) {
+  const parts = String(expression || '').trim().split(/\s+/)
+  if (parts.length !== 5) return false
+
+  const [minute, hour, dayOfMonth, month, dayOfWeek] = parts
+  return (
+    matchesCronValue(minute, date.getMinutes(), 0, 59) &&
+    matchesCronValue(hour, date.getHours(), 0, 23) &&
+    matchesCronValue(dayOfMonth, date.getDate(), 1, 31) &&
+    matchesCronValue(month, date.getMonth() + 1, 1, 12) &&
+    matchesCronValue(dayOfWeek, date.getDay(), 0, 6)
+  )
+}
+
+function ranInSameMinute(lastRun: string | null | undefined, now: Date) {
+  if (!lastRun) return false
+  const parsed = new Date(lastRun)
+  if (Number.isNaN(parsed.getTime())) return false
+  return (
+    parsed.getFullYear() === now.getFullYear() &&
+    parsed.getMonth() === now.getMonth() &&
+    parsed.getDate() === now.getDate() &&
+    parsed.getHours() === now.getHours() &&
+    parsed.getMinutes() === now.getMinutes()
+  )
+}
+
+export async function getDueWorkflows(now = new Date()) {
+  const { data: workflows, error } = await supabase
+    .from('workflows')
+    .select('*')
+    .not('schedule', 'is', null)
+    .eq('status', 'active')
+
+  if (error) {
+    throw new Error(error.message)
+  }
+
+  return ((workflows || []) as WorkflowRow[]).filter((workflow) => {
+    if (!workflow.schedule) return false
+    if (!matchesCronExpression(workflow.schedule, now)) return false
+    const config = (workflow.config_json || {}) as WorkflowTaskConfig
+    const lastRun = typeof (config as any).last_run === 'string' ? (config as any).last_run : null
+    return !ranInSameMinute(lastRun, now)
+  })
+}
+
 function normalizeLocationText(value: string) {
   return value
     .normalize('NFD')
