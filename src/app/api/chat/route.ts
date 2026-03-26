@@ -1006,6 +1006,68 @@ const tools: any[] = [
   {
     type: "function",
     function: {
+      name: "delete_client_record_by_name",
+      description: "Delete a client found by name. Use this for requests like 'Smaž klienta Suotam'.",
+      parameters: {
+        type: "object",
+        properties: {
+          name: { type: "string", description: "Client name to delete" }
+        },
+        required: ["name"]
+      }
+    }
+  },
+  {
+    type: "function",
+    function: {
+      name: "delete_property_record_by_title",
+      description: "Delete a property found by title. Use this for requests like 'Smaž nemovitost Barák'.",
+      parameters: {
+        type: "object",
+        properties: {
+          title: { type: "string", description: "Property title to delete" }
+        },
+        required: ["title"]
+      }
+    }
+  },
+  {
+    type: "function",
+    function: {
+      name: "delete_lead_record_by_match",
+      description: "Delete a lead found by natural identifying fields such as client name, source, status, and optional created time.",
+      parameters: {
+        type: "object",
+        properties: {
+          clientName: { type: "string", description: "Lead client name" },
+          source_channel: { type: "string", description: "Current lead source if known" },
+          status: { type: "string", description: "Current lead status if known" },
+          created_at: { type: "string", description: "Optional created timestamp to disambiguate" }
+        },
+        required: ["clientName"]
+      }
+    }
+  },
+  {
+    type: "function",
+    function: {
+      name: "delete_deal_record_by_match",
+      description: "Delete a deal found by client name, property title, stage, and optional amount.",
+      parameters: {
+        type: "object",
+        properties: {
+          clientName: { type: "string", description: "Deal client name" },
+          propertyTitle: { type: "string", description: "Deal property title" },
+          stage: { type: "string", description: "Current deal stage if known" },
+          amount: { type: "number", description: "Current amount if known" }
+        },
+        required: []
+      }
+    }
+  },
+  {
+    type: "function",
+    function: {
       name: "create_scheduled_email_workflow",
       description: "Create a cron-based workflow that sends an email automatically at the scheduled time. Use this when the user wants a recurring or scheduled email task.",
       parameters: {
@@ -1824,6 +1886,50 @@ async function executeTool(toolCall: any) {
       }
     case 'create_chart':
       const { chart_type, data_source, group_by, x_axis, y_axis } = parsedArgs
+      const normalizeChartField = (source: string, field?: string) => {
+        if (!field) return field
+
+        const normalized = String(field)
+          .trim()
+          .toLowerCase()
+          .normalize('NFD')
+          .replace(/[\u0300-\u036f]/g, '')
+          .replace(/\s+/g, '_')
+
+        if (source === 'properties') {
+          if (['typ', 'type', 'property_type', 'propertytype', 'druh', 'kategorie'].includes(normalized)) return 'property_type'
+          if (['mesto', 'city'].includes(normalized)) return 'city'
+          if (['lokalita', 'locality', 'cast_obce'].includes(normalized)) return 'locality'
+          if (['stav', 'status'].includes(normalized)) return 'status'
+          if (['kraj', 'region'].includes(normalized)) return 'region'
+          if (['rekonstrukce', 'reconstruction', 'reconstruction_status'].includes(normalized)) return 'reconstruction_status'
+          if (['cena', 'asking_price', 'price'].includes(normalized)) return 'asking_price'
+        }
+
+        if (source === 'clients') {
+          if (['zdroj', 'source'].includes(normalized)) return 'source'
+          if (['owner', 'vlastnik'].includes(normalized)) return 'owner'
+          if (['mesto', 'city'].includes(normalized)) return 'city'
+        }
+
+        if (source === 'leads') {
+          if (['zdroj', 'source', 'source_channel', 'kanal'].includes(normalized)) return 'source_channel'
+          if (['stav', 'status'].includes(normalized)) return 'status'
+          if (['created', 'created_at', 'month', 'mesic'].includes(normalized)) return 'created_at'
+        }
+
+        if (source === 'deals') {
+          if (['faze', 'stage'].includes(normalized)) return 'stage'
+          if (['castka', 'amount', 'cena', 'price'].includes(normalized)) return 'amount'
+          if (['uzavreno', 'closed_at', 'month', 'mesic'].includes(normalized)) return 'closed_at'
+        }
+
+        return field
+      }
+
+      const resolvedGroupBy = normalizeChartField(data_source, group_by) || group_by || 'status'
+      const resolvedXAxis = normalizeChartField(data_source, x_axis) || x_axis || 'created_at'
+      const resolvedYAxis = normalizeChartField(data_source, y_axis) || y_axis || 'count'
       
       let data = []
       switch (data_source) {
@@ -1846,23 +1952,23 @@ async function executeTool(toolCall: any) {
       if (chart_type === 'pie') {
         const counts: { [key: string]: number } = {}
         data.forEach((item: any) => {
-          const key = item[group_by] || 'Unknown'
+          const key = item[resolvedGroupBy] || 'Unknown'
           counts[key] = (counts[key] || 0) + 1
         })
         return {
           type: 'pie',
-          title: `${data_source} podle ${group_by}`,
-          description: `Přehled ${data_source} seskupených podle ${group_by}.`,
+          title: `${data_source} podle ${resolvedGroupBy}`,
+          description: `Přehled ${data_source} seskupených podle ${resolvedGroupBy}.`,
           createdAt: new Date().toISOString(),
           data: Object.entries(counts).map(([name, value]) => ({ name, value }))
         }
       } else if (chart_type === 'bar' || chart_type === 'line') {
-        if (!x_axis || !y_axis) {
+        if (!resolvedXAxis || !resolvedYAxis) {
           throw new Error('Bar and line charts require x_axis and y_axis parameters')
         }
         
         // For time-based charts, group by month
-        if (x_axis === 'created_at' || x_axis === 'month') {
+        if (resolvedXAxis === 'created_at' || resolvedXAxis === 'closed_at' || resolvedXAxis === 'month') {
           const monthlyData: { [key: string]: number } = {}
           data.forEach((item: any) => {
             const date = new Date(item.created_at || item.closed_at || Date.now())
@@ -1875,33 +1981,33 @@ async function executeTool(toolCall: any) {
             type: chart_type,
             title: `${data_source} v čase`,
             description: `Vývoj ${data_source} po měsících.`,
-            xKey: x_axis,
-            yKey: y_axis,
+            xKey: resolvedXAxis,
+            yKey: resolvedYAxis,
             createdAt: new Date().toISOString(),
             data: sortedMonths.map(month => ({
-              [x_axis]: month,
-              [y_axis]: monthlyData[month]
+              [resolvedXAxis]: month,
+              [resolvedYAxis]: monthlyData[month]
             }))
           }
         } else {
           // Group by the specified x_axis column
           const groupedData: { [key: string]: any[] } = {}
           data.forEach((item: any) => {
-            const key = item[x_axis] || 'Unknown'
+            const key = item[resolvedXAxis] || 'Unknown'
             if (!groupedData[key]) groupedData[key] = []
             groupedData[key].push(item)
           })
           
           return {
             type: chart_type,
-            title: `${data_source} podle ${x_axis}`,
-            description: `Přehled ${data_source} seskupených podle ${x_axis}.`,
-            xKey: x_axis,
-            yKey: y_axis,
+            title: `${data_source} podle ${resolvedXAxis}`,
+            description: `Přehled ${data_source} seskupených podle ${resolvedXAxis}.`,
+            xKey: resolvedXAxis,
+            yKey: resolvedYAxis,
             createdAt: new Date().toISOString(),
             data: Object.entries(groupedData).map(([key, items]) => ({
-              [x_axis]: key,
-              [y_axis]: y_axis === 'count' ? items.length : items.reduce((sum, item) => sum + (item[y_axis] || 0), 0)
+              [resolvedXAxis]: key,
+              [resolvedYAxis]: resolvedYAxis === 'count' ? items.length : items.reduce((sum, item) => sum + (item[resolvedYAxis] || 0), 0)
             }))
           }
         }
@@ -2125,6 +2231,64 @@ async function executeTool(toolCall: any) {
         dataAction: {
           entity: 'deals',
           selectedRecordId: updatedDealByMatch.id,
+          refresh: true,
+        },
+      }
+    case 'delete_client_record_by_name':
+      const matchedClientForDelete = await findSingleRecordBySearch('clients', parsedArgs.name)
+      const deletedClientByName = await deleteDataRecord('clients', matchedClientForDelete.id)
+      return {
+        summary: 'Klient byl smazán.',
+        record: deletedClientByName,
+        dataAction: {
+          entity: 'clients',
+          selectedRecordId: null,
+          refresh: true,
+        },
+      }
+    case 'delete_property_record_by_title':
+      const matchedPropertyForDelete = await findSingleRecordBySearch('properties', parsedArgs.title)
+      const deletedPropertyByTitle = await deleteDataRecord('properties', matchedPropertyForDelete.id)
+      return {
+        summary: 'Nemovitost byla smazána.',
+        record: deletedPropertyByTitle,
+        dataAction: {
+          entity: 'properties',
+          selectedRecordId: null,
+          refresh: true,
+        },
+      }
+    case 'delete_lead_record_by_match':
+      const matchedLeadForDelete = await findLeadByMatch({
+        clientName: parsedArgs.clientName,
+        source_channel: parsedArgs.source_channel,
+        status: parsedArgs.status,
+        created_at: parsedArgs.created_at,
+      })
+      const deletedLeadByMatch = await deleteDataRecord('leads', matchedLeadForDelete.id)
+      return {
+        summary: 'Lead byl smazán.',
+        record: deletedLeadByMatch,
+        dataAction: {
+          entity: 'leads',
+          selectedRecordId: null,
+          refresh: true,
+        },
+      }
+    case 'delete_deal_record_by_match':
+      const matchedDealForDelete = await findDealByMatch({
+        clientName: parsedArgs.clientName,
+        propertyTitle: parsedArgs.propertyTitle,
+        stage: parsedArgs.stage,
+        amount: parsedArgs.amount,
+      })
+      const deletedDealByMatch = await deleteDataRecord('deals', matchedDealForDelete.id)
+      return {
+        summary: 'Deal byl smazán.',
+        record: deletedDealByMatch,
+        dataAction: {
+          entity: 'deals',
+          selectedRecordId: null,
           refresh: true,
         },
       }
@@ -2721,6 +2885,18 @@ IMPORTANT GUIDELINES:
 - For lead edits described by visible row values like "Změň u tohoto leadu Client 25 FB new ... zdroj na email", prefer update_lead_record_by_match and use the provided row values to identify the exact lead.
 - For property edits by title, prefer update_property_record_by_title.
 - For deal edits by client + property description, prefer update_deal_record_by_match.
+- For delete requests, prefer the natural-language delete tools and perform the deletion in the same turn:
+- "Smaž klienta Jan Novák" -> delete_client_record_by_name
+- "Smaž nemovitost Barák" -> delete_property_record_by_title
+- "Smaž lead klienta Jan Novák ..." -> delete_lead_record_by_match
+- "Smaž deal klienta Jan Novák a nemovitosti Barák" -> delete_deal_record_by_match
+- For calendar delete requests like "Smaž zítřejší tenis od 12", prefer delete_calendar_event_by_match and actually perform the delete tool call in the same turn.
+- For chart requests, map Czech wording exactly:
+- "podle typu" => property_type
+- "podle města" => city
+- "podle lokality" => locality
+- "podle stavu" => status
+- Never swap "typ" and "město". If the user asks for properties by type, prefer the type grouping, not city.
 - When the user asks "Provedl jsi?" after an edit request, do not repeat that you are about to do it. The prior turn should already have executed the update tool. Confirm success or explain the concrete failure.
 - For updates and deletes, if the user identified the record naturally by name or other searchable fields, first search it, then perform the update/delete in the same turn.
 - Do not say "provádím to nyní" or promise an action without the tool call. Either perform the database tool call or explain exactly what information is still missing.
