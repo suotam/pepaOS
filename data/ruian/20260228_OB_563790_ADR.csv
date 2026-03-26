@@ -1,0 +1,825 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód obvodu Prahy;Název obvodu Prahy;Kód èásti obce;Název èásti obce;Kód ulice;Název ulice;Typ SO;Èíslo domovní;Èíslo orientaèní;Znak èísla orientaèního;PSÈ;Souøadnice Y;Souøadnice X;Platí Od
+19846487;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;4;;;46802;684452.56;985542.50;2013-12-01T00:00:00
+19846495;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;15;;;46802;684349.63;985260.50;2013-12-01T00:00:00
+19846509;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;16;;;46802;684332.63;985210.19;2013-12-01T00:00:00
+19846517;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;17;;;46802;684444.81;985346.00;2013-12-01T00:00:00
+19846525;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;18;;;46802;684397.69;985351.56;2013-12-01T00:00:00
+19846533;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;19;;;46802;684421.07;985287.44;2013-12-01T00:00:00
+19846541;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;26;;;46802;684550.54;984866.31;2013-12-01T00:00:00
+19846568;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;36;;;46802;684748.94;984771.56;2013-12-01T00:00:00
+19846576;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;38;;;46802;684394.50;985378.44;2013-12-01T00:00:00
+19846584;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;39;;;46802;684916.75;984922.56;2013-12-01T00:00:00
+19846592;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;40;;;46802;684911.13;984870.88;2013-12-01T00:00:00
+19846606;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;48;;;46802;684138.71;985584.17;2013-12-01T00:00:00
+19846614;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;53;;;46802;684162.22;984243.64;2024-09-16T00:00:00
+19846622;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;57;;;46802;684022.87;984504.92;2013-12-01T00:00:00
+19846631;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;1;;;46802;684961.75;984898.81;2013-12-01T00:00:00
+19846649;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;2;;;46802;684881.00;984855.19;2013-12-01T00:00:00
+19846657;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;3;;;46802;684873.81;985076.20;2014-10-20T00:00:00
+19846665;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;4;;;46802;685254.81;984969.44;2013-12-01T00:00:00
+19846681;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;61;;;46802;685103.15;984670.14;2025-03-17T00:00:00
+19846711;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;9;;;46802;684596.25;983465.44;2013-12-01T00:00:00
+19846720;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;10;;;46802;684782.25;984799.25;2013-12-01T00:00:00
+19846738;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;11;;;46802;684638.81;984875.88;2013-12-01T00:00:00
+19846746;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;12;;;46802;684402.13;984939.06;2013-12-01T00:00:00
+19846754;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;15;;;46802;684380.56;984991.50;2013-12-01T00:00:00
+19846762;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;16;;;46802;684390.69;985013.63;2013-12-01T00:00:00
+19846771;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;17;;;46802;684817.13;984844.38;2013-12-01T00:00:00
+19846789;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;59;;;46802;684299.31;984985.38;2013-12-01T00:00:00
+19846797;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;63;;;46802;684341.92;985001.75;2017-10-25T00:00:00
+19846801;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;62;;;46802;684312.76;985323.36;2016-06-01T00:00:00
+19846819;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;60;;;46802;684341.38;984948.38;2013-12-01T00:00:00
+19846827;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;22;;;46802;684979.78;984860.13;2013-12-01T00:00:00
+19846835;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;23;;;46802;684399.81;985537.19;2013-12-01T00:00:00
+19846851;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;25;;;46802;684579.06;985103.38;2013-12-01T00:00:00
+19846860;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;26;;;46802;684223.31;985570.13;2013-12-01T00:00:00
+19846878;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;27;;;46802;684258.91;985599.21;2014-10-20T00:00:00
+19846886;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;28;;;46802;684256.63;985577.38;2013-12-01T00:00:00
+19846894;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;31;;;46802;684335.25;985225.81;2013-12-01T00:00:00
+19846908;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;34;;;46802;684348.88;985192.31;2013-12-01T00:00:00
+19846916;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;1;;;46802;681897.88;984637.88;2013-12-01T00:00:00
+19846924;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;2;;;46802;681917.56;984690.06;2013-12-01T00:00:00
+19846932;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;3;;;46802;682263.00;984376.38;2013-12-01T00:00:00
+19846941;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;6;;;46802;682043.00;984512.44;2013-12-01T00:00:00
+19846959;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;9;;;46802;682072.31;984444.25;2013-12-01T00:00:00
+19846967;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;18;;;46802;682230.42;984346.77;2021-12-11T00:00:00
+19846983;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;20;;;46802;682251.25;984333.75;2013-12-01T00:00:00
+19846991;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;21;;;46802;682232.63;984288.75;2013-12-01T00:00:00
+19847009;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;23;;;46802;682260.81;984251.75;2013-12-01T00:00:00
+19847017;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;24;;;46802;682314.13;984388.38;2013-12-01T00:00:00
+19847025;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;25;;;46802;682308.13;984329.13;2013-12-01T00:00:00
+19847033;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;28;;;46802;682333.00;984280.25;2013-12-01T00:00:00
+19847041;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;29;;;46802;682364.81;984218.25;2013-12-01T00:00:00
+19847050;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;30;;;46802;682384.76;984177.97;2013-12-01T00:00:00
+19847076;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;35;;;46802;682402.81;984081.00;2013-12-01T00:00:00
+19847084;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;36;;;46802;682406.00;984041.38;2013-12-01T00:00:00
+19847092;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;37;;;46802;682449.13;984065.88;2013-12-01T00:00:00
+19847106;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;41;;;46802;682439.00;983942.56;2013-12-01T00:00:00
+19847114;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;42;;;46802;682468.06;983922.06;2013-12-01T00:00:00
+19847122;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;43;;;46802;682502.94;983997.94;2013-12-01T00:00:00
+19847131;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;46;;;46802;682487.75;983930.31;2013-12-01T00:00:00
+19847149;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;48;;;46802;682529.00;983882.63;2013-12-01T00:00:00
+19847157;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;49;;;46802;682866.25;983923.94;2013-12-01T00:00:00
+19847165;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;50;;;46802;682561.50;983926.06;2013-12-01T00:00:00
+19847173;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;53;;;46802;682587.63;983960.94;2013-12-01T00:00:00
+19847181;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;62;;;46802;682750.69;983762.50;2013-12-01T00:00:00
+19847190;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158658;Školní;è.p.;63;;;46802;682676.63;983943.88;2013-12-01T00:00:00
+19847203;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158658;Školní;è.p.;65;;;46802;682707.00;983936.19;2013-12-01T00:00:00
+19847211;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;66;;;46802;682729.13;983929.00;2013-12-01T00:00:00
+19847220;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;68;;;46802;682785.06;983936.94;2013-12-01T00:00:00
+19847238;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;72;;;46802;682839.13;983892.25;2013-12-01T00:00:00
+19847246;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;75;;;46802;683580.81;984053.38;2018-02-01T00:00:00
+19847254;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158828;Pøíkrá;è.p.;76;;;46802;682864.13;983833.13;2013-12-01T00:00:00
+19847262;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158828;Pøíkrá;è.p.;78;;;46802;682850.81;983791.31;2013-12-01T00:00:00
+19847271;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;79;;;46802;682785.31;983745.25;2013-12-01T00:00:00
+19847289;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;80;;;46802;682718.75;983717.25;2013-12-01T00:00:00
+19847297;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;81;;;46802;682793.00;983705.94;2013-12-01T00:00:00
+19847301;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;82;;;46802;682673.31;983713.94;2013-12-01T00:00:00
+19847319;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;85;;;46802;682822.06;983638.19;2013-12-01T00:00:00
+19847335;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;88;;;46802;682952.88;983594.69;2013-12-01T00:00:00
+19847343;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;89;;;46802;682980.44;983583.56;2013-12-01T00:00:00
+19847351;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;90;;;46802;683008.31;983604.88;2013-12-01T00:00:00
+19847360;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;92;;;46802;683029.31;983673.81;2013-12-01T00:00:00
+19847378;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;93;;;46802;682875.06;984170.56;2013-12-01T00:00:00
+19847386;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;96;;;46802;683089.56;983577.31;2013-12-01T00:00:00
+19847394;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;99;;;46802;683085.69;983549.13;2013-12-01T00:00:00
+19847416;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;103;;;46802;683078.19;983409.06;2013-12-01T00:00:00
+19847424;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;104;;;46802;683109.38;983471.44;2013-12-01T00:00:00
+19847432;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;105;;;46802;683022.78;983449.64;2014-10-15T00:00:00
+19847441;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;106;;;46802;683178.38;983404.56;2013-12-01T00:00:00
+19847459;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;109;;;46802;683172.38;983442.31;2013-12-01T00:00:00
+19847467;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;110;;;46802;683148.38;983462.13;2013-12-01T00:00:00
+19847475;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;116;;;46802;683265.63;983408.13;2013-12-01T00:00:00
+19847483;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;119;;;46802;683093.81;983622.88;2013-12-01T00:00:00
+19847491;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;128;;;46802;682875.88;984221.69;2013-12-01T00:00:00
+19847505;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;130;;;46802;683674.38;983196.44;2013-12-01T00:00:00
+19847521;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;132;;;46802;682592.00;984034.44;2013-12-01T00:00:00
+19847548;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022931;Zajeèí;è.p.;138;;;46802;683633.56;983650.38;2017-09-21T00:00:00
+19847556;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;139;;;46802;683703.56;983714.31;2017-09-21T00:00:00
+19847564;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;887;;;46802;681913.74;982064.28;2017-05-26T00:00:00
+19847572;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022958;Sýrová;è.p.;147;;;46802;683813.75;983862.13;2017-09-21T00:00:00
+19847581;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;151;;;46802;684047.50;984108.31;2018-02-01T00:00:00
+19847599;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;152;;;46802;684104.75;984170.56;2018-02-01T00:00:00
+19847602;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;153;;;46802;684143.06;984169.00;2018-02-01T00:00:00
+19847629;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;162;;;46802;683203.81;983791.50;2013-12-01T00:00:00
+19847637;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;165;;;46802;682913.13;984002.75;2013-12-01T00:00:00
+19847645;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;166;;;46802;683472.38;984018.44;2013-12-01T00:00:00
+19847653;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;167;;;46802;682829.56;984038.19;2013-12-01T00:00:00
+19847661;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;171;;;46802;682714.34;984084.95;2013-12-01T00:00:00
+19847670;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;172;;;46802;682756.98;984106.19;2013-12-01T00:00:00
+19847688;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;173;;;46802;682730.75;984112.50;2013-12-01T00:00:00
+19847696;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;174;;;46802;682745.13;984128.19;2013-12-01T00:00:00
+19847700;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022931;Zajeèí;è.p.;175;;;46802;683784.06;983777.00;2017-09-21T00:00:00
+19847718;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;176;;;46802;682767.19;984148.00;2013-12-01T00:00:00
+19847726;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;178;;;46802;682813.90;984158.30;2013-12-01T00:00:00
+19847734;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158861;Spojovací;è.p.;179;;;46802;682837.81;984139.13;2013-12-01T00:00:00
+19847742;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158861;Spojovací;è.p.;180;;;46802;682866.81;984130.06;2013-12-01T00:00:00
+19847751;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158861;Spojovací;è.p.;184;;;46802;682925.69;984176.44;2013-12-01T00:00:00
+19847769;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;187;;;46802;682893.75;984181.75;2013-12-01T00:00:00
+19847777;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158861;Spojovací;è.p.;188;;;46802;682845.25;984170.56;2013-12-01T00:00:00
+19847785;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;189;;;46802;682821.00;984188.69;2013-12-01T00:00:00
+19847793;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;190;;;46802;682825.00;984215.81;2013-12-01T00:00:00
+19847807;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158976;Topolová;è.p.;192;;;46802;682755.50;984213.94;2013-12-01T00:00:00
+19847823;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;201;;;46802;682716.63;984128.50;2013-12-01T00:00:00
+19847840;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;204;;;46802;682885.19;984430.50;2013-12-01T00:00:00
+19847858;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;205;;;46802;682679.31;984130.63;2013-12-01T00:00:00
+19847866;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;206;;;46802;682796.81;984194.00;2013-12-01T00:00:00
+19847874;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;207;;;46802;682664.19;984165.25;2013-12-01T00:00:00
+19847882;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;209;;;46802;682507.31;984154.06;2013-12-01T00:00:00
+19847891;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;210;;;46802;682863.79;984233.56;2013-12-01T00:00:00
+19847904;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;212;;;46802;682661.38;984223.25;2013-12-01T00:00:00
+19847912;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;216;;;46802;682668.69;984266.44;2013-12-01T00:00:00
+19847939;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;219;;;46802;682621.31;984309.56;2013-12-01T00:00:00
+19847947;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;220;;;46802;682603.75;984350.00;2013-12-01T00:00:00
+19847955;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;221;;;46802;682610.63;984432.31;2013-12-01T00:00:00
+19847963;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;223;;;46802;682645.84;984465.49;2019-05-14T00:00:00
+19847971;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;224;;;46802;682645.02;984472.12;2013-12-01T00:00:00
+19847980;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;225;;;46802;682600.75;984501.06;2013-12-01T00:00:00
+19848005;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;232;;;46802;682580.00;984363.38;2013-12-01T00:00:00
+19848013;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;234;;;46802;682568.00;984324.50;2013-12-01T00:00:00
+19848030;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;236;;;46802;682570.44;984290.63;2013-12-01T00:00:00
+19848048;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;237;;;46802;682573.06;984260.00;2013-12-01T00:00:00
+19848064;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;241;;;46802;682579.19;984219.81;2013-12-01T00:00:00
+19848072;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;242;;;46802;682604.00;984227.00;2013-12-01T00:00:00
+19848081;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;243;;;46802;682527.00;984186.81;2013-12-01T00:00:00
+19848099;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;244;;;46802;682623.13;984198.00;2013-12-01T00:00:00
+19848102;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;246;;;46802;682880.94;984202.25;2013-12-01T00:00:00
+19848137;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;250;;;46802;682625.56;984125.56;2013-12-01T00:00:00
+19848153;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;253;;;46802;682614.63;984075.50;2013-12-01T00:00:00
+19848161;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;255;;;46802;682532.63;984111.44;2013-12-01T00:00:00
+19848170;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;256;;;46802;682522.50;984137.25;2013-12-01T00:00:00
+19848188;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;257;;;46802;682476.31;984147.88;2013-12-01T00:00:00
+19848196;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;260;;;46802;682455.81;984184.38;2013-12-01T00:00:00
+19848218;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;263;;;46802;682441.69;984271.19;2013-12-01T00:00:00
+19848226;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;264;;;46802;682417.28;984256.44;2022-06-30T00:00:00
+19848234;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;266;;;46802;682357.50;984348.44;2013-12-01T00:00:00
+19848242;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;267;;;46802;682370.81;984302.31;2013-12-01T00:00:00
+19848251;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;269;;;46802;682424.38;984323.38;2013-12-01T00:00:00
+19848269;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;270;;;46802;682446.63;984298.25;2013-12-01T00:00:00
+19848277;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;272;;;46802;682436.88;984347.63;2013-12-01T00:00:00
+19848285;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;274;;;46802;682497.88;984444.25;2013-12-01T00:00:00
+19848293;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;277;;;46802;682805.06;984345.00;2013-12-01T00:00:00
+19848307;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;278;;;46802;682988.44;984896.19;2013-12-01T00:00:00
+19848315;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;279;;;46802;682543.69;984777.19;2013-12-01T00:00:00
+19848323;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;283;;;46802;682801.75;984892.75;2013-12-01T00:00:00
+19848340;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;288;;;46802;682548.88;984216.06;2013-12-01T00:00:00
+19848358;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;289;;;46802;682967.13;984920.44;2013-12-01T00:00:00
+19848382;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;293;;;46802;682583.19;984394.00;2013-12-01T00:00:00
+19848391;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;294;;;46802;683126.13;984863.38;2013-12-01T00:00:00
+19848404;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;296;;;46802;683126.69;984991.19;2017-02-16T00:00:00
+19848412;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;300;;;46802;682855.13;984372.44;2013-12-01T00:00:00
+19848421;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;302;;;46802;682878.44;985430.06;2013-12-01T00:00:00
+19848439;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;303;;;46802;682895.88;984388.38;2013-12-01T00:00:00
+19848447;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;304;;;46802;682592.25;984085.56;2013-12-01T00:00:00
+19848455;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;307;;;46802;682780.75;985827.50;2013-12-01T00:00:00
+19848463;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158909;U Potùèku;è.p.;310;;;46802;682949.63;984186.50;2013-12-01T00:00:00
+19848471;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;315;;;46802;684007.25;984094.00;2018-02-01T00:00:00
+19848480;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158887;Truhláøská;è.p.;316;;;46802;683027.13;984088.81;2013-12-01T00:00:00
+19848498;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158887;Truhláøská;è.p.;317;;;46802;683005.06;984083.19;2013-12-01T00:00:00
+19848501;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;318;;;46802;681860.25;982763.94;2017-05-29T00:00:00
+19848510;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158887;Truhláøská;è.p.;319;;;46802;683019.19;984126.06;2013-12-01T00:00:00
+19848536;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;326;;;46802;682635.81;983893.00;2013-12-01T00:00:00
+19848544;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022931;Zajeèí;è.p.;328;;;46802;683593.69;983629.75;2017-09-21T00:00:00
+19848561;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;334;;;46802;682907.23;984365.49;2013-12-01T00:00:00
+19848579;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;335;;;46802;683662.69;983698.56;2017-09-21T00:00:00
+19848587;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;336;;;46802;683038.94;983592.88;2013-12-01T00:00:00
+19848595;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;339;;;46802;682592.00;984379.06;2013-12-01T00:00:00
+19848609;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;344;;;46802;682830.56;983932.19;2013-12-01T00:00:00
+19848617;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;347;;;46802;682918.75;984228.31;2013-12-01T00:00:00
+19848625;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;351;;;46802;682884.69;984321.31;2013-12-01T00:00:00
+19848633;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022958;Sýrová;è.p.;352;;;46802;683690.56;983967.81;2017-09-21T00:00:00
+19848641;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;354;;;46802;682958.63;984224.31;2013-12-01T00:00:00
+19848650;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158640;Èechova;è.p.;355;;;46802;682846.92;983927.90;2014-11-26T00:00:00
+19848668;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;356;;;46802;682977.88;984571.06;2013-12-01T00:00:00
+19848676;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;357;;;46802;682267.50;984106.31;2013-12-01T00:00:00
+19848684;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;358;;;46802;682893.63;984343.56;2013-12-01T00:00:00
+19848692;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;359;;;46802;682918.33;984385.19;2022-07-13T00:00:00
+19848706;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;360;;;46802;682438.50;984005.38;2013-12-01T00:00:00
+19848714;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.ev.;42;;;46802;683731.49;984002.42;2018-02-01T00:00:00
+19848722;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;365;;;46802;683336.06;983392.88;2013-12-01T00:00:00
+19848731;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;366;;;46802;682880.44;984364.69;2013-12-01T00:00:00
+19848749;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;367;;;46802;682868.69;984300.50;2013-12-01T00:00:00
+19848757;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158933;Wolkerova;è.p.;370;;;46802;682790.69;984261.88;2013-12-01T00:00:00
+19848765;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;375;;;46802;683054.50;983519.38;2013-12-01T00:00:00
+19848773;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;379;;;46802;682835.38;984244.06;2013-12-01T00:00:00
+19848781;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;380;;;46802;683229.63;983777.00;2013-12-01T00:00:00
+19848803;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158909;U Potùèku;è.p.;382;;;46802;682961.74;984200.08;2013-12-01T00:00:00
+19848811;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;384;;;46802;682978.69;984221.44;2013-12-01T00:00:00
+19848820;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021170;Boèní;è.p.;385;;;46802;681658.55;982969.35;2017-05-29T00:00:00
+19848846;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;387;;;46802;681618.25;982822.56;2017-05-29T00:00:00
+19848854;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021170;Boèní;è.p.;388;;;46802;681646.11;982953.39;2022-10-27T00:00:00
+19848862;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;389;;;46802;682989.06;984204.13;2013-12-01T00:00:00
+19848871;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158861;Spojovací;è.p.;391;;;46802;682921.93;984261.16;2013-12-01T00:00:00
+19848889;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;392;;;46802;683046.06;984198.00;2013-12-01T00:00:00
+19848897;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;393;;;46802;683030.06;984220.63;2013-12-01T00:00:00
+19848901;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158976;Topolová;è.p.;394;;;46802;682773.88;984234.75;2013-12-01T00:00:00
+19848919;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158887;Truhláøská;è.p.;395;;;46802;683066.56;984156.69;2013-12-01T00:00:00
+19848927;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;396;;;46802;682891.81;983915.38;2013-12-01T00:00:00
+19848935;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;398;;;46802;684129.38;984199.69;2018-02-01T00:00:00
+19848943;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;399;;;46802;683047.13;984217.94;2013-12-01T00:00:00
+19848951;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;400;;;46802;682994.94;984223.25;2013-12-01T00:00:00
+19848960;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;402;;;46802;682866.81;984338.88;2013-12-01T00:00:00
+19848986;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021170;Boèní;è.p.;409;;;46802;681625.51;982846.20;2022-10-27T00:00:00
+19848994;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;410;;;46802;681715.19;982789.75;2017-05-29T00:00:00
+19849001;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;411;;;46802;682284.97;982476.69;2022-10-27T00:00:00
+19849010;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.ev.;150;;;46802;682281.83;982131.83;2017-05-26T00:00:00
+19849028;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021030;Vlèí;è.p.;413;;;46802;682183.88;982196.44;2017-05-29T00:00:00
+19849036;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;415;;;46802;681961.31;982137.63;2017-05-26T00:00:00
+19849044;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;417;;;46802;682041.38;982128.71;2022-10-27T00:00:00
+19849052;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2020785;Vodní;è.p.;418;;;46802;681975.50;982014.19;2017-05-29T00:00:00
+19849061;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;419;;;46802;682105.94;982227.88;2017-05-26T00:00:00
+19849079;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021196;Krátká;è.p.;421;;;46802;681585.40;982879.09;2022-10-27T00:00:00
+19849087;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021030;Vlèí;è.p.;425;;;46802;682141.88;982142.44;2017-05-29T00:00:00
+19849095;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2020785;Vodní;è.p.;428;;;46802;681949.82;982294.33;2022-10-27T00:00:00
+19849109;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;429;;;46802;682606.50;983843.50;2013-12-01T00:00:00
+19849117;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;433;;;46802;682851.38;984032.06;2013-12-01T00:00:00
+19849125;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;434;;;46802;682402.25;984194.19;2013-12-01T00:00:00
+19849133;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;435;;;46802;682452.56;984384.38;2013-12-01T00:00:00
+19849141;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;436;;;46802;682362.81;984090.38;2013-12-01T00:00:00
+19849150;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;437;;;46802;683158.19;984075.19;2013-12-01T00:00:00
+19849168;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;438;;;46802;682907.56;983663.38;2013-12-01T00:00:00
+19849176;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;441;;;46802;682748.56;983917.81;2013-12-01T00:00:00
+19849184;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;442;;;46802;683140.31;984035.81;2013-12-01T00:00:00
+19849192;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;444;;;46802;682813.81;984241.38;2013-12-01T00:00:00
+19849206;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;445;;;46802;682830.63;984273.38;2013-12-01T00:00:00
+19849214;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158933;Wolkerova;è.p.;446;;;46802;682807.44;984278.69;2013-12-01T00:00:00
+19849222;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;447;;;46802;682858.31;984285.63;2013-12-01T00:00:00
+19849231;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;448;;;46802;682640.44;984384.13;2013-12-01T00:00:00
+19849249;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;449;;;46802;682890.81;984455.75;2013-12-01T00:00:00
+19849281;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;453;;;46802;683198.44;983391.69;2013-12-01T00:00:00
+19849290;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158976;Topolová;è.p.;454;;;46802;682799.69;984227.25;2013-12-01T00:00:00
+19849303;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158933;Wolkerova;è.p.;455;;;46802;682820.75;984256.31;2013-12-01T00:00:00
+19849320;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;457;;;46802;683095.31;983450.44;2013-12-01T00:00:00
+19849338;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;458;;;46802;682779.44;983667.19;2013-12-01T00:00:00
+19849346;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;460;;;46802;682883.63;984029.38;2013-12-01T00:00:00
+19849354;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;461;;;46802;682848.19;984267.50;2013-12-01T00:00:00
+19849362;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;462;;;46802;682773.31;983966.81;2013-12-01T00:00:00
+19849371;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;463;;;46802;682723.06;986584.00;2013-12-01T00:00:00
+19849389;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021170;Boèní;è.p.;464;;;46802;681594.69;982861.44;2017-05-29T00:00:00
+19849397;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;466;;;46802;682790.94;984283.75;2013-12-01T00:00:00
+19849401;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;467;;;46802;683838.45;984078.28;2022-10-31T00:00:00
+19849419;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158658;Školní;è.p.;468;;;46802;682665.44;983851.75;2013-12-01T00:00:00
+19849427;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;469;;;46802;681786.06;982775.81;2017-05-29T00:00:00
+19849435;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;470;;;46802;682627.44;984173.75;2013-12-01T00:00:00
+19849443;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;471;;;46802;684094.13;984132.13;2018-02-01T00:00:00
+19849451;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;472;;;46802;682922.50;984035.00;2013-12-01T00:00:00
+19849478;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;474;;;46802;683058.31;984183.88;2013-12-01T00:00:00
+19849486;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;475;;;46802;682591.19;984125.56;2013-12-01T00:00:00
+19849494;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;476;;;46802;682890.00;984004.13;2013-12-01T00:00:00
+19849508;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158666;Horská;è.p.;477;;;46802;682589.50;983937.50;2013-12-01T00:00:00
+19849516;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;479;;;46802;682792.00;984125.00;2013-12-01T00:00:00
+19849524;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;480;;;46802;682232.13;982329.63;2013-12-01T00:00:00
+19849532;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;481;;;46802;683074.81;984137.25;2013-12-01T00:00:00
+19849541;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;482;;;46802;682520.63;984216.88;2013-12-01T00:00:00
+19849559;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158887;Truhláøská;è.p.;483;;;46802;683043.13;984149.50;2013-12-01T00:00:00
+19849567;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158887;Truhláøská;è.p.;484;;;46802;683026.63;984147.63;2013-12-01T00:00:00
+19849575;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;485;;;46802;682656.88;983811.81;2013-12-01T00:00:00
+19849583;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;486;;;46802;682550.44;984274.94;2013-12-01T00:00:00
+19849591;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158887;Truhláøská;è.p.;487;;;46802;683052.29;984131.12;2013-12-01T00:00:00
+19849605;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158658;Školní;è.p.;488;;;46802;682681.69;983898.06;2013-12-01T00:00:00
+19849613;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2020785;Vodní;è.p.;489;;;46802;681972.13;982261.63;2017-05-29T00:00:00
+19849621;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;490;;;46802;682736.88;984076.81;2013-12-01T00:00:00
+19849630;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;491;;;46802;682705.44;983808.63;2013-12-01T00:00:00
+19849648;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;492;;;46802;682728.81;983786.25;2013-12-01T00:00:00
+19849656;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;493;;;46802;682756.25;983891.94;2013-12-01T00:00:00
+19849664;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158640;Èechova;è.p.;494;;;46802;682794.06;983878.94;2013-12-01T00:00:00
+19849672;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;495;;;46802;683009.56;984051.50;2013-12-01T00:00:00
+19849681;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;496;;;46802;682996.25;984047.00;2013-12-01T00:00:00
+19849699;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;497;;;46802;682990.06;983727.25;2013-12-01T00:00:00
+19849702;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;498;;;46802;682491.75;984228.81;2013-12-01T00:00:00
+19849711;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158887;Truhláøská;è.p.;499;;;46802;683004.25;984095.69;2013-12-01T00:00:00
+19849729;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;500;;;46802;683155.56;983909.25;2013-12-01T00:00:00
+19849737;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;501;;;46802;683157.69;983873.88;2013-12-01T00:00:00
+19849745;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;502;;;46802;683166.69;983856.75;2013-12-01T00:00:00
+19849753;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;503;;;46802;683163.94;983807.00;2013-12-01T00:00:00
+19849761;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;504;;;46802;683180.13;983780.31;2013-12-01T00:00:00
+19849770;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;505;;;46802;683116.00;983859.19;2013-12-01T00:00:00
+19849788;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158941;Zahradní;è.p.;506;;;46802;682948.31;984282.69;2013-12-01T00:00:00
+19849796;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;507;;;46802;682864.69;984443.00;2013-12-01T00:00:00
+19849800;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;508;;;46802;682829.81;984424.38;2013-12-01T00:00:00
+19849818;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;509;;;46802;681916.25;984585.44;2013-12-01T00:00:00
+19849826;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;510;;;46802;681943.69;984551.88;2013-12-01T00:00:00
+19849834;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158887;Truhláøská;è.p.;511;;;46802;682997.56;984118.88;2013-12-01T00:00:00
+19849842;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;512;;;46802;682794.63;984309.00;2013-12-01T00:00:00
+19849851;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;513;;;46802;682458.19;984087.94;2013-12-01T00:00:00
+19849869;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158640;Èechova;è.p.;514;;;46802;682798.06;983844.31;2013-12-01T00:00:00
+19849885;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158861;Spojovací;è.p.;517;;;46802;682921.94;984285.63;2013-12-01T00:00:00
+19849893;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;518;;;46802;682820.50;984384.13;2013-12-01T00:00:00
+19849907;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158941;Zahradní;è.p.;519;;;46802;682915.31;984309.81;2013-12-01T00:00:00
+19849915;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158941;Zahradní;è.p.;520;;;46802;682931.56;984309.00;2013-12-01T00:00:00
+19849923;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;521;;;46802;682684.13;984287.44;2013-12-01T00:00:00
+19849931;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;522;;;46802;681951.94;984644.31;2013-12-01T00:00:00
+19849940;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;523;;;46802;682985.06;984047.25;2013-12-01T00:00:00
+19849958;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;524;;;46802;682604.00;984331.13;2013-12-01T00:00:00
+19849966;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;525;;;46802;682830.63;984650.69;2013-12-01T00:00:00
+19849974;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158941;Zahradní;è.p.;526;;;46802;682949.56;984311.31;2013-12-01T00:00:00
+19849982;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158712;Lesní;è.p.;527;;;46802;682947.19;984354.19;2013-12-01T00:00:00
+19849991;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158941;Zahradní;è.p.;528;;;46802;682896.94;984289.56;2013-12-01T00:00:00
+19850000;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;529;;;46802;682942.66;984860.58;2013-12-01T00:00:00
+19850018;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;530;;;46802;682632.63;983809.63;2013-12-01T00:00:00
+19850026;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;531;;;46802;683117.94;984110.38;2013-12-01T00:00:00
+19850034;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158712;Lesní;è.p.;532;;;46802;683011.44;984260.56;2013-12-01T00:00:00
+19850042;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158941;Zahradní;è.p.;533;;;46802;682988.81;984283.44;2013-12-01T00:00:00
+19850051;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158861;Spojovací;è.p.;534;;;46802;682897.69;984264.00;2013-12-01T00:00:00
+19850069;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158640;Èechova;è.p.;535;;;46802;682843.38;983912.75;2013-12-01T00:00:00
+19850077;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;536;;;46802;682965.06;983993.44;2013-12-01T00:00:00
+19850085;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;537;;;46802;682962.69;984016.38;2013-12-01T00:00:00
+19850093;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;539;;;46802;682788.50;984372.94;2013-12-01T00:00:00
+19850107;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158712;Lesní;è.p.;540;;;46802;682941.06;984364.06;2013-12-01T00:00:00
+19850115;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158712;Lesní;è.p.;541;;;46802;682957.00;984335.56;2013-12-01T00:00:00
+19850123;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;542;;;46802;682839.69;984448.31;2013-12-01T00:00:00
+19850131;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;543;;;46802;682666.00;984442.75;2013-12-01T00:00:00
+19850140;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;544;;;46802;682665.50;984384.94;2013-12-01T00:00:00
+19850158;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;545;;;46802;682667.63;984362.31;2013-12-01T00:00:00
+19850166;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;546;;;46802;682672.69;984343.38;2013-12-01T00:00:00
+19850174;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;547;;;46802;682694.81;984323.13;2013-12-01T00:00:00
+19850182;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;548;;;46802;682699.88;984345.50;2013-12-01T00:00:00
+19850191;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;549;;;46802;682738.19;984388.13;2013-12-01T00:00:00
+19850204;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;550;;;46802;682766.44;984381.75;2013-12-01T00:00:00
+19850212;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;551;;;46802;682778.69;984331.94;2013-12-01T00:00:00
+19850221;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;552;;;46802;682784.00;984351.38;2013-12-01T00:00:00
+19850239;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;553;;;46802;682823.44;984398.75;2013-12-01T00:00:00
+19850247;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;554;;;46802;682731.00;984465.38;2013-12-01T00:00:00
+19850255;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158640;Èechova;è.p.;555;;;46802;682789.00;983824.06;2013-12-01T00:00:00
+19850263;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158640;Èechova;è.p.;556;;;46802;682766.13;983783.06;2013-12-01T00:00:00
+19850271;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;557;;;46802;682623.81;983797.38;2013-12-01T00:00:00
+19850280;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;558;;;46802;682857.25;984568.69;2013-12-01T00:00:00
+19850298;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;559;;;46802;682668.44;984461.88;2013-12-01T00:00:00
+19850301;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;560;;;46802;682044.31;984450.38;2013-12-01T00:00:00
+19850310;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158941;Zahradní;è.p.;561;;;46802;682979.19;984253.13;2013-12-01T00:00:00
+19850328;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158941;Zahradní;è.p.;562;;;46802;682966.19;984285.88;2013-12-01T00:00:00
+19850336;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;563;;;46802;682771.19;984312.75;2013-12-01T00:00:00
+19850344;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;564;;;46802;681830.63;982711.00;2017-05-29T00:00:00
+19850352;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021170;Boèní;è.p.;565;;;46802;681879.50;983208.69;2017-05-29T00:00:00
+19850361;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;566;;;46802;682910.75;983898.63;2013-12-01T00:00:00
+19850379;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;567;;;46802;682726.75;984348.19;2013-12-01T00:00:00
+19850387;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;568;;;46802;682721.44;984330.06;2013-12-01T00:00:00
+19850395;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;569;;;46802;683054.56;984061.38;2013-12-01T00:00:00
+19850409;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;570;;;46802;682770.94;984622.19;2013-12-01T00:00:00
+19850417;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;571;;;46802;682490.13;984027.75;2013-12-01T00:00:00
+19850425;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;572;;;46802;682684.13;983782.25;2013-12-01T00:00:00
+19850433;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2020785;Vodní;è.p.;573;;;46802;681991.59;982015.91;2017-05-29T00:00:00
+19850441;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;574;;;46802;682476.15;983900.45;2013-12-01T00:00:00
+19850450;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158909;U Potùèku;è.p.;576;;;46802;682968.81;984115.13;2013-12-01T00:00:00
+19850468;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;577;;;46802;682719.31;984424.38;2013-12-01T00:00:00
+19850476;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;578;;;46802;682706.25;984397.69;2013-12-01T00:00:00
+19850484;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;579;;;46802;682704.38;984364.94;2013-12-01T00:00:00
+19850492;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158933;Wolkerova;è.p.;580;;;46802;682717.44;984306.38;2013-12-01T00:00:00
+19850506;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;581;;;46802;683343.56;983920.63;2013-12-01T00:00:00
+19850522;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158941;Zahradní;è.p.;583;;;46802;682964.31;984262.44;2013-12-01T00:00:00
+19850531;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;584;;;46802;682915.94;983681.63;2013-12-01T00:00:00
+19850549;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158933;Wolkerova;è.p.;585;;;46802;682743.25;984300.00;2013-12-01T00:00:00
+19850557;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2002043;Na Kopci;è.p.;586;;;46802;681864.06;982925.06;2017-02-16T00:00:00
+19850565;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;587;;;46802;682726.75;984444.06;2013-12-01T00:00:00
+19850573;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;588;;;46802;682711.31;984495.19;2013-12-01T00:00:00
+19850581;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;589;;;46802;682661.75;984411.31;2013-12-01T00:00:00
+19850590;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;590;;;46802;682620.19;984147.63;2013-12-01T00:00:00
+19850603;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;591;;;46802;682751.25;984537.50;2013-12-01T00:00:00
+19850611;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;592;;;46802;682737.13;984484.56;2013-12-01T00:00:00
+19850620;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;593;;;46802;682850.06;984472.00;2013-12-01T00:00:00
+19850638;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;594;;;46802;683112.06;983375.75;2013-12-01T00:00:00
+19850646;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;595;;;46802;681810.06;982729.94;2017-05-25T00:00:00
+19850654;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;596;;;46802;682752.06;984595.88;2013-12-01T00:00:00
+19850662;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;597;;;46802;682835.69;984536.75;2013-12-01T00:00:00
+19850671;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;599;;;46802;682470.19;984362.25;2013-12-01T00:00:00
+19850689;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;600;;;46802;682331.94;983720.44;2013-12-01T00:00:00
+19850697;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;602;;;46802;682123.19;982578.88;2017-05-29T00:00:00
+19850701;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;604;;;46802;682125.31;982181.13;2017-05-26T00:00:00
+19850719;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;605;;;46802;682607.31;984858.94;2013-12-01T00:00:00
+19850727;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;606;;;46802;683354.06;983926.94;2013-12-01T00:00:00
+19850735;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;607;;;46802;682810.88;984078.69;2013-12-01T00:00:00
+19850743;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;608;;;46802;682821.31;984097.06;2013-12-01T00:00:00
+19850751;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;609;;;46802;682506.38;983961.44;2013-12-01T00:00:00
+19850760;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;610;;;46802;682523.69;983986.75;2013-12-01T00:00:00
+19850778;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;611;;;46802;682531.94;983950.25;2013-12-01T00:00:00
+19850786;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;612;;;46802;682549.25;983975.06;2013-12-01T00:00:00
+19850794;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;613;;;46802;682485.63;983979.56;2013-12-01T00:00:00
+19850808;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;614;;;46802;682607.06;983896.75;2013-12-01T00:00:00
+19850816;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158666;Horská;è.p.;615;;;46802;682618.75;983930.56;2013-12-01T00:00:00
+19850824;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;616;;;46802;682660.19;984092.00;2013-12-01T00:00:00
+19850832;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;617;;;46802;682580.44;983796.25;2013-12-01T00:00:00
+19850841;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;618;;;46802;682576.81;983790.38;2013-12-01T00:00:00
+19850859;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;619;;;46802;682574.38;983782.75;2013-12-01T00:00:00
+19850867;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;620;;;46802;682571.56;983776.06;2013-12-01T00:00:00
+19850875;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;621;;;46802;682571.19;983769.63;2013-12-01T00:00:00
+19850883;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;622;;;46802;682567.56;983761.19;2013-12-01T00:00:00
+19850891;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;623;;;46802;682565.31;983754.31;2013-12-01T00:00:00
+19850905;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;624;;;46802;682564.13;983746.06;2013-12-01T00:00:00
+19850913;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;625;;;46802;682560.88;983738.63;2013-12-01T00:00:00
+19850921;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;626;;;46802;682529.88;983760.56;2013-12-01T00:00:00
+19850930;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;627;;;46802;682532.50;983767.00;2013-12-01T00:00:00
+19850948;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;628;;;46802;682533.31;983774.69;2013-12-01T00:00:00
+19850956;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;629;;;46802;682536.94;983782.94;2013-12-01T00:00:00
+19850964;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;630;;;46802;682539.13;983789.19;2013-12-01T00:00:00
+19850972;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;631;;;46802;682541.56;983797.06;2013-12-01T00:00:00
+19850981;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;632;;;46802;682544.19;983802.69;2013-12-01T00:00:00
+19850999;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;633;;;46802;682545.19;983812.13;2013-12-01T00:00:00
+19851006;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;634;;;46802;682548.81;983817.81;2013-12-01T00:00:00
+19851014;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;635;;;46802;682839.13;984064.00;2013-12-01T00:00:00
+19851022;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;636;;;46802;682847.38;984078.38;2013-12-01T00:00:00
+19851031;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;637;;;46802;682775.19;984060.00;2013-12-01T00:00:00
+19851049;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;638;;;46802;682759.75;984069.88;2013-12-01T00:00:00
+19851057;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;639;;;46802;682703.56;984171.63;2013-12-01T00:00:00
+19851065;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;640;;;46802;682691.06;984182.25;2013-12-01T00:00:00
+19851073;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;641;;;46802;682675.88;984192.38;2013-12-01T00:00:00
+19851081;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;642;;;46802;682632.19;984271.50;2013-12-01T00:00:00
+19851090;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;643;;;46802;682328.75;984152.69;2013-12-01T00:00:00
+19851103;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;644;;;46802;682323.69;984160.13;2013-12-01T00:00:00
+19851111;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;645;;;46802;682318.38;984166.00;2013-12-01T00:00:00
+19851120;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;646;;;46802;682313.56;984172.88;2013-12-01T00:00:00
+19851138;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;647;;;46802;682311.19;984178.75;2013-12-01T00:00:00
+19851146;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;648;;;46802;682304.00;984186.50;2013-12-01T00:00:00
+19851154;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;649;;;46802;682303.44;984194.50;2013-12-01T00:00:00
+19851162;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;650;;;46802;682298.13;984202.19;2013-12-01T00:00:00
+19851171;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;651;;;46802;682293.63;984207.25;2013-12-01T00:00:00
+19851189;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158798;Nová;è.p.;652;;;46802;682891.31;984116.75;2013-12-01T00:00:00
+19851197;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158798;Nová;è.p.;653;;;46802;682910.50;984108.75;2013-12-01T00:00:00
+19851201;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158798;Nová;è.p.;654;;;46802;682924.81;984102.75;2013-12-01T00:00:00
+19851219;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158798;Nová;è.p.;655;;;46802;682904.38;984147.94;2013-12-01T00:00:00
+19851227;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158798;Nová;è.p.;656;;;46802;682922.50;984136.44;2013-12-01T00:00:00
+19851235;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158798;Nová;è.p.;657;;;46802;682937.13;984131.94;2013-12-01T00:00:00
+19851243;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;658;;;46802;682161.44;984339.13;2013-12-01T00:00:00
+19851251;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;659;;;46802;682151.33;984343.98;2013-12-01T00:00:00
+19851260;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;660;;;46802;682146.81;984351.26;2013-12-01T00:00:00
+19851278;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;661;;;46802;682141.00;984358.00;2013-12-01T00:00:00
+19851286;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;662;;;46802;682135.00;984366.00;2013-12-01T00:00:00
+19851294;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;663;;;46802;682130.88;984372.38;2013-12-01T00:00:00
+19851308;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158640;Èechova;è.p.;664;;;46802;682822.88;983869.06;2013-12-01T00:00:00
+19851316;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;665;;;46802;682745.63;984512.75;2013-12-01T00:00:00
+19851324;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;666;;;46802;682718.25;984520.50;2013-12-01T00:00:00
+19851332;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;667;;;46802;682699.56;984527.69;2013-12-01T00:00:00
+19851341;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;668;;;46802;682683.63;984532.75;2013-12-01T00:00:00
+19851359;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;669;;;46802;682865.50;984501.06;2013-12-01T00:00:00
+19851367;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;670;;;46802;681705.69;982826.81;2017-05-29T00:00:00
+19851375;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;671;;;46802;682461.13;983834.44;2013-12-01T00:00:00
+19851383;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;672;;;46802;683007.19;984202.00;2013-12-01T00:00:00
+19851391;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;673;;;46802;682513.75;984280.94;2013-12-01T00:00:00
+19851405;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;674;;;46802;682515.69;984287.75;2013-12-01T00:00:00
+19851413;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;675;;;46802;682514.31;984293.44;2013-12-01T00:00:00
+19851421;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;676;;;46802;682514.50;984299.94;2013-12-01T00:00:00
+19851430;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;677;;;46802;682514.13;984307.19;2013-12-01T00:00:00
+19851448;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;678;;;46802;682513.75;984313.06;2013-12-01T00:00:00
+19851456;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;679;;;46802;682630.88;984230.44;2013-12-01T00:00:00
+19851464;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;680;;;46802;682840.75;984353.00;2013-12-01T00:00:00
+19851472;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;681;;;46802;682339.42;984117.96;2022-01-13T00:00:00
+19851481;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;683;;;46802;682480.31;984390.75;2013-12-01T00:00:00
+19851499;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158828;Pøíkrá;è.p.;684;;;46802;682823.94;983801.69;2013-12-01T00:00:00
+19851502;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;685;;;46802;682021.44;984488.25;2013-12-01T00:00:00
+19851511;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;686;;;46802;682901.19;984409.44;2013-12-01T00:00:00
+19851529;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;687;;;46802;681738.31;982808.50;2017-05-29T00:00:00
+19851537;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;688;;;46802;682634.63;984520.75;2013-12-01T00:00:00
+19851545;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;689;;;46802;682592.81;984533.56;2013-12-01T00:00:00
+19851553;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;690;;;46802;682798.38;984592.13;2013-12-01T00:00:00
+19851561;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;691;;;46802;682792.69;984571.63;2013-12-01T00:00:00
+19851570;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;692;;;46802;682500.94;984410.06;2013-12-01T00:00:00
+19851588;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;695;;;46802;682801.38;984141.13;2013-12-01T00:00:00
+19851596;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;702;;;46802;682691.94;984501.00;2013-12-01T00:00:00
+19851600;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;703;;;46802;682674.31;984487.81;2013-12-01T00:00:00
+19851618;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158976;Topolová;è.p.;704;;;46802;682736.63;984259.25;2013-12-01T00:00:00
+19851626;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158976;Topolová;è.p.;705;;;46802;682754.81;984260.75;2013-12-01T00:00:00
+19851634;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;706;;;46802;682498.06;983661.88;2013-12-01T00:00:00
+19851642;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;707;;;46802;682507.69;983686.63;2013-12-01T00:00:00
+19851651;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;708;;;46802;682718.50;984263.75;2013-12-01T00:00:00
+19851669;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;709;;;46802;682695.06;984561.88;2013-12-01T00:00:00
+19851677;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;711;;;46802;682703.50;984591.13;2013-12-01T00:00:00
+19851685;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;712;;;46802;682710.44;984609.31;2013-12-01T00:00:00
+19851693;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;714;;;46802;682733.06;984637.69;2013-12-01T00:00:00
+19851707;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;716;;;46802;683249.63;983866.69;2013-12-01T00:00:00
+19851715;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;717;;;46802;682609.63;984529.13;2013-12-01T00:00:00
+19851723;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;720;;;46802;682711.31;984003.31;2013-12-01T00:00:00
+19851731;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;159000;Pod Høištìm;è.p.;721;;;46802;682693.63;984639.44;2013-12-01T00:00:00
+19851740;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;159000;Pod Høištìm;è.p.;724;;;46802;682628.88;984654.94;2013-12-01T00:00:00
+19851758;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;159000;Pod Høištìm;è.p.;725;;;46802;682611.94;984660.38;2013-12-01T00:00:00
+19851766;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158968;Tichá;è.p.;729;;;46802;682550.88;984605.38;2013-12-01T00:00:00
+19851774;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158968;Tichá;è.p.;730;;;46802;682555.38;984624.81;2013-12-01T00:00:00
+19851782;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158968;Tichá;è.p.;731;;;46802;682564.00;984649.94;2013-12-01T00:00:00
+19851791;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;159000;Pod Høištìm;è.p.;732;;;46802;682589.50;984637.06;2013-12-01T00:00:00
+19851804;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158968;Tichá;è.p.;733;;;46802;682581.88;984615.13;2013-12-01T00:00:00
+19851812;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158968;Tichá;è.p.;735;;;46802;682568.69;984571.88;2013-12-01T00:00:00
+19851821;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158984;U Dubu;è.p.;737;;;46802;682602.31;984583.25;2013-12-01T00:00:00
+19851839;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158984;U Dubu;è.p.;738;;;46802;682614.00;984604.69;2013-12-01T00:00:00
+19851847;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;742;;;46802;682860.44;984085.88;2013-12-01T00:00:00
+19851855;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;743;;;46802;683357.69;983772.81;2013-12-01T00:00:00
+19851863;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;744;;;46802;683346.00;983851.06;2013-12-01T00:00:00
+19851871;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158640;Èechova;è.p.;745;;;46802;682760.81;983845.06;2013-12-01T00:00:00
+19851880;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;747;;;46802;683287.50;983874.99;2014-11-13T00:00:00
+19851898;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158780;nám. Míru;è.p.;748;;;46802;682848.50;984093.56;2013-12-01T00:00:00
+19851901;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;749;;;46802;681969.25;984448.44;2013-12-01T00:00:00
+19851910;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;750;;;46802;682550.50;984027.13;2013-12-01T00:00:00
+19851928;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;751;;;46802;682515.13;984045.19;2013-12-01T00:00:00
+19851936;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;752;;;46802;683142.06;983849.88;2013-12-01T00:00:00
+19851944;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;760;;;46802;682922.56;983782.50;2013-12-01T00:00:00
+19851952;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;766;;;46802;682563.19;984482.94;2013-12-01T00:00:00
+19851961;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;769;;;46802;682819.44;983675.81;2013-12-01T00:00:00
+19851979;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;770;;;46802;683403.81;983442.00;2013-12-01T00:00:00
+19851995;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;41;;;46802;684117.19;984243.88;2013-12-01T00:00:00
+19852002;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022991;Ke Svatému køíži;è.ev.;44;;;46802;683799.75;984030.38;2018-02-01T00:00:00
+19852011;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022931;Zajeèí;è.ev.;45;;;46802;683952.63;983935.50;2017-09-21T00:00:00
+19852029;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022991;Ke Svatému køíži;è.ev.;46;;;46802;683994.15;983929.58;2022-10-27T00:00:00
+19852037;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022958;Sýrová;è.ev.;47;;;46802;683793.13;983875.63;2017-09-21T00:00:00
+19852045;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022931;Zajeèí;è.ev.;48;;;46802;683816.69;983808.81;2017-09-21T00:00:00
+19852053;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.ev.;50;;;46802;683663.21;984024.20;2022-10-27T00:00:00
+19852070;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022931;Zajeèí;è.ev.;54;;;46802;683610.50;983611.44;2017-09-21T00:00:00
+19852088;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;55;;;46802;683510.00;983538.88;2013-12-01T00:00:00
+19852100;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;57;;;46802;683276.38;982310.88;2013-12-01T00:00:00
+19852118;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021374;Rádelská;è.p.;893;;;46802;683150.44;982866.25;2017-05-29T00:00:00
+19852126;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021374;Rádelská;è.ev.;59;;;46802;683135.63;982897.75;2017-05-29T00:00:00
+19852134;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.ev.;61;;;46802;683702.73;983142.71;2015-04-14T00:00:00
+19852142;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.ev.;62;;;46802;683578.69;983252.19;2013-12-01T00:00:00
+19852151;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.ev.;65;;;46802;683234.44;983524.50;2013-12-01T00:00:00
+19852169;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.ev.;66;;;46802;683202.06;983484.00;2013-12-01T00:00:00
+19852177;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.ev.;67;;;46802;683136.38;983528.38;2013-12-01T00:00:00
+19852185;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.ev.;68;;;46802;683005.00;983687.31;2013-12-01T00:00:00
+19852207;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.ev.;102;;;46802;682656.69;984248.06;2013-12-01T00:00:00
+19852223;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.ev.;108;;;46802;682574.44;984338.31;2013-12-01T00:00:00
+19852231;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.ev.;111;;;46802;682626.75;984395.44;2013-12-01T00:00:00
+19852240;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.ev.;112;;;46802;682562.19;984465.88;2013-12-01T00:00:00
+19852258;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.ev.;116;;;46802;682568.00;984383.00;2013-12-01T00:00:00
+19852274;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.ev.;121;;;46802;682851.25;984870.13;2013-12-01T00:00:00
+19852282;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.ev.;124;;;46802;683174.31;984887.06;2013-12-01T00:00:00
+19852291;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.ev.;125;;;46802;683081.63;984955.63;2013-12-01T00:00:00
+19852312;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.ev.;127;;;46802;683092.31;984891.06;2013-12-01T00:00:00
+19852339;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;129;;;46802;682796.56;985913.13;2013-12-01T00:00:00
+19852347;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;130;;;46802;682788.19;985950.69;2013-12-01T00:00:00
+19852355;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;131;;;46802;682843.13;985911.13;2013-12-01T00:00:00
+19852363;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;132;;;46802;682825.75;985967.25;2013-12-01T00:00:00
+19852371;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;133;;;46802;682663.79;986628.56;2022-10-27T00:00:00
+19852380;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;134;;;46802;681590.25;983002.88;2013-12-01T00:00:00
+19852398;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021170;Boèní;è.ev.;135;;;46802;681616.44;982978.69;2017-05-29T00:00:00
+19852401;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.ev.;136;;;46802;681653.31;982811.31;2017-05-29T00:00:00
+19852410;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.ev.;137;;;46802;681828.38;982745.25;2017-05-29T00:00:00
+19852428;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.ev.;138;;;46802;681759.50;982767.56;2017-05-29T00:00:00
+19852436;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.ev.;139;;;46802;681996.88;982069.13;2017-05-26T00:00:00
+19852444;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;140;;;46802;683699.81;983747.63;2017-09-21T00:00:00
+19852452;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.ev.;141;;;46802;681962.75;982050.75;2017-05-26T00:00:00
+19852461;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;886;;;46802;681941.06;982050.06;2017-05-26T00:00:00
+19852479;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.ev.;143;;;46802;682200.06;982151.31;2017-05-26T00:00:00
+19852487;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.ev.;144;;;46802;682177.75;982154.38;2017-05-26T00:00:00
+19852509;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021030;Vlèí;è.ev.;146;;;46802;682110.38;982134.13;2017-05-29T00:00:00
+19852517;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.ev.;147;;;46802;681939.81;982144.82;2022-10-27T00:00:00
+25375741;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;10;;;46802;684318.31;985665.56;2013-12-01T00:00:00
+25375750;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;29;;;46802;684336.31;984975.25;2013-12-01T00:00:00
+25375768;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;56;;;46802;684445.55;985702.02;2013-12-01T00:00:00
+25375776;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;29;;;46802;684346.44;985729.63;2013-12-01T00:00:00
+25375784;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;33;;;46802;684298.91;985708.75;2013-12-01T00:00:00
+25375814;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021196;Krátká;è.p.;406;;;46802;681584.86;982914.39;2022-10-27T00:00:00
+25375822;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;465;;;46802;682840.19;984293.88;2013-12-01T00:00:00
+25375831;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;538;;;46802;682977.06;984019.25;2013-12-01T00:00:00
+25375849;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;699;;;46802;682678.50;984608.00;2013-12-01T00:00:00
+25375857;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158984;U Dubu;è.p.;701;;;46802;682639.00;984617.81;2013-12-01T00:00:00
+25375865;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;715;;;46802;682686.19;984402.75;2013-12-01T00:00:00
+25375873;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;159000;Pod Høištìm;è.p.;723;;;46802;682646.31;984650.06;2013-12-01T00:00:00
+25375881;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158968;Tichá;è.p.;728;;;46802;682536.56;984581.25;2013-12-01T00:00:00
+25375890;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158968;Tichá;è.p.;734;;;46802;682577.18;984596.63;2013-12-01T00:00:00
+25375903;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158984;U Dubu;è.p.;740;;;46802;682633.69;984585.56;2013-12-01T00:00:00
+25375911;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;764;;;46802;682416.00;984287.00;2013-12-01T00:00:00
+25375920;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.ev.;60;;;46802;683685.44;983110.38;2013-12-01T00:00:00
+25464108;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;713;;;46802;682716.00;984622.00;2013-12-01T00:00:00
+25584472;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;20;;;46802;684842.94;984893.25;2013-12-01T00:00:00
+25584481;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;197;;;46802;682727.00;984209.00;2013-12-01T00:00:00
+25584499;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;762;;;46802;684156.00;984144.00;2018-02-01T00:00:00
+25688570;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158658;Školní;è.p.;780;;;46802;682717.00;983876.00;2013-12-01T00:00:00
+25688588;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;777;;;46802;682732.00;984367.00;2013-12-01T00:00:00
+25688596;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;697;;;46802;682641.00;984548.00;2013-12-01T00:00:00
+25748050;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;765;;;46802;681830.06;982786.95;2017-05-29T00:00:00
+25748068;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;746;;;46802;682874.31;984530.09;2013-12-01T00:00:00
+25794647;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;348;;;46802;682897.00;984228.00;2013-12-01T00:00:00
+25839985;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728594;Polní;è.p.;772;;;46802;682930.65;984538.60;2013-12-01T00:00:00
+25839993;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728594;Polní;è.p.;773;;;46802;682911.40;984550.67;2013-12-01T00:00:00
+25847384;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158861;Spojovací;è.p.;778;;;46802;682934.14;984205.25;2013-12-01T00:00:00
+25915584;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;774;;;46802;683024.00;983629.00;2013-12-01T00:00:00
+25933442;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;800;;;46802;682823.69;983991.14;2013-12-01T00:00:00
+26032716;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;710;;;46802;682697.00;984575.00;2013-12-01T00:00:00
+26032724;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;718;;;46802;682544.32;984546.97;2013-12-01T00:00:00
+26032732;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;159000;Pod Høištìm;è.p.;722;;;46802;682667.00;984640.00;2013-12-01T00:00:00
+26032741;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;159000;Pod Høištìm;è.p.;726;;;46802;682591.00;984667.00;2013-12-01T00:00:00
+26032759;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;741;;;46802;682667.92;984574.99;2013-12-01T00:00:00
+26032767;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158909;U Potùèku;è.p.;759;;;46802;682970.00;984171.00;2013-12-01T00:00:00
+26032775;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;761;;;46802;682939.04;984488.18;2013-12-01T00:00:00
+26032783;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;763;;;46802;682733.00;984170.17;2017-04-07T00:00:00
+26032791;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;775;;;46802;683063.00;983557.00;2013-12-01T00:00:00
+26032805;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;776;;;46802;682812.07;984361.05;2013-12-01T00:00:00
+26117703;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728616;Bøezová;è.p.;803;;;46802;682877.00;984671.00;2013-12-01T00:00:00
+26129582;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;768;;;46802;683634.00;983730.00;2017-09-21T00:00:00
+26181703;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;782;;;46802;682407.00;983875.00;2013-12-01T00:00:00
+26207184;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158917;Kvìtinová;è.p.;798;;;46802;682480.00;984256.00;2013-12-01T00:00:00
+26287382;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;815;;;46802;682923.32;984778.15;2013-12-01T00:00:00
+26305071;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;771;;;46802;682945.00;984516.00;2013-12-01T00:00:00
+26415682;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;35;;;46802;684200.03;985583.76;2013-12-01T00:00:00
+26415691;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;33;;;46802;684993.19;984908.37;2013-12-01T00:00:00
+26415712;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;719;;;46802;682639.83;984852.33;2013-12-01T00:00:00
+26415721;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;736;;;46802;682592.00;984022.00;2013-12-01T00:00:00
+26415739;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;781;;;46802;682416.85;983902.78;2013-12-01T00:00:00
+26415747;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;793;;;46802;682422.00;983815.00;2013-12-01T00:00:00
+26415755;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;794;;;46802;682757.00;984564.00;2013-12-01T00:00:00
+26415763;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;795;;;46802;682356.00;984172.00;2013-12-01T00:00:00
+26415771;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;796;;;46802;683157.00;983410.00;2013-12-01T00:00:00
+26488248;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;811;;;46802;682919.08;984749.66;2013-12-01T00:00:00
+26488256;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;812;;;46802;682965.00;984747.00;2013-12-01T00:00:00
+26488264;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;813;;;46802;682968.86;984771.85;2013-12-01T00:00:00
+26488272;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;814;;;46802;682947.60;984777.08;2013-12-01T00:00:00
+26488281;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;816;;;46802;682901.00;984784.00;2013-12-01T00:00:00
+26488299;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;817;;;46802;682988.31;984742.80;2013-12-01T00:00:00
+26488302;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;818;;;46802;682784.79;984788.89;2022-04-05T00:00:00
+26488311;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;819;;;46802;682769.04;984809.90;2018-07-18T00:00:00
+26488329;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;820;;;46802;682745.00;984810.00;2013-12-01T00:00:00
+26488337;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;821;;;46802;682723.96;984820.66;2013-12-01T00:00:00
+26488345;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;822;;;46802;682700.80;984830.39;2013-12-01T00:00:00
+26488353;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;823;;;46802;682671.24;984831.34;2013-12-01T00:00:00
+26488370;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;825;;;46802;682800.01;984819.28;2013-12-01T00:00:00
+26488388;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;826;;;46802;682766.14;984835.93;2013-12-01T00:00:00
+26488396;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;827;;;46802;682746.19;984863.17;2014-10-15T00:00:00
+26488400;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;828;;;46802;682718.36;984853.45;2013-12-01T00:00:00
+26488418;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;829;;;46802;682676.46;984877.96;2013-12-01T00:00:00
+26488434;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;831;;;46802;682723.82;984883.02;2013-12-01T00:00:00
+26488442;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;832;;;46802;682750.00;984887.00;2013-12-01T00:00:00
+26488451;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;833;;;46802;682773.93;984865.65;2013-12-01T00:00:00
+26488469;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;834;;;46802;682800.52;984872.30;2013-12-01T00:00:00
+26519160;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728616;Bøezová;è.p.;805;;;46802;682912.00;984690.00;2013-12-01T00:00:00
+26524228;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728616;Bøezová;è.p.;806;;;46802;682884.42;984701.13;2013-12-01T00:00:00
+26528550;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;797;;;46802;682612.80;984252.70;2013-12-01T00:00:00
+26569591;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;808;;;46802;682845.00;984723.00;2013-12-01T00:00:00
+26604477;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;799;;;46802;681897.01;982123.19;2017-05-26T00:00:00
+26610124;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728594;Polní;è.p.;802;;;46802;682862.46;984626.03;2013-12-01T00:00:00
+26676273;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;807;;;46802;682866.27;984707.91;2013-12-01T00:00:00
+26891816;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;7;;;46802;684486.88;983473.06;2013-12-01T00:00:00
+26891824;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;958;;;46802;684424.68;983557.45;2022-02-01T00:00:00
+26891832;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;49;;;46802;683219.00;983592.00;2013-12-01T00:00:00
+27071936;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;810;;;46802;682882.22;984744.59;2013-12-01T00:00:00
+27188850;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;13;;;46802;684360.39;984939.21;2024-05-10T00:00:00
+27262944;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;838;;;46802;682604.11;984886.74;2013-12-01T00:00:00
+27273059;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728616;Bøezová;è.p.;804;;;46802;682933.01;984685.00;2013-12-01T00:00:00
+27273067;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;682;;;46802;682113.00;984386.00;2013-12-01T00:00:00
+27290956;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;837;;;46802;682959.00;984883.00;2013-12-01T00:00:00
+27291103;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;791;;;46802;682400.61;983770.18;2013-12-01T00:00:00
+27315215;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158666;Horská;è.p.;839;;;46802;682644.83;983980.18;2013-12-01T00:00:00
+27315223;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158666;Horská;è.p.;840;;;46802;682628.57;983988.84;2013-12-01T00:00:00
+27315231;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158666;Horská;è.p.;841;;;46802;682593.39;983994.50;2013-12-01T00:00:00
+27315240;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;836;;;46802;683190.94;983426.03;2013-12-01T00:00:00
+27315258;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158909;U Potùèku;è.p.;844;;;46802;682954.00;984155.00;2013-12-01T00:00:00
+27315266;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;842;;;46802;683049.88;983613.47;2013-12-01T00:00:00
+27315274;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022931;Zajeèí;è.p.;767;;;46802;683611.60;983655.42;2017-09-21T00:00:00
+27406229;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;790;;;46802;682384.83;983751.92;2013-12-01T00:00:00
+27406237;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;852;;;46802;682403.01;983991.63;2013-12-01T00:00:00
+27440770;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;783;;;46802;682396.55;983853.86;2013-12-01T00:00:00
+27440788;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;845;;;46802;682383.75;984011.23;2013-12-01T00:00:00
+27440796;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;847;;;46802;682455.00;984422.00;2013-12-01T00:00:00
+27520005;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;850;;;46802;682459.30;984486.90;2013-12-01T00:00:00
+27548929;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;854;;;46802;682987.70;984843.22;2013-12-01T00:00:00
+27551288;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;38;;;46802;682477.65;984056.36;2014-10-15T00:00:00
+27616207;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;855;;;46802;681664.17;982842.19;2017-05-29T00:00:00
+27640710;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;857;;;46802;682006.27;982622.16;2017-05-29T00:00:00
+27659356;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;809;;;46802;682853.43;984759.53;2013-12-01T00:00:00
+27659364;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;784;;;46802;682385.15;983832.69;2013-12-01T00:00:00
+27739031;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;848;;;46802;682463.27;984442.93;2013-12-01T00:00:00
+27754219;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158984;U Dubu;è.p.;698;;;46802;682620.00;984557.00;2013-12-01T00:00:00
+27754545;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;824;;;46802;682644.80;984823.73;2013-12-01T00:00:00
+27770460;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;859;;;46802;683134.87;984094.12;2016-05-09T00:00:00
+27780881;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2002043;Na Kopci;è.p.;860;;;46802;681836.22;982937.99;2017-02-16T00:00:00
+27793311;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;856;;;46802;683058.00;983422.00;2013-12-01T00:00:00
+27853144;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;864;;;46802;682968.64;983511.06;2013-12-01T00:00:00
+27853152;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;863;;;46802;682962.00;983517.00;2013-12-01T00:00:00
+27853161;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;862;;;46802;683157.63;984938.81;2014-10-20T00:00:00
+27864421;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;861;;;46802;681680.21;982798.71;2017-05-29T00:00:00
+27864430;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;846;;;46802;683012.79;984225.11;2013-12-01T00:00:00
+27942295;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728594;Polní;è.p.;801;;;46802;682887.00;984617.00;2013-12-01T00:00:00
+27964043;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158682;Husova;è.p.;865;;;46802;682844.38;984310.05;2013-12-01T00:00:00
+27964051;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;849;;;46802;682457.12;984465.20;2013-12-01T00:00:00
+27973751;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;866;;;46802;682739.97;984190.12;2013-12-01T00:00:00
+27984770;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;867;;;46802;683627.00;983784.00;2017-09-21T00:00:00
+28081846;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;869;;;46802;682554.00;984355.00;2013-12-01T00:00:00
+28081854;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;868;;;46802;682371.02;983981.64;2013-12-01T00:00:00
+28091710;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;785;;;46802;682378.00;983812.00;2013-12-01T00:00:00
+28091728;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;788;;;46802;682344.00;983751.00;2013-12-01T00:00:00
+28189787;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;885;;;46802;682789.00;983615.00;2013-12-01T00:00:00
+28290411;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;843;;;46802;682571.37;984131.47;2014-04-14T00:00:00
+28347587;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;870;;;46802;682752.87;984421.16;2013-12-01T00:00:00
+28492749;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;696;;;46802;682661.05;984535.74;2014-09-16T00:00:00
+30409225;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158801;Obèanská;è.p.;190;;;46802;682825.00;984215.81;2013-12-01T00:00:00
+30409233;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158666;Horská;è.p.;614;;;46802;682607.06;983896.75;2013-12-01T00:00:00
+30629781;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;698;;;46802;682620.00;984557.00;2013-12-01T00:00:00
+30884403;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;291;;;46802;682985.32;984871.75;2014-10-20T00:00:00
+30884438;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.p.;858;;;46802;683182.67;984083.71;2013-12-01T00:00:00
+30884446;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;889;;;46802;683370.75;983498.42;2014-10-15T00:00:00
+40111377;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.ev.;30;;;46802;684411.33;985602.11;2014-07-23T00:00:00
+40111466;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;890;;;46802;683189.19;983940.25;2014-04-14T00:00:00
+40111474;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;151;;;46802;681942.41;984501.41;2014-07-16T00:00:00
+40111482;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;439;;;46802;682668.53;984401.54;2014-07-24T00:00:00
+40111491;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;483;;;46802;682639.17;984208.58;2014-08-04T00:00:00
+40111504;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;529;;;46802;683372.53;984045.19;2014-08-05T00:00:00
+40227634;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;511;;;46802;681811.94;982714.75;2014-08-05T00:00:00
+40227723;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;552;;;46802;681807.79;982755.07;2014-08-07T00:00:00
+40245632;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;873;;;46802;682818.14;984447.85;2013-12-01T00:00:00
+40264076;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158828;Pøíkrá;è.p.;888;;;46802;682818.30;983773.62;2013-12-01T00:00:00
+40428281;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;892;;;46802;684073.19;984136.50;2018-02-01T00:00:00
+40472183;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;872;;;46802;682758.04;984467.54;2013-12-01T00:00:00
+40500691;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;871;;;46802;682749.13;984442.02;2013-12-01T00:00:00
+40567796;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;787;;;46802;682358.41;983765.59;2013-12-01T00:00:00
+40635503;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;883;;;46802;682590.77;984823.98;2014-09-25T00:00:00
+40930459;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;878;;;46802;682848.61;984898.24;2013-12-01T00:00:00
+41187148;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;876;;;46802;682926.33;984880.31;2013-12-01T00:00:00
+41260244;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;880;;;46802;682884.28;984919.99;2013-12-01T00:00:00
+41881605;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;853;;;46802;682419.11;983979.89;2013-12-01T00:00:00
+42435609;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;875;;;46802;682795.00;984398.06;2013-12-01T00:00:00
+42666031;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;882;;;46802;683018.04;984910.24;2013-12-01T00:00:00
+71025413;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;894;;;46802;683149.88;983490.46;2014-01-14T00:00:00
+71688218;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2003104;Okružní;è.p.;895;;;46802;681774.00;982820.99;2017-02-16T00:00:00
+72897465;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;897;;;46802;682222.52;982161.18;2017-05-26T00:00:00
+73296279;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;700;;;46802;682675.47;984239.44;2014-12-22T00:00:00
+73588474;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022958;Sýrová;è.p.;891;;;46802;683674.10;983996.36;2017-09-21T00:00:00
+74334166;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;900;;;46802;682542.96;984292.34;2015-12-04T00:00:00
+74427598;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;898;;;46802;682696.36;984144.99;2016-01-05T00:00:00
+74488155;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;903;;;46802;683654.48;983567.63;2017-09-21T00:00:00
+75231247;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2002914;Prùmyslová;è.p.;907;;;46802;682660.51;983520.71;2017-03-01T00:00:00
+75247577;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2002914;Prùmyslová;è.p.;906;;;46802;682727.19;983497.38;2017-03-01T00:00:00
+75254786;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;881;;;46802;682922.88;984913.10;2016-08-08T00:00:00
+75274892;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;884;;;46802;682208.91;982201.74;2017-05-26T00:00:00
+75390035;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2002043;Na Kopci;è.p.;908;;;46802;681863.71;982985.44;2017-02-16T00:00:00
+75390230;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;879;;;46802;682857.03;984920.54;2016-10-04T00:00:00
+75461960;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158909;U Potùèku;è.p.;909;;;46802;682987.28;984136.92;2016-10-25T00:00:00
+75562219;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2002892;Horní;è.p.;896;;;46802;681799.63;982895.36;2017-03-01T00:00:00
+75818639;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728608;Svahová;è.p.;899;;;46802;682813.90;984775.20;2017-02-09T00:00:00
+76048888;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2002892;Horní;è.p.;910;;;46802;681804.10;982963.42;2017-04-07T00:00:00
+78051371;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;877;;;46802;682878.81;984894.51;2018-02-26T00:00:00
+78314259;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2021153;Na Hranici;è.p.;911;;;46802;682033.81;982615.38;2018-05-04T00:00:00
+78678935;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;912;;;46802;683023.72;984938.00;2018-09-11T00:00:00
+78907144;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;913;;;46802;683013.08;984939.27;2018-11-27T00:00:00
+79891462;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158984;U Dubu;è.p.;739;;;46802;682623.67;984623.85;2019-10-14T00:00:00
+79928439;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;153;;;46802;682237.50;983232.57;2019-10-01T00:00:00
+79959199;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;914;;;46802;682695.13;984658.22;2019-10-14T00:00:00
+79960189;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;915;;;46802;682556.33;984095.68;2019-10-14T00:00:00
+80110363;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;789;;;46802;682372.31;983729.57;2020-01-14T00:00:00
+80151451;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2002892;Horní;è.p.;916;;;46802;681821.87;982964.94;2020-01-09T00:00:00
+80189016;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;917;;;46802;682822.52;983653.41;2019-12-18T00:00:00
+80229620;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022991;Ke Svatému køíži;è.p.;918;;;46802;683836.57;984038.51;2020-01-09T00:00:00
+80250149;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158721;Lipová;è.p.;919;;;46802;682499.05;983644.77;2020-01-14T00:00:00
+80419747;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;154;;;46802;682281.14;983228.46;2020-02-24T00:00:00
+80880550;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;155;;;46802;682291.09;983199.64;2020-06-26T00:00:00
+81032587;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;921;;;46802;682531.26;984406.84;2020-08-11T00:00:00
+81033095;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;920;;;46802;682528.40;984370.67;2020-08-11T00:00:00
+81175221;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;923;;;46802;682329.22;984247.88;2021-05-12T00:00:00
+81240953;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158852;Sokolská;è.p.;922;;;46802;682802.50;984613.96;2020-10-26T00:00:00
+81260211;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;779;;;46802;682888.54;984555.59;2020-11-04T00:00:00
+81385366;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158739;Luèní;è.p.;924;;;46802;682532.21;984512.44;2020-12-21T00:00:00
+81401612;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;925;;;46802;682594.47;984463.83;2020-12-30T00:00:00
+81465807;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158631;Brusièská;è.p.;926;;;46802;682541.78;984472.70;2021-01-28T00:00:00
+81749678;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158810;Požárnická;è.p.;927;;;46802;682730.40;984663.76;2021-04-27T00:00:00
+81805331;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158895;Tyršova;è.p.;874;;;46802;682809.15;984420.25;2021-05-11T00:00:00
+81993919;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;156;;;46802;683544.84;983468.08;2021-07-28T00:00:00
+81995245;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;157;;;46802;682341.47;983281.72;2021-07-29T00:00:00
+82041342;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;158;;;46802;682286.21;983252.89;2021-08-23T00:00:00
+82062463;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;159;;;46802;682314.63;983235.71;2021-09-02T00:00:00
+82119279;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;902;;;46802;683655.34;983590.95;2021-10-06T00:00:00
+82134278;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;940;;;46802;683002.89;983549.61;2021-09-23T00:00:00
+82164193;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;161;;;46802;682307.48;983262.48;2021-10-06T00:00:00
+82209642;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2003104;Okružní;è.p.;941;;;46802;681824.42;982865.05;2021-10-25T00:00:00
+82210683;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;904;;;46802;683649.21;983553.11;2021-10-25T00:00:00
+82317020;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;944;;;46802;682993.56;983668.55;2021-12-06T00:00:00
+82720673;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158704;Komenského;è.p.;956;;;46802;682597.01;984266.84;2022-03-07T00:00:00
+82787786;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;939;;;46802;682600.28;984171.72;2022-03-23T00:00:00
+82829331;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;160;;;46802;683561.73;983423.57;2022-04-08T00:00:00
+82898367;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;959;;;46802;683665.79;983765.86;2022-04-25T00:00:00
+82904341;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;162;;;46802;682319.96;983247.90;2022-04-27T00:00:00
+82941386;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;930;;;46802;682577.36;984145.59;2022-05-10T00:00:00
+82941645;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;932;;;46802;682563.82;984153.82;2022-05-10T00:00:00
+82941718;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;931;;;46802;682570.80;984149.65;2022-05-10T00:00:00
+82941840;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;935;;;46802;682543.21;984170.99;2022-05-10T00:00:00
+82941866;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;933;;;46802;682557.73;984160.37;2022-05-10T00:00:00
+82941882;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;934;;;46802;682553.43;984165.79;2022-05-10T00:00:00
+82942919;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;937;;;46802;682560.79;984184.10;2022-05-10T00:00:00
+82942935;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;938;;;46802;682568.25;984189.70;2022-05-10T00:00:00
+82943117;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158755;Malíøská;è.p.;936;;;46802;682551.75;984177.43;2022-05-10T00:00:00
+82950873;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158674;Høbitovní;è.p.;960;;;46802;682387.05;983802.75;2022-05-12T00:00:00
+83013261;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;163;;;46802;683458.34;983523.90;2022-06-02T00:00:00
+83160540;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;164;;;46802;683430.03;983573.88;2022-07-26T00:00:00
+83347151;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;950;;;46802;682951.84;984081.63;2022-10-11T00:00:00
+83348531;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158828;Pøíkrá;è.p.;948;;;46802;682807.78;983757.72;2022-10-11T00:00:00
+83351779;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;66;;;46802;685055.60;984718.62;2022-10-11T00:00:00
+83357831;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2019183;Dobrovodská;è.p.;946;;;46802;681995.70;982144.26;2022-10-11T00:00:00
+84246430;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;951;;;46802;683120.30;983433.98;2022-11-07T00:00:00
+84581069;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;165;;;46802;683337.74;984129.02;2022-11-30T00:00:00
+84618621;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158925;Údolní;è.p.;947;;;46802;682867.61;983879.83;2022-12-14T00:00:00
+85052523;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158879;Tovární;è.p.;961;;;46802;683288.23;983945.22;2023-03-22T00:00:00
+85299758;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;905;;;46802;683645.51;983533.92;2023-06-16T00:00:00
+85324418;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;955;;;46802;683771.50;984039.31;2023-06-27T00:00:00
+85360431;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2003104;Okružní;è.p.;957;;;46802;681797.95;982853.54;2023-07-18T00:00:00
+85418528;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022991;Ke Svatému køíži;è.p.;964;;;46802;683977.31;984044.48;2023-08-14T00:00:00
+85632988;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;166;;;46802;682255.59;983234.89;2023-10-03T00:00:00
+85736783;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158771;Nádražní;è.p.;949;;;46802;682957.45;984054.04;2023-11-06T00:00:00
+85870561;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;954;;;46802;683058.44;984906.80;2023-12-15T00:00:00
+85886491;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2023016;Pelíkovická;è.p.;962;;;46802;683626.77;983992.50;2023-12-20T00:00:00
+85907081;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158747;Lužická;è.p.;929;;;46802;682964.26;983456.91;2024-01-08T00:00:00
+85956571;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158844;Smetanova;è.p.;952;;;46802;682501.86;984495.98;2024-01-26T00:00:00
+86018353;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;963;;;46802;683021.64;984869.08;2024-02-20T00:00:00
+86021168;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2022974;Lišèí;è.p.;965;;;46802;683597.20;983683.56;2024-02-21T00:00:00
+86034553;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;167;;;46802;683464.08;983870.38;2024-02-27T00:00:00
+86511165;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158691;Ještìdská;è.p.;945;;;46802;682382.19;984106.78;2024-09-16T00:00:00
+86553101;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158992;Zálesí;è.p.;953;;;46802;682918.04;984851.68;2024-10-03T00:00:00
+87142261;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;64;;;46802;684348.44;985028.94;2025-06-26T00:00:00
+87150310;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2020785;Vodní;è.p.;966;;;46802;681899.13;982203.55;2025-07-01T00:00:00
+87159627;563790;Rychnov u Jablonce nad Nisou;;;;;144312;Pelíkovice;;;è.p.;65;;;46802;685010.65;984754.92;2025-07-07T00:00:00
+87229757;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;2002892;Horní;è.p.;968;;;46802;681824.94;982901.80;2025-08-13T00:00:00
+87276704;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;;;è.ev.;168;;;46802;683237.94;983594.39;2025-09-15T00:00:00
+87622181;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158763;Mlýnská;è.p.;969;;;46802;682433.59;984136.16;2026-02-16T00:00:00
+87622246;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;158836;Kokonínská;è.p.;971;;;46802;681874.38;984568.27;2026-02-10T00:00:00
+87695782;563790;Rychnov u Jablonce nad Nisou;;;;;144347;Rychnov u Jablonce nad Nisou;728616;Bøezová;è.p.;973;;;46802;682974.61;984643.92;2026-02-24T00:00:00

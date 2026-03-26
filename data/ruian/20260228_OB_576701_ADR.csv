@@ -1,0 +1,723 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód obvodu Prahy;Název obvodu Prahy;Kód èásti obce;Název èásti obce;Kód ulice;Název ulice;Typ SO;Èíslo domovní;Èíslo orientaèní;Znak èísla orientaèního;PSÈ;Souøadnice Y;Souøadnice X;Platí Od
+9765301;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;1;;;51761;599643.88;1049506.38;2013-12-01T00:00:00
+9765310;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;2;;;51761;599766.18;1049280.25;2013-12-01T00:00:00
+9765328;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;3;;;51761;599537.56;1049045.13;2013-12-01T00:00:00
+9765336;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;4;;;51761;599486.00;1048840.25;2013-12-01T00:00:00
+9765344;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;5;;;51761;599482.31;1050283.63;2013-12-01T00:00:00
+9765352;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;6;;;51761;599611.63;1050612.13;2013-12-01T00:00:00
+9765361;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;7;;;51761;599021.31;1048021.81;2013-12-01T00:00:00
+9765379;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;8;;;51761;599473.31;1050644.75;2013-12-01T00:00:00
+9765387;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;9;;;51761;599436.06;1050586.50;2013-12-01T00:00:00
+9765409;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;11;;;51761;599423.00;1050663.88;2013-12-01T00:00:00
+9765417;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;12;;;51761;598858.50;1047666.31;2013-12-01T00:00:00
+9765425;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;13;;;51761;599230.63;1050707.25;2013-12-01T00:00:00
+9765433;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;14;;;51761;599122.19;1050667.13;2013-12-01T00:00:00
+9765441;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;15;;;51761;598517.94;1047506.38;2013-12-01T00:00:00
+9765450;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;16;;;51761;599278.94;1050657.25;2013-12-01T00:00:00
+9765468;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;17;;;51761;599634.69;1050586.00;2013-12-01T00:00:00
+9765476;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;18;;;51761;598823.88;1050371.25;2013-12-01T00:00:00
+9765484;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;19;;;51761;598417.38;1047468.25;2013-12-01T00:00:00
+9765492;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;20;;;51761;598377.81;1047416.19;2013-12-01T00:00:00
+9765506;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;21;;;51761;599190.94;1050702.75;2013-12-01T00:00:00
+9765514;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;22;;;51761;599676.94;1050555.50;2013-12-01T00:00:00
+9765522;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;23;;;51761;600702.19;1050375.38;2013-12-01T00:00:00
+9765531;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;24;;;51761;600747.81;1050290.38;2013-12-01T00:00:00
+9765549;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;25;;;51761;600695.56;1050254.50;2013-12-01T00:00:00
+9765557;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;26;;;51761;598305.63;1047532.00;2013-12-01T00:00:00
+9765565;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;27;;;51761;600631.00;1050294.63;2013-12-01T00:00:00
+9765573;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;28;;;51761;601141.63;1049901.88;2013-12-01T00:00:00
+9765581;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;29;;;51761;600630.13;1049656.50;2013-12-01T00:00:00
+9765590;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;30;;;51761;599193.75;1049398.50;2013-12-01T00:00:00
+9765603;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;31;;;51761;599549.44;1049516.38;2013-12-01T00:00:00
+9765611;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;32;;;51761;600437.75;1049615.13;2013-12-01T00:00:00
+9765620;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;33;;;51761;599535.56;1049178.38;2013-12-01T00:00:00
+9765638;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;34;;;51761;601084.94;1049873.63;2013-12-01T00:00:00
+9765646;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;35;;;51761;600563.13;1050346.13;2013-12-01T00:00:00
+9765654;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;36;;;51761;598536.19;1047640.44;2013-12-01T00:00:00
+9765662;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;37;;;51761;598605.13;1047633.38;2013-12-01T00:00:00
+9765671;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.ev.;2;;;51761;598530.64;1047537.73;2013-12-01T00:00:00
+9765689;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.ev.;3;;;51761;598546.00;1047548.00;2013-12-01T00:00:00
+9765697;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;42;;;51761;598688.00;1047939.69;2013-12-01T00:00:00
+9765719;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;44;;;51761;598716.00;1047785.19;2013-12-01T00:00:00
+9765727;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;45;;;51761;599553.44;1048994.75;2013-12-01T00:00:00
+9765735;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;48;;;51761;598785.88;1047733.25;2013-12-01T00:00:00
+9765743;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;51;;;51761;598730.88;1048427.06;2013-12-01T00:00:00
+9765751;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;52;;;51761;598878.44;1048728.25;2013-12-01T00:00:00
+9765760;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;53;;;51761;599105.56;1048570.56;2013-12-01T00:00:00
+9765778;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;59;;;51761;599310.25;1048526.19;2013-12-01T00:00:00
+9765786;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;63;;;51761;599329.56;1048698.00;2013-12-01T00:00:00
+9765794;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;64;;;51761;599367.31;1048769.50;2013-12-01T00:00:00
+9765808;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;65;;;51761;599435.25;1048933.50;2013-12-01T00:00:00
+9765816;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;67;;;51761;599314.06;1048894.38;2013-12-01T00:00:00
+9765824;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;68;;;51761;599338.38;1048975.00;2013-12-01T00:00:00
+9765832;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;69;;;51761;599345.13;1048990.38;2013-12-01T00:00:00
+9765841;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;74;;;51761;599331.06;1049206.75;2013-12-01T00:00:00
+9765859;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;80;;;51761;599341.81;1049279.25;2013-12-01T00:00:00
+9765867;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;85;;;51761;599362.56;1049415.88;2013-12-01T00:00:00
+9765875;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;87;;;51761;599329.88;1049512.38;2013-12-01T00:00:00
+9765883;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;89;;;51761;599485.31;1049898.88;2013-12-01T00:00:00
+9765891;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;93;;;51761;599492.88;1049725.13;2013-12-01T00:00:00
+9765905;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;94;;;51761;599533.88;1049808.00;2013-12-01T00:00:00
+9765913;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;96;;;51761;599610.38;1049935.00;2013-12-01T00:00:00
+9765921;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;99;;;51761;598149.44;1047542.06;2013-12-01T00:00:00
+9765930;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;100;;;51761;599788.88;1050138.75;2013-12-01T00:00:00
+9765948;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;101;;;51761;599747.88;1050456.38;2013-12-01T00:00:00
+9765956;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;103;;;51761;599768.63;1050414.88;2013-12-01T00:00:00
+9765964;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;104;;;51761;599737.50;1049828.00;2013-12-01T00:00:00
+9765972;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;105;;;51761;599638.31;1049831.13;2013-12-01T00:00:00
+9765981;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;106;;;51761;599625.56;1049735.13;2013-12-01T00:00:00
+9765999;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;114;;;51761;600825.81;1048122.13;2013-12-01T00:00:00
+9766006;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;115;;;51761;600801.50;1048009.13;2013-12-01T00:00:00
+9766014;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;117;;;51761;600415.81;1047892.25;2013-12-01T00:00:00
+9766022;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;119;;;51761;597852.13;1047569.44;2013-12-01T00:00:00
+9766031;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;120;;;51761;597694.06;1047596.13;2013-12-01T00:00:00
+9766049;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;121;;;51761;597605.88;1047724.25;2013-12-01T00:00:00
+9766057;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;124;;;51761;597053.06;1048412.63;2013-12-01T00:00:00
+9766065;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;133;;;51761;598988.81;1049735.13;2013-12-01T00:00:00
+9766073;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;136;;;51761;599375.69;1049146.13;2013-12-01T00:00:00
+9766081;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;140;;;51761;599492.44;1049373.25;2013-12-01T00:00:00
+9766090;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;141;;;51761;599517.56;1049463.00;2013-12-01T00:00:00
+9766103;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;143;;;51761;599349.94;1048621.13;2013-12-01T00:00:00
+9766111;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;144;;;51761;597549.81;1047667.25;2013-12-01T00:00:00
+9766120;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;146;;;51761;598335.88;1047511.00;2013-12-01T00:00:00
+9766138;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;155;;;51761;599341.06;1049363.38;2013-12-01T00:00:00
+9766146;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;159;;;51761;598593.44;1047561.44;2013-12-01T00:00:00
+9766154;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;161;;;51761;598776.13;1047783.19;2013-12-01T00:00:00
+9766162;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;162;;;51761;599602.95;1049310.62;2013-12-01T00:00:00
+9766171;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;167;;;51761;598332.75;1047471.63;2013-12-01T00:00:00
+9766189;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;170;;;51761;598390.75;1047343.19;2013-12-01T00:00:00
+9766197;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;171;;;51601;600643.56;1048274.50;2013-12-01T00:00:00
+9766201;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;172;;;51761;599593.69;1049478.88;2013-12-01T00:00:00
+9766219;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;173;;;51761;599683.75;1049574.50;2013-12-01T00:00:00
+9766227;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;174;;;51761;599722.00;1049564.50;2013-12-01T00:00:00
+9766235;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;175;;;51761;599758.25;1049555.38;2013-12-01T00:00:00
+9766243;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;176;;;51761;599749.88;1049527.50;2013-12-01T00:00:00
+9766251;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;177;;;51761;599721.44;1049533.13;2013-12-01T00:00:00
+9795529;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;1;;;51761;596776.12;1052331.49;2013-12-01T00:00:00
+9795537;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712990;námìstí Jindøicha Šimka;è.p.;2;;;51761;596544.69;1052357.10;2013-12-01T00:00:00
+9795545;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712990;námìstí Jindøicha Šimka;è.p.;3;;;51761;596615.62;1052337.33;2013-12-01T00:00:00
+9795553;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;4;;;51761;596639.61;1052362.40;2013-12-01T00:00:00
+9795561;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;5;;;51761;596649.93;1052336.29;2013-12-01T00:00:00
+9795570;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;6;;;51761;596658.82;1052344.39;2013-12-01T00:00:00
+9795588;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;7;;;51761;596669.35;1052356.06;2013-12-01T00:00:00
+9795596;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;8;;;51761;596679.89;1052348.27;2013-12-01T00:00:00
+9795600;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;9;;;51761;596694.46;1052348.32;2013-12-01T00:00:00
+9795618;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;10;;;51761;596701.31;1052325.63;2013-12-01T00:00:00
+9795626;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;11;;;51761;596713.00;1052324.88;2013-12-01T00:00:00
+9795634;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;12;;;51761;596819.69;1052370.30;2013-12-01T00:00:00
+9795642;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;13;;;51761;596409.44;1053412.38;2013-12-01T00:00:00
+9795651;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;14;;;51761;596837.78;1052370.24;2013-12-01T00:00:00
+9795669;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;15;;;51761;596852.20;1052366.04;2013-12-01T00:00:00
+9795677;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;16;;;51761;596865.18;1052365.41;2013-12-01T00:00:00
+9795685;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;17;;;51761;596765.03;1052433.83;2013-12-01T00:00:00
+9795693;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;18;;;51761;596720.69;1053356.75;2013-12-01T00:00:00
+9795707;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;19;;;51761;596916.05;1052362.71;2013-12-01T00:00:00
+9795715;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;20;;;51761;596935.89;1052358.24;2013-12-01T00:00:00
+9795723;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;21;;;51761;596953.83;1052353.31;2013-12-01T00:00:00
+9795731;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;22;;;51761;596970.76;1052353.84;2013-12-01T00:00:00
+9795740;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;23;;;51761;596991.20;1052347.53;2013-12-01T00:00:00
+9795758;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;24;;;51761;596988.18;1052308.42;2013-12-01T00:00:00
+9795766;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;25;;;51761;597064.88;1052041.21;2013-12-01T00:00:00
+9795774;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;26;;;51761;596375.62;1053998.36;2013-12-01T00:00:00
+9795782;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;27;;;51761;596975.74;1052255.65;2013-12-01T00:00:00
+9795791;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;28;;;51761;596970.73;1052240.90;2013-12-01T00:00:00
+9795804;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;29;;;51761;596961.98;1052217.64;2013-12-01T00:00:00
+9795812;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;30;;;51761;596957.17;1052197.58;2013-12-01T00:00:00
+9795821;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;31;;;51761;596951.63;1052179.59;2013-12-01T00:00:00
+9795839;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;32;;;51761;596944.63;1052162.46;2013-12-01T00:00:00
+9795847;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;33;;;51761;596938.29;1052147.49;2013-12-01T00:00:00
+9795855;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;34;;;51761;596767.06;1052225.91;2013-12-01T00:00:00
+9795863;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;35;;;51761;596965.88;1052165.07;2013-12-01T00:00:00
+9795871;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;36;;;51761;596973.36;1052187.74;2013-12-01T00:00:00
+9795880;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;37;;;51761;596978.01;1052205.64;2013-12-01T00:00:00
+9795898;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;38;;;51761;596983.26;1052221.88;2013-12-01T00:00:00
+9795901;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;39;;;51761;596988.21;1052240.61;2013-12-01T00:00:00
+9795910;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;40;;;51761;596997.06;1052258.50;2013-12-01T00:00:00
+9795928;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;41;;;51761;596998.53;1052276.21;2013-12-01T00:00:00
+9795936;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;42;;;51761;597005.91;1052291.20;2013-12-01T00:00:00
+9795944;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;43;;;51761;596974.15;1052539.03;2013-12-01T00:00:00
+9795952;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;44;;;51761;597025.90;1052325.68;2013-12-01T00:00:00
+9795961;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;45;;;51761;597053.99;1052330.54;2013-12-01T00:00:00
+9795979;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;46;;;51761;597064.81;1052327.67;2013-12-01T00:00:00
+9795987;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;47;;;51761;597175.23;1052503.81;2013-12-01T00:00:00
+9795995;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;48;;;51761;597122.44;1052308.83;2013-12-01T00:00:00
+9796002;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;49;;;51761;597144.84;1052300.50;2013-12-01T00:00:00
+9796011;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;50;;;51761;597179.21;1052288.89;2013-12-01T00:00:00
+9796029;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;51;;;51761;597224.55;1052269.42;2013-12-01T00:00:00
+9796037;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;52;;;51761;597082.22;1052345.06;2013-12-01T00:00:00
+9796045;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;53;;;51761;597068.64;1052366.90;2013-12-01T00:00:00
+9796053;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;54;;;51761;597051.63;1052358.93;2013-12-01T00:00:00
+9796061;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;55;;;51761;597025.45;1052366.07;2013-12-01T00:00:00
+9796070;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;56;;;51761;597011.33;1052364.83;2013-12-01T00:00:00
+9796088;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;57;;;51761;596998.82;1052368.84;2013-12-01T00:00:00
+9796096;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;58;;;51761;597163.43;1052518.25;2013-12-01T00:00:00
+9796100;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;59;;;51761;596970.55;1052377.73;2013-12-01T00:00:00
+9796118;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;60;;;51761;596954.81;1052378.49;2013-12-01T00:00:00
+9796126;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;61;;;51761;597189.25;1052487.36;2013-12-01T00:00:00
+9796134;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;62;;;51761;596862.90;1052390.65;2013-12-01T00:00:00
+9796142;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;63;;;51761;597202.70;1052472.12;2013-12-01T00:00:00
+9796151;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;64;;;51761;596831.95;1052394.30;2013-12-01T00:00:00
+9796169;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;65;;;51761;597137.91;1052207.31;2013-12-01T00:00:00
+9796177;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;66;;;51761;596810.92;1052395.63;2013-12-01T00:00:00
+9796185;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;67;;;51761;596793.73;1052391.24;2013-12-01T00:00:00
+9796193;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;68;;;51761;596745.91;1052414.56;2013-12-01T00:00:00
+9796207;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;69;;;51761;596769.17;1052413.30;2013-12-01T00:00:00
+9796215;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;70;;;51761;597497.83;1052239.57;2013-12-01T00:00:00
+9796223;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;71;;;51761;597411.47;1052317.12;2013-12-01T00:00:00
+9796231;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;72;;;51761;596730.76;1052422.81;2013-12-01T00:00:00
+9796240;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;73;;;51761;596743.64;1052442.45;2013-12-01T00:00:00
+9796258;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;74;;;51761;596717.80;1052427.37;2013-12-01T00:00:00
+9796266;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;75;;;51761;596708.23;1052432.28;2013-12-01T00:00:00
+9796274;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;76;;;51761;596698.93;1052439.18;2013-12-01T00:00:00
+9796282;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;77;;;51761;596702.82;1052465.88;2013-12-01T00:00:00
+9796291;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;78;;;51761;596680.75;1052446.20;2013-12-01T00:00:00
+9796304;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;79;;;51761;596663.99;1052451.16;2013-12-01T00:00:00
+9796312;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;80;;;51761;596663.21;1052480.41;2013-12-01T00:00:00
+9796321;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;81;;;51761;596661.67;1052501.34;2013-12-01T00:00:00
+9796339;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;82;;;51761;596658.99;1052553.78;2013-12-01T00:00:00
+9796347;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;83;;;51761;596657.74;1052575.12;2013-12-01T00:00:00
+9796355;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;84;;;51761;596654.89;1052591.40;2013-12-01T00:00:00
+9796363;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;85;;;51761;596649.81;1052612.42;2013-12-01T00:00:00
+9796371;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;86;;;51761;596649.33;1052638.04;2013-12-01T00:00:00
+9796380;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;87;;;51761;596648.00;1052663.98;2013-12-01T00:00:00
+9796398;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;88;;;51761;596607.36;1052740.07;2013-12-01T00:00:00
+9796401;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;89;;;51761;596629.72;1052574.44;2013-12-01T00:00:00
+9796410;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;90;;;51761;596616.57;1052677.09;2013-12-01T00:00:00
+9796428;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;91;;;51761;596623.49;1052655.42;2013-12-01T00:00:00
+9796436;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;92;;;51761;596623.43;1052630.10;2013-12-01T00:00:00
+9796444;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;93;;;51761;596626.71;1052608.24;2013-12-01T00:00:00
+9796452;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;94;;;51761;596613.24;1052534.07;2013-12-01T00:00:00
+9796461;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;95;;;51761;597453.67;1052223.88;2013-12-01T00:00:00
+9796479;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;96;;;51761;597439.38;1052242.90;2013-12-01T00:00:00
+9796487;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;97;;;51761;596641.38;1052467.36;2013-12-01T00:00:00
+9796495;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;98;;;51761;596639.46;1052451.49;2013-12-01T00:00:00
+9796509;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;99;;;51761;596637.21;1052437.35;2013-12-01T00:00:00
+9796525;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;101;;;51761;596628.15;1052420.26;2013-12-01T00:00:00
+9796533;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.p.;102;;;51761;596602.16;1052400.76;2013-12-01T00:00:00
+9796541;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;103;;;51761;596501.42;1052335.71;2013-12-01T00:00:00
+9796550;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.p.;104;;;51761;596574.66;1052601.32;2020-03-19T00:00:00
+9796568;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.p.;105;;;51761;596563.85;1052524.71;2020-03-19T00:00:00
+9796576;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;106;;;51761;596534.98;1052886.10;2013-12-01T00:00:00
+9796592;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.p.;108;;;51761;596508.27;1052750.16;2020-03-19T00:00:00
+9796606;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.p.;109;;;51761;596517.72;1052704.84;2020-03-19T00:00:00
+9796614;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.p.;110;;;51761;596549.25;1052676.73;2020-03-19T00:00:00
+9796622;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;111;;;51761;596956.30;1052505.76;2013-12-01T00:00:00
+9796631;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;112;;;51761;596967.04;1052521.31;2013-12-01T00:00:00
+9796649;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;113;;;51761;596937.25;1052562.60;2013-12-01T00:00:00
+9796657;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;114;;;51761;596477.66;1052474.23;2013-12-01T00:00:00
+9796665;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;115;;;51761;596379.21;1052345.86;2013-12-01T00:00:00
+9796673;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;116;;;51761;596421.96;1052267.44;2013-12-01T00:00:00
+9796681;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;117;;;51761;596463.85;1052291.04;2013-12-01T00:00:00
+9796690;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;118;;;51761;596474.05;1052241.24;2013-12-01T00:00:00
+9796703;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;119;;;51761;596411.84;1052208.50;2013-12-01T00:00:00
+9796711;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;120;;;51761;596394.76;1052185.21;2013-12-01T00:00:00
+9796720;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;121;;;51761;596916.10;1052570.47;2013-12-01T00:00:00
+9796738;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;122;;;51761;596446.71;1051986.70;2013-12-01T00:00:00
+9796746;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;123;;;51761;596463.31;1052059.18;2013-12-01T00:00:00
+9796754;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;124;;;51761;596583.94;1052092.51;2013-12-01T00:00:00
+9796771;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;126;;;51761;596588.25;1052129.46;2013-12-01T00:00:00
+9796789;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;127;;;51761;596581.21;1052146.09;2013-12-01T00:00:00
+9796797;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;128;;;51761;596594.75;1052161.36;2013-12-01T00:00:00
+9796801;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;129;;;51761;597119.05;1052566.18;2013-12-01T00:00:00
+9796819;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;130;;;51761;597131.52;1052550.88;2013-12-01T00:00:00
+9796827;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;131;;;51761;597148.59;1052531.94;2013-12-01T00:00:00
+9796835;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;132;;;51761;596840.48;1052302.22;2013-12-01T00:00:00
+9796843;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;133;;;51761;596733.36;1052012.21;2013-12-01T00:00:00
+9796851;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;134;;;51761;596904.98;1052632.00;2013-12-01T00:00:00
+9796878;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;136;;;51761;596442.79;1053011.67;2013-12-01T00:00:00
+9796886;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;137;;;51761;596625.77;1053070.47;2013-12-01T00:00:00
+9796894;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;138;;;51761;596505.95;1052992.32;2013-12-01T00:00:00
+9796908;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;139;;;51761;596547.29;1053013.21;2013-12-01T00:00:00
+9796916;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.p.;140;;;51761;596554.05;1052594.12;2020-03-19T00:00:00
+9796924;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;141;;;51761;596414.16;1052229.63;2013-12-01T00:00:00
+9796932;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;142;;;51761;596403.76;1052344.41;2013-12-01T00:00:00
+9796941;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;143;;;51761;596930.80;1052431.03;2013-12-01T00:00:00
+9796959;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;144;;;51761;596925.58;1052712.50;2016-11-23T00:00:00
+9796967;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;145;;;51761;596573.43;1052068.39;2013-12-01T00:00:00
+9796975;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;146;;;51761;596942.34;1052443.49;2013-12-01T00:00:00
+9796983;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;147;;;51761;596955.44;1052453.37;2013-12-01T00:00:00
+9796991;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;148;;;51761;596552.51;1052121.53;2013-12-01T00:00:00
+9797009;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.p.;149;;;51761;596458.93;1052598.67;2013-12-01T00:00:00
+9797017;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.p.;150;;;51761;596587.90;1052573.36;2020-03-19T00:00:00
+9797025;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;151;;;51761;597293.91;1052260.76;2013-12-01T00:00:00
+9797033;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.p.;152;;;51761;596538.65;1052651.08;2020-03-19T00:00:00
+9797041;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.p.;153;;;51761;596451.15;1052540.84;2013-12-01T00:00:00
+9797068;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;155;;;51761;594799.86;1052125.09;2013-12-01T00:00:00
+9797076;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;156;;;51761;597268.44;1052259.16;2013-12-01T00:00:00
+9797084;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;157;;;51761;596636.62;1052510.52;2013-12-01T00:00:00
+9797092;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;158;;;51761;596617.29;1052509.24;2013-12-01T00:00:00
+9797106;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.p.;159;;;51761;596423.88;1052563.86;2013-12-01T00:00:00
+9797114;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.p.;160;;;51761;596409.53;1052546.62;2013-12-01T00:00:00
+9797122;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;161;;;51761;596634.61;1052528.38;2013-12-01T00:00:00
+9797131;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;162;;;51761;596631.87;1052546.56;2013-12-01T00:00:00
+9797149;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;163;;;51761;596656.98;1052543.15;2013-12-01T00:00:00
+9797157;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;164;;;51761;596659.40;1052523.77;2013-12-01T00:00:00
+9797165;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;165;;;51761;596701.17;1052972.37;2013-12-01T00:00:00
+9797173;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;166;;;51761;596574.87;1052994.75;2013-12-01T00:00:00
+9797181;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;167;;;51761;596422.90;1053261.03;2013-12-01T00:00:00
+9797190;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;168;;;51761;597109.35;1052339.89;2013-12-01T00:00:00
+9797203;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543071;Horní;è.p.;169;;;51761;596955.69;1052132.95;2013-12-01T00:00:00
+9797211;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;170;;;51761;597143.62;1052328.05;2013-12-01T00:00:00
+9797220;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;171;;;51761;595217.82;1052289.13;2013-12-01T00:00:00
+9797238;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;172;;;51761;596592.06;1052237.98;2013-12-01T00:00:00
+9797246;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;173;;;51761;596389.89;1052243.11;2013-12-01T00:00:00
+9797254;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;174;;;51761;596626.08;1052284.52;2013-12-01T00:00:00
+9797262;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;175;;;51761;597017.01;1052071.81;2013-12-01T00:00:00
+9797271;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;176;;;51761;596737.43;1052777.04;2013-12-01T00:00:00
+9797289;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;177;;;51761;596636.17;1053011.79;2013-12-01T00:00:00
+9797301;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;179;;;51761;596778.98;1052694.31;2013-12-01T00:00:00
+9797319;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;180;;;51761;597331.60;1052249.90;2013-12-01T00:00:00
+9797327;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;181;;;51761;597099.78;1052316.86;2013-12-01T00:00:00
+9797335;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;182;;;51761;597342.19;1052264.90;2013-12-01T00:00:00
+9797343;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;183;;;51761;596575.74;1052881.39;2013-12-01T00:00:00
+9797351;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;184;;;51761;596619.44;1052882.10;2013-12-01T00:00:00
+9797360;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;185;;;51761;597367.31;1052259.37;2013-12-01T00:00:00
+9797378;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;186;;;51761;596525.64;1052958.61;2013-12-01T00:00:00
+9797386;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;187;;;51761;596525.93;1052936.96;2013-12-01T00:00:00
+9797394;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;188;;;51761;596575.71;1052830.81;2013-12-01T00:00:00
+9797408;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;189;;;51761;597386.15;1052264.05;2013-12-01T00:00:00
+9797416;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;190;;;51761;596484.67;1053062.55;2013-12-01T00:00:00
+9797424;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;191;;;51761;596584.44;1052916.06;2013-12-01T00:00:00
+9797432;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;192;;;51761;597407.29;1052261.06;2013-12-01T00:00:00
+9797441;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;193;;;51761;597414.99;1052271.34;2013-12-01T00:00:00
+9797459;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;194;;;51761;596645.08;1052196.17;2013-12-01T00:00:00
+9797475;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;196;;;51761;596646.12;1052910.44;2013-12-01T00:00:00
+9797483;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;197;;;51761;596661.84;1052880.51;2013-12-01T00:00:00
+9797491;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;198;;;51761;596567.31;1052956.85;2013-12-01T00:00:00
+9797505;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;199;;;51761;596535.86;1052905.46;2019-10-30T00:00:00
+9797513;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;200;;;51761;597187.08;1052312.99;2013-12-01T00:00:00
+9797521;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;201;;;51761;596614.42;1052921.18;2013-12-01T00:00:00
+9797530;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;202;;;51761;596940.30;1052481.37;2013-12-01T00:00:00
+9797548;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;203;;;51761;596621.12;1052935.69;2013-12-01T00:00:00
+9797556;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;204;;;51761;596593.41;1052943.27;2013-12-01T00:00:00
+9797564;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;205;;;51761;596554.03;1052167.70;2013-12-01T00:00:00
+9797581;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;207;;;51761;596893.96;1052709.39;2013-12-01T00:00:00
+9797602;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;209;;;51761;597045.48;1052743.23;2013-12-01T00:00:00
+9797611;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;210;;;51761;596858.15;1052623.64;2013-12-01T00:00:00
+9797629;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;211;;;51761;596554.28;1052146.10;2013-12-01T00:00:00
+9797637;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.p.;212;;;51761;596458.28;1052568.61;2013-12-01T00:00:00
+9797645;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;213;;;51761;596634.68;1053187.99;2013-12-01T00:00:00
+9797653;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;214;;;51761;596633.62;1053228.70;2013-12-01T00:00:00
+9797661;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;215;;;51761;596637.27;1053268.52;2013-12-01T00:00:00
+9797688;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;217;;;51761;596710.82;1052178.45;2013-12-01T00:00:00
+9797696;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;218;;;51761;596707.56;1052164.73;2013-12-01T00:00:00
+9797700;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;219;;;51761;596709.53;1052134.21;2013-12-01T00:00:00
+9797718;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;220;;;51761;596702.37;1052104.04;2013-12-01T00:00:00
+9797726;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;221;;;51761;596626.89;1053144.03;2013-12-01T00:00:00
+9797734;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;222;;;51761;596593.13;1053211.70;2013-12-01T00:00:00
+9797742;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;223;;;51761;596596.16;1053252.08;2013-12-01T00:00:00
+9797751;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;224;;;51761;596590.90;1053271.07;2013-12-01T00:00:00
+9797769;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;225;;;51761;596983.11;1052594.88;2013-12-01T00:00:00
+9797777;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;226;;;51761;596982.26;1052585.75;2013-12-01T00:00:00
+9797785;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;227;;;51761;596961.17;1052606.53;2013-12-01T00:00:00
+9797793;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;228;;;51761;596960.24;1052597.32;2013-12-01T00:00:00
+9797807;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;229;;;51761;596938.97;1052618.01;2013-12-01T00:00:00
+9797815;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;230;;;51761;596937.97;1052608.87;2013-12-01T00:00:00
+9797823;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;231;;;51761;596590.82;1053175.33;2013-12-01T00:00:00
+9797831;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;232;;;51761;597030.11;1052534.25;2013-12-01T00:00:00
+9797840;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;233;;;51761;596561.92;1053227.89;2013-12-01T00:00:00
+9797858;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;234;;;51761;596563.30;1053246.25;2013-12-01T00:00:00
+9797866;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;235;;;51761;596684.63;1052059.37;2013-12-01T00:00:00
+9797874;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;236;;;51761;596686.66;1052076.19;2025-04-25T00:00:00
+9797882;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;237;;;51761;596681.63;1051894.15;2013-12-01T00:00:00
+9797891;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;238;;;51761;596738.81;1052156.56;2013-12-01T00:00:00
+9797904;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;239;;;51761;596737.63;1052140.25;2013-12-01T00:00:00
+9797912;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;240;;;51761;596720.62;1052078.44;2013-12-01T00:00:00
+9797921;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;241;;;51761;596719.44;1052062.25;2013-12-01T00:00:00
+9797939;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;242;;;51761;596766.63;1052139.49;2013-12-01T00:00:00
+9797947;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;243;;;51761;596763.56;1052120.25;2013-12-01T00:00:00
+9797955;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;244;;;51761;597040.20;1052121.20;2013-12-01T00:00:00
+9797963;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;245;;;51761;597048.28;1052146.73;2013-12-01T00:00:00
+9797971;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;246;;;51761;597056.58;1052171.85;2013-12-01T00:00:00
+9797980;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;247;;;51761;597065.18;1052196.30;2013-12-01T00:00:00
+9797998;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;248;;;51761;597073.81;1052221.52;2013-12-01T00:00:00
+9798005;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;249;;;51761;597101.86;1052221.97;2013-12-01T00:00:00
+9798013;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;250;;;51761;597090.62;1052196.22;2013-12-01T00:00:00
+9798021;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;251;;;51761;597079.44;1052171.28;2013-12-01T00:00:00
+9798030;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;252;;;51761;597073.45;1052146.60;2013-12-01T00:00:00
+9798048;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;253;;;51761;597065.21;1052122.04;2013-12-01T00:00:00
+9798056;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;254;;;51761;597104.04;1052108.30;2013-12-01T00:00:00
+9798064;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;255;;;51761;597112.33;1052133.93;2013-12-01T00:00:00
+9798072;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;256;;;51761;597121.04;1052159.32;2013-12-01T00:00:00
+9798081;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;257;;;51761;597130.07;1052183.91;2013-12-01T00:00:00
+9798099;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;258;;;51761;596553.91;1053105.60;2013-12-01T00:00:00
+9798102;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;259;;;51761;596555.01;1053121.62;2013-12-01T00:00:00
+9798111;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;260;;;51761;596556.11;1053137.63;2013-12-01T00:00:00
+9798129;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;261;;;51761;596878.79;1052468.62;2013-12-01T00:00:00
+9798137;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;262;;;51761;596869.81;1052454.86;2013-12-01T00:00:00
+9798145;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;263;;;51761;596848.92;1052482.44;2013-12-01T00:00:00
+9798153;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;264;;;51761;596839.94;1052468.63;2013-12-01T00:00:00
+9798161;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;265;;;51761;596802.04;1052504.36;2013-12-01T00:00:00
+9798170;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;266;;;51761;596793.00;1052490.55;2013-12-01T00:00:00
+9798188;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;267;;;51761;596558.96;1053184.59;2013-12-01T00:00:00
+9798196;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;268;;;51761;596560.46;1053200.69;2013-12-01T00:00:00
+9798200;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;269;;;51761;596653.63;1052001.63;2013-12-01T00:00:00
+9798218;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;270;;;51761;596756.68;1052487.95;2013-12-01T00:00:00
+9798226;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;271;;;51761;596763.37;1052504.48;2013-12-01T00:00:00
+9798234;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;272;;;51761;596772.44;1052518.23;2013-12-01T00:00:00
+9798242;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;273;;;51761;596729.70;1052501.61;2013-12-01T00:00:00
+9798251;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;274;;;51761;596730.86;1052519.48;2013-12-01T00:00:00
+9798269;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;275;;;51761;596735.07;1052535.45;2013-12-01T00:00:00
+9798277;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;276;;;51761;596639.68;1053309.48;2013-12-01T00:00:00
+9798285;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;277;;;51761;596495.05;1053346.74;2013-12-01T00:00:00
+9798293;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;278;;;51761;596540.80;1053431.18;2013-12-01T00:00:00
+9798307;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;279;;;51761;596521.25;1053484.87;2013-12-01T00:00:00
+9798315;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;280;;;51761;596358.54;1053642.72;2013-12-01T00:00:00
+9798323;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;281;;;51761;596289.75;1053713.63;2013-12-01T00:00:00
+9798331;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;282;;;51761;596380.65;1053760.61;2013-12-01T00:00:00
+9798340;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;283;;;51761;596371.39;1053919.68;2013-12-01T00:00:00
+9798358;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;284;;;51761;596255.23;1054013.19;2013-12-01T00:00:00
+9798366;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;285;;;51761;596383.96;1054305.95;2013-12-01T00:00:00
+9798374;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;286;;;51761;596380.28;1054317.31;2013-12-01T00:00:00
+9798382;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;287;;;51761;596375.61;1054438.47;2013-12-01T00:00:00
+9798391;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;288;;;51761;596149.86;1054410.59;2013-12-01T00:00:00
+9798404;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;289;;;51761;596133.32;1054599.26;2013-12-01T00:00:00
+9798412;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;290;;;51761;596071.36;1054350.91;2013-12-01T00:00:00
+9798421;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;291;;;51761;596199.78;1054252.84;2013-12-01T00:00:00
+9798439;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;292;;;51761;596208.48;1054012.34;2013-12-01T00:00:00
+9798447;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;293;;;51761;596256.60;1053878.94;2013-12-01T00:00:00
+9798455;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;294;;;51761;596225.57;1053567.88;2013-12-01T00:00:00
+9798463;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;295;;;51761;596264.10;1053527.16;2013-12-01T00:00:00
+9798471;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;296;;;51761;596180.19;1053854.34;2013-12-01T00:00:00
+9798480;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;297;;;51761;596326.44;1053370.48;2013-12-01T00:00:00
+9798501;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;299;;;51761;596404.28;1053306.61;2013-12-01T00:00:00
+9798510;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;300;;;51761;596394.27;1053283.71;2013-12-01T00:00:00
+9798528;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;301;;;51761;596568.38;1052018.59;2013-12-01T00:00:00
+9798536;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;302;;;51761;596495.45;1051983.37;2013-12-01T00:00:00
+9798544;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;303;;;51761;596506.18;1051958.68;2013-12-01T00:00:00
+9798552;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;304;;;51761;596487.03;1051945.64;2013-12-01T00:00:00
+9798579;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;306;;;51761;596425.80;1051899.34;2013-12-01T00:00:00
+9798587;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;307;;;51761;596407.67;1051914.89;2013-12-01T00:00:00
+9798595;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;308;;;51761;596484.86;1051832.97;2013-12-01T00:00:00
+9798609;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;309;;;51761;596505.35;1051772.00;2013-12-01T00:00:00
+9798617;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;310;;;51761;596442.05;1051724.68;2013-12-01T00:00:00
+9798625;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;311;;;51761;596458.79;1051675.56;2013-12-01T00:00:00
+9798633;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;312;;;51761;596435.60;1051532.40;2013-12-01T00:00:00
+9798641;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;313;;;51761;596585.47;1051982.64;2013-12-01T00:00:00
+9798650;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;314;;;51761;596662.02;1051920.91;2013-12-01T00:00:00
+9798668;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;315;;;51761;596664.74;1051892.55;2013-12-01T00:00:00
+9798676;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;316;;;51761;596537.22;1051943.29;2013-12-01T00:00:00
+9798684;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;317;;;51761;596590.59;1051910.09;2013-12-01T00:00:00
+9798692;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;318;;;51761;596627.58;1051785.10;2013-12-01T00:00:00
+9798706;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;319;;;51761;596625.86;1051753.12;2013-12-01T00:00:00
+9798714;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;320;;;51761;596571.56;1051748.70;2013-12-01T00:00:00
+9798722;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;321;;;51761;596609.93;1051632.33;2013-12-01T00:00:00
+9798731;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;322;;;51761;596593.74;1051599.31;2013-12-01T00:00:00
+9798749;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;323;;;51761;596606.19;1051560.76;2013-12-01T00:00:00
+9798757;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;324;;;51761;596591.66;1051496.01;2013-12-01T00:00:00
+9798765;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;325;;;51761;596521.60;1051436.31;2013-12-01T00:00:00
+9798773;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;326;;;51761;596496.95;1051411.08;2013-12-01T00:00:00
+9798781;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;327;;;51761;596665.44;1051403.75;2013-12-01T00:00:00
+9798790;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;328;;;51761;596697.57;1051347.52;2013-12-01T00:00:00
+9798803;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;329;;;51761;596596.74;1051254.22;2013-12-01T00:00:00
+9798811;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;330;;;51761;596834.40;1051038.18;2013-12-01T00:00:00
+9798838;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;332;;;51761;597396.18;1050351.32;2013-12-01T00:00:00
+9798846;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;333;;;51761;596803.98;1050397.02;2013-12-01T00:00:00
+9798854;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;334;;;51761;596519.39;1051345.21;2013-12-01T00:00:00
+9798862;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;335;;;51761;596487.83;1051288.92;2013-12-01T00:00:00
+9798871;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;336;;;51761;596593.59;1051356.45;2013-12-01T00:00:00
+9798889;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;337;;;51761;596575.27;1051316.33;2013-12-01T00:00:00
+9798897;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;338;;;51761;596557.67;1051269.11;2013-12-01T00:00:00
+9798901;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;339;;;51761;596497.96;1051245.46;2013-12-01T00:00:00
+9798919;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;340;;;51761;596467.74;1051228.59;2013-12-01T00:00:00
+9798927;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;341;;;51761;596413.75;1051227.17;2013-12-01T00:00:00
+9798935;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;342;;;51761;596314.92;1051206.39;2013-12-01T00:00:00
+9798943;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;343;;;51761;596363.28;1051198.15;2020-09-23T00:00:00
+9798951;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;344;;;51761;596427.86;1051171.29;2013-12-01T00:00:00
+9798960;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;345;;;51761;596411.26;1051123.38;2013-12-01T00:00:00
+9798978;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;346;;;51761;596399.16;1051080.88;2013-12-01T00:00:00
+9798986;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;347;;;51761;596368.75;1051087.84;2013-12-01T00:00:00
+9798994;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;348;;;51761;596403.14;1051035.53;2013-12-01T00:00:00
+9799001;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;349;;;51761;596384.26;1050971.83;2013-12-01T00:00:00
+9799010;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;350;;;51761;596413.83;1050915.81;2013-12-01T00:00:00
+9799028;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;351;;;51761;595977.81;1050853.16;2013-12-01T00:00:00
+9799036;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;352;;;51761;595884.70;1050789.24;2013-12-01T00:00:00
+9799044;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;353;;;51761;594892.37;1051176.39;2013-12-01T00:00:00
+9799061;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;355;;;51761;596572.52;1051144.60;2013-12-01T00:00:00
+9799079;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;356;;;51761;596615.22;1051014.82;2013-12-01T00:00:00
+9799087;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;357;;;51761;596620.21;1050683.10;2013-12-01T00:00:00
+9799095;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;358;;;51761;596633.70;1050634.39;2013-12-01T00:00:00
+9799109;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;359;;;51761;596377.42;1050737.69;2013-12-01T00:00:00
+9799117;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;360;;;51761;596471.78;1050767.02;2013-12-01T00:00:00
+9799125;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;361;;;51761;596447.19;1050617.22;2013-12-01T00:00:00
+9799133;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;362;;;51761;596338.95;1050695.74;2013-12-01T00:00:00
+9799141;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;363;;;51761;596277.84;1050614.38;2013-12-01T00:00:00
+9799150;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;364;;;51761;596199.47;1050413.77;2013-12-01T00:00:00
+9799168;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;365;;;51761;596166.80;1050368.36;2013-12-01T00:00:00
+9799176;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;366;;;51761;596048.24;1050245.45;2013-12-01T00:00:00
+9799184;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;367;;;51761;595996.75;1050100.64;2013-12-01T00:00:00
+9799192;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;368;;;51761;595925.70;1050031.79;2013-12-01T00:00:00
+9799206;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;369;;;51761;595904.77;1050057.89;2013-12-01T00:00:00
+9799214;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;370;;;51761;595888.36;1050081.71;2013-12-01T00:00:00
+9799222;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;371;;;51761;596186.74;1049991.22;2013-12-01T00:00:00
+9799231;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;372;;;51761;596193.90;1050021.06;2013-12-01T00:00:00
+9799249;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;373;;;51761;596007.08;1048750.91;2013-12-01T00:00:00
+9799257;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;374;;;51761;595845.54;1050115.46;2013-12-01T00:00:00
+9799265;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;375;;;51761;595373.37;1050252.36;2013-12-01T00:00:00
+9799273;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;376;;;51761;595618.64;1050161.93;2013-12-01T00:00:00
+9799281;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;377;;;51761;595796.23;1049894.51;2025-11-14T00:00:00
+9799290;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;378;;;51761;595748.58;1049903.42;2013-12-01T00:00:00
+9799303;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;379;;;51761;595995.92;1048701.70;2013-12-01T00:00:00
+9799311;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;380;;;51761;595922.08;1048830.44;2013-12-01T00:00:00
+9799320;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;381;;;51761;595543.04;1048287.53;2013-12-01T00:00:00
+9799338;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;382;;;51761;595480.41;1049661.62;2013-12-01T00:00:00
+9799346;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;383;;;51761;595632.89;1049960.38;2013-12-01T00:00:00
+9799354;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;384;;;51761;595551.49;1049915.81;2013-12-01T00:00:00
+9799362;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;385;;;51761;595142.77;1050119.77;2013-12-01T00:00:00
+9799371;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;386;;;51761;595094.82;1050024.99;2013-12-01T00:00:00
+9799389;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;387;;;51761;594877.41;1050043.78;2013-12-01T00:00:00
+9799397;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;388;;;51761;594782.91;1050036.16;2013-12-01T00:00:00
+9799401;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;389;;;51761;594635.57;1049991.38;2013-12-01T00:00:00
+9799419;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;390;;;51761;594561.90;1049869.58;2013-12-01T00:00:00
+9799427;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;391;;;51761;594457.09;1049702.29;2013-12-01T00:00:00
+9799435;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;392;;;51761;594331.27;1049439.15;2013-12-01T00:00:00
+9799451;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;394;;;51761;593876.82;1048971.46;2013-12-01T00:00:00
+9799460;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;395;;;51761;593908.62;1049037.81;2013-12-01T00:00:00
+9799478;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;396;;;51761;593678.21;1048786.50;2013-12-01T00:00:00
+9799494;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;398;;;51761;593991.00;1049427.10;2013-12-01T00:00:00
+9799508;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;399;;;51761;593901.77;1049245.22;2013-12-01T00:00:00
+9799516;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;400;;;51761;594514.16;1049953.98;2013-12-01T00:00:00
+9799524;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;401;;;51761;594651.54;1050139.10;2013-12-01T00:00:00
+9799532;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;402;;;51761;594813.15;1050213.94;2013-12-01T00:00:00
+9799541;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;403;;;51761;594393.12;1049956.18;2013-12-01T00:00:00
+9799559;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;404;;;51761;594268.09;1049832.49;2013-12-01T00:00:00
+9799567;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;405;;;51761;594999.89;1050289.45;2013-12-01T00:00:00
+9799575;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;406;;;51761;594360.86;1050903.37;2013-12-01T00:00:00
+9799583;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;407;;;51761;594272.29;1050893.26;2018-09-21T00:00:00
+9799591;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;408;;;51761;594128.15;1051270.39;2013-12-01T00:00:00
+9799605;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;409;;;51761;594175.85;1051351.73;2013-12-01T00:00:00
+9799613;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;410;;;51761;594008.47;1051203.74;2013-12-01T00:00:00
+9799621;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;411;;;51761;594041.57;1050894.29;2013-12-01T00:00:00
+9799630;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;412;;;51761;593814.49;1050639.23;2013-12-01T00:00:00
+9799648;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;413;;;51761;593643.56;1050779.87;2013-12-01T00:00:00
+9799656;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;414;;;51761;593748.08;1050535.16;2013-12-01T00:00:00
+9799664;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;415;;;51761;594067.23;1050627.17;2013-12-01T00:00:00
+9799672;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;416;;;51761;593952.87;1050618.64;2013-12-01T00:00:00
+9799681;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;417;;;51761;593921.02;1050574.52;2013-12-01T00:00:00
+9799699;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;418;;;51761;593854.18;1050400.73;2013-12-01T00:00:00
+9799702;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;419;;;51761;593798.48;1050382.67;2013-12-01T00:00:00
+9799711;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;420;;;51761;593679.23;1050386.96;2013-12-01T00:00:00
+9799729;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;421;;;51761;593766.22;1050524.09;2013-12-01T00:00:00
+9799737;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;422;;;51761;593691.50;1050430.11;2013-12-01T00:00:00
+9799745;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;423;;;51761;593518.68;1050307.63;2013-12-01T00:00:00
+9799753;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;424;;;51761;593504.03;1050317.05;2013-12-01T00:00:00
+9799761;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;425;;;51761;593429.27;1050271.77;2013-12-01T00:00:00
+9799770;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;426;;;51761;593474.44;1050390.95;2013-12-01T00:00:00
+9799788;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;427;;;51761;593654.35;1050403.03;2013-12-01T00:00:00
+9799796;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;428;;;51761;593244.80;1050129.07;2013-12-01T00:00:00
+9799800;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;429;;;51761;593303.77;1050150.75;2013-12-01T00:00:00
+9799826;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;431;;;51761;593025.23;1050364.06;2013-12-01T00:00:00
+9799834;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;432;;;51761;592957.47;1050412.92;2013-12-01T00:00:00
+9799842;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;433;;;51761;593087.92;1050329.91;2013-12-01T00:00:00
+9799851;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;434;;;51761;592918.62;1050417.66;2013-12-01T00:00:00
+9799869;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;435;;;51761;592838.34;1050439.88;2013-12-01T00:00:00
+9799877;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;436;;;51761;592760.58;1050552.39;2013-12-01T00:00:00
+9799885;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;437;;;51761;592763.50;1051009.52;2013-12-01T00:00:00
+9799893;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;438;;;51761;592650.08;1050802.67;2013-12-01T00:00:00
+9799907;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;439;;;51761;592585.73;1051103.75;2013-12-01T00:00:00
+9799923;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;441;;;51761;592544.89;1051375.74;2013-12-01T00:00:00
+9799931;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;442;;;51761;592499.36;1051461.49;2013-12-01T00:00:00
+9799940;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;443;;;51761;592621.76;1051624.70;2013-12-01T00:00:00
+9799958;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;444;;;51761;598224.18;1051052.98;2013-12-01T00:00:00
+9799966;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;445;;;51761;598620.49;1050571.62;2013-12-01T00:00:00
+9799991;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;448;;;51761;598769.48;1050404.95;2013-12-01T00:00:00
+9800000;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;449;;;51761;598695.27;1050377.66;2013-12-01T00:00:00
+9800018;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;450;;;51761;598957.16;1050636.25;2013-12-01T00:00:00
+9800026;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;451;;;51761;598353.27;1049868.97;2013-12-01T00:00:00
+9800034;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;452;;;51761;596643.29;1053344.09;2013-12-01T00:00:00
+9800051;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.p.;454;;;51761;596616.00;1053286.00;2013-12-01T00:00:00
+9800069;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;455;;;51761;595745.34;1050312.38;2013-12-01T00:00:00
+9800077;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;456;;;51761;595660.26;1050285.45;2013-12-01T00:00:00
+9800085;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;457;;;51761;596729.92;1052257.35;2013-12-01T00:00:00
+9800093;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;458;;;51761;597106.37;1052580.73;2013-12-01T00:00:00
+9800107;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;459;;;51761;596894.85;1052598.13;2013-12-01T00:00:00
+9800115;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;460;;;51761;596921.48;1052542.47;2013-12-01T00:00:00
+9800123;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;461;;;51761;597155.13;1052176.12;2013-12-01T00:00:00
+9800131;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.p.;462;;;51761;596444.85;1052522.28;2013-12-01T00:00:00
+9800140;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;463;;;51761;596266.34;1050418.26;2018-06-20T00:00:00
+9800158;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;464;;;51761;597161.86;1052197.87;2013-12-01T00:00:00
+9800166;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;465;;;51761;597146.25;1052151.38;2013-12-01T00:00:00
+9800174;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;466;;;51761;597137.66;1052125.61;2013-12-01T00:00:00
+9800182;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;467;;;51761;597129.78;1052099.79;2013-12-01T00:00:00
+9800191;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;468;;;51761;597062.58;1052621.34;2013-12-01T00:00:00
+9800204;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;469;;;51761;597093.76;1052594.70;2013-12-01T00:00:00
+9800212;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;470;;;51761;597221.25;1052305.22;2013-12-01T00:00:00
+9800221;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;471;;;51761;597079.16;1052609.57;2013-12-01T00:00:00
+9800239;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;472;;;51761;596808.62;1052008.42;2013-12-01T00:00:00
+9800247;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;473;;;51761;596808.22;1051984.16;2013-12-01T00:00:00
+9800255;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;474;;;51761;596807.54;1051960.40;2013-12-01T00:00:00
+9800263;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;475;;;51761;596807.54;1051936.77;2013-12-01T00:00:00
+9800271;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;476;;;51761;596804.51;1051914.05;2013-12-01T00:00:00
+9800280;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;477;;;51761;596798.13;1051891.59;2013-12-01T00:00:00
+9800298;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;478;;;51761;596786.60;1051869.20;2013-12-01T00:00:00
+9800301;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;479;;;51761;596771.88;1051850.84;2013-12-01T00:00:00
+9800310;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;480;;;51761;596754.40;1051835.94;2013-12-01T00:00:00
+9800328;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;481;;;51761;596735.62;1051818.56;2013-12-01T00:00:00
+9800336;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;482;;;51761;596717.11;1051805.02;2013-12-01T00:00:00
+9800344;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;483;;;51761;596702.59;1051787.14;2013-12-01T00:00:00
+9800352;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;484;;;51761;596687.37;1051767.89;2013-12-01T00:00:00
+9800361;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;485;;;51761;596675.12;1051749.73;2013-12-01T00:00:00
+9800379;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;486;;;51761;596671.29;1051719.22;2013-12-01T00:00:00
+9800387;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;487;;;51761;596855.62;1052525.57;2013-12-01T00:00:00
+9800395;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;488;;;51761;596865.66;1052540.91;2013-12-01T00:00:00
+9800409;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;489;;;51761;596825.89;1052539.52;2013-12-01T00:00:00
+9800417;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;490;;;51761;596835.88;1052554.69;2013-12-01T00:00:00
+9800425;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;491;;;51761;596845.87;1052569.88;2013-12-01T00:00:00
+9800433;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;492;;;51761;596796.06;1052553.57;2013-12-01T00:00:00
+9800441;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;493;;;51761;596806.09;1052568.65;2013-12-01T00:00:00
+9800450;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;494;;;51761;596816.18;1052583.85;2013-12-01T00:00:00
+9800468;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;495;;;51761;596766.20;1052567.53;2013-12-01T00:00:00
+9800476;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;496;;;51761;596776.22;1052582.77;2013-12-01T00:00:00
+9800484;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;497;;;51761;596997.91;1052501.61;2013-12-01T00:00:00
+9800492;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543098;K. Poláèka;è.p.;498;;;51761;597103.83;1052534.25;2013-12-01T00:00:00
+9800514;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;500;;;51761;596559.06;1052262.94;2013-12-01T00:00:00
+9800522;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;501;;;51761;596692.18;1052008.99;2013-12-01T00:00:00
+9800531;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;502;;;51761;596600.50;1051876.30;2013-12-01T00:00:00
+9800549;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;503;;;51761;596635.34;1051744.38;2013-12-01T00:00:00
+9800557;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;504;;;51761;596605.13;1051957.48;2013-12-01T00:00:00
+9800565;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;505;;;51761;596606.94;1051950.10;2013-12-01T00:00:00
+9800573;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;506;;;51761;596613.15;1051943.71;2013-12-01T00:00:00
+9800581;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;507;;;51761;596615.14;1051936.35;2013-12-01T00:00:00
+9800590;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;508;;;51761;596622.18;1051929.80;2013-12-01T00:00:00
+9800603;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;509;;;51761;596624.04;1051922.78;2013-12-01T00:00:00
+9800611;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;510;;;51761;596769.40;1052621.18;2013-12-01T00:00:00
+9800620;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;511;;;51761;595379.00;1050269.77;2013-12-01T00:00:00
+9800638;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;512;;;51761;597372.93;1052351.73;2013-12-01T00:00:00
+9800646;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.p.;513;;;51761;597247.75;1052296.24;2013-12-01T00:00:00
+9800654;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;514;;;51761;596648.81;1051865.18;2016-08-23T00:00:00
+9800662;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;515;;;51761;596718.83;1051847.40;2013-12-01T00:00:00
+9800671;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;516;;;51761;596660.29;1051828.46;2013-12-01T00:00:00
+9800689;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;517;;;51761;596611.06;1051853.05;2013-12-01T00:00:00
+9800697;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;518;;;51761;596654.92;1051845.10;2013-12-01T00:00:00
+9800701;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;519;;;51761;596756.93;1051882.96;2013-12-01T00:00:00
+9800719;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;520;;;51761;596734.65;1051873.05;2017-02-01T00:00:00
+9800727;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;521;;;51761;596668.87;1051804.13;2013-12-01T00:00:00
+9800735;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;522;;;51761;596702.26;1051835.27;2013-12-01T00:00:00
+9800743;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;523;;;51761;596686.56;1051825.88;2013-12-01T00:00:00
+9800751;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;524;;;51761;596438.18;1050796.68;2013-12-01T00:00:00
+9800760;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;525;;;51761;596763.00;1052185.00;2013-12-01T00:00:00
+9800778;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;526;;;51761;596358.04;1052186.33;2013-12-01T00:00:00
+9800786;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;527;;;51761;596726.77;1051907.45;2013-12-01T00:00:00
+9800794;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;528;;;51761;596719.11;1051932.60;2013-12-01T00:00:00
+9800808;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;529;;;51761;596764.95;1051916.45;2013-12-01T00:00:00
+9800816;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;530;;;51761;596770.85;1051938.76;2013-12-01T00:00:00
+9800824;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;531;;;51761;596773.86;1051976.54;2013-12-01T00:00:00
+9800841;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;533;;;51761;596709.63;1051959.03;2013-12-01T00:00:00
+9800859;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;536;;;51761;596600.79;1051513.75;2013-12-01T00:00:00
+9800867;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;553;;;51761;596829.88;1052166.67;2013-12-01T00:00:00
+9800875;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;554;;;51761;596822.10;1052149.72;2013-12-01T00:00:00
+9800883;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;555;;;51761;596812.72;1052132.34;2013-12-01T00:00:00
+9800891;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;556;;;51761;596806.08;1052116.67;2013-12-01T00:00:00
+9800905;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;557;;;51761;596787.54;1052092.00;2013-12-01T00:00:00
+9800913;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;558;;;51761;596783.42;1052076.76;2013-12-01T00:00:00
+9800921;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.p.;559;;;51761;596780.61;1052059.16;2013-12-01T00:00:00
+9800930;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;1;;;51761;596403.57;1052470.67;2013-12-01T00:00:00
+9800948;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;2;;;51761;596390.82;1052452.39;2013-12-01T00:00:00
+9800956;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;3;;;51761;596409.06;1052492.12;2013-12-01T00:00:00
+9800964;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;4;;;51761;596406.61;1052512.07;2013-12-01T00:00:00
+9800972;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;5;;;51761;596389.02;1052516.23;2013-12-01T00:00:00
+9800981;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;6;;;51761;596390.42;1052495.21;2013-12-01T00:00:00
+9800999;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;7;;;51761;596372.22;1052498.32;2013-12-01T00:00:00
+9801006;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;8;;;51761;596363.89;1052472.65;2013-12-01T00:00:00
+9801014;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;9;;;51761;596370.94;1052452.72;2013-12-01T00:00:00
+9801022;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;10;;;51761;596382.88;1052469.75;2013-12-01T00:00:00
+9801031;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543101;Nad Koupalištìm;è.ev.;11;;;51761;596449.44;1052487.40;2013-12-01T00:00:00
+9801049;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.ev.;12;;;51761;596565.79;1052777.75;2019-07-15T00:00:00
+9801057;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;13;;;51761;596767.00;1053347.00;2013-12-01T00:00:00
+9801065;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;14;;;51761;596740.00;1053300.00;2013-12-01T00:00:00
+9801073;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.ev.;15;;;51761;596797.81;1052469.86;2013-12-01T00:00:00
+9801090;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543110;námìstí T. G. Masaryka;è.ev.;17;;;51761;596660.27;1052312.40;2013-12-01T00:00:00
+9801103;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;18;;;51761;596369.60;1053522.39;2013-12-01T00:00:00
+9801189;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.ev.;26;;;51761;597258.32;1052405.15;2013-12-01T00:00:00
+9801197;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.ev.;27;;;51761;597235.17;1052374.71;2013-12-01T00:00:00
+9801201;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.ev.;28;;;51761;597222.76;1052415.46;2013-12-01T00:00:00
+9801227;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.ev.;30;;;51761;597288.18;1052401.19;2013-12-01T00:00:00
+9801235;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.ev.;31;;;51761;597253.97;1052391.93;2013-12-01T00:00:00
+9801251;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.ev.;33;;;51761;597224.40;1052362.19;2013-12-01T00:00:00
+9801260;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543047;5. kvìtna;è.ev.;34;;;51761;597254.50;1052321.85;2013-12-01T00:00:00
+9801286;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712981;Kasárna;è.ev.;36;;;51761;596812.12;1053013.65;2013-12-01T00:00:00
+9801316;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712981;Kasárna;è.ev.;39;;;51761;596701.58;1053023.89;2013-12-01T00:00:00
+9801324;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712981;Kasárna;è.ev.;40;;;51761;596806.44;1053101.00;2013-12-01T00:00:00
+9801332;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712981;Kasárna;è.ev.;41;;;51761;596751.71;1053090.77;2013-12-01T00:00:00
+9801383;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712981;Kasárna;è.ev.;46;;;51761;597057.00;1052940.00;2013-12-01T00:00:00
+9801391;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712981;Kasárna;è.ev.;47;;;51761;596819.00;1052976.00;2019-05-06T00:00:00
+9801413;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.ev.;49;;;51761;596886.00;1052131.00;2013-12-01T00:00:00
+9801421;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712981;Kasárna;è.ev.;50;;;51761;596824.00;1053187.00;2013-12-01T00:00:00
+9801448;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;52;;;51761;594669.00;1050014.00;2016-04-20T00:00:00
+9801456;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543144;Sídlištì 1. máje;è.ev.;53;;;51761;596728.87;1052238.10;2013-12-01T00:00:00
+9801464;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;54;;;51761;596281.76;1054045.17;2013-12-01T00:00:00
+9801472;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;55;;;51761;596674.00;1053246.00;2013-12-01T00:00:00
+9801481;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;56;;;51761;596673.00;1053242.00;2013-12-01T00:00:00
+9801499;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;57;;;51761;596674.00;1053239.00;2013-12-01T00:00:00
+9801502;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;58;;;51761;596673.00;1053236.00;2013-12-01T00:00:00
+9801511;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;59;;;51761;596673.00;1053232.00;2013-12-01T00:00:00
+9801529;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;60;;;51761;596672.00;1053229.00;2013-12-01T00:00:00
+9801537;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;61;;;51761;596672.00;1053226.00;2013-12-01T00:00:00
+9801545;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;62;;;51761;596672.00;1053223.00;2013-12-01T00:00:00
+9801553;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;63;;;51761;596672.00;1053219.00;2013-12-01T00:00:00
+9801561;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;64;;;51761;596671.00;1053216.00;2013-12-01T00:00:00
+9801570;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;65;;;51761;596671.00;1053212.00;2013-12-01T00:00:00
+9801588;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;66;;;51761;596670.00;1053209.00;2013-12-01T00:00:00
+9801596;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;67;;;51761;596670.00;1053206.00;2013-12-01T00:00:00
+9801600;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;70;;;51761;593184.51;1049277.03;2013-12-01T00:00:00
+9801618;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;71;;;51761;;;2011-07-01T00:00:00
+25470124;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;73;;;51761;593349.45;1050278.88;2013-12-01T00:00:00
+25599526;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;76;;;51761;597188.89;1051837.05;2013-12-01T00:00:00
+25599534;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.ev.;77;;;51761;596701.11;1052666.16;2013-12-01T00:00:00
+25776771;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543055;Dolní Sídlištì;è.ev.;68;;;51761;596670.00;1053202.00;2013-12-01T00:00:00
+25776797;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;72;;;51761;596400.57;1053375.46;2013-12-01T00:00:00
+25939564;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.ev.;78;;;51761;596580.40;1052527.61;2020-03-19T00:00:00
+25989260;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.ev.;1;;;51761;599582.44;1050622.38;2013-12-01T00:00:00
+26052989;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;537;;;51761;596471.14;1051061.38;2013-12-01T00:00:00
+26052997;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;538;;;51761;596445.35;1050854.60;2016-12-13T00:00:00
+26053004;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;539;;;51761;596347.68;1050728.04;2013-12-01T00:00:00
+26137275;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;79;;;51761;594028.48;1049158.20;2013-12-01T00:00:00
+27466892;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;90;;;51761;596576.38;1051706.06;2013-12-01T00:00:00
+27466914;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;81;;;51761;593673.09;1050308.88;2013-12-01T00:00:00
+27539385;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;540;;;51761;596651.84;1053365.66;2014-10-16T00:00:00
+27888843;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;541;;;51761;596682.52;1052271.54;2013-12-01T00:00:00
+28200811;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;543;;;51761;596652.00;1051362.00;2013-12-01T00:00:00
+28297075;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;91;;;51761;592847.58;1050403.96;2013-12-01T00:00:00
+40301788;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;544;;;51761;595613.87;1050115.08;2013-12-01T00:00:00
+41352092;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;905267;Sedmidomí;è.p.;549;;;51761;597095.59;1052423.67;2013-12-01T00:00:00
+41441044;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;905267;Sedmidomí;è.p.;548;;;51761;597123.81;1052408.30;2013-12-01T00:00:00
+42509009;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;905267;Sedmidomí;è.p.;551;;;51761;597123.54;1052463.73;2013-12-01T00:00:00
+42825296;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;905267;Sedmidomí;è.p.;552;;;51761;597138.58;1052485.83;2014-01-02T00:00:00
+71643001;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;560;;;51761;593531.99;1050420.66;2014-07-16T00:00:00
+72150262;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;562;;;51761;593579.36;1050449.46;2014-04-02T00:00:00
+72455250;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;92;;;51761;593740.78;1050596.79;2014-03-25T00:00:00
+73864072;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;572;;;51761;596841.74;1052687.11;2015-08-03T00:00:00
+73865338;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;447;;;51761;598831.18;1050711.94;2015-12-21T00:00:00
+74186175;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;545;;;51761;595572.30;1050081.78;2015-12-08T00:00:00
+74205137;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;571;;;51761;593731.25;1050556.52;2015-11-27T00:00:00
+74392522;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;100;;;51761;596456.99;1052985.28;2015-12-18T00:00:00
+74809415;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543179;Školní;è.p.;573;;;51761;596913.35;1052668.30;2016-04-28T00:00:00
+75602954;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543080;J. V. Sládka;è.p.;574;;;51761;596632.32;1052753.34;2016-12-22T00:00:00
+77561805;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.ev.;305;;;51761;596367.20;1051968.66;2018-07-18T00:00:00
+77697740;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;575;;;51761;596580.34;1053313.18;2017-10-05T00:00:00
+77709730;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;178;;;51761;600681.06;1050242.56;2017-11-03T00:00:00
+77714351;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;179;;;51761;599480.93;1049109.51;2017-12-14T00:00:00
+78331757;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;181;;;51761;600718.10;1048146.23;2018-05-10T00:00:00
+78447798;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.p.;180;;;51761;598222.91;1047580.78;2018-06-19T00:00:00
+79257101;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;905267;Sedmidomí;è.p.;550;;;51761;597108.32;1052445.51;2019-04-16T00:00:00
+79441637;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543152;U Nádraží;è.p.;577;;;51761;596797.16;1052417.44;2019-06-06T00:00:00
+79567428;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;712981;Kasárna;è.ev.;45;;;51761;596860.89;1053092.23;2019-07-10T00:00:00
+79999310;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;578;;;51761;596528.83;1052012.18;2019-10-29T00:00:00
+80450997;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;563;;;51761;593630.96;1050500.08;2020-03-03T00:00:00
+81776403;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;576;;;51761;596560.59;1053347.14;2021-04-29T00:00:00
+82610096;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;579;;;51761;596516.92;1053013.31;2022-02-10T00:00:00
+82613028;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;564;;;51761;593655.09;1050466.11;2022-02-07T00:00:00
+85163171;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;546;;;51761;595618.86;1050083.99;2023-05-05T00:00:00
+85263630;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;580;;;51761;596468.70;1052118.89;2023-06-01T00:00:00
+85332691;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543136;Severní;è.p.;535;;;51761;596668.85;1051971.47;2023-07-14T00:00:00
+85647527;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;582;;;51761;596314.37;1051154.66;2023-10-09T00:00:00
+85689742;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;581;;;51761;596471.89;1052161.31;2023-10-23T00:00:00
+86325345;576701;Rokytnice v Orlických horách;;;;;101770;Nebeská Rybná;;;è.ev.;4;;;51761;598478.71;1047496.18;2024-07-02T00:00:00
+86698109;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;2618613;Údolí Rokytenky;è.p.;583;;;51761;596549.03;1052496.95;2024-12-16T00:00:00
+86722557;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543161;Zahradní;è.p.;585;;;51761;597121.30;1052075.89;2025-01-22T00:00:00
+87042304;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;584;;;51761;596474.12;1050822.74;2025-05-21T00:00:00
+87171881;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543128;Horská;è.p.;588;;;51761;596592.91;1052181.48;2025-07-11T00:00:00
+87229625;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;586;;;51761;593547.78;1050386.36;2025-08-13T00:00:00
+87230780;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;;;è.p.;565;;;51761;593650.08;1050530.44;2025-08-13T00:00:00
+87450011;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;590;;;51761;596705.98;1052713.76;2025-11-24T00:00:00
+87492237;576701;Rokytnice v Orlických horách;;;;;141054;Rokytnice v Orlických horách;543063;Støíbrný vrch;è.p.;589;;;51761;596576.60;1053041.26;2025-12-04T00:00:00

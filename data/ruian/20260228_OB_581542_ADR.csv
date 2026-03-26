@@ -1,0 +1,520 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód obvodu Prahy;Název obvodu Prahy;Kód èásti obce;Název èásti obce;Kód ulice;Název ulice;Typ SO;Èíslo domovní;Èíslo orientaèní;Znak èísla orientaèního;PSÈ;Souøadnice Y;Souøadnice X;Platí Od
+7813589;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;1;;;67911;593718.85;1134520.19;2013-12-01T00:00:00
+7813597;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;2;;;67911;593726.78;1134504.61;2013-12-01T00:00:00
+7813619;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;4;;;67911;593615.65;1134191.20;2020-08-12T00:00:00
+7813627;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;5;;;67911;593739.37;1134477.11;2013-12-01T00:00:00
+7813635;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;6;;;67911;593746.20;1134448.71;2013-12-01T00:00:00
+7813643;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;7;;;67911;593749.07;1134430.71;2013-12-01T00:00:00
+7813651;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;8;;;67911;593750.17;1134409.39;2013-12-01T00:00:00
+7813678;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;10;;;67911;593729.31;1134378.25;2013-12-01T00:00:00
+7813686;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;11;;;67911;593710.95;1134378.87;2013-12-01T00:00:00
+7813694;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;12;;;67911;593698.92;1134383.68;2013-12-01T00:00:00
+7813708;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;13;;;67911;593693.95;1134379.26;2013-12-01T00:00:00
+7813716;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;14;;;67911;593672.00;1134367.45;2013-12-01T00:00:00
+7813732;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;16;;;67911;593663.83;1134336.09;2013-12-01T00:00:00
+7813741;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;17;;;67911;593662.31;1134315.72;2013-12-01T00:00:00
+7813759;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;18;;;67911;593649.40;1134291.76;2013-12-01T00:00:00
+7813767;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;19;;;67911;593579.56;1134321.98;2013-12-01T00:00:00
+7813775;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;20;;;67911;593540.75;1134243.89;2013-12-01T00:00:00
+7813783;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;21;;;67911;593525.34;1134231.00;2013-12-01T00:00:00
+7813791;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;22;;;67911;594649.08;1133661.80;2013-12-01T00:00:00
+7813805;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;24;;;67911;593537.35;1134212.85;2013-12-01T00:00:00
+7813813;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;25;;;67911;593571.37;1134253.08;2013-12-01T00:00:00
+7813821;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;26;;;67911;593597.48;1134264.21;2013-12-01T00:00:00
+7813830;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;27;;;67911;593619.57;1134250.01;2013-12-01T00:00:00
+7813848;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;28;;;67911;593642.79;1134272.60;2013-12-01T00:00:00
+7813856;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;29;;;67911;593678.23;1134279.46;2013-12-01T00:00:00
+7813872;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;31;;;67911;593710.88;1134276.21;2013-12-01T00:00:00
+7813881;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;32;;;67911;593735.37;1134270.30;2013-12-01T00:00:00
+7813899;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;33;;;67911;593737.79;1134252.05;2013-12-01T00:00:00
+7813902;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;34;;;67911;593728.27;1134223.13;2013-12-01T00:00:00
+7813911;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;35;;;67911;593708.19;1134144.14;2013-12-01T00:00:00
+7813929;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;36;;;67911;593703.45;1134130.07;2013-12-01T00:00:00
+7813937;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;37;;;67911;593628.70;1134195.37;2013-12-01T00:00:00
+7813945;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;38;;;67911;593499.59;1134170.88;2013-12-01T00:00:00
+7813953;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;39;;;67911;593540.44;1134180.66;2013-12-01T00:00:00
+7813961;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;40;;;67911;593561.00;1134179.73;2013-12-01T00:00:00
+7813970;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;41;;;67911;593612.84;1134181.49;2013-12-01T00:00:00
+7813988;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;42;;;67911;593628.16;1134183.51;2013-12-01T00:00:00
+7813996;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;43;;;67911;593653.19;1134184.60;2013-12-01T00:00:00
+7814003;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;44;;;67911;593705.99;1133981.80;2013-12-01T00:00:00
+7814011;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;45;;;67911;593664.15;1134026.55;2013-12-01T00:00:00
+7814038;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;47;;;67911;593724.65;1133990.11;2013-12-01T00:00:00
+7814046;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;48;;;67911;593709.79;1134003.83;2013-12-01T00:00:00
+7814054;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;49;;;67911;593701.22;1134012.60;2013-12-01T00:00:00
+7814062;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;50;;;67911;593693.98;1134020.66;2013-12-01T00:00:00
+7814071;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;51;;;67911;593686.64;1134029.84;2013-12-01T00:00:00
+7814089;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;52;;;67911;593683.07;1134054.76;2013-12-01T00:00:00
+7814097;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;54;;;67911;593748.74;1134200.96;2013-12-01T00:00:00
+7814101;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;55;;;67911;593770.46;1134185.90;2013-12-01T00:00:00
+7814119;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;56;;;67911;593783.80;1134167.02;2013-12-01T00:00:00
+7814127;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;57;;;67911;593797.14;1134147.38;2013-12-01T00:00:00
+7814135;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;58;;;67911;593810.81;1134130.74;2013-12-01T00:00:00
+7814143;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;59;;;67911;593821.10;1134110.15;2013-12-01T00:00:00
+7814151;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;60;;;67911;593828.92;1134097.38;2013-12-01T00:00:00
+7814160;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;61;;;67911;593845.29;1134073.06;2013-12-01T00:00:00
+7814178;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;62;;;67911;593857.48;1134061.62;2013-12-01T00:00:00
+7814186;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;63;;;67911;593875.39;1134042.17;2013-12-01T00:00:00
+7814194;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;64;;;67911;593970.76;1133854.15;2013-12-01T00:00:00
+7814208;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;65;;;67911;593961.09;1133937.92;2013-12-01T00:00:00
+7814224;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;67;;;67911;594102.10;1133895.69;2013-12-01T00:00:00
+7814232;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;68;;;67911;593916.96;1134029.56;2013-12-01T00:00:00
+7814241;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;69;;;67911;593837.99;1134125.57;2013-12-01T00:00:00
+7814259;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;70;;;67911;593837.63;1133819.80;2013-12-01T00:00:00
+7814267;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;71;;;67911;593883.12;1134056.49;2013-12-01T00:00:00
+7814275;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;72;;;67911;593852.95;1134099.09;2013-12-01T00:00:00
+7814283;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;73;;;67911;593848.02;1134102.30;2013-12-01T00:00:00
+7814291;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;74;;;67911;593825.93;1134148.73;2013-12-01T00:00:00
+7814305;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;75;;;67911;593804.00;1134172.82;2013-12-01T00:00:00
+7814313;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;76;;;67911;593796.19;1134183.69;2013-12-01T00:00:00
+7814321;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;77;;;67911;593786.03;1134201.67;2013-12-01T00:00:00
+7814330;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;78;;;67911;593765.00;1134225.16;2013-12-01T00:00:00
+7814348;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;79;;;67911;593759.75;1134253.31;2013-12-01T00:00:00
+7814356;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;80;;;67911;593760.72;1134270.57;2013-12-01T00:00:00
+7814364;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;81;;;67911;593760.50;1134289.09;2013-12-01T00:00:00
+7814372;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;82;;;67911;593762.93;1134302.86;2013-12-01T00:00:00
+7814381;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;83;;;67911;593762.12;1134321.36;2013-12-01T00:00:00
+7814399;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;84;;;67911;593763.86;1134341.63;2013-12-01T00:00:00
+7814402;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;85;;;67911;593764.99;1134361.02;2013-12-01T00:00:00
+7814429;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;87;;;67911;593550.34;1133920.16;2013-12-01T00:00:00
+7814437;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;88;;;67911;593767.74;1134399.89;2013-12-01T00:00:00
+7814445;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;89;;;67911;593781.46;1134410.23;2013-12-01T00:00:00
+7814453;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;90;;;67911;593793.00;1134439.91;2013-12-01T00:00:00
+7814461;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;91;;;67911;593869.46;1134488.74;2013-12-01T00:00:00
+7814470;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17281;Na Horce;è.p.;92;;;67911;593901.27;1134421.15;2013-12-01T00:00:00
+7814488;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17281;Na Horce;è.p.;93;;;67911;593915.80;1134445.45;2013-12-01T00:00:00
+7814496;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;94;;;67911;593830.76;1133825.99;2013-12-01T00:00:00
+7814500;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;95;;;67911;593979.69;1133698.09;2013-12-01T00:00:00
+7814518;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;96;;;67911;593766.99;1134516.25;2013-12-01T00:00:00
+7814526;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;97;;;67911;593737.43;1134521.03;2017-03-17T00:00:00
+7814534;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;98;;;67911;593627.76;1134001.11;2013-12-01T00:00:00
+7814542;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17248;Hamry;è.p.;99;;;67911;593911.20;1134998.79;2013-12-01T00:00:00
+7814551;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17248;Hamry;è.p.;100;;;67911;594104.81;1135384.94;2013-12-01T00:00:00
+7814569;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;101;;;67911;593550.35;1133959.05;2013-12-01T00:00:00
+7814577;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;102;;;67911;593677.18;1134186.78;2013-12-01T00:00:00
+7814585;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;104;;;67911;593694.58;1133987.41;2013-12-01T00:00:00
+7814593;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;105;;;67911;593688.26;1133996.85;2013-12-01T00:00:00
+7814615;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;107;;;67911;593681.82;1134205.21;2013-12-01T00:00:00
+7814623;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;108;;;67911;593690.72;1134042.08;2013-12-01T00:00:00
+7814631;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;109;;;67911;593439.67;1133922.57;2013-12-01T00:00:00
+7814640;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;110;;;67911;593716.49;1133997.56;2013-12-01T00:00:00
+7814658;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;111;;;67911;593667.71;1133987.98;2013-12-01T00:00:00
+7814666;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;112;;;67911;593666.69;1134004.81;2013-12-01T00:00:00
+7814674;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;113;;;67911;593613.27;1133992.21;2013-12-01T00:00:00
+7814682;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;114;;;67911;593648.65;1133988.49;2013-12-01T00:00:00
+7814691;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;115;;;67911;593680.22;1133969.29;2016-05-19T00:00:00
+7814704;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17281;Na Horce;è.p.;116;;;67911;593926.49;1134532.58;2013-12-01T00:00:00
+7814712;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;117;;;67911;593885.29;1134001.62;2013-12-01T00:00:00
+7814721;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;118;;;67911;593887.76;1133964.36;2013-12-01T00:00:00
+7814739;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;119;;;67911;593889.67;1133951.01;2013-12-01T00:00:00
+7814747;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;120;;;67911;593880.72;1134026.02;2013-12-01T00:00:00
+7814755;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;121;;;67911;593807.62;1133918.05;2013-12-01T00:00:00
+7814763;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;122;;;67911;593887.00;1133985.03;2013-12-01T00:00:00
+7814771;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;123;;;67911;593967.42;1133984.86;2013-12-01T00:00:00
+7814780;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;124;;;67911;593987.84;1133963.74;2013-12-01T00:00:00
+7814798;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;125;;;67911;594002.89;1133947.81;2013-12-01T00:00:00
+7814801;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;126;;;67911;594019.14;1133932.10;2013-12-01T00:00:00
+7814810;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;127;;;67911;593814.29;1133910.43;2013-12-01T00:00:00
+7814836;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;131;;;67911;593697.13;1134112.70;2013-12-01T00:00:00
+7814844;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;132;;;67911;593786.67;1133943.92;2013-12-01T00:00:00
+7814852;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;133;;;67911;593833.28;1134083.93;2013-12-01T00:00:00
+7814861;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;134;;;67911;593469.97;1133922.95;2013-12-01T00:00:00
+7814879;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;135;;;67911;593697.15;1134172.80;2013-12-01T00:00:00
+7814887;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;136;;;67911;593691.61;1134160.54;2013-12-01T00:00:00
+7814895;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;137;;;67911;593687.19;1134148.41;2013-12-01T00:00:00
+7814909;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;138;;;67911;593681.71;1134135.35;2013-12-01T00:00:00
+7814917;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;139;;;67911;593677.11;1134122.89;2013-12-01T00:00:00
+7814925;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;140;;;67911;593672.22;1134107.22;2013-12-01T00:00:00
+7814933;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;141;;;67911;593566.73;1133968.01;2013-12-01T00:00:00
+7814941;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;142;;;67911;593768.76;1133981.10;2013-12-01T00:00:00
+7814950;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;143;;;67911;593669.92;1134090.85;2013-12-01T00:00:00
+7814968;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;144;;;67911;593667.62;1134076.27;2013-12-01T00:00:00
+7814976;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;145;;;67911;593665.68;1134065.04;2013-12-01T00:00:00
+7814984;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;146;;;67911;594023.98;1133849.84;2013-12-01T00:00:00
+7814992;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;147;;;67911;594010.15;1133939.85;2013-12-01T00:00:00
+7815000;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;148;;;67911;593796.02;1133933.10;2013-12-01T00:00:00
+7815018;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17281;Na Horce;è.p.;149;;;67911;593906.30;1134557.20;2013-12-01T00:00:00
+7815026;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;150;;;67911;593624.55;1134288.98;2013-12-01T00:00:00
+7815042;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;152;;;67911;593663.68;1134057.08;2013-12-01T00:00:00
+7815051;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;153;;;67911;593501.78;1133936.78;2013-12-01T00:00:00
+7815069;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;154;;;67911;593379.66;1133840.14;2013-12-01T00:00:00
+7815077;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;155;;;67911;593832.42;1134134.88;2013-12-01T00:00:00
+7815085;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;156;;;67911;593649.78;1134015.63;2013-12-01T00:00:00
+7815093;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;157;;;67911;593824.11;1133830.12;2013-12-01T00:00:00
+7815107;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;158;;;67911;593819.06;1133835.86;2013-12-01T00:00:00
+7815115;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;159;;;67911;593812.87;1133842.51;2013-12-01T00:00:00
+7815123;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;160;;;67911;593539.88;1133912.13;2013-12-01T00:00:00
+7815131;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;161;;;67911;593805.31;1133850.31;2013-12-01T00:00:00
+7815140;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;162;;;67911;593892.09;1133922.57;2013-12-01T00:00:00
+7815158;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;163;;;67911;593759.29;1133903.42;2013-12-01T00:00:00
+7815166;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;164;;;67911;593766.40;1133894.48;2013-12-01T00:00:00
+7815174;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;165;;;67911;593416.63;1133924.61;2013-12-01T00:00:00
+7815191;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;167;;;67911;593366.57;1133859.15;2013-12-01T00:00:00
+7815204;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17281;Na Horce;è.p.;168;;;67911;593906.94;1134487.56;2013-12-01T00:00:00
+7815212;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17281;Na Horce;è.p.;169;;;67911;593907.64;1134494.92;2013-12-01T00:00:00
+7815221;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;170;;;67911;593732.47;1133930.49;2013-12-01T00:00:00
+7815239;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;171;;;67911;593738.43;1133924.53;2013-12-01T00:00:00
+7815247;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;172;;;67911;593746.45;1133917.19;2013-12-01T00:00:00
+7815255;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;173;;;67911;593795.91;1133861.78;2013-12-01T00:00:00
+7815263;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;174;;;67911;593824.37;1133893.32;2013-12-01T00:00:00
+7815271;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;175;;;67911;593726.74;1133934.85;2013-12-01T00:00:00
+7815280;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;176;;;67911;593696.02;1133930.49;2013-12-01T00:00:00
+7815298;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;177;;;67911;593702.67;1133931.64;2013-12-01T00:00:00
+7815301;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;178;;;67911;593702.90;1133879.33;2013-12-01T00:00:00
+7815310;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;179;;;67911;593831.74;1133883.47;2013-12-01T00:00:00
+7815328;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;180;;;67911;593838.99;1133875.13;2013-12-01T00:00:00
+7815336;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;181;;;67911;593713.91;1133819.80;2013-12-01T00:00:00
+7815344;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;182;;;67911;593717.99;1133827.01;2013-12-01T00:00:00
+7815352;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;183;;;67911;593896.07;1133888.66;2013-12-01T00:00:00
+7815361;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;184;;;67911;593848.11;1133868.42;2013-12-01T00:00:00
+7815379;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;185;;;67911;593856.17;1133865.42;2013-12-01T00:00:00
+7815387;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;186;;;67911;593865.46;1133861.21;2013-12-01T00:00:00
+7815395;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;187;;;67911;593871.47;1133859.02;2013-12-01T00:00:00
+7815409;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;188;;;67911;593898.51;1133878.71;2013-12-01T00:00:00
+7815417;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;189;;;67911;593773.74;1133885.07;2013-12-01T00:00:00
+7815425;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;190;;;67911;593899.80;1133867.51;2013-12-01T00:00:00
+7815433;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;191;;;67911;593897.70;1133861.53;2013-12-01T00:00:00
+7815441;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;192;;;67911;593901.74;1133852.45;2013-12-01T00:00:00
+7815450;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;193;;;67911;594040.48;1133917.18;2013-12-01T00:00:00
+7815468;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;194;;;67911;593772.90;1133955.32;2013-12-01T00:00:00
+7815476;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;195;;;67911;593385.94;1134132.99;2013-12-01T00:00:00
+7815484;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;196;;;67911;593374.85;1134130.43;2013-12-01T00:00:00
+7815492;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;197;;;67911;593361.85;1134127.66;2013-12-01T00:00:00
+7815506;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;198;;;67911;593347.78;1134124.46;2013-12-01T00:00:00
+7815514;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;199;;;67911;593336.68;1134121.96;2013-12-01T00:00:00
+7815522;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;200;;;67911;593325.02;1134119.54;2013-12-01T00:00:00
+7815531;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;201;;;67911;593311.15;1134115.14;2013-12-01T00:00:00
+7815549;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;202;;;67911;593303.26;1134114.07;2013-12-01T00:00:00
+7815557;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;203;;;67911;593287.91;1134111.30;2013-12-01T00:00:00
+7815565;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;204;;;67911;593277.89;1134111.09;2013-12-01T00:00:00
+7815573;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;205;;;67911;593266.81;1134107.68;2013-12-01T00:00:00
+7815581;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;206;;;67911;593252.14;1134104.26;2013-12-01T00:00:00
+7815590;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;207;;;67911;593243.83;1134102.77;2013-12-01T00:00:00
+7815603;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;208;;;67911;593230.70;1134099.73;2013-12-01T00:00:00
+7815611;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;209;;;67911;593218.34;1134097.81;2013-12-01T00:00:00
+7815620;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;210;;;67911;593206.40;1134094.61;2013-12-01T00:00:00
+7815638;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;211;;;67911;593194.47;1134093.12;2013-12-01T00:00:00
+7815646;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;212;;;67911;593183.59;1134090.56;2013-12-01T00:00:00
+7815654;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;213;;;67911;593172.30;1134088.85;2013-12-01T00:00:00
+7815662;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;214;;;67911;593160.79;1134086.08;2013-12-01T00:00:00
+7815671;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;215;;;67911;593149.28;1134085.01;2013-12-01T00:00:00
+7815689;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;216;;;67911;593914.89;1133972.60;2013-12-01T00:00:00
+7815697;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;217;;;67911;593923.78;1133973.81;2013-12-01T00:00:00
+7815701;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17299;Na Rybníku;è.p.;218;;;67911;593969.67;1134778.33;2013-12-01T00:00:00
+7815719;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;219;;;67911;593705.33;1133867.90;2013-12-01T00:00:00
+7815727;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;220;;;67911;593235.79;1134128.68;2013-12-01T00:00:00
+7815735;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;221;;;67911;593252.85;1134133.16;2013-12-01T00:00:00
+7815743;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;222;;;67911;593262.23;1134134.65;2013-12-01T00:00:00
+7815751;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;223;;;67911;593409.10;1134135.40;2013-12-01T00:00:00
+7815760;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;224;;;67911;593397.64;1134133.46;2013-12-01T00:00:00
+7815778;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;225;;;67911;593754.02;1133909.62;2013-12-01T00:00:00
+7815786;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;226;;;67911;593787.66;1133869.58;2013-12-01T00:00:00
+7815794;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;227;;;67911;594036.28;1134038.22;2013-12-01T00:00:00
+7815808;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;228;;;67911;593907.97;1133796.70;2013-12-01T00:00:00
+7815816;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;229;;;67911;593275.66;1134138.06;2013-12-01T00:00:00
+7815824;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;230;;;67911;593288.66;1134140.20;2013-12-01T00:00:00
+7815832;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;231;;;67911;593210.07;1134183.78;2013-12-01T00:00:00
+7815841;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;232;;;67911;593453.25;1133921.66;2013-12-01T00:00:00
+7815859;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;233;;;67911;593847.24;1133813.06;2013-12-01T00:00:00
+7815867;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17299;Na Rybníku;è.p.;234;;;67911;593966.79;1134761.58;2013-12-01T00:00:00
+7815875;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17248;Hamry;è.p.;235;;;67911;593984.25;1135026.48;2013-12-01T00:00:00
+7815883;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;236;;;67911;593661.38;1134045.76;2013-12-01T00:00:00
+7815891;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;237;;;67911;593329.38;1134148.17;2013-12-01T00:00:00
+7815905;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;238;;;67911;593358.76;1134153.34;2013-12-01T00:00:00
+7815913;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;239;;;67911;593202.83;1134121.66;2013-12-01T00:00:00
+7815921;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;240;;;67911;593190.47;1134119.52;2013-12-01T00:00:00
+7815930;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;241;;;67911;593165.95;1134115.04;2013-12-01T00:00:00
+7815948;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;242;;;67911;593180.02;1134181.17;2013-12-01T00:00:00
+7815956;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;243;;;67911;593378.45;1134158.83;2013-12-01T00:00:00
+7815964;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;244;;;67911;593156.57;1134173.28;2013-12-01T00:00:00
+7815972;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;245;;;67911;593321.96;1134147.85;2013-12-01T00:00:00
+7815981;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;246;;;67911;593345.36;1134152.21;2013-12-01T00:00:00
+7815999;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;247;;;67911;593084.73;1134168.15;2023-03-14T00:00:00
+7816006;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;248;;;67911;593075.00;1134170.42;2013-12-01T00:00:00
+7816014;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;249;;;67911;593359.31;1133853.84;2013-12-01T00:00:00
+7816022;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;250;;;67911;593145.28;1134169.44;2013-12-01T00:00:00
+7816031;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;251;;;67911;594294.89;1133939.17;2013-12-01T00:00:00
+7816049;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;252;;;67911;594293.81;1133946.07;2013-12-01T00:00:00
+7816057;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;253;;;67911;593089.49;1134173.83;2013-12-01T00:00:00
+7816065;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;254;;;67911;593143.14;1134109.29;2013-12-01T00:00:00
+7816073;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;255;;;67911;593409.08;1134170.69;2013-12-01T00:00:00
+7816081;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;256;;;67911;593987.24;1134061.16;2013-12-01T00:00:00
+7816090;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;257;;;67911;593134.40;1134166.67;2013-12-01T00:00:00
+7816103;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;258;;;67911;593991.19;1134030.79;2013-12-01T00:00:00
+7816111;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;259;;;67911;593168.51;1134177.76;2013-12-01T00:00:00
+7816120;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;260;;;67911;593179.17;1134116.75;2013-12-01T00:00:00
+7816138;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;261;;;67911;593133.12;1134107.15;2013-12-01T00:00:00
+7816146;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;262;;;67911;593119.97;1134183.01;2013-12-01T00:00:00
+7816154;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;263;;;67911;593109.53;1134181.51;2013-12-01T00:00:00
+7816162;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;264;;;67911;593462.44;1133920.53;2013-12-01T00:00:00
+7816171;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699098;Vìtrná;è.p.;265;;;67911;593493.92;1134329.31;2013-12-01T00:00:00
+7816189;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;266;;;67911;594290.14;1133962.48;2013-12-01T00:00:00
+7816197;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;267;;;67911;594289.49;1133970.90;2013-12-01T00:00:00
+7816201;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;268;;;67911;594286.91;1133980.61;2013-12-01T00:00:00
+7816219;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;269;;;67911;594285.40;1133989.46;2013-12-01T00:00:00
+7816227;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;270;;;67911;594011.87;1134162.87;2013-12-01T00:00:00
+7816235;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;271;;;67911;593972.35;1133677.17;2013-12-01T00:00:00
+7816243;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17299;Na Rybníku;è.p.;272;;;67911;593962.21;1134710.28;2013-12-01T00:00:00
+7816251;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;273;;;67911;593156.36;1134111.84;2013-12-01T00:00:00
+7816260;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;274;;;67911;593110.96;1134159.63;2013-12-01T00:00:00
+7816278;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;275;;;67911;593122.25;1134163.04;2013-12-01T00:00:00
+7816286;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;276;;;67911;594007.38;1134177.75;2013-12-01T00:00:00
+7816294;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;277;;;67911;594006.59;1134118.45;2013-12-01T00:00:00
+7816308;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17281;Na Horce;è.p.;278;;;67911;593983.77;1134526.63;2013-12-01T00:00:00
+7816316;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;279;;;67911;593749.18;1134424.19;2013-12-01T00:00:00
+7816324;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;280;;;67911;593346.77;1133839.46;2013-12-01T00:00:00
+7816332;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17329;Jarní;è.p.;281;;;67911;593577.11;1134844.73;2013-12-01T00:00:00
+7816341;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;282;;;67911;594356.50;1133772.83;2013-12-01T00:00:00
+7816359;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;283;;;67911;594380.91;1133754.33;2013-12-01T00:00:00
+7816367;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;284;;;67911;594408.83;1133748.76;2013-12-01T00:00:00
+7816375;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;285;;;67911;594450.45;1133741.52;2013-12-01T00:00:00
+7816383;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;286;;;67911;594540.14;1133719.14;2013-12-01T00:00:00
+7816391;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;287;;;67911;594565.86;1133703.10;2013-12-01T00:00:00
+7816405;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;288;;;67911;594524.70;1133654.28;2013-12-01T00:00:00
+7816413;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;289;;;67911;594507.99;1133623.33;2019-04-09T00:00:00
+7816421;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;290;;;67911;594537.56;1133620.08;2013-12-01T00:00:00
+7816430;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;291;;;67911;594570.26;1133665.34;2013-12-01T00:00:00
+7816448;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;292;;;67911;594594.04;1133674.00;2013-12-01T00:00:00
+7816456;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;293;;;67911;594827.88;1133665.32;2013-12-01T00:00:00
+7816464;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;294;;;67911;594653.24;1133697.94;2013-12-01T00:00:00
+7816472;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;295;;;67911;594641.48;1133704.79;2013-12-01T00:00:00
+7816481;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;296;;;67911;594572.85;1133729.62;2013-12-01T00:00:00
+7816499;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;297;;;67911;594485.22;1133785.24;2013-12-01T00:00:00
+7816502;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;298;;;67911;594438.05;1133791.58;2013-12-01T00:00:00
+7816511;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;299;;;67911;594455.31;1133862.49;2013-12-01T00:00:00
+7816529;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;300;;;67911;594455.91;1133874.69;2013-12-01T00:00:00
+7816537;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;301;;;67911;594455.37;1133880.65;2013-12-01T00:00:00
+7816545;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;302;;;67911;594457.75;1133915.78;2013-12-01T00:00:00
+7816553;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;304;;;67911;594329.19;1133813.17;2013-12-01T00:00:00
+7816561;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;305;;;67911;594330.72;1133850.45;2013-12-01T00:00:00
+7816570;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;306;;;67911;594347.64;1133884.99;2013-12-01T00:00:00
+7816588;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;307;;;67911;594302.50;1133922.04;2013-12-01T00:00:00
+7816596;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;308;;;67911;594498.27;1133628.61;2013-12-01T00:00:00
+7816600;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;309;;;67911;593994.45;1134221.77;2013-12-01T00:00:00
+7816618;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;310;;;67911;593420.88;1134137.98;2013-12-01T00:00:00
+7816626;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;311;;;67911;593135.96;1134188.13;2013-12-01T00:00:00
+7816634;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;312;;;67911;593569.96;1134181.06;2013-12-01T00:00:00
+7816642;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;313;;;67911;593762.75;1134233.19;2013-12-01T00:00:00
+7816651;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;314;;;67911;593488.08;1133934.59;2013-12-01T00:00:00
+7816669;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;315;;;67911;593443.64;1134140.57;2013-12-01T00:00:00
+7816677;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;316;;;67911;593495.98;1134212.19;2013-12-01T00:00:00
+7816685;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;317;;;67911;593121.19;1134101.63;2013-12-01T00:00:00
+7816693;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;318;;;67911;593334.49;1133848.95;2013-12-01T00:00:00
+7816707;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;319;;;67911;593321.08;1133840.53;2013-12-01T00:00:00
+7816715;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17221;9. kvìtna;è.p.;320;;;67911;593482.96;1134099.24;2013-12-01T00:00:00
+7816723;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17221;9. kvìtna;è.p.;321;;;67911;593488.61;1134075.94;2013-12-01T00:00:00
+7816731;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17221;9. kvìtna;è.p.;322;;;67911;593493.53;1134058.09;2013-12-01T00:00:00
+7816740;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17221;9. kvìtna;è.p.;323;;;67911;593498.04;1134040.48;2013-12-01T00:00:00
+7816758;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17221;9. kvìtna;è.p.;324;;;67911;593459.40;1134086.94;2013-12-01T00:00:00
+7816766;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17221;9. kvìtna;è.p.;325;;;67911;593464.77;1134067.26;2013-12-01T00:00:00
+7816774;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17221;9. kvìtna;è.p.;326;;;67911;593469.84;1134044.27;2013-12-01T00:00:00
+7816782;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17221;9. kvìtna;è.p.;327;;;67911;593474.88;1134021.24;2013-12-01T00:00:00
+7816791;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17221;9. kvìtna;è.p.;328;;;67911;593501.59;1134021.58;2013-12-01T00:00:00
+7816804;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;329;;;67911;593781.01;1133877.15;2013-12-01T00:00:00
+7816812;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;330;;;67911;594005.95;1134086.33;2013-12-01T00:00:00
+7816821;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;331;;;67911;594519.01;1133648.59;2013-12-01T00:00:00
+7816839;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;332;;;67911;594429.56;1133881.17;2013-12-01T00:00:00
+7816847;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;333;;;67911;594430.38;1133890.71;2013-12-01T00:00:00
+7816855;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;334;;;67911;593844.17;1134110.01;2013-12-01T00:00:00
+7816863;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17299;Na Rybníku;è.p.;335;;;67911;593960.82;1134700.14;2013-12-01T00:00:00
+7816871;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;336;;;67911;593654.49;1134548.60;2013-12-01T00:00:00
+7816880;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;337;;;67911;594581.76;1133675.94;2013-12-01T00:00:00
+7816898;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;338;;;67911;594727.05;1133659.00;2013-12-01T00:00:00
+7816901;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;339;;;67911;594743.61;1133666.26;2013-12-01T00:00:00
+7816910;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;340;;;67911;594755.42;1133674.18;2013-12-01T00:00:00
+7816928;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;341;;;67911;594770.42;1133680.19;2013-12-01T00:00:00
+7816936;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;342;;;67911;594790.07;1133698.95;2013-12-01T00:00:00
+7816944;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;343;;;67911;594619.01;1133661.92;2013-12-01T00:00:00
+7816952;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17248;Hamry;è.p.;344;;;67911;593913.09;1135034.63;2013-12-01T00:00:00
+7816961;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;345;;;67911;593973.44;1133771.37;2013-12-01T00:00:00
+7816979;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;346;;;67911;593975.68;1133743.66;2013-12-01T00:00:00
+7816987;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;347;;;67911;594517.71;1133723.16;2013-12-01T00:00:00
+7816995;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;348;;;67911;593972.01;1133721.62;2013-12-01T00:00:00
+7817002;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;349;;;67911;594363.48;1133808.57;2013-12-01T00:00:00
+7817011;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;350;;;67911;594370.88;1133808.57;2013-12-01T00:00:00
+7817029;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;351;;;67911;594378.99;1133808.57;2013-12-01T00:00:00
+7817037;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;352;;;67911;594386.62;1133808.46;2013-12-01T00:00:00
+7817045;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;353;;;67911;593666.91;1134268.13;2013-12-01T00:00:00
+7817053;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;354;;;67911;593096.89;1134135.52;2013-12-01T00:00:00
+7817061;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;355;;;67911;594683.60;1133655.22;2013-12-01T00:00:00
+7817070;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;356;;;67911;594667.16;1133660.51;2013-12-01T00:00:00
+7817088;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;357;;;67911;594006.59;1133885.47;2013-12-01T00:00:00
+7817096;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;358;;;67911;594303.15;1133989.10;2013-12-01T00:00:00
+7817100;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;359;;;67911;594413.74;1133815.77;2013-12-01T00:00:00
+7817118;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;360;;;67911;593493.34;1133850.96;2013-12-01T00:00:00
+7817126;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;361;;;67911;593310.32;1133826.20;2013-12-01T00:00:00
+7817134;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;362;;;67911;594425.19;1133843.51;2013-12-01T00:00:00
+7817142;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;363;;;67911;594427.18;1133862.24;2013-12-01T00:00:00
+7817151;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;364;;;67911;593501.26;1134221.70;2013-12-01T00:00:00
+7817169;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;365;;;67911;593469.21;1133811.32;2013-12-01T00:00:00
+7817177;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;366;;;67911;593463.34;1133801.20;2013-12-01T00:00:00
+7817185;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;367;;;67911;593481.38;1133828.16;2013-12-01T00:00:00
+7817193;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;368;;;67911;594510.64;1133766.70;2013-12-01T00:00:00
+7817207;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;369;;;67911;594632.11;1133659.97;2013-12-01T00:00:00
+7817215;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;370;;;67911;593554.06;1134273.48;2013-12-01T00:00:00
+7817223;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;371;;;67911;593440.52;1133762.44;2013-12-01T00:00:00
+7817231;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;372;;;67911;594711.29;1133650.89;2013-12-01T00:00:00
+7817240;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;373;;;67911;593652.41;1133773.97;2013-12-01T00:00:00
+7817258;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;374;;;67911;594308.86;1133760.06;2013-12-01T00:00:00
+7817266;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;375;;;67911;593978.30;1134182.76;2013-12-01T00:00:00
+7817274;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;376;;;67911;593686.78;1134379.04;2013-12-01T00:00:00
+7817282;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;377;;;67911;594331.29;1133901.03;2013-12-01T00:00:00
+7817291;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;378;;;67911;593987.06;1134157.31;2013-12-01T00:00:00
+7817304;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;379;;;67911;593697.21;1134093.84;2013-12-01T00:00:00
+7817312;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;380;;;67911;593076.29;1134119.54;2013-12-01T00:00:00
+7817339;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;382;;;67911;593858.26;1134056.08;2016-09-27T00:00:00
+7817347;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17281;Na Horce;è.p.;383;;;67911;593840.41;1134558.29;2013-12-01T00:00:00
+7817355;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;384;;;67911;593989.53;1134148.21;2013-12-01T00:00:00
+7817363;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;385;;;67911;594423.43;1133746.82;2013-12-01T00:00:00
+7817371;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;386;;;67911;594430.45;1133934.57;2013-12-01T00:00:00
+7817380;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;387;;;67911;594002.64;1134040.93;2013-12-01T00:00:00
+7817398;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;388;;;67911;594019.63;1134069.38;2013-12-01T00:00:00
+7817401;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;389;;;67911;594012.79;1134096.72;2013-12-01T00:00:00
+7817410;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;390;;;67911;594430.23;1133917.61;2013-12-01T00:00:00
+7817428;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;391;;;67911;594430.46;1133910.15;2013-12-01T00:00:00
+7817436;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;392;;;67911;593976.51;1133813.96;2013-12-01T00:00:00
+7817444;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;393;;;67911;593692.14;1134596.50;2013-12-01T00:00:00
+7817452;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;394;;;67911;593699.14;1134591.02;2013-12-01T00:00:00
+7817461;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;395;;;67911;593662.28;1134207.44;2013-12-01T00:00:00
+7817479;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17329;Jarní;è.p.;396;;;67911;593509.29;1134874.01;2013-12-01T00:00:00
+7817487;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;397;;;67911;593941.75;1134013.33;2013-12-01T00:00:00
+7817495;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;398;;;67911;594459.23;1133897.60;2013-12-01T00:00:00
+7817509;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;399;;;67911;593952.03;1133947.20;2013-12-01T00:00:00
+7817517;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;400;;;67911;593464.49;1133861.79;2013-12-01T00:00:00
+7817525;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;401;;;67911;593414.12;1133844.19;2013-12-01T00:00:00
+7817541;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;403;;;67911;594602.67;1133767.11;2013-12-01T00:00:00
+7817550;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;404;;;67911;593442.41;1133859.06;2013-12-01T00:00:00
+7817576;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;406;;;67911;593862.15;1134084.96;2013-12-01T00:00:00
+7817584;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;407;;;67911;593868.35;1134078.11;2013-12-01T00:00:00
+7817592;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699098;Vìtrná;è.p.;408;;;67911;593479.57;1134362.75;2013-12-01T00:00:00
+7817606;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699098;Vìtrná;è.p.;409;;;67911;593515.76;1134306.32;2013-12-01T00:00:00
+7817614;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;1;;;67911;594811.06;1134148.50;2022-11-14T00:00:00
+7817622;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;2;;;67911;594791.61;1133289.43;2013-12-01T00:00:00
+7817631;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;3;;;67911;594713.20;1133596.57;2013-12-01T00:00:00
+7817649;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;5;;;67911;594656.38;1133780.92;2013-12-01T00:00:00
+7817657;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;9;;;67911;593215.60;1133707.36;2013-12-01T00:00:00
+7817665;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;10;;;67911;593207.18;1133699.50;2013-12-01T00:00:00
+7817673;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;11;;;67911;593200.46;1133685.08;2013-12-01T00:00:00
+7817681;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;12;;;67911;593191.40;1133677.56;2013-12-01T00:00:00
+7817690;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;13;;;67911;593179.72;1133696.25;2013-12-01T00:00:00
+7817703;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;14;;;67911;593172.29;1133683.55;2013-12-01T00:00:00
+7817711;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;16;;;67911;593983.88;1133806.25;2013-12-01T00:00:00
+7817720;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;17;;;67911;593987.00;1133805.00;2022-08-10T00:00:00
+7817738;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;21;;;67911;593999.34;1133798.68;2022-08-10T00:00:00
+7817746;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;22;;;67911;594002.04;1133797.00;2013-12-01T00:00:00
+7817754;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;23;;;67911;594005.14;1133795.49;2013-12-01T00:00:00
+7817762;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;24;;;67911;594007.93;1133793.98;2013-12-01T00:00:00
+7817771;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;30;;;67911;592897.92;1133805.34;2013-12-01T00:00:00
+7817789;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;41;;;67911;594053.31;1134159.24;2013-12-01T00:00:00
+25081730;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;411;;;67911;593356.77;1134315.26;2013-12-01T00:00:00
+25275887;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;15;;;67911;593161.21;1133683.00;2013-12-01T00:00:00
+25275895;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;413;;;67911;593411.12;1134309.64;2013-12-01T00:00:00
+25275909;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;412;;;67911;594096.91;1133922.65;2013-12-01T00:00:00
+25275917;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;18;;;67911;593990.00;1133803.00;2022-08-10T00:00:00
+25275925;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;19;;;67911;593993.00;1133802.00;2022-08-10T00:00:00
+25275933;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;20;;;67911;593996.00;1133800.00;2022-08-10T00:00:00
+25275941;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;25;;;67911;594012.00;1133793.00;2022-08-10T00:00:00
+25275950;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;26;;;67911;594013.38;1133789.40;2017-02-02T00:00:00
+25420640;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;421;;;67911;594448.06;1133662.59;2013-12-01T00:00:00
+25446924;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17299;Na Rybníku;è.ev.;45;;;67911;593941.43;1134644.67;2013-12-01T00:00:00
+25446932;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;420;;;67911;593276.30;1134327.20;2013-12-01T00:00:00
+25452509;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;415;;;67911;593434.62;1133801.13;2013-12-01T00:00:00
+25452517;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;414;;;67911;593486.75;1134294.38;2013-12-01T00:00:00
+25452525;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;416;;;67911;594432.51;1133970.80;2013-12-01T00:00:00
+25452533;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;417;;;67911;594462.33;1133976.40;2013-12-01T00:00:00
+25703625;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;426;;;67911;593510.77;1134277.97;2013-12-01T00:00:00
+26177536;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;418;;;67911;594064.48;1133886.98;2013-12-01T00:00:00
+26324032;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;428;;;67911;593897.13;1133804.19;2013-12-01T00:00:00
+26324041;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;429;;;67911;593867.47;1133809.78;2013-12-01T00:00:00
+26493926;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;439;;;67911;593960.53;1133646.05;2013-12-01T00:00:00
+26494337;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;435;;;67911;594062.69;1133791.83;2013-12-01T00:00:00
+26496721;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;432;;;67911;594423.68;1134047.49;2013-12-01T00:00:00
+26499631;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;433;;;67911;594386.36;1134041.36;2013-12-01T00:00:00
+26500698;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;431;;;67911;594402.33;1134044.89;2013-12-01T00:00:00
+26503514;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;430;;;67911;593410.12;1134271.81;2013-12-01T00:00:00
+26506645;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;438;;;67911;594506.04;1133685.03;2013-12-01T00:00:00
+26513170;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;427;;;67911;593982.10;1133919.10;2013-12-01T00:00:00
+26535360;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;434;;;67911;594458.17;1134051.75;2013-12-01T00:00:00
+26536307;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;440;;;67911;594428.21;1133995.64;2013-12-01T00:00:00
+26538440;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;437;;;67911;594067.22;1133945.17;2013-12-01T00:00:00
+26538873;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17388;U Spravedlnosti;è.p.;436;;;67911;593154.80;1134200.30;2013-12-01T00:00:00
+26724880;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17264;Hybešova;è.p.;419;;;67911;593735.26;1133765.72;2013-12-01T00:00:00
+26724898;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;423;;;67911;594080.52;1133805.11;2013-12-01T00:00:00
+26755246;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;444;;;67911;593289.74;1133823.25;2013-12-01T00:00:00
+26941261;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;7;;;67911;594111.74;1135367.21;2013-12-01T00:00:00
+26941279;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;32;;;67911;593039.04;1133779.42;2013-12-01T00:00:00
+27083390;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;424;;;67911;594663.13;1135557.23;2013-12-01T00:00:00
+27083411;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;442;;;67911;593351.83;1134274.73;2013-12-01T00:00:00
+27083420;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;443;;;67911;593290.01;1134287.39;2013-12-01T00:00:00
+27083438;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;445;;;67911;594360.89;1134035.22;2013-12-01T00:00:00
+27083446;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;446;;;67911;594492.57;1134021.47;2017-03-06T00:00:00
+27083454;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;447;;;67911;594516.73;1134036.96;2013-12-01T00:00:00
+27733220;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;449;;;67911;593429.71;1134297.19;2013-12-01T00:00:00
+27733238;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;448;;;67911;594421.45;1134017.86;2013-12-01T00:00:00
+27733246;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;450;;;67911;593453.32;1134291.20;2021-05-14T00:00:00
+27733254;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;451;;;67911;593422.94;1134203.12;2013-12-10T00:00:00
+27733262;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;452;;;67911;593318.66;1134307.40;2014-09-26T00:00:00
+27733289;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;453;;;67911;593870.09;1134461.08;2013-12-01T00:00:00
+30152569;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;9;;;67911;593734.33;1134373.09;2023-03-28T00:00:00
+30719208;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;455;;;67911;593913.11;1133934.63;2013-12-01T00:00:00
+30719216;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.ev.;6;;;67911;594401.89;1133909.63;2013-12-01T00:00:00
+30719224;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.ev.;8;;;67911;594048.47;1133629.65;2013-12-01T00:00:00
+30719232;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;28;;;67911;593003.22;1133733.93;2013-12-01T00:00:00
+30719241;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;29;;;67911;593025.24;1133697.13;2013-12-01T00:00:00
+30719259;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;31;;;67911;592966.43;1133792.54;2013-12-01T00:00:00
+30719267;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;33;;;67911;592996.05;1133790.20;2013-12-01T00:00:00
+30719275;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;35;;;67911;593029.55;1133767.71;2013-12-01T00:00:00
+30719283;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;37;;;67911;593350.60;1134596.20;2013-12-01T00:00:00
+30719291;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;38;;;67911;593001.26;1133767.25;2013-12-01T00:00:00
+30719305;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;42;;;67911;593073.49;1133761.45;2013-12-01T00:00:00
+30719313;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;43;;;67911;593974.55;1135003.27;2013-12-01T00:00:00
+30719321;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;44;;;67911;594241.25;1135812.05;2013-12-01T00:00:00
+30719330;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;46;;;67911;593039.34;1133717.64;2013-12-01T00:00:00
+30719348;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;47;;;67911;593059.50;1133798.58;2013-12-01T00:00:00
+30719356;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;49;;;67911;593019.48;1133785.93;2013-12-01T00:00:00
+30719364;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;50;;;67911;593667.74;1133683.23;2013-12-01T00:00:00
+30719372;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;60;;;67911;593231.64;1133716.53;2013-12-01T00:00:00
+30719381;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;73;;;67911;594608.73;1133617.78;2013-12-01T00:00:00
+31207031;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;422;;;67911;594454.83;1133946.96;2014-11-07T00:00:00
+31207049;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.ev.;4;;;67911;594399.00;1133936.00;2013-12-01T00:00:00
+31207057;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;34;;;67911;592981.18;1133748.83;2013-12-01T00:00:00
+40632695;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;70;;;67911;593352.36;1134623.31;2013-12-01T00:00:00
+40722651;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;87;;;67911;593046.89;1133793.77;2017-03-30T00:00:00
+41377133;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;456;;;67911;593689.06;1133967.32;2014-02-26T00:00:00
+41809785;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17311;Plotky;è.p.;458;;;67911;593686.92;1134071.06;2014-02-26T00:00:00
+42324793;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;457;;;67911;594033.08;1134105.43;2013-12-01T00:00:00
+42420440;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;459;;;67911;594468.12;1133770.68;2013-12-01T00:00:00
+71677402;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699098;Vìtrná;è.p.;460;;;67911;593530.54;1134351.68;2014-02-03T00:00:00
+73110612;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;466;;;67911;593732.32;1134496.06;2014-10-06T00:00:00
+73121037;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17256;Havlíèkova;è.p.;465;;;67911;593463.46;1134194.08;2014-10-09T00:00:00
+73467651;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;467;;;67911;594418.53;1133673.34;2015-02-26T00:00:00
+73689009;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;463;;;67911;593275.87;1134218.12;2015-06-05T00:00:00
+74044516;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;40;;;67911;593921.14;1134273.99;2015-09-10T00:00:00
+74339877;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;469;;;67911;593399.59;1133722.88;2015-12-07T00:00:00
+74935330;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;470;;;67911;593407.72;1134202.50;2016-04-27T00:00:00
+74935691;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;471;;;67911;593408.99;1134233.87;2016-04-27T00:00:00
+75005085;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;39;;;67911;593009.70;1133740.74;2016-05-13T00:00:00
+75375362;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17345;Soukopovo námìstí;è.p.;473;;;67911;593766.69;1134426.22;2016-09-27T00:00:00
+75418134;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17302;námìstí Svobody;è.p.;474;;;67911;593761.84;1134385.17;2016-10-12T00:00:00
+75691809;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;475;;;67911;593274.42;1133815.50;2017-01-03T00:00:00
+75865700;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17337;Sokolská;è.p.;477;;;67911;594013.99;1133869.75;2017-02-23T00:00:00
+76187217;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;479;;;67911;594799.45;1133701.67;2017-05-29T00:00:00
+77662440;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;480;;;67911;593443.80;1133816.93;2017-09-21T00:00:00
+77669886;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699080;Zázmolí;è.p.;464;;;67911;593337.45;1134227.63;2017-09-25T00:00:00
+77842448;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;481;;;67911;594330.14;1134060.58;2017-12-04T00:00:00
+77842758;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;482;;;67911;594331.14;1134040.17;2017-12-04T00:00:00
+77868943;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;468;;;67911;593093.85;1134067.41;2017-12-13T00:00:00
+77934105;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;478;;;67911;593577.02;1134172.50;2018-01-16T00:00:00
+77942604;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17299;Na Rybníku;è.p.;483;;;67911;593977.16;1134890.67;2018-01-17T00:00:00
+78013101;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;484;;;67911;593538.79;1134005.83;2018-02-13T00:00:00
+78422159;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;;;è.ev.;88;;;67911;592940.49;1133798.57;2018-06-11T00:00:00
+78635373;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;472;;;67911;594473.22;1134043.48;2018-08-27T00:00:00
+78821240;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;486;;;67911;594435.70;1133618.98;2018-11-01T00:00:00
+78822661;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;485;;;67911;593135.35;1134070.73;2018-11-01T00:00:00
+79042783;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17353;Školka;è.p.;487;;;67911;593926.69;1134236.45;2019-01-10T00:00:00
+80404821;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17230;Dolní;è.p.;488;;;67911;593934.02;1133887.50;2020-02-24T00:00:00
+81378386;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17213;28. øíjna;è.p.;489;;;67911;593116.27;1134074.28;2020-12-17T00:00:00
+82400563;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17396;Zahradní;è.p.;494;;;67911;593480.79;1134170.43;2021-12-27T00:00:00
+82433640;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;699098;Vìtrná;è.p.;495;;;67911;593560.32;1134348.51;2022-01-05T00:00:00
+87444640;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17272;Klemov;è.p.;497;;;67911;594467.86;1133998.78;2025-11-21T00:00:00
+87634872;581542;Doubravice nad Svitavou;;;;;31321;Doubravice nad Svitavou;17370;U Cihelny;è.p.;498;;;67911;593381.77;1133924.40;2026-02-16T00:00:00

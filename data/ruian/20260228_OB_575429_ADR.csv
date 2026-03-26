@@ -1,0 +1,807 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód obvodu Prahy;Název obvodu Prahy;Kód èásti obce;Název èásti obce;Kód ulice;Název ulice;Typ SO;Èíslo domovní;Èíslo orientaèní;Znak èísla orientaèního;PSÈ;Souøadnice Y;Souøadnice X;Platí Od
+7567693;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;1;;;53345;644717.65;1048888.19;2013-12-05T00:00:00
+7567707;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;2;;;53345;644718.17;1048919.86;2013-12-05T00:00:00
+7567715;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;3;;;53345;644469.90;1048455.05;2013-12-05T00:00:00
+7567723;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;4;;;53345;644457.12;1048462.65;2013-12-05T00:00:00
+7567731;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;5;;;53345;645049.94;1048631.36;2024-12-17T00:00:00
+7567740;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;6;;;53345;644788.85;1049033.03;2013-12-05T00:00:00
+7567766;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;8;;;53345;644828.50;1049095.12;2013-12-05T00:00:00
+7567774;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;9;;;53345;644844.72;1049110.33;2013-12-05T00:00:00
+7567782;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;10;;;53345;644860.60;1049127.66;2013-12-05T00:00:00
+7567804;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;12;;;53345;644592.60;1048586.67;2013-12-05T00:00:00
+7567812;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;13;;;53345;644877.60;1049174.94;2013-12-05T00:00:00
+7567821;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;14;;;53345;644838.60;1049229.70;2013-12-05T00:00:00
+7567839;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;15;;;53345;644834.77;1049285.58;2018-01-17T00:00:00
+7567847;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;16;;;53345;644845.65;1049268.39;2013-12-05T00:00:00
+7567863;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;18;;;53345;644908.24;1049220.89;2013-12-05T00:00:00
+7567871;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;19;;;53345;644934.18;1049208.88;2013-12-05T00:00:00
+7567880;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;20;;;53345;645067.53;1049230.77;2013-12-05T00:00:00
+7567898;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;21;;;53345;645066.75;1048660.72;2024-12-17T00:00:00
+7567901;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;22;;;53345;645019.92;1049183.41;2013-12-05T00:00:00
+7567910;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;23;;;53345;645000.88;1049157.39;2013-12-05T00:00:00
+7567928;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;24;;;53345;644908.22;1049112.64;2013-12-05T00:00:00
+7567936;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;25;;;53345;644870.49;1049062.69;2013-12-05T00:00:00
+7567952;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;27;;;53345;644795.36;1048954.69;2013-12-05T00:00:00
+7567961;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;28;;;53345;644895.40;1049244.23;2013-12-05T00:00:00
+7567979;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;29;;;53345;644753.66;1048882.96;2013-12-05T00:00:00
+7567987;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;30;;;53345;645178.59;1049340.45;2013-12-05T00:00:00
+7568002;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;32;;;53345;644927.59;1048919.89;2013-12-05T00:00:00
+7568011;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;33;;;53345;644675.00;1048671.86;2013-12-05T00:00:00
+7568029;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;34;;;53345;644738.51;1048560.41;2024-12-17T00:00:00
+7568037;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;35;;;53345;644750.05;1048503.87;2013-12-05T00:00:00
+7568045;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;36;;;53345;644719.41;1048504.62;2013-12-05T00:00:00
+7568053;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;37;;;53345;644681.63;1048491.94;2013-12-05T00:00:00
+7568061;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;38;;;53345;644648.91;1048535.59;2013-12-17T00:00:00
+7568070;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;39;;;53345;644613.26;1048481.75;2013-12-05T00:00:00
+7568088;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;40;;;53345;644863.86;1048728.52;2024-12-17T00:00:00
+7568096;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;41;;;53345;644539.22;1048570.06;2013-12-05T00:00:00
+7568100;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;42;;;53345;645151.79;1048815.04;2024-12-17T00:00:00
+7568118;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372013;Ve Støídni;è.p.;43;;;53345;644399.85;1048135.53;2013-12-05T00:00:00
+7568126;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;44;;;53345;645099.92;1048606.67;2024-12-17T00:00:00
+7568134;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;45;;;53345;645048.04;1048704.22;2024-12-17T00:00:00
+7568142;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;46;;;53345;645090.40;1048644.81;2024-12-17T00:00:00
+7568151;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371866;Klášterní;è.p.;47;;;53345;644292.80;1048505.34;2024-12-17T00:00:00
+7568169;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371866;Klášterní;è.p.;48;;;53345;644243.08;1048612.31;2024-12-17T00:00:00
+7568177;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371866;Klášterní;è.p.;49;;;53345;644395.34;1048542.77;2024-12-17T00:00:00
+7568185;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;50;;;53345;644482.51;1048583.52;2013-12-05T00:00:00
+7568193;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;51;;;53345;644514.48;1048591.11;2013-12-05T00:00:00
+7568207;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;52;;;53345;644521.37;1048608.22;2013-12-05T00:00:00
+7568215;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;53;;;53345;644763.19;1048976.95;2013-12-05T00:00:00
+7568223;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;54;;;53345;644554.01;1048644.06;2013-12-05T00:00:00
+7568231;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;55;;;53345;644576.50;1048651.46;2013-12-05T00:00:00
+7568240;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;56;;;53345;644955.76;1048905.14;2024-12-17T00:00:00
+7568266;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;58;;;53345;644675.51;1048805.90;2013-12-05T00:00:00
+7568274;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;59;;;53345;644690.43;1048837.65;2013-12-05T00:00:00
+7568282;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371921;Mokrá;è.p.;60;;;53345;644494.02;1048332.45;2013-12-05T00:00:00
+7568291;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;61;;;53345;645076.98;1049252.39;2013-12-05T00:00:00
+7568304;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;62;;;53345;644827.69;1049307.52;2013-12-05T00:00:00
+7568312;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;63;;;53345;644862.09;1049310.21;2013-12-05T00:00:00
+7568321;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;64;;;53345;644623.82;1048139.66;2013-12-05T00:00:00
+7568339;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;65;;;53345;644893.23;1049073.02;2013-12-05T00:00:00
+7568347;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;66;;;53345;644695.57;1048872.00;2013-12-05T00:00:00
+7568355;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;67;;;53345;644863.36;1049210.52;2013-12-05T00:00:00
+7568363;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;68;;;53345;644696.03;1048631.36;2024-12-17T00:00:00
+7568371;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;69;;;53345;644602.05;1048678.33;2013-12-05T00:00:00
+7568380;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;70;;;53345;644684.62;1048644.29;2024-12-17T00:00:00
+7568398;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;71;;;53345;644593.02;1048624.37;2013-12-05T00:00:00
+7568401;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;72;;;53345;644854.88;1049051.23;2013-12-05T00:00:00
+7568410;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;73;;;53345;644754.94;1048959.07;2013-12-05T00:00:00
+7568428;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;74;;;53345;644700.91;1048493.44;2013-12-05T00:00:00
+7568436;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372013;Ve Støídni;è.p.;75;;;53345;644433.62;1048375.79;2013-12-05T00:00:00
+7568444;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;76;;;53345;644610.11;1048699.99;2013-12-05T00:00:00
+7568452;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372013;Ve Støídni;è.p.;77;;;53345;644417.26;1048215.55;2013-12-05T00:00:00
+7568461;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;78;;;53345;644945.87;1049129.80;2013-12-05T00:00:00
+7568479;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;79;;;53345;644810.94;1048985.99;2013-12-05T00:00:00
+7568495;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;751430;Neplachova;è.p.;81;;;53345;644633.35;1048334.38;2013-12-05T00:00:00
+7568509;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;82;;;53345;644604.61;1048632.23;2013-12-05T00:00:00
+7568517;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;83;;;53345;644640.22;1048148.38;2013-12-05T00:00:00
+7568525;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;84;;;53345;645082.24;1049319.16;2013-12-05T00:00:00
+7568533;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;85;;;53345;645043.61;1049354.83;2013-12-05T00:00:00
+7568541;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;86;;;53345;645080.71;1049161.99;2013-12-05T00:00:00
+7568550;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;87;;;53345;644627.80;1048187.81;2013-12-05T00:00:00
+7568568;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;88;;;53345;644657.44;1048703.65;2013-12-05T00:00:00
+7568584;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;90;;;53345;644611.77;1048230.65;2013-12-05T00:00:00
+7568592;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;91;;;53345;644740.56;1048941.91;2013-12-05T00:00:00
+7568606;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;92;;;53345;645130.59;1049347.42;2013-12-05T00:00:00
+7568614;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;93;;;53345;645030.56;1049281.10;2022-03-02T00:00:00
+7568622;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;94;;;53345;645046.83;1049295.21;2013-12-05T00:00:00
+7568631;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;95;;;53345;645095.17;1048795.01;2024-12-17T00:00:00
+7568649;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;96;;;53345;645027.88;1049252.05;2013-12-05T00:00:00
+7568657;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;97;;;53345;644868.58;1049323.17;2013-12-05T00:00:00
+7568665;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;98;;;53345;645113.89;1049156.42;2013-12-05T00:00:00
+7568673;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;99;;;53345;644642.62;1048737.66;2013-12-05T00:00:00
+7568681;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;100;;;53345;644639.86;1048754.22;2013-12-05T00:00:00
+7568690;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;101;;;53345;644499.49;1048576.47;2013-12-05T00:00:00
+7568703;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;102;;;53345;644848.49;1049043.55;2013-12-05T00:00:00
+7568711;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;103;;;53345;644708.58;1047875.53;2013-12-05T00:00:00
+7568720;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;104;;;53345;645046.09;1049315.47;2013-12-05T00:00:00
+7568738;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;105;;;53345;645192.19;1048801.03;2024-12-17T00:00:00
+7568746;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;106;;;53345;644458.85;1048166.95;2022-06-01T00:00:00
+7568754;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;107;;;53345;644719.77;1047815.86;2013-12-05T00:00:00
+7568762;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;108;;;53345;644722.33;1047803.75;2013-12-05T00:00:00
+7568771;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;109;;;53345;644579.06;1048576.58;2013-12-05T00:00:00
+7568789;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;110;;;53345;644571.08;1048507.43;2014-02-20T00:00:00
+7568797;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;111;;;53345;644684.68;1047817.72;2013-12-05T00:00:00
+7568801;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;112;;;53345;644645.87;1047755.21;2013-12-05T00:00:00
+7568819;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;113;;;53345;644550.73;1048623.98;2013-12-05T00:00:00
+7568827;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371866;Klášterní;è.p.;114;;;53345;644281.26;1048518.01;2024-12-17T00:00:00
+7568835;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;115;;;53345;644853.59;1047868.00;2013-12-05T00:00:00
+7568843;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;116;;;53345;644697.11;1047939.26;2013-12-05T00:00:00
+7568851;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;117;;;53345;644555.76;1048373.28;2013-12-05T00:00:00
+7568860;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;118;;;53345;644572.93;1048332.60;2013-12-05T00:00:00
+7568878;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;119;;;53345;644659.61;1047773.03;2013-12-05T00:00:00
+7568886;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371921;Mokrá;è.p.;120;;;53345;644527.19;1048394.61;2013-12-05T00:00:00
+7568894;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371866;Klášterní;è.p.;121;;;53345;644393.61;1048488.43;2024-12-17T00:00:00
+7568908;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;122;;;53345;645007.13;1049222.18;2013-12-05T00:00:00
+7568916;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371921;Mokrá;è.p.;123;;;53345;644512.14;1048392.30;2013-12-05T00:00:00
+7568924;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;124;;;53345;644670.99;1048793.89;2013-12-05T00:00:00
+7568932;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371921;Mokrá;è.p.;125;;;53345;644457.81;1048320.67;2013-12-05T00:00:00
+7568941;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371921;Mokrá;è.p.;126;;;53345;644498.24;1048382.00;2013-12-05T00:00:00
+7568959;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;127;;;53345;644717.49;1047832.26;2013-12-05T00:00:00
+7568967;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;128;;;53345;644693.17;1047958.69;2013-12-05T00:00:00
+7568975;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;129;;;53345;644724.03;1047784.37;2013-12-05T00:00:00
+7568983;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;130;;;53345;644716.02;1047751.37;2013-12-05T00:00:00
+7568991;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;131;;;53345;644726.85;1047767.41;2013-12-05T00:00:00
+7569009;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;132;;;53345;644468.02;1048202.53;2013-12-05T00:00:00
+7569017;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371912;Luèní;è.p.;133;;;53345;644585.61;1048020.76;2013-12-05T00:00:00
+7569025;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371912;Luèní;è.p.;134;;;53345;644566.36;1048033.06;2013-12-05T00:00:00
+7569033;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;135;;;53345;644640.91;1048093.69;2013-12-05T00:00:00
+7569041;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;136;;;53345;644639.51;1048025.89;2013-12-05T00:00:00
+7569050;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371840;Ke Høišti;è.p.;137;;;53345;644751.01;1048040.06;2013-12-05T00:00:00
+7569068;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;138;;;53345;644891.07;1049339.88;2013-12-17T00:00:00
+7569076;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372021;Za Albisem;è.p.;139;;;53345;644563.06;1048091.57;2013-12-05T00:00:00
+7569084;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372021;Za Albisem;è.p.;140;;;53345;644555.79;1048077.55;2013-12-05T00:00:00
+7569092;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;141;;;53345;644914.84;1049364.90;2013-12-05T00:00:00
+7569106;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372021;Za Albisem;è.p.;142;;;53345;644502.29;1048086.47;2013-12-05T00:00:00
+7569114;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;143;;;53345;644942.71;1049182.75;2013-12-05T00:00:00
+7569122;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;144;;;53345;644930.06;1049395.90;2013-12-05T00:00:00
+7569131;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;145;;;53345;644926.76;1049381.65;2013-12-05T00:00:00
+7569149;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372021;Za Albisem;è.p.;146;;;53345;644517.77;1048072.77;2013-12-05T00:00:00
+7569157;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;147;;;53345;644896.30;1049348.68;2013-12-05T00:00:00
+7569165;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372021;Za Albisem;è.p.;148;;;53345;644542.62;1048107.91;2013-12-05T00:00:00
+7569173;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372021;Za Albisem;è.p.;149;;;53345;644537.71;1048093.42;2013-12-05T00:00:00
+7569181;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;150;;;53345;644650.78;1048242.64;2013-12-05T00:00:00
+7569190;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;151;;;53345;644702.61;1048255.75;2013-12-05T00:00:00
+7569203;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;751430;Neplachova;è.p.;152;;;53345;644663.49;1048372.41;2013-12-05T00:00:00
+7569211;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;153;;;53345;645164.65;1048610.36;2024-12-17T00:00:00
+7569220;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371912;Luèní;è.p.;154;;;53345;644542.89;1048052.07;2013-12-05T00:00:00
+7569238;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371947;Nyklíèkova;è.p.;155;;;53345;644715.95;1047993.12;2013-12-05T00:00:00
+7569246;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;156;;;53345;644723.43;1047958.64;2013-12-05T00:00:00
+7569254;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;157;;;53345;644731.22;1047919.85;2013-12-05T00:00:00
+7569271;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;159;;;53345;644680.30;1048146.46;2013-12-05T00:00:00
+7569289;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;160;;;53345;644739.38;1048850.07;2013-12-05T00:00:00
+7569297;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;161;;;53345;644681.57;1048011.44;2013-12-05T00:00:00
+7569301;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;162;;;53345;644761.07;1047878.33;2013-12-05T00:00:00
+7569319;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371840;Ke Høišti;è.p.;163;;;53345;644715.22;1048078.44;2013-12-05T00:00:00
+7569327;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371840;Ke Høišti;è.p.;164;;;53345;644775.29;1048111.09;2013-12-05T00:00:00
+7569335;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371947;Nyklíèkova;è.p.;165;;;53345;644763.67;1048005.97;2013-12-05T00:00:00
+7569343;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;166;;;53345;645186.76;1049364.78;2013-12-05T00:00:00
+7569351;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;167;;;53345;645287.55;1049341.37;2013-12-05T00:00:00
+7569360;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;168;;;53345;645250.42;1049319.03;2013-12-05T00:00:00
+7569378;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;169;;;53345;645314.44;1049304.26;2013-12-05T00:00:00
+7569386;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371947;Nyklíèkova;è.p.;170;;;53345;644808.09;1048011.72;2013-12-05T00:00:00
+7569394;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;171;;;53345;644765.08;1047853.29;2013-12-05T00:00:00
+7569408;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;172;;;53345;644695.16;1048116.64;2013-12-05T00:00:00
+7569416;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;173;;;53345;644801.80;1047859.07;2013-12-05T00:00:00
+7569424;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;174;;;53345;644784.09;1047883.05;2013-12-05T00:00:00
+7569432;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;175;;;53345;644816.50;1048182.78;2013-12-05T00:00:00
+7569441;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;176;;;53345;645267.20;1049344.44;2013-12-05T00:00:00
+7569459;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;177;;;53345;644835.64;1048092.05;2013-12-05T00:00:00
+7569467;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371840;Ke Høišti;è.p.;178;;;53345;644784.94;1048136.17;2013-12-05T00:00:00
+7569475;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;179;;;53345;644852.12;1048772.87;2013-12-05T00:00:00
+7569483;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;180;;;53345;645354.27;1049326.10;2013-12-05T00:00:00
+7569491;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;181;;;53345;644822.11;1048159.28;2013-12-05T00:00:00
+7569505;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;182;;;53345;644629.68;1048261.28;2013-12-05T00:00:00
+7569513;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;183;;;53345;645206.53;1049332.82;2013-12-05T00:00:00
+7569521;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;184;;;53345;645094.42;1049361.24;2013-12-05T00:00:00
+7569530;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372021;Za Albisem;è.p.;185;;;53345;644549.92;1048066.70;2013-12-05T00:00:00
+7569548;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;186;;;53345;644830.92;1048113.93;2013-12-05T00:00:00
+7569556;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;187;;;53345;645119.30;1049118.23;2013-12-05T00:00:00
+7569564;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;188;;;53345;644850.22;1048019.95;2013-12-05T00:00:00
+7569572;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;189;;;53345;644738.35;1047878.68;2013-12-05T00:00:00
+7569581;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;190;;;53345;644541.43;1048487.51;2013-12-05T00:00:00
+7569599;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;191;;;53345;644804.72;1047886.74;2013-12-05T00:00:00
+7569602;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371947;Nyklíèkova;è.p.;192;;;53345;644789.32;1047967.05;2013-12-05T00:00:00
+7569611;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;193;;;53345;644517.09;1048475.64;2013-12-05T00:00:00
+7569629;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;194;;;53345;644829.86;1047984.26;2013-12-05T00:00:00
+7569637;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;195;;;53345;644893.60;1049100.00;2013-12-05T00:00:00
+7569645;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;196;;;53345;644839.96;1048069.92;2013-12-05T00:00:00
+7569653;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;197;;;53345;644826.31;1048136.72;2013-12-05T00:00:00
+7569661;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;198;;;53345;644843.78;1048049.19;2013-12-05T00:00:00
+7569670;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372013;Ve Støídni;è.p.;199;;;53345;644416.81;1048173.10;2013-12-05T00:00:00
+7569688;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;200;;;53345;644776.29;1048499.92;2013-12-05T00:00:00
+7569696;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;201;;;53345;645333.10;1049328.09;2013-12-05T00:00:00
+7569700;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;202;;;53345;644668.64;1048064.34;2013-12-05T00:00:00
+7569718;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;203;;;53345;645155.58;1049341.41;2013-12-05T00:00:00
+7569726;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;204;;;53345;645099.90;1049125.76;2013-12-05T00:00:00
+7569734;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;205;;;53345;645077.54;1049130.31;2013-12-05T00:00:00
+7569742;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;751430;Neplachova;è.p.;206;;;53345;644679.13;1048327.76;2013-12-05T00:00:00
+7569751;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;207;;;53345;644835.94;1047955.63;2013-12-05T00:00:00
+7569769;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;208;;;53345;645288.52;1049312.97;2013-12-05T00:00:00
+7569777;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;209;;;53345;644482.49;1048170.68;2013-12-05T00:00:00
+7569785;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;210;;;53345;644819.31;1048058.28;2013-12-05T00:00:00
+7569793;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;211;;;53345;644880.13;1048755.53;2024-12-17T00:00:00
+7569807;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371866;Klášterní;è.p.;212;;;53345;644444.50;1048614.17;2013-12-05T00:00:00
+7569815;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;213;;;53345;644839.42;1047936.62;2013-12-05T00:00:00
+7569823;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371947;Nyklíèkova;è.p.;214;;;53345;644746.31;1048002.06;2013-12-05T00:00:00
+7569831;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;770442;Mikulcova;è.p.;215;;;53345;644678.44;1048430.25;2013-12-05T00:00:00
+7569840;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371823;Karlín;è.p.;216;;;53345;644707.24;1048622.16;2024-12-17T00:00:00
+7569858;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;217;;;53345;644818.79;1047854.04;2013-12-05T00:00:00
+7569866;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;218;;;53345;645019.09;1048648.38;2024-12-17T00:00:00
+7569874;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;219;;;53345;644918.37;1048700.78;2024-12-17T00:00:00
+7569882;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;220;;;53345;644745.44;1047832.56;2013-12-05T00:00:00
+7569891;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;221;;;53345;644751.25;1047813.38;2013-12-05T00:00:00
+7569904;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;222;;;53345;645034.63;1048677.80;2024-12-17T00:00:00
+7569912;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;223;;;53345;644989.42;1048663.50;2024-12-17T00:00:00
+7569921;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;224;;;53345;644581.43;1048309.11;2013-12-05T00:00:00
+7569939;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;225;;;53345;644967.06;1048994.65;2013-12-05T00:00:00
+7569947;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371793;Dvoøákova;è.p.;226;;;53345;644789.13;1048556.81;2024-12-17T00:00:00
+7569955;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371793;Dvoøákova;è.p.;227;;;53345;644803.75;1048548.75;2024-12-17T00:00:00
+7569963;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371793;Dvoøákova;è.p.;228;;;53345;644833.44;1048533.31;2024-12-17T00:00:00
+7569971;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371793;Dvoøákova;è.p.;229;;;53345;644848.88;1048524.69;2024-12-17T00:00:00
+7569980;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371793;Dvoøákova;è.p.;230;;;53345;644877.69;1048508.94;2024-12-17T00:00:00
+7569998;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371793;Dvoøákova;è.p.;231;;;53345;644893.69;1048501.56;2024-12-17T00:00:00
+7570007;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;232;;;53345;644915.69;1048521.75;2024-12-17T00:00:00
+7570015;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;233;;;53345;644924.31;1048536.56;2024-12-17T00:00:00
+7570023;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;234;;;53345;644927.88;1048568.31;2024-12-17T00:00:00
+7570031;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;235;;;53345;644911.50;1048578.75;2024-12-17T00:00:00
+7570040;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;236;;;53345;644882.44;1048592.13;2024-12-17T00:00:00
+7570058;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;237;;;53345;644866.44;1048601.25;2024-12-17T00:00:00
+7570066;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;238;;;53345;644837.63;1048617.88;2024-12-17T00:00:00
+7570074;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;239;;;53345;644822.50;1048626.25;2024-12-17T00:00:00
+7570082;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;240;;;53345;644801.56;1048605.38;2013-12-05T00:00:00
+7570091;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;241;;;53345;644793.94;1048589.25;2013-12-05T00:00:00
+7570104;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;242;;;53345;644837.63;1048654.38;2024-12-17T00:00:00
+7570112;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;243;;;53345;644854.25;1048646.75;2024-12-17T00:00:00
+7570121;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;244;;;53345;644818.51;1048711.08;2013-12-05T00:00:00
+7570139;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;245;;;53345;645155.17;1049116.09;2013-12-05T00:00:00
+7570147;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;246;;;53345;644932.15;1048733.92;2024-12-17T00:00:00
+7570155;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;247;;;53345;644931.99;1048824.05;2024-12-17T00:00:00
+7570163;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;248;;;53345;645068.44;1048744.08;2024-12-17T00:00:00
+7570171;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;249;;;53345;644834.38;1047863.73;2013-12-05T00:00:00
+7570180;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;250;;;53345;645074.96;1048619.17;2024-12-17T00:00:00
+7570198;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;251;;;53345;644704.60;1047897.15;2013-12-05T00:00:00
+7570201;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;252;;;53345;644801.32;1048682.26;2013-12-05T00:00:00
+7570210;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;253;;;53345;644785.25;1048651.69;2013-12-05T00:00:00
+7570228;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;254;;;53345;644952.27;1048966.41;2013-12-05T00:00:00
+7570236;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;255;;;53345;644987.89;1048967.07;2024-12-17T00:00:00
+7570244;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;256;;;53345;645094.57;1048912.98;2024-12-17T00:00:00
+7570252;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;257;;;53345;645069.81;1048929.11;2024-12-17T00:00:00
+7570261;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;258;;;53345;645037.21;1048946.83;2024-12-17T00:00:00
+7570279;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;259;;;53345;645010.11;1048957.28;2024-12-17T00:00:00
+7570287;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;260;;;53345;645114.00;1048901.59;2024-12-17T00:00:00
+7570295;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;261;;;53345;644912.18;1048891.48;2013-12-05T00:00:00
+7570309;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;262;;;53345;645047.91;1048859.38;2024-12-17T00:00:00
+7570317;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;263;;;53345;644832.81;1048746.50;2013-12-05T00:00:00
+7570325;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;264;;;53345;644817.94;1048752.63;2013-12-05T00:00:00
+7570333;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;265;;;53345;644892.34;1048713.70;2024-12-17T00:00:00
+7570341;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;266;;;53345;645128.52;1048629.71;2024-12-17T00:00:00
+7570350;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;267;;;53345;645064.03;1048849.74;2024-12-17T00:00:00
+7570368;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;268;;;53345;644948.25;1049435.64;2013-12-05T00:00:00
+7570376;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;269;;;53345;644975.20;1049014.28;2013-12-05T00:00:00
+7570384;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;270;;;53345;644989.95;1049047.34;2013-12-05T00:00:00
+7570422;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;274;;;53345;644769.20;1048621.23;2013-12-05T00:00:00
+7570431;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;275;;;53345;645137.61;1049378.32;2013-12-05T00:00:00
+7570449;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;276;;;53345;644863.41;1047822.55;2013-12-05T00:00:00
+7570457;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;277;;;53345;644785.39;1048766.49;2013-12-05T00:00:00
+7570465;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;278;;;53345;645048.03;1049377.26;2013-12-05T00:00:00
+7570473;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;279;;;53345;644797.01;1048829.52;2013-12-05T00:00:00
+7570481;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;280;;;53345;644876.20;1048908.08;2013-12-05T00:00:00
+7570490;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;281;;;53345;644854.83;1048919.05;2013-12-05T00:00:00
+7570503;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;282;;;53345;644896.54;1048936.32;2013-12-05T00:00:00
+7570511;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;283;;;53345;644883.00;1048945.71;2013-12-05T00:00:00
+7570520;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;284;;;53345;644852.61;1048872.47;2013-12-05T00:00:00
+7570538;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;285;;;53345;644834.59;1048882.49;2013-12-05T00:00:00
+7570546;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;286;;;53345;644693.80;1047915.88;2013-12-05T00:00:00
+7570554;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;287;;;53345;645241.90;1048759.70;2024-12-17T00:00:00
+7570562;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;288;;;53345;645167.90;1048758.67;2024-12-17T00:00:00
+7570571;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;289;;;53345;645127.27;1048779.60;2024-12-17T00:00:00
+7570589;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;290;;;53345;644964.21;1048675.97;2024-12-17T00:00:00
+7570597;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;291;;;53345;645148.88;1048580.50;2024-12-17T00:00:00
+7570601;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;292;;;53345;644894.88;1048625.63;2024-12-17T00:00:00
+7570619;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;293;;;53345;644880.38;1048632.13;2024-12-17T00:00:00
+7570627;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;294;;;53345;645148.97;1048764.27;2024-12-17T00:00:00
+7570635;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;295;;;53345;644866.98;1048951.66;2013-12-05T00:00:00
+7570643;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;296;;;53345;644860.81;1048954.09;2013-12-05T00:00:00
+7570651;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;297;;;53345;644854.49;1048957.70;2013-12-05T00:00:00
+7570660;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;298;;;53345;644848.59;1048960.62;2013-12-05T00:00:00
+7570678;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;299;;;53345;645123.35;1048592.89;2024-12-17T00:00:00
+7570686;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;300;;;53345;645002.30;1048999.47;2024-12-17T00:00:00
+7570694;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;301;;;53345;645010.10;1048994.97;2024-12-17T00:00:00
+7570708;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;302;;;53345;645018.68;1048990.59;2024-12-17T00:00:00
+7570716;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;303;;;53345;645026.77;1048986.35;2024-12-17T00:00:00
+7570724;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;304;;;53345;645039.68;1048979.16;2024-12-17T00:00:00
+7570732;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;305;;;53345;645055.29;1048970.75;2024-12-17T00:00:00
+7570741;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;306;;;53345;645047.40;1048974.87;2024-12-17T00:00:00
+7570759;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;307;;;53345;645063.95;1048966.89;2024-12-17T00:00:00
+7570767;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;308;;;53345;645112.95;1048824.32;2024-12-17T00:00:00
+7570775;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;309;;;53345;645168.93;1048796.60;2024-12-17T00:00:00
+7570791;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;311;;;53345;644942.18;1049225.68;2013-12-05T00:00:00
+7570805;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;312;;;53345;645109.84;1048637.83;2024-12-17T00:00:00
+7570813;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372013;Ve Støídni;è.p.;313;;;53345;644422.28;1048355.24;2013-12-05T00:00:00
+7570821;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;314;;;53345;645078.67;1048567.31;2024-12-17T00:00:00
+7570830;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;315;;;53345;645037.02;1049332.71;2013-12-05T00:00:00
+7570848;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;316;;;53345;645242.50;1049348.30;2013-12-05T00:00:00
+7570856;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;317;;;53345;644982.36;1049030.34;2013-12-05T00:00:00
+7570864;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;318;;;53345;644981.59;1048895.76;2024-12-17T00:00:00
+7570872;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;319;;;53345;644997.35;1048886.10;2024-12-17T00:00:00
+7570881;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;320;;;53345;645013.29;1048877.35;2024-12-17T00:00:00
+7570899;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;321;;;53345;645029.24;1048869.56;2024-12-17T00:00:00
+7570902;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;322;;;53345;645260.19;1049115.03;2013-12-05T00:00:00
+7570911;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;323;;;53345;645016.06;1049103.62;2013-12-05T00:00:00
+7570929;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;324;;;53345;645224.56;1048727.05;2024-12-17T00:00:00
+7570937;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;325;;;53345;645080.25;1048842.54;2024-12-17T00:00:00
+7570945;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;326;;;53345;645221.30;1049355.77;2013-12-05T00:00:00
+7570953;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;327;;;53345;645207.52;1048736.97;2024-12-17T00:00:00
+7570961;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;328;;;53345;644812.63;1048893.23;2013-12-05T00:00:00
+7570988;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;330;;;53345;644881.43;1049251.37;2022-11-11T00:00:00
+7570996;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;331;;;53345;645935.55;1050098.63;2013-12-05T00:00:00
+7571003;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;332;;;53345;645100.20;1049330.49;2013-12-05T00:00:00
+7571011;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;333;;;53345;644872.67;1049155.54;2013-12-05T00:00:00
+7571020;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;334;;;53345;644967.30;1048623.93;2024-12-17T00:00:00
+7571038;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;335;;;53345;644844.55;1047897.26;2013-12-05T00:00:00
+7571046;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;336;;;53345;645267.25;1050403.00;2013-12-05T00:00:00
+7571054;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;337;;;53345;644944.21;1048950.85;2013-12-05T00:00:00
+7571062;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;338;;;53345;644997.43;1049066.24;2013-12-05T00:00:00
+7571071;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;339;;;53345;644802.77;1049079.47;2013-12-05T00:00:00
+7571089;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;340;;;53345;644812.02;1049073.58;2013-12-05T00:00:00
+7571097;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;341;;;53345;645240.48;1049116.97;2013-12-05T00:00:00
+7571101;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;342;;;53345;644818.73;1048999.47;2013-12-05T00:00:00
+7571119;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;343;;;53345;645121.15;1048847.33;2024-12-17T00:00:00
+7571127;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;344;;;53345;644779.69;1049264.50;2013-12-05T00:00:00
+7571135;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;345;;;53345;645204.87;1050459.99;2013-12-05T00:00:00
+7571143;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;346;;;53345;645097.24;1048948.78;2024-12-17T00:00:00
+7571151;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;347;;;53345;644665.55;1048771.89;2021-06-09T00:00:00
+7571178;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;349;;;53345;645394.09;1049101.00;2021-07-07T00:00:00
+7571186;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;350;;;53345;644833.55;1048849.59;2013-12-05T00:00:00
+7571194;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;351;;;53345;645146.04;1048620.54;2024-12-17T00:00:00
+7571208;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;352;;;53345;644743.14;1049458.28;2013-12-05T00:00:00
+7571216;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;353;;;53345;644843.10;1048685.14;2024-12-17T00:00:00
+7571224;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;354;;;53345;644884.92;1051675.79;2013-12-05T00:00:00
+7571232;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;355;;;53345;644867.37;1047953.76;2013-12-05T00:00:00
+7571241;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;356;;;53345;645089.20;1049287.47;2013-12-05T00:00:00
+7571259;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;357;;;53345;644881.03;1047896.83;2013-12-05T00:00:00
+7571267;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;358;;;53345;644686.36;1048717.38;2013-12-05T00:00:00
+7571275;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;359;;;53345;644971.29;1048554.90;2024-12-17T00:00:00
+7577796;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;1;;;53345;645338.39;1047560.05;2013-12-05T00:00:00
+7577800;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;2;;;53345;645329.44;1047587.38;2013-12-05T00:00:00
+7577818;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;3;;;53345;645310.70;1047607.17;2013-12-05T00:00:00
+7577826;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;4;;;53345;645314.67;1047632.35;2013-12-05T00:00:00
+7577834;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;5;;;53345;645287.66;1047669.00;2013-12-05T00:00:00
+7577851;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;7;;;53345;645216.38;1047350.62;2022-06-20T00:00:00
+7577877;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;9;;;53345;645124.69;1047337.65;2013-12-05T00:00:00
+7577885;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;10;;;53345;645238.73;1047350.55;2013-12-05T00:00:00
+7577893;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;11;;;53345;645322.59;1047311.36;2013-12-05T00:00:00
+7577907;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;12;;;53345;645336.71;1047382.85;2013-12-05T00:00:00
+7577915;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;13;;;53345;645360.98;1047405.89;2013-12-05T00:00:00
+7577923;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;14;;;53345;645375.62;1047403.12;2013-12-05T00:00:00
+7577931;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;15;;;53345;645424.45;1047355.51;2013-12-05T00:00:00
+7577940;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;16;;;53345;645444.49;1047325.77;2013-12-05T00:00:00
+7577966;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;18;;;53345;645536.56;1047319.77;2013-12-05T00:00:00
+7577974;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;19;;;53345;645549.59;1047324.58;2013-12-05T00:00:00
+7577982;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;20;;;53345;645084.11;1047331.24;2013-12-05T00:00:00
+7577991;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;21;;;53345;645484.06;1047373.95;2013-12-05T00:00:00
+7578016;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;23;;;53345;645438.17;1047431.88;2013-12-05T00:00:00
+7578024;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;24;;;53345;645425.31;1047474.54;2013-12-05T00:00:00
+7578032;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;25;;;53345;644748.51;1047595.98;2013-12-05T00:00:00
+7578059;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;27;;;53345;645253.44;1047654.43;2013-12-05T00:00:00
+7578067;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;28;;;53345;645321.55;1047679.53;2013-12-05T00:00:00
+7578075;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;29;;;53345;645124.93;1047438.12;2013-12-05T00:00:00
+7578083;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;30;;;53345;645289.50;1047570.51;2013-12-05T00:00:00
+7578091;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;31;;;53345;645375.07;1047528.00;2013-12-05T00:00:00
+7578105;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;32;;;53345;645331.30;1047695.66;2013-12-05T00:00:00
+7578113;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;33;;;53345;645345.41;1047708.17;2013-12-05T00:00:00
+7578121;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;34;;;53345;645294.18;1047595.12;2013-12-05T00:00:00
+7578130;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;35;;;53345;645357.28;1047721.47;2013-12-05T00:00:00
+7578148;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;36;;;53345;645182.02;1047594.48;2013-12-05T00:00:00
+7578164;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;38;;;53345;645203.19;1047321.51;2013-12-05T00:00:00
+7578172;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;39;;;53345;644759.87;1047574.42;2013-12-05T00:00:00
+7578199;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;41;;;53345;645516.54;1047309.79;2013-12-05T00:00:00
+7578202;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;42;;;53345;645209.12;1047720.26;2013-12-05T00:00:00
+7578211;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;43;;;53345;645496.39;1047277.95;2013-12-05T00:00:00
+7578229;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;44;;;53345;644822.93;1047199.72;2013-12-05T00:00:00
+7578237;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;45;;;53345;644729.98;1047055.80;2016-10-12T00:00:00
+7578245;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;46;;;53345;645543.18;1047281.28;2013-12-05T00:00:00
+7578253;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;47;;;53345;644859.12;1047014.68;2013-12-05T00:00:00
+7578261;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;48;;;53345;645263.05;1047411.25;2013-12-05T00:00:00
+7578270;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;49;;;53345;645201.44;1047465.77;2013-12-05T00:00:00
+7578288;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;50;;;53345;644848.61;1047235.92;2013-12-05T00:00:00
+7578296;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;51;;;53345;645415.05;1047749.78;2013-12-05T00:00:00
+7578300;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;52;;;53345;644764.09;1047551.90;2013-12-05T00:00:00
+7578318;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;53;;;53345;644688.77;1046879.23;2013-12-05T00:00:00
+7578326;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;54;;;53345;645133.74;1047422.96;2013-12-05T00:00:00
+7578334;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;55;;;53345;645217.75;1047399.73;2013-12-05T00:00:00
+7578342;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;56;;;53345;644963.96;1047272.03;2013-12-05T00:00:00
+7578351;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;57;;;53345;644946.28;1047258.21;2013-12-05T00:00:00
+7578369;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;58;;;53345;645004.02;1047295.27;2013-12-05T00:00:00
+7578377;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;59;;;53345;645360.96;1047514.24;2013-12-05T00:00:00
+7578385;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;60;;;53345;644927.93;1047246.54;2013-12-05T00:00:00
+7578393;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;61;;;53345;645360.26;1047673.30;2013-12-05T00:00:00
+7578407;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;62;;;53345;644784.33;1047398.88;2013-12-05T00:00:00
+7578415;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;63;;;53345;645214.10;1047554.46;2013-12-05T00:00:00
+7578423;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;64;;;53345;645036.05;1047307.59;2013-12-05T00:00:00
+7578431;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;65;;;53345;645020.65;1047295.58;2013-12-05T00:00:00
+7578440;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;66;;;53345;644786.20;1047420.08;2013-12-05T00:00:00
+7578458;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;67;;;53345;645234.71;1047530.03;2013-12-05T00:00:00
+7578466;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;68;;;53345;645252.68;1047552.75;2013-12-05T00:00:00
+7578474;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;69;;;53345;645058.99;1047321.05;2013-12-05T00:00:00
+7578482;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;70;;;53345;645461.64;1047379.55;2013-12-05T00:00:00
+7578491;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;71;;;53345;645223.29;1047500.98;2013-12-05T00:00:00
+7578504;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;72;;;53345;645210.89;1047484.78;2013-12-05T00:00:00
+7578512;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;73;;;53345;645262.21;1047672.75;2013-12-05T00:00:00
+7578521;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;74;;;53345;645189.87;1047432.55;2013-12-05T00:00:00
+7578539;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;75;;;53345;645173.25;1047418.46;2013-12-05T00:00:00
+7578547;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;76;;;53345;645162.94;1047400.08;2013-12-05T00:00:00
+7578555;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;77;;;53345;645151.11;1047377.03;2013-12-05T00:00:00
+7578563;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;78;;;53345;644777.85;1047467.56;2013-12-05T00:00:00
+7578571;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;79;;;53345;645300.81;1047447.01;2013-12-05T00:00:00
+7578580;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;80;;;53345;645311.76;1047459.51;2013-12-05T00:00:00
+7578598;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;81;;;53345;645289.34;1047433.97;2013-12-05T00:00:00
+7578601;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;82;;;53345;644860.40;1047321.56;2013-12-05T00:00:00
+7578610;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;83;;;53345;644782.73;1047443.07;2013-12-05T00:00:00
+7578628;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;84;;;53345;645178.78;1047729.33;2013-12-05T00:00:00
+7578636;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;85;;;53345;644792.97;1047379.48;2013-12-05T00:00:00
+7578644;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;86;;;53345;645321.86;1047473.37;2013-12-05T00:00:00
+7578652;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;87;;;53345;645410.67;1047715.89;2013-12-05T00:00:00
+7578661;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;88;;;53345;644797.50;1047539.14;2013-12-05T00:00:00
+7578679;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;89;;;53345;644784.09;1047613.15;2013-12-05T00:00:00
+7578687;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;90;;;53345;644994.71;1047379.27;2013-12-05T00:00:00
+7578695;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;91;;;53345;644999.59;1047388.22;2013-12-05T00:00:00
+7578709;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;92;;;53345;644793.05;1047602.59;2021-11-22T00:00:00
+7578717;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;93;;;53345;644821.37;1047394.62;2013-12-05T00:00:00
+7578725;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;94;;;53345;644818.34;1047413.84;2013-12-05T00:00:00
+7578733;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;95;;;53345;644805.51;1047493.23;2013-12-05T00:00:00
+7578741;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;96;;;53345;644814.60;1047444.91;2013-12-05T00:00:00
+7578750;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;97;;;53345;644923.00;1047458.38;2013-12-05T00:00:00
+7578768;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;98;;;53345;645271.99;1047419.75;2013-12-05T00:00:00
+7578776;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;99;;;53345;645341.45;1047489.29;2013-12-05T00:00:00
+7578784;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;100;;;53345;645007.51;1047402.84;2013-12-05T00:00:00
+7578792;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;101;;;53345;644925.19;1047473.33;2013-12-05T00:00:00
+7578806;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;102;;;53345;644897.28;1047574.40;2013-12-05T00:00:00
+7578814;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;103;;;53345;644773.40;1047496.83;2013-12-05T00:00:00
+7578822;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;104;;;53345;644800.17;1047517.50;2013-12-05T00:00:00
+7578831;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;105;;;53345;645107.29;1047443.21;2013-12-05T00:00:00
+7578849;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;106;;;53345;644985.15;1047283.58;2013-12-05T00:00:00
+7578857;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;107;;;53345;644766.16;1047532.38;2013-12-05T00:00:00
+7578865;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;108;;;53345;645073.46;1047465.21;2013-12-05T00:00:00
+7578873;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;109;;;53345;644808.87;1047473.13;2013-12-05T00:00:00
+7578881;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;110;;;53345;644881.09;1047265.83;2013-12-05T00:00:00
+7578890;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;111;;;53345;644923.65;1047212.63;2013-12-05T00:00:00
+7578903;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;112;;;53345;644801.65;1047326.16;2013-12-05T00:00:00
+7578911;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;113;;;53345;644976.32;1047202.69;2013-12-05T00:00:00
+7578920;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;114;;;53345;644808.33;1047287.57;2013-12-05T00:00:00
+7578938;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;115;;;53345;645016.06;1047198.31;2013-12-05T00:00:00
+7578946;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;116;;;53345;645045.11;1047192.24;2013-12-05T00:00:00
+7578954;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;117;;;53345;645382.22;1047727.59;2013-12-05T00:00:00
+7578962;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;118;;;53345;645015.72;1047421.29;2013-12-05T00:00:00
+7578971;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;119;;;53345;645091.21;1047456.97;2013-12-05T00:00:00
+7578989;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;120;;;53345;644884.05;1047601.61;2013-12-05T00:00:00
+7578997;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;121;;;53345;645085.07;1047186.31;2013-12-05T00:00:00
+7579004;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;122;;;53345;644832.35;1047651.11;2013-12-05T00:00:00
+7579012;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;123;;;53345;644849.76;1047663.79;2013-12-05T00:00:00
+7579021;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;124;;;53345;644907.41;1047546.16;2013-12-05T00:00:00
+7579039;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;125;;;53345;644990.23;1047233.84;2013-12-05T00:00:00
+7579047;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;126;;;53345;645046.89;1047480.39;2013-12-05T00:00:00
+7579055;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;127;;;53345;645101.91;1047481.88;2013-12-05T00:00:00
+7579063;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;128;;;53345;645566.12;1047249.30;2013-12-05T00:00:00
+7579071;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;129;;;53345;645084.77;1047553.09;2013-12-05T00:00:00
+7579080;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;130;;;53345;644875.21;1047679.65;2013-12-05T00:00:00
+7579098;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;131;;;53345;645068.12;1047354.78;2013-12-05T00:00:00
+7579101;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;132;;;53345;645119.34;1047616.22;2013-12-05T00:00:00
+7579110;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;133;;;53345;645129.03;1047478.06;2013-12-05T00:00:00
+7579128;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;134;;;53345;645295.99;1047383.63;2013-12-05T00:00:00
+7579136;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;135;;;53345;645091.45;1047215.88;2013-12-05T00:00:00
+7579144;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;136;;;53345;644630.39;1046857.19;2013-12-17T00:00:00
+7579152;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;137;;;53345;645065.20;1047219.96;2013-12-05T00:00:00
+7579161;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;138;;;53345;645126.43;1047350.06;2013-12-05T00:00:00
+7579179;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;139;;;53345;645038.17;1047224.44;2013-12-05T00:00:00
+7579187;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;140;;;53345;645133.25;1047558.38;2013-12-05T00:00:00
+7579195;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;141;;;53345;644790.08;1047577.04;2013-12-05T00:00:00
+7579209;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;142;;;53345;645151.71;1047548.24;2013-12-05T00:00:00
+7579217;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;143;;;53345;645202.59;1047585.92;2013-12-05T00:00:00
+7579225;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;144;;;53345;645108.98;1047570.56;2013-12-05T00:00:00
+7579233;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;145;;;53345;645383.44;1047490.94;2013-12-05T00:00:00
+7579241;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;146;;;53345;645157.95;1047605.00;2013-12-05T00:00:00
+7579250;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;147;;;53345;644957.49;1047250.18;2013-12-05T00:00:00
+7579268;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;148;;;53345;645198.10;1047525.63;2013-12-05T00:00:00
+7579276;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;149;;;53345;645076.76;1047497.72;2013-12-05T00:00:00
+7579284;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;150;;;53345;644625.75;1046849.50;2013-12-05T00:00:00
+7579292;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;151;;;53345;645187.74;1047497.96;2013-12-05T00:00:00
+7579306;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;152;;;53345;645171.73;1047540.24;2013-12-05T00:00:00
+7579314;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;153;;;53345;645144.55;1047460.43;2013-12-05T00:00:00
+7579322;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;154;;;53345;645153.84;1047455.50;2013-12-05T00:00:00
+7579331;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;155;;;53345;644920.35;1047444.97;2020-01-17T00:00:00
+7579349;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;156;;;53345;645572.37;1047374.64;2013-12-05T00:00:00
+7579357;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;157;;;53345;645545.18;1047364.17;2013-12-05T00:00:00
+7579365;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;158;;;53345;645533.18;1047355.48;2013-12-05T00:00:00
+7579373;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;159;;;53345;645484.17;1047353.06;2013-12-05T00:00:00
+7579381;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;160;;;53345;645510.89;1047345.08;2013-12-05T00:00:00
+7579390;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;161;;;53345;645093.29;1047521.63;2013-12-05T00:00:00
+7579403;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;162;;;53345;645126.53;1047388.41;2013-12-05T00:00:00
+7579411;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;163;;;53345;645178.57;1047480.78;2013-12-05T00:00:00
+7579420;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;164;;;53345;645146.52;1047519.98;2013-12-05T00:00:00
+7579438;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;165;;;53345;645182.37;1047650.73;2013-12-05T00:00:00
+7579446;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;166;;;53345;645162.15;1047664.15;2013-12-05T00:00:00
+7579454;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;167;;;53345;645454.51;1047392.76;2013-12-05T00:00:00
+7579462;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;168;;;53345;645443.04;1047408.59;2013-12-05T00:00:00
+7579489;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;170;;;53345;645270.95;1047328.78;2013-12-05T00:00:00
+7579497;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;171;;;53345;645323.53;1047381.66;2013-12-05T00:00:00
+7579501;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;172;;;53345;645224.78;1047679.05;2013-12-05T00:00:00
+7579519;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;173;;;53345;644906.85;1047409.99;2013-12-05T00:00:00
+7579527;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;174;;;53345;645150.64;1047649.67;2013-12-05T00:00:00
+7579535;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;175;;;53345;645242.12;1047423.58;2013-12-05T00:00:00
+7579543;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;176;;;53345;644919.31;1047493.63;2013-12-05T00:00:00
+7579551;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;177;;;53345;645284.34;1047322.83;2013-12-05T00:00:00
+7579560;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;178;;;53345;643915.21;1046979.10;2013-12-05T00:00:00
+7579578;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;179;;;53345;645200.75;1047632.28;2013-12-05T00:00:00
+7579586;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;180;;;53345;645249.48;1047498.68;2013-12-05T00:00:00
+25244540;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699110;Ke Trati;è.p.;365;;;53345;645096.50;1048527.32;2024-12-17T00:00:00
+25244558;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;374;;;53345;645007.95;1048493.06;2024-12-17T00:00:00
+25244566;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;375;;;53345;644997.68;1048472.51;2024-12-17T00:00:00
+25244574;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;376;;;53345;644988.01;1048452.78;2024-12-17T00:00:00
+25251449;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;380;;;53345;644671.52;1048178.59;2013-12-05T00:00:00
+25251457;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;378;;;53345;644768.56;1048201.83;2013-12-05T00:00:00
+25261797;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;381;;;53345;644665.54;1048197.69;2013-12-05T00:00:00
+25261801;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;379;;;53345;644759.94;1048182.39;2013-12-05T00:00:00
+25264567;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;377;;;53345;644777.37;1048221.04;2013-12-05T00:00:00
+25264575;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;382;;;53345;645059.85;1048722.60;2024-12-17T00:00:00
+25264583;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;384;;;53345;644940.97;1048499.08;2024-12-17T00:00:00
+25264591;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;383;;;53345;645099.87;1048678.07;2024-12-17T00:00:00
+25352172;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;366;;;53345;644926.72;1049239.90;2013-12-05T00:00:00
+25367145;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;372;;;53345;644954.05;1048516.67;2024-12-17T00:00:00
+25470973;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;363;;;53345;644862.54;1047979.24;2013-12-05T00:00:00
+25731114;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;389;;;53345;645232.25;1049396.49;2013-12-05T00:00:00
+25792865;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;364;;;53345;645381.96;1049108.67;2013-12-05T00:00:00
+25883054;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;392;;;53345;645042.55;1048497.75;2024-12-17T00:00:00
+26005093;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;394;;;53345;645012.34;1048436.59;2024-12-17T00:00:00
+26071649;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;393;;;53345;645095.17;1048471.16;2024-12-17T00:00:00
+26121476;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;368;;;53345;645189.84;1049335.95;2013-12-05T00:00:00
+26188961;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;403;;;53345;645338.93;1049291.53;2013-12-05T00:00:00
+26227894;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;401;;;53345;644942.63;1048474.45;2024-12-17T00:00:00
+26380773;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;395;;;53345;645102.34;1048488.53;2024-12-17T00:00:00
+26380781;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;396;;;53345;644868.73;1048859.89;2014-08-01T00:00:00
+26380790;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;397;;;53345;644875.54;1048856.30;2014-08-01T00:00:00
+26380803;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;398;;;53345;645007.64;1049383.26;2013-12-05T00:00:00
+26380820;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;402;;;53345;644979.15;1048434.31;2024-12-17T00:00:00
+26380846;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;405;;;53345;645025.65;1048530.02;2024-12-17T00:00:00
+26380862;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;407;;;53345;644854.13;1048840.33;2013-12-05T00:00:00
+26380871;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;408;;;53345;645005.54;1048414.56;2024-12-17T00:00:00
+26380889;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371840;Ke Høišti;è.p.;409;;;53345;644872.46;1048337.73;2013-12-05T00:00:00
+26380897;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;410;;;53345;645058.74;1049197.99;2013-12-05T00:00:00
+26380901;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;411;;;53345;644955.63;1048009.77;2013-12-05T00:00:00
+26380919;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;412;;;53345;644920.11;1048002.14;2013-12-05T00:00:00
+26380927;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;413;;;53345;645127.04;1048456.33;2024-12-17T00:00:00
+26509253;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;415;;;53345;645136.34;1048473.58;2024-12-17T00:00:00
+26522691;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;416;;;53345;644969.73;1047919.93;2013-12-05T00:00:00
+26538989;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;414;;;53345;644704.05;1048407.16;2013-12-05T00:00:00
+26558980;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;388;;;53345;645266.64;1049315.72;2013-12-05T00:00:00
+26616378;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;419;;;53345;645197.82;1049406.12;2013-12-05T00:00:00
+26625580;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;418;;;53345;644957.62;1047989.04;2013-12-05T00:00:00
+26676389;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699110;Ke Trati;è.p.;420;;;53345;645021.45;1048596.81;2024-12-17T00:00:00
+26704633;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;367;;;53345;645195.67;1049118.33;2013-12-05T00:00:00
+26704641;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;371;;;53345;644979.92;1048574.09;2024-12-17T00:00:00
+26704650;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;385;;;53345;645081.84;1048767.97;2024-12-17T00:00:00
+26704668;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;391;;;53345;645051.02;1048515.22;2024-12-17T00:00:00
+26718111;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;360;;;53345;645024.14;1049044.43;2024-12-17T00:00:00
+26928299;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371963;Rùžová;è.p.;361;;;53345;645126.31;1048932.41;2024-12-17T00:00:00
+26928302;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;362;;;53345;644872.69;1047926.70;2013-12-05T00:00:00
+26928311;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;373;;;53345;644964.25;1048537.71;2024-12-17T00:00:00
+26928329;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;386;;;53345;645059.55;1048532.11;2024-12-17T00:00:00
+26928337;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;387;;;53345;644641.04;1048879.80;2013-12-05T00:00:00
+27079139;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;421;;;53345;644937.59;1047937.67;2013-12-05T00:00:00
+27079147;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;422;;;53345;645297.02;1049150.67;2013-12-05T00:00:00
+27079155;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;423;;;53345;645113.90;1049312.13;2013-12-05T00:00:00
+27079163;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;424;;;53345;645261.87;1049158.46;2013-12-05T00:00:00
+27079171;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;425;;;53345;645145.36;1048502.42;2024-12-17T00:00:00
+27079180;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;426;;;53345;644867.89;1049026.65;2013-12-05T00:00:00
+27079198;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;428;;;53345;644469.96;1048264.96;2013-12-05T00:00:00
+27079201;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;429;;;53345;644974.75;1047905.47;2013-12-05T00:00:00
+27079210;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;430;;;53345;644875.06;1048819.79;2013-12-05T00:00:00
+27243079;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371840;Ke Høišti;è.p.;431;;;53345;644923.11;1048316.83;2013-12-05T00:00:00
+27273458;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;432;;;53345;644496.94;1048210.75;2013-12-05T00:00:00
+27273466;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;181;;;53345;645619.75;1047390.75;2013-12-05T00:00:00
+27295931;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;433;;;53345;644989.12;1047887.08;2014-02-21T00:00:00
+27315819;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;434;;;53345;644821.19;1047967.53;2013-12-05T00:00:00
+27322858;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;436;;;53345;644555.49;1048138.14;2013-12-05T00:00:00
+27322866;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;437;;;53345;644544.13;1048143.56;2013-12-05T00:00:00
+27322874;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;438;;;53345;644533.00;1048149.00;2013-12-05T00:00:00
+27322882;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;439;;;53345;644520.65;1048152.74;2013-12-05T00:00:00
+27322891;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;440;;;53345;644508.69;1048127.53;2015-01-20T00:00:00
+27322904;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;441;;;53345;644477.65;1048124.94;2013-12-05T00:00:00
+27322912;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;442;;;53345;644477.05;1048131.82;2013-12-05T00:00:00
+27322921;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;435;;;53345;645377.81;1049144.74;2013-12-05T00:00:00
+27527247;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;443;;;53345;645102.67;1048413.94;2024-12-17T00:00:00
+27533263;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;444;;;53345;644496.22;1048246.61;2013-12-05T00:00:00
+27567966;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;445;;;53345;644997.60;1048610.18;2024-12-17T00:00:00
+27567974;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;446;;;53345;644923.16;1048610.69;2024-12-17T00:00:00
+27567982;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371971;Smetanova;è.p.;447;;;53345;644942.93;1048600.12;2024-12-17T00:00:00
+27577899;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;785253;Kaštanová;è.p.;448;;;53345;645084.24;1049025.81;2024-12-17T00:00:00
+27608484;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371858;Ke Struze;è.p.;449;;;53345;644476.00;1048286.00;2013-12-05T00:00:00
+27636984;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;182;;;53345;645523.09;1047523.85;2013-12-05T00:00:00
+27673286;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;451;;;53345;645054.89;1048390.03;2024-12-17T00:00:00
+27690768;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;452;;;53345;645926.90;1049612.96;2013-12-17T00:00:00
+27690776;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;450;;;53345;644547.57;1048526.15;2013-12-05T00:00:00
+27726410;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;454;;;53345;645091.39;1048393.25;2024-12-17T00:00:00
+27726428;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;453;;;53345;644818.00;1048856.00;2013-12-05T00:00:00
+27744817;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;455;;;53345;645351.00;1049145.00;2013-12-05T00:00:00
+27763587;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;183;;;53345;644699.18;1047012.70;2013-12-05T00:00:00
+27771032;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;456;;;53345;644889.44;1047815.19;2013-12-05T00:00:00
+27781232;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;457;;;53345;645322.00;1049145.00;2013-12-05T00:00:00
+27798861;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;458;;;53345;644777.14;1048737.95;2013-12-05T00:00:00
+27826961;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;459;;;53345;644827.09;1048794.79;2013-12-05T00:00:00
+27832171;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;460;;;53345;644812.26;1048808.02;2013-12-05T00:00:00
+27832180;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371998;Václavská;è.p.;461;;;53345;644770.00;1049308.00;2013-12-05T00:00:00
+27841235;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;184;;;53345;645172.50;1047704.36;2013-12-05T00:00:00
+27865231;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;462;;;53345;644760.00;1047783.00;2013-12-05T00:00:00
+27905373;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;463;;;53345;644940.00;1047874.00;2013-12-05T00:00:00
+27936147;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;464;;;53345;644944.23;1047898.69;2013-12-05T00:00:00
+28107187;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;465;;;53345;645172.00;1048976.00;2024-12-17T00:00:00
+28119231;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;466;;;53345;645077.57;1048376.81;2024-12-17T00:00:00
+28133986;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;467;;;53345;645025.00;1049314.00;2013-12-05T00:00:00
+28238681;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;468;;;53345;644921.75;1047979.62;2013-12-05T00:00:00
+28314379;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;469;;;53345;645442.52;1049160.70;2013-12-05T00:00:00
+28390571;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;369;;;53345;645929.00;1049843.00;2013-12-05T00:00:00
+28408683;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371891;K Rybníèkùm;è.p.;470;;;53345;644629.77;1047740.12;2013-12-05T00:00:00
+30584574;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;404;;;53345;645204.16;1049006.05;2024-12-17T00:00:00
+30847915;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;390;;;53345;645087.03;1048452.16;2024-12-17T00:00:00
+30847923;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;;;è.p.;427;;;53345;644676.30;1047861.36;2013-12-05T00:00:00
+30862817;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.ev.;2;;;53345;643929.21;1047021.75;2013-12-05T00:00:00
+31276008;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;370;;;53345;645093.69;1048868.38;2024-12-17T00:00:00
+31276016;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;417;;;53345;644572.54;1048240.41;2013-12-05T00:00:00
+40573842;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;471;;;53345;645288.02;1049112.49;2013-12-05T00:00:00
+40821790;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;473;;;53345;644884.38;1047842.88;2013-12-06T00:00:00
+40821901;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;474;;;53345;644882.39;1047850.89;2013-12-05T00:00:00
+41159624;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;475;;;53345;645163.08;1048926.62;2024-12-17T00:00:00
+41876296;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;477;;;53345;645218.72;1048991.07;2024-12-17T00:00:00
+41897480;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;476;;;53345;644857.50;1047848.52;2013-12-05T00:00:00
+42058490;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;;;è.p.;478;;;53345;645063.89;1051059.65;2014-02-20T00:00:00
+42284970;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;472;;;53345;645173.53;1049154.77;2013-12-05T00:00:00
+42608651;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;479;;;53345;645211.87;1049144.96;2013-12-05T00:00:00
+42641659;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;482;;;53345;645226.26;1049028.30;2024-12-17T00:00:00
+67657958;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;196;;;53345;645572.87;1047231.87;2013-12-10T00:00:00
+71061975;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;483;;;53345;645238.98;1049003.55;2024-12-17T00:00:00
+71122796;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;197;;;53345;645091.67;1047370.59;2014-01-22T00:00:00
+72562765;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699128;Pøíèná;è.p.;484;;;53345;645039.75;1048556.49;2024-12-17T00:00:00
+72626607;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;485;;;53345;644802.95;1048059.12;2014-04-30T00:00:00
+72712848;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;487;;;53345;645206.46;1048978.23;2024-12-17T00:00:00
+72716681;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;486;;;53345;645203.32;1048974.89;2024-12-17T00:00:00
+72876344;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;785261;Krátká;è.p.;480;;;53345;645146.54;1048999.70;2024-12-17T00:00:00
+72960469;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;785261;Krátká;è.p.;481;;;53345;645167.39;1049016.46;2024-12-17T00:00:00
+73150401;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;488;;;53345;645318.30;1049116.98;2014-10-22T00:00:00
+73214353;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;192;;;53345;645402.43;1047250.42;2014-11-20T00:00:00
+73215147;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;490;;;53345;644749.87;1048729.50;2014-11-21T00:00:00
+73268674;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;189;;;53345;645384.47;1047304.11;2014-12-12T00:00:00
+73294781;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;187;;;53345;645362.83;1047316.23;2014-12-20T00:00:00
+73989860;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;193;;;53345;645439.48;1047280.13;2015-08-27T00:00:00
+74191683;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;492;;;53345;644945.93;1048029.74;2015-10-30T00:00:00
+74247751;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;198;;;53345;645232.01;1047462.43;2015-11-11T00:00:00
+74323407;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;699110;Ke Trati;è.p.;493;;;53345;645017.71;1048571.07;2024-12-17T00:00:00
+74567756;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;494;;;53345;645134.44;1048869.19;2024-12-17T00:00:00
+74890174;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;495;;;53345;645254.37;1049021.73;2024-12-17T00:00:00
+75224372;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;496;;;53345;645223.50;1048952.93;2024-12-17T00:00:00
+75505894;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;498;;;53345;645224.32;1049329.73;2016-11-09T00:00:00
+75574438;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;497;;;53345;644486.99;1048511.06;2016-11-24T00:00:00
+75620031;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1203631;Janáèkova;è.p.;489;;;53345;644935.99;1048635.48;2024-12-17T00:00:00
+75655233;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371807;Hradecká;è.p.;500;;;53345;644550.55;1048349.01;2016-12-16T00:00:00
+75659701;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;501;;;53345;645187.94;1048958.70;2024-12-17T00:00:00
+75661837;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;499;;;53345;645237.67;1048834.29;2024-12-17T00:00:00
+75663597;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;502;;;53345;645184.66;1048955.13;2024-12-17T00:00:00
+75706521;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;503;;;53345;645239.48;1048885.60;2024-12-17T00:00:00
+75761581;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;506;;;53345;645037.07;1049085.40;2024-12-17T00:00:00
+75838087;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;504;;;53345;645146.51;1048904.87;2024-12-17T00:00:00
+75912180;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;505;;;53345;645260.04;1048874.91;2024-12-17T00:00:00
+75914085;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1203631;Janáèkova;è.p.;491;;;53345;644894.64;1048656.29;2024-12-17T00:00:00
+76113019;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;507;;;53345;644881.09;1047872.80;2017-04-26T00:00:00
+77209206;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;508;;;53345;645198.71;1048860.75;2024-12-17T00:00:00
+77519990;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;509;;;53345;645180.35;1048862.26;2024-12-17T00:00:00
+77654331;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;785253;Kaštanová;è.p.;510;;;53345;645110.69;1049006.15;2024-12-17T00:00:00
+77680847;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;511;;;53345;645190.49;1048835.98;2024-12-17T00:00:00
+77735633;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;512;;;53345;645229.13;1048813.48;2024-12-17T00:00:00
+77882857;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;514;;;53345;645264.75;1048847.43;2024-12-17T00:00:00
+77883560;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;513;;;53345;645262.03;1048842.39;2024-12-17T00:00:00
+77990587;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;517;;;53345;645216.67;1049124.10;2018-02-06T00:00:00
+78092141;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;518;;;53345;645065.87;1048409.50;2024-12-17T00:00:00
+78166888;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;186;;;53345;645344.87;1047286.52;2018-03-26T00:00:00
+78391202;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;520;;;53345;645253.31;1048825.26;2024-12-17T00:00:00
+78454778;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;521;;;53345;645204.29;1048872.18;2024-12-17T00:00:00
+78611211;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;516;;;53345;645248.84;1048855.94;2024-12-17T00:00:00
+78978882;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;519;;;53345;645195.65;1048855.29;2024-12-17T00:00:00
+78979072;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;515;;;53345;645185.85;1048913.28;2024-12-17T00:00:00
+79010202;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;224;;;53345;645118.52;1047186.64;2018-12-21T00:00:00
+79075151;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;526;;;53345;645107.96;1048442.64;2024-12-17T00:00:00
+79082611;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;523;;;53345;645256.00;1048830.43;2024-12-17T00:00:00
+79092136;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;522;;;53345;645240.19;1048838.73;2024-12-17T00:00:00
+79297463;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;207;;;53345;645276.41;1047221.82;2019-04-12T00:00:00
+79433537;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;539;;;53345;645269.46;1048976.70;2024-12-17T00:00:00
+79452540;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;532;;;53345;645248.07;1048811.71;2024-12-17T00:00:00
+79613390;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;553;;;53345;645194.99;1049148.91;2019-08-05T00:00:00
+79627188;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;527;;;53345;645205.99;1048902.78;2024-12-17T00:00:00
+79628117;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;191;;;53345;645403.35;1047296.80;2019-07-30T00:00:00
+79639666;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;537;;;53345;645270.16;1048956.67;2024-12-17T00:00:00
+79647901;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;214;;;53345;645211.66;1047182.85;2019-08-07T00:00:00
+79831991;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;524;;;53345;644957.05;1047966.94;2019-08-28T00:00:00
+79848958;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;525;;;53345;645246.37;1048850.92;2024-12-17T00:00:00
+79973132;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;203;;;53345;645287.49;1047238.97;2019-10-17T00:00:00
+80008721;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;531;;;53345;645207.27;1048877.46;2024-12-17T00:00:00
+80024301;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;533;;;53345;645269.96;1048913.36;2024-12-17T00:00:00
+80112994;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;208;;;53345;645255.38;1047230.27;2019-11-27T00:00:00
+80133053;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;561;;;53345;645273.73;1048719.85;2024-12-17T00:00:00
+80168191;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;538;;;53345;645269.84;1048971.03;2024-12-17T00:00:00
+80242049;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1976648;Nohejlova;è.p.;530;;;53345;645174.19;1048846.33;2024-12-17T00:00:00
+80351085;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;225;;;53345;644670.72;1046922.43;2020-02-06T00:00:00
+80420460;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;761737;U Lesa;è.p.;549;;;53345;644945.21;1047922.57;2020-02-25T00:00:00
+80425691;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;564;;;53345;645272.02;1048700.53;2024-12-17T00:00:00
+80452566;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;560;;;53345;645279.18;1048717.12;2024-12-17T00:00:00
+80564305;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;580;;;53345;644637.26;1048723.00;2020-04-22T00:00:00
+81082771;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;571;;;53345;645226.60;1048670.89;2024-12-17T00:00:00
+81088060;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;565;;;53345;645267.02;1048703.02;2024-12-17T00:00:00
+81088850;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;200;;;53345;645307.30;1047204.31;2020-08-24T00:00:00
+81091451;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;559;;;53345;645278.73;1048771.49;2024-12-17T00:00:00
+81134762;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;536;;;53345;645269.84;1048950.86;2024-12-17T00:00:00
+81135416;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;372005;Vavøinecká;è.p.;581;;;53345;644762.84;1048797.87;2020-09-14T00:00:00
+81135840;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;212;;;53345;645262.11;1047169.38;2020-09-14T00:00:00
+81150075;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;558;;;53345;645282.26;1048769.02;2024-12-17T00:00:00
+81331371;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;566;;;53345;645251.72;1048711.01;2024-12-17T00:00:00
+81343396;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;573;;;53345;645235.20;1048645.82;2024-12-17T00:00:00
+81343434;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;535;;;53345;645269.94;1048935.28;2024-12-17T00:00:00
+81471955;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;568;;;53345;645249.96;1048658.73;2024-12-17T00:00:00
+81472854;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;550;;;53345;644839.70;1047925.41;2021-02-01T00:00:00
+81489340;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;534;;;53345;645269.60;1048930.65;2024-12-17T00:00:00
+81762747;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;563;;;53345;645255.89;1048729.06;2024-12-17T00:00:00
+81805276;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;570;;;53345;645229.55;1048668.80;2024-12-17T00:00:00
+81805381;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371980;Školní;è.p.;582;;;53345;645013.24;1049084.82;2021-05-11T00:00:00
+81882581;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;572;;;53345;645238.94;1048643.67;2024-12-17T00:00:00
+81993153;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;226;;;53345;644813.30;1047251.07;2021-07-29T00:00:00
+82146624;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;556;;;53345;645300.62;1048759.49;2024-12-17T00:00:00
+82181721;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;217;;;53345;645137.15;1047202.24;2021-10-13T00:00:00
+82251746;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371874;Komenského;è.p.;541;;;53345;645218.35;1048932.24;2024-12-17T00:00:00
+82321906;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;188;;;53345;645371.05;1047284.65;2021-12-07T00:00:00
+82356009;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371840;Ke Høišti;è.p.;586;;;53345;644837.02;1048446.38;2021-12-17T00:00:00
+82492891;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371840;Ke Høišti;è.p.;587;;;53345;644784.89;1048152.42;2022-01-17T00:00:00
+82608644;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;540;;;53345;645269.04;1048995.30;2024-12-17T00:00:00
+82625301;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;204;;;53345;645243.30;1047256.11;2022-02-11T00:00:00
+82639418;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;213;;;53345;645231.11;1047177.62;2022-02-14T00:00:00
+82639451;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;215;;;53345;645192.71;1047187.74;2022-02-14T00:00:00
+82726779;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;575;;;53345;645217.39;1048654.80;2024-12-17T00:00:00
+82788944;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371815;Jozífova;è.p.;588;;;53345;644848.87;1047789.36;2022-03-23T00:00:00
+82880433;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;210;;;53345;645207.87;1047248.60;2022-04-14T00:00:00
+82972257;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;557;;;53345;645296.27;1048761.63;2024-12-17T00:00:00
+83088598;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;190;;;53345;645392.08;1047269.88;2022-07-14T00:00:00
+83254366;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;562;;;53345;645260.22;1048726.58;2024-12-17T00:00:00
+83712585;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371921;Mokrá;è.p.;629;;;53345;644538.52;1048400.62;2022-10-24T00:00:00
+84610930;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;218;;;53345;645253.94;1047149.03;2022-12-12T00:00:00
+84638869;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;567;;;53345;645246.81;1048713.75;2024-12-17T00:00:00
+84647451;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;594;;;53345;645291.26;1048873.47;2024-12-17T00:00:00
+84647591;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;595;;;53345;645291.45;1048877.02;2024-12-17T00:00:00
+84647612;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;601;;;53345;645325.02;1048849.33;2024-12-17T00:00:00
+84648601;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;602;;;53345;645327.69;1048852.49;2024-12-17T00:00:00
+84648660;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;604;;;53345;645340.36;1048874.78;2024-12-17T00:00:00
+84648686;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;605;;;53345;645342.39;1048878.51;2024-12-17T00:00:00
+84648741;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;607;;;53345;645351.81;1048896.03;2024-12-17T00:00:00
+84648791;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;610;;;53345;645353.85;1048933.40;2024-12-17T00:00:00
+84648881;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;611;;;53345;645354.57;1048937.46;2024-12-17T00:00:00
+84649097;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;618;;;53345;645377.14;1049025.07;2024-12-17T00:00:00
+84913738;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;621;;;53345;645347.52;1049038.11;2024-12-17T00:00:00
+84914025;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;613;;;53345;645363.98;1048969.42;2024-12-17T00:00:00
+84914092;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;614;;;53345;645363.56;1048973.47;2024-12-17T00:00:00
+84914131;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;616;;;53345;645360.38;1048993.67;2024-12-17T00:00:00
+84914173;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;617;;;53345;645359.75;1048997.60;2024-12-17T00:00:00
+84914254;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;622;;;53345;645343.23;1049038.24;2024-12-17T00:00:00
+84998148;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;209;;;53345;645232.07;1047239.14;2023-03-01T00:00:00
+85023019;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;623;;;53345;645323.33;1049038.83;2024-12-17T00:00:00
+85023035;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;627;;;53345;645299.22;1049039.60;2024-12-17T00:00:00
+85023060;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;628;;;53345;645295.32;1049039.72;2024-12-17T00:00:00
+85023272;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;624;;;53345;645318.91;1049038.98;2024-12-17T00:00:00
+85023345;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;599;;;53345;645306.98;1048996.22;2024-12-17T00:00:00
+85038270;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;1203631;Janáèkova;è.p.;584;;;53345;644920.43;1048643.21;2024-12-17T00:00:00
+85038377;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371831;Kasárenská;è.p.;630;;;53345;645438.30;1049122.06;2023-03-20T00:00:00
+85069761;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;608;;;53345;645353.82;1048899.44;2024-12-17T00:00:00
+85069795;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;598;;;53345;645312.03;1048965.45;2024-12-17T00:00:00
+85117285;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;631;;;53345;644974.40;1049482.11;2023-04-19T00:00:00
+85117331;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;632;;;53345;644976.76;1049488.69;2023-04-19T00:00:00
+85117382;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371939;Na Hrázi;è.p.;633;;;53345;644979.24;1049495.28;2023-04-19T00:00:00
+85328987;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;223;;;53345;645133.93;1047167.89;2023-06-28T00:00:00
+85334405;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;596;;;53345;645301.65;1048907.34;2024-12-17T00:00:00
+85334669;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;2468506;Žákova;è.p.;597;;;53345;645311.65;1048934.55;2024-12-17T00:00:00
+85653187;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;589;;;53345;644511.37;1048678.25;2023-10-11T00:00:00
+85733482;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;216;;;53345;645164.72;1047195.88;2023-11-03T00:00:00
+85791962;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;227;;;53345;644597.53;1046969.67;2023-11-28T00:00:00
+85854417;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;592;;;53345;644554.63;1048705.61;2023-12-13T00:00:00
+85899780;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;199;;;53345;645318.36;1047249.15;2024-01-04T00:00:00
+85900214;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;228;;;53345;645470.18;1047317.07;2024-01-04T00:00:00
+85934402;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371882;Kunìtická;è.p.;593;;;53345;645129.03;1048738.85;2024-12-17T00:00:00
+85946087;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;609;;;53345;645382.27;1048921.33;2024-12-17T00:00:00
+85959821;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;612;;;53345;645386.57;1048958.35;2024-12-17T00:00:00
+86083856;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;741418;K Dubovce;è.p.;574;;;53345;645221.92;1048652.41;2024-12-17T00:00:00
+86193350;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;619;;;53345;645368.59;1049059.39;2024-12-17T00:00:00
+86268791;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;603;;;53345;645354.63;1048853.51;2024-12-17T00:00:00
+86321510;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;620;;;53345;645340.63;1049060.45;2024-12-17T00:00:00
+86465601;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;626;;;53345;645291.20;1049069.74;2024-12-17T00:00:00
+86549651;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371904;Lesní;è.p.;635;;;53345;645370.33;1049279.21;2024-10-04T00:00:00
+86558609;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;615;;;53345;645384.10;1048989.43;2024-12-17T00:00:00
+86661159;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;205;;;53345;645221.01;1047265.10;2024-11-27T00:00:00
+87053942;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;606;;;53345;645374.36;1048884.74;2025-05-26T00:00:00
+87176831;575429;Opatovice nad Labem;;;;;124940;Pohøebaèka;;;è.p.;211;;;53345;645184.60;1047256.84;2025-07-15T00:00:00
+87333724;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;3155145;Volkova;è.p.;625;;;53345;645324.17;1049061.89;2025-10-20T00:00:00
+87481979;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;371955;Pardubická;è.p.;590;;;53345;644527.78;1048678.13;2025-12-01T00:00:00
+87559731;575429;Opatovice nad Labem;;;;;111554;Opatovice nad Labem;785261;Krátká;è.p.;638;;;53345;645181.62;1049035.77;2026-01-08T00:00:00

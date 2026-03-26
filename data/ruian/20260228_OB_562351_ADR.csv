@@ -1,0 +1,861 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód obvodu Prahy;Název obvodu Prahy;Kód èásti obce;Název èásti obce;Kód ulice;Název ulice;Typ SO;Èíslo domovní;Èíslo orientaèní;Znak èísla orientaèního;PSÈ;Souøadnice Y;Souøadnice X;Platí Od
+153800;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;1;;;40722;740577.83;969853.20;2013-12-07T00:00:00
+153818;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;4;;;40722;740557.31;969855.61;2013-12-07T00:00:00
+153826;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;5;;;40722;740555.97;969878.37;2013-12-07T00:00:00
+153834;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;6;;;40722;740558.24;969890.27;2013-12-07T00:00:00
+153842;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;7;;;40722;740558.84;969900.20;2013-12-07T00:00:00
+153851;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;20;;;40502;741622.24;968853.06;2013-12-07T00:00:00
+153869;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;8;;;40722;740562.46;969909.84;2013-12-07T00:00:00
+153877;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;9;;;40722;740564.45;969921.21;2013-12-07T00:00:00
+153885;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;11;;;40502;741529.02;968826.61;2013-12-07T00:00:00
+153893;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;12;;;40502;742050.43;968548.67;2013-12-07T00:00:00
+153907;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;12;;;40722;740607.81;969930.89;2013-12-07T00:00:00
+153915;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;13;;;40502;741617.96;968787.37;2013-12-07T00:00:00
+153923;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;13;;;40722;740616.63;969927.41;2013-12-07T00:00:00
+153931;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;14;;;40722;740625.39;969924.18;2013-12-07T00:00:00
+153940;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;15;;;40502;742061.51;968661.36;2013-12-07T00:00:00
+153958;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85987;Èapkova;è.p.;15;;;40722;740635.40;969922.05;2013-12-07T00:00:00
+153966;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;16;;;40722;740651.56;969910.31;2013-12-07T00:00:00
+153974;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;17;;;40502;741777.51;968763.31;2013-12-07T00:00:00
+153982;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;17;;;40722;740644.72;969893.17;2013-12-07T00:00:00
+153991;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86185;Pivovarská;è.p.;20;;;40722;740716.05;969934.25;2013-12-07T00:00:00
+154008;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86185;Pivovarská;è.p.;21;;;40722;740713.67;969903.50;2013-12-07T00:00:00
+154016;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;22;;;40502;741455.64;968822.59;2013-12-07T00:00:00
+154024;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86185;Pivovarská;è.p.;22;;;40722;740709.54;969891.33;2013-12-07T00:00:00
+154041;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;25;10;;40722;740744.42;969873.79;2014-01-29T00:00:00
+154059;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;26;;;40722;740763.85;969871.65;2013-12-07T00:00:00
+154067;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;27;;;40722;740779.82;969867.70;2013-12-07T00:00:00
+154075;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;29;;;40722;740865.46;969846.41;2013-12-07T00:00:00
+154083;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;30;;;40722;741011.21;969858.49;2013-12-07T00:00:00
+154091;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;31;;;40722;741027.04;969861.18;2013-12-07T00:00:00
+154105;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;34;;;40722;741073.16;969844.35;2013-12-07T00:00:00
+154113;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;36;;;40722;740822.64;969832.69;2013-12-07T00:00:00
+154121;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;38;;;40722;740779.51;969844.36;2013-12-07T00:00:00
+154130;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;40;;;40502;741639.86;968717.69;2013-12-07T00:00:00
+154148;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;42;;;40722;740640.00;969874.79;2013-12-07T00:00:00
+154156;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;44;;;40722;740633.09;969854.22;2013-12-07T00:00:00
+154164;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;46;;;40722;740581.33;969812.28;2013-12-07T00:00:00
+154172;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;47;;;40502;741249.47;968906.33;2013-12-07T00:00:00
+154181;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86355;Zámecká;è.p.;49;;;40722;740536.14;969806.25;2013-12-07T00:00:00
+154199;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86355;Zámecká;è.p.;50;;;40722;740527.34;969806.72;2013-12-07T00:00:00
+154202;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86355;Zámecká;è.p.;53;;;40722;740495.70;969809.18;2013-12-07T00:00:00
+154211;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86312;U studánky;è.p.;55;;;40722;740515.04;969820.01;2013-12-07T00:00:00
+154229;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86312;U studánky;è.p.;56;;;40722;740518.67;969829.48;2013-12-07T00:00:00
+154237;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;57;;;40502;741568.93;968766.60;2013-12-07T00:00:00
+154245;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86312;U studánky;è.p.;57;;;40722;740523.11;969838.59;2013-12-07T00:00:00
+154253;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;58;;;40502;741361.59;968896.89;2013-12-07T00:00:00
+154261;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;59;;;40502;741347.60;968902.28;2013-12-07T00:00:00
+154270;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86312;U studánky;è.p.;59;;;40722;740540.44;969840.16;2013-12-07T00:00:00
+154288;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;60;;;40722;740546.22;969856.65;2013-12-07T00:00:00
+154296;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86312;U studánky;è.p.;61;;;40722;740528.70;969859.94;2013-12-07T00:00:00
+154300;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;62;;;40722;740535.51;969879.90;2013-12-07T00:00:00
+154318;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;63;;;40722;740524.01;969881.43;2013-12-07T00:00:00
+154326;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;64;;;40722;740514.65;969888.23;2013-12-07T00:00:00
+154334;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;65;;;40722;740511.66;969861.40;2013-12-07T00:00:00
+154342;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;66;;;40722;740501.49;969861.04;2013-12-07T00:00:00
+154351;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;67;;;40722;740496.02;969837.46;2013-12-07T00:00:00
+154369;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;68;;;40722;740493.88;969826.81;2013-12-07T00:00:00
+154377;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;69;;;40722;740490.63;969817.14;2013-12-07T00:00:00
+154385;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;70;;;40722;740432.93;969822.73;2013-12-07T00:00:00
+154393;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;71;;;40722;740468.68;969835.25;2013-12-07T00:00:00
+154407;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;72;;;40722;740478.85;969844.02;2013-12-07T00:00:00
+154415;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;73;;;40722;740482.06;969851.95;2013-12-07T00:00:00
+154423;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;74;;;40722;740484.94;969866.89;2013-12-07T00:00:00
+154431;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;75;;;40722;740460.80;969869.95;2013-12-07T00:00:00
+154440;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;77;;;40722;740444.85;969886.49;2013-12-07T00:00:00
+154458;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;78;;;40722;740463.58;969888.11;2013-12-07T00:00:00
+154466;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;79;;;40722;740473.64;969887.98;2013-12-07T00:00:00
+154474;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;80;;;40722;740487.39;969887.12;2013-12-07T00:00:00
+154482;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;81;;;40722;740507.52;969885.97;2013-12-07T00:00:00
+154491;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;82;;;40722;740489.93;969899.37;2013-12-07T00:00:00
+154504;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;83;;;40722;740491.34;969906.96;2013-12-07T00:00:00
+154512;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;84;;;40722;740512.59;969907.49;2013-12-07T00:00:00
+154521;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;85;;;40722;740494.50;969916.17;2013-12-07T00:00:00
+154539;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;86;;;40722;740515.95;969919.53;2013-12-07T00:00:00
+154547;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;87;;;40722;740486.03;969928.77;2013-12-07T00:00:00
+154555;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;88;;;40722;740498.74;969935.49;2013-12-07T00:00:00
+154563;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;89;;;40722;740502.02;969949.05;2013-12-07T00:00:00
+154580;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86100;Krátká;è.p.;91;;;40722;740533.45;969939.06;2013-12-07T00:00:00
+154598;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86100;Krátká;è.p.;92;;;40722;740550.11;969932.94;2013-12-07T00:00:00
+154601;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86100;Krátká;è.p.;94;;;40722;740569.53;969947.80;2013-12-07T00:00:00
+154610;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86100;Krátká;è.p.;95;;;40722;740556.82;969962.68;2013-12-07T00:00:00
+154628;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86100;Krátká;è.p.;96;;;40722;740543.23;969956.97;2013-12-07T00:00:00
+154636;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86100;Krátká;è.p.;97;;;40722;740527.79;969961.40;2013-12-07T00:00:00
+154644;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;98;;;40722;740508.03;969979.33;2013-12-07T00:00:00
+154652;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;99;;;40722;740528.67;969983.85;2013-12-07T00:00:00
+154661;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;101;;;40722;740538.42;970014.04;2013-12-07T00:00:00
+154679;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;102;;;40722;740540.75;970027.42;2013-12-07T00:00:00
+154687;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;103;;;40722;740553.28;970029.66;2013-12-07T00:00:00
+154695;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;104;;;40722;740565.51;970025.56;2013-12-07T00:00:00
+154709;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;105;;;40722;740588.48;970028.96;2013-12-07T00:00:00
+154717;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86142;Nerudova;è.p.;107;;;40722;740636.16;970031.50;2013-12-07T00:00:00
+154725;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86142;Nerudova;è.p.;108;;;40722;740647.04;970055.34;2013-12-07T00:00:00
+154733;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;110;;;40722;740635.95;970075.41;2013-12-07T00:00:00
+154741;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;111;;;40722;740616.74;970056.68;2013-12-07T00:00:00
+154750;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;113;;;40722;740600.00;970053.61;2013-12-07T00:00:00
+154768;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;114;;;40722;740586.77;970051.10;2013-12-07T00:00:00
+154776;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;115;;;40722;740570.53;970049.29;2013-12-07T00:00:00
+154784;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;116;;;40722;740555.65;970049.05;2013-12-07T00:00:00
+154792;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;117;;;40722;740543.44;970053.78;2013-12-07T00:00:00
+154806;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;118;;;40722;740522.00;970055.24;2013-12-07T00:00:00
+154814;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;119;;;40722;740520.33;970041.51;2013-12-07T00:00:00
+154822;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;120;;;40722;740518.86;970028.96;2013-12-07T00:00:00
+154831;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;121;;;40722;740511.32;970020.12;2013-12-07T00:00:00
+154849;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;122;;;40722;740510.80;970006.29;2013-12-07T00:00:00
+154857;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86231;Pøíkrá;è.p.;123;;;40722;740456.87;969948.21;2013-12-07T00:00:00
+154865;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86231;Pøíkrá;è.p.;124;;;40722;740439.34;969919.43;2013-12-07T00:00:00
+154873;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;126;;;40722;740424.90;969884.79;2013-12-07T00:00:00
+154881;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;127;;;40722;740417.33;969880.73;2013-12-07T00:00:00
+154890;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;129;;;40722;740358.01;969814.37;2013-12-07T00:00:00
+154903;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;132;;;40722;740453.75;969518.58;2013-12-07T00:00:00
+154911;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;133;;;40722;740356.05;969844.09;2013-12-07T00:00:00
+154920;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;135;;;40722;740271.42;969838.98;2013-12-07T00:00:00
+154938;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;136;;;40722;740257.96;969841.30;2013-12-07T00:00:00
+154946;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;138;;;40722;740181.73;969873.13;2013-12-07T00:00:00
+154954;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;140;;;40722;740061.78;969920.89;2013-12-07T00:00:00
+154962;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;141;;;40722;740039.71;969929.69;2013-12-07T00:00:00
+154971;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;142;;;40722;740023.72;969935.80;2013-12-07T00:00:00
+154989;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;146;;;40722;740256.12;969921.60;2013-12-07T00:00:00
+154997;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;147;;;40722;740270.04;969921.87;2013-12-07T00:00:00
+155004;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;148;;;40722;740302.11;969936.66;2013-12-07T00:00:00
+155012;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;149;;;40722;740313.70;969940.94;2013-12-07T00:00:00
+155021;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85944;Alšova;è.p.;150;;;40722;740325.65;969940.15;2013-12-07T00:00:00
+155039;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85944;Alšova;è.p.;151;;;40722;740338.71;969920.91;2013-12-07T00:00:00
+155047;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;152;;;40722;740346.69;969952.29;2013-12-07T00:00:00
+155055;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85944;Alšova;è.p.;153;;;40722;740328.22;969911.81;2013-12-07T00:00:00
+155063;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;154;;;40722;740397.61;969982.35;2013-12-07T00:00:00
+155071;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;155;;;40722;740438.86;970000.06;2013-12-07T00:00:00
+155080;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;156;;;40722;740456.17;969993.03;2013-12-07T00:00:00
+155098;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;157;;;40722;740472.52;970011.45;2013-12-07T00:00:00
+155101;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;158;;;40722;740441.03;970018.79;2013-12-07T00:00:00
+155110;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86193;Pod Ostrým;è.p.;159;;;40722;740440.54;970036.58;2013-12-07T00:00:00
+155128;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86193;Pod Ostrým;è.p.;160;;;40722;740434.68;970064.20;2013-12-07T00:00:00
+155136;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;161;;;40722;741408.43;969548.08;2013-12-07T00:00:00
+155144;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86223;Pøíèná;è.p.;163;;;40722;740439.91;970149.34;2013-12-07T00:00:00
+155152;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86223;Pøíèná;è.p.;164;;;40722;740451.95;970146.41;2013-12-07T00:00:00
+155161;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86223;Pøíèná;è.p.;166;;;40722;740484.04;970159.61;2013-12-07T00:00:00
+155179;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86223;Pøíèná;è.p.;167;;;40722;740489.68;970139.89;2013-12-07T00:00:00
+155187;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;170;;;40722;740502.03;970183.87;2013-12-07T00:00:00
+155195;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;171;;;40722;740497.70;970199.65;2013-12-07T00:00:00
+155209;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;173;;;40722;740491.19;970236.80;2013-12-07T00:00:00
+155217;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;175;;;40722;740486.09;970260.32;2013-12-07T00:00:00
+155225;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;177;;;40722;740495.72;970312.96;2013-12-07T00:00:00
+155233;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;179;;;40722;740565.25;970519.88;2013-12-07T00:00:00
+155241;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;180;;;40722;740533.44;970418.31;2013-12-07T00:00:00
+155250;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;184;;;40722;740509.76;970229.94;2013-12-07T00:00:00
+155268;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;185;;;40722;740513.48;970218.93;2013-12-07T00:00:00
+155276;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;186;;;40722;740517.18;970204.47;2013-12-07T00:00:00
+155284;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86223;Pøíèná;è.p.;188;;;40722;740445.97;970113.70;2013-12-07T00:00:00
+155292;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;189;;;40722;740515.39;970136.70;2013-12-07T00:00:00
+155306;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;190;;;40722;740564.22;970146.78;2013-12-07T00:00:00
+155314;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;191;;;40722;740516.83;970125.85;2013-12-07T00:00:00
+155322;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;192;;;40722;740680.58;970287.30;2013-12-07T00:00:00
+155331;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;193;;;40722;740658.42;970288.70;2013-12-07T00:00:00
+155349;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;194;;;40722;740684.36;970306.90;2013-12-07T00:00:00
+155357;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;195;;;40722;740523.79;970088.34;2013-12-07T00:00:00
+155373;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;199;;;40722;740635.98;970201.88;2013-12-07T00:00:00
+155381;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;200;;;40722;740610.61;970258.49;2013-12-07T00:00:00
+155390;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;202;;;40722;740581.85;970338.67;2013-12-07T00:00:00
+155403;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86215;Pod vyhlídkou;è.p.;204;;;40722;740763.71;970279.62;2013-12-07T00:00:00
+155411;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;205;;;40722;740600.79;970357.17;2013-12-07T00:00:00
+155420;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;206;;;40722;740686.22;970326.55;2013-12-07T00:00:00
+155438;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;207;;;40722;740603.57;970388.37;2013-12-07T00:00:00
+155446;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;209;;;40722;740688.76;970343.09;2013-12-07T00:00:00
+155454;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;210;;;40722;740693.25;970364.27;2013-12-07T00:00:00
+155462;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;211;;;40722;740350.20;969974.50;2013-12-07T00:00:00
+155471;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;212;;;40722;740699.61;970384.49;2013-12-07T00:00:00
+155497;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;214;;;40722;740634.88;970472.20;2013-12-07T00:00:00
+155501;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;215;;;40722;740335.02;969966.76;2013-12-07T00:00:00
+155519;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;216;;;40722;740690.12;970403.89;2013-12-07T00:00:00
+155527;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;219;;;40722;740365.46;969985.28;2013-12-07T00:00:00
+155535;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;220;;;40722;740684.30;970547.19;2013-12-07T00:00:00
+155543;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;221;;;40722;740388.88;970001.32;2013-12-07T00:00:00
+155551;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;226;;;40722;740918.71;970756.77;2013-12-07T00:00:00
+155560;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;227;;;40722;740950.52;970767.56;2013-12-07T00:00:00
+155578;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;228;;;40722;740990.56;970773.97;2013-12-07T00:00:00
+155586;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;232;;;40722;740816.59;970688.29;2013-12-07T00:00:00
+155594;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;233;;;40722;740769.08;970674.25;2013-12-07T00:00:00
+155608;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;234;;;40722;740765.80;970651.87;2013-12-07T00:00:00
+155616;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;235;;;40722;740762.43;970602.50;2013-12-07T00:00:00
+155624;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;236;;;40722;740723.58;970542.68;2013-12-07T00:00:00
+155632;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85944;Alšova;è.p.;237;;;40722;740385.23;969908.48;2013-12-07T00:00:00
+155641;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;238;;;40722;740408.82;970013.00;2013-12-07T00:00:00
+155659;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;239;;;40722;740515.53;970316.70;2013-12-07T00:00:00
+155667;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;240;;;40722;740734.95;970559.09;2013-12-07T00:00:00
+155675;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;242;;;40722;740670.22;970430.73;2013-12-07T00:00:00
+155683;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;243;;;40722;740681.74;970236.26;2013-12-07T00:00:00
+155691;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;244;;;40722;740291.40;969930.56;2013-12-07T00:00:00
+155705;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;245;;;40722;741387.42;969536.84;2013-12-07T00:00:00
+155713;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;247;;;40722;740710.06;970191.19;2013-12-07T00:00:00
+155721;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;248;;;40722;740728.66;970184.52;2013-12-07T00:00:00
+155730;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;249;;;40722;740680.39;970266.22;2013-12-07T00:00:00
+155748;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;250;;;40722;740651.43;970173.13;2013-12-07T00:00:00
+155756;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;251;;;40722;739745.80;969735.10;2013-12-07T00:00:00
+155764;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;252;;;40722;741621.06;970151.33;2013-12-07T00:00:00
+155772;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;253;;;40722;741068.11;970148.14;2013-12-07T00:00:00
+155781;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86215;Pod vyhlídkou;è.p.;254;;;40722;740711.83;970278.24;2013-12-07T00:00:00
+155799;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;255;;;40722;740342.39;971292.75;2013-12-07T00:00:00
+155802;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;256;;;40722;740395.41;970005.63;2013-12-07T00:00:00
+155829;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;258;;;40722;740442.62;969570.67;2013-12-07T00:00:00
+155837;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;259;;;40722;740811.69;969836.07;2013-12-07T00:00:00
+155845;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;260;;;40722;740835.44;969828.48;2013-12-07T00:00:00
+155853;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;262;;;40722;740483.84;969857.97;2013-12-07T00:00:00
+155861;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;263;;;40722;740286.97;969949.29;2013-12-07T00:00:00
+155870;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86193;Pod Ostrým;è.p.;264;;;40722;740411.63;970042.44;2013-12-07T00:00:00
+155888;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;265;;;40722;740496.78;970295.31;2013-12-07T00:00:00
+155896;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;266;;;40722;740783.44;970110.10;2013-12-07T00:00:00
+155900;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86193;Pod Ostrým;è.p.;267;;;40722;740402.24;970050.38;2013-12-07T00:00:00
+155918;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;268;;;40722;740446.60;969546.89;2013-12-07T00:00:00
+155926;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85944;Alšova;è.p.;269;;;40722;740382.13;969925.52;2013-12-07T00:00:00
+155934;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;271;;;40722;740979.44;969854.91;2013-12-07T00:00:00
+155942;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;273;;;40722;740742.45;970574.74;2013-12-07T00:00:00
+155951;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;275;;;40722;740908.60;969843.25;2013-12-07T00:00:00
+155969;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;276;;;40722;740765.35;970200.83;2013-12-07T00:00:00
+155977;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;277;;;40722;740450.24;970014.11;2013-12-07T00:00:00
+155985;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;278;;;40722;740575.75;970028.96;2013-12-07T00:00:00
+155993;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;280;;;40722;740305.75;969953.55;2013-12-07T00:00:00
+156001;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;281;;;40722;740462.03;970013.87;2013-12-07T00:00:00
+156019;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;283;;;40722;741279.43;969830.08;2013-12-07T00:00:00
+156027;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;284;;;40722;740274.68;969925.11;2013-12-07T00:00:00
+156043;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;287;;;40722;740847.93;970100.70;2013-12-07T00:00:00
+156051;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;290;;;40722;740494.00;970284.79;2013-12-07T00:00:00
+156060;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86070;Kamenná;è.p.;292;;;40722;740796.89;970890.37;2013-12-07T00:00:00
+156078;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85944;Alšova;è.p.;293;;;40722;740375.12;969906.19;2013-12-07T00:00:00
+156086;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86070;Kamenná;è.p.;294;;;40722;740816.92;970869.05;2013-12-07T00:00:00
+156094;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;295;;;40722;740844.98;970829.63;2013-12-07T00:00:00
+156108;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;297;;;40722;740316.90;969957.98;2013-12-07T00:00:00
+156116;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;298;;;40722;740802.16;970823.43;2013-12-07T00:00:00
+156124;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;299;;;40722;740793.90;970910.76;2013-12-07T00:00:00
+156132;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;300;;;40722;740834.33;970866.35;2013-12-07T00:00:00
+156141;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;301;;;40722;740107.08;969880.61;2013-12-07T00:00:00
+156159;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86070;Kamenná;è.p.;302;;;40722;740833.29;970874.65;2013-12-07T00:00:00
+156167;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85987;Èapkova;è.p.;303;;;40722;740668.66;969941.04;2013-12-07T00:00:00
+156175;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;304;;;40722;740798.89;970840.31;2013-12-07T00:00:00
+156183;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;305;;;40722;740873.71;970817.31;2013-12-07T00:00:00
+156191;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;306;;;40722;740863.57;970750.83;2013-12-07T00:00:00
+156205;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;308;;;40722;740425.72;969861.21;2013-12-07T00:00:00
+156213;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;309;;;40722;740798.51;970846.39;2013-12-07T00:00:00
+156221;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;310;;;40722;741259.00;969831.99;2013-12-07T00:00:00
+156230;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;311;;;40722;740859.75;970772.72;2013-12-07T00:00:00
+156248;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;312;;;40722;740511.30;970291.14;2013-12-07T00:00:00
+156256;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;313;;;40722;740374.18;969991.51;2013-12-07T00:00:00
+156264;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;314;;;40722;740621.87;970231.84;2013-12-07T00:00:00
+156272;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86070;Kamenná;è.p.;315;;;40722;740798.48;970862.80;2013-12-07T00:00:00
+156281;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;316;;;40722;740198.94;969919.28;2013-12-07T00:00:00
+156299;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;317;;;40722;740231.89;969931.35;2013-12-07T00:00:00
+156302;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;318;;;40722;740841.08;970848.61;2013-12-07T00:00:00
+156311;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;320;;;40722;741241.94;969833.35;2013-12-07T00:00:00
+156329;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;321;;;40722;740220.14;969928.15;2013-12-07T00:00:00
+156337;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;322;;;40722;740209.22;969923.99;2013-12-07T00:00:00
+156345;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85979;Cihelní;è.p.;323;;;40722;740817.32;969639.89;2013-12-07T00:00:00
+156353;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86045;Dvoøákova;è.p.;324;;;40722;740631.83;969984.68;2013-12-07T00:00:00
+156361;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;325;;;40722;740838.65;971067.48;2013-12-07T00:00:00
+156370;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;326;;;40722;740758.12;970637.27;2013-12-07T00:00:00
+156388;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;327;;;40722;740845.63;970741.12;2013-12-07T00:00:00
+156396;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;328;;;40722;740883.40;970775.03;2013-12-07T00:00:00
+156400;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;329;;;40722;740854.41;970791.17;2013-12-07T00:00:00
+156418;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;330;;;40722;740881.18;970792.00;2013-12-07T00:00:00
+156426;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;331;;;40722;740793.83;970930.82;2013-12-07T00:00:00
+156434;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;332;;;40722;741047.50;970784.47;2013-12-07T00:00:00
+156442;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;333;;;40722;740581.35;970353.51;2013-12-07T00:00:00
+156469;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;335;;;40722;740865.11;970855.07;2013-12-07T00:00:00
+156477;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;336;;;40722;740850.74;970810.96;2013-12-07T00:00:00
+156485;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;337;;;40722;740869.91;970835.93;2013-12-07T00:00:00
+156493;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;338;;;40722;740655.37;970143.55;2013-12-07T00:00:00
+156507;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;339;;;40722;740854.52;969848.97;2013-12-07T00:00:00
+156515;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;341;;;40722;741186.52;969839.84;2013-12-07T00:00:00
+156523;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;342;;;40722;741267.43;969809.36;2013-12-07T00:00:00
+156531;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;343;;;40722;741208.49;969838.06;2013-12-07T00:00:00
+156540;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;344;;;40722;741288.64;970112.30;2013-12-07T00:00:00
+156558;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;345;;;40722;741276.77;970111.77;2013-12-07T00:00:00
+156566;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;346;;;40722;741265.17;970111.33;2013-12-07T00:00:00
+156574;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;347;;;40722;741253.20;970110.46;2013-12-07T00:00:00
+156582;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;348;;;40722;741768.62;969708.39;2013-12-07T00:00:00
+156591;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;349;;;40722;740368.76;969963.75;2013-12-07T00:00:00
+156604;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;350;;;40722;739918.71;969858.55;2013-12-07T00:00:00
+156612;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;351;;;40722;740784.99;970631.48;2013-12-07T00:00:00
+156621;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;352;;;40722;740856.13;969823.29;2013-12-07T00:00:00
+156639;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;353;;;40722;740482.07;969441.65;2013-12-07T00:00:00
+156647;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;354;;;40722;741344.49;970118.45;2013-12-07T00:00:00
+156655;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;355;;;40722;741332.61;970116.57;2013-12-07T00:00:00
+156663;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;356;;;40722;741320.76;970115.69;2013-12-07T00:00:00
+156671;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;357;;;40722;741308.74;970114.82;2013-12-07T00:00:00
+156680;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;358;;;40722;740421.98;969995.21;2013-12-07T00:00:00
+156698;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;359;;;40722;740842.10;969851.55;2013-12-07T00:00:00
+156701;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;360;;;40722;740967.49;970744.62;2013-12-07T00:00:00
+156710;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;361;;;40722;740951.55;970741.67;2013-12-07T00:00:00
+156728;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;362;;;40722;741233.73;970109.17;2013-12-07T00:00:00
+156736;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;363;;;40722;741221.92;970108.28;2013-12-07T00:00:00
+156744;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;364;;;40722;741210.37;970107.42;2013-12-07T00:00:00
+156752;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;365;;;40722;741198.61;970106.52;2013-12-07T00:00:00
+156761;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;366;;;40722;740344.49;969835.62;2013-12-07T00:00:00
+156779;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;367;;;40722;740366.90;969946.47;2013-12-07T00:00:00
+156787;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;368;;;40722;740828.40;970732.92;2013-12-07T00:00:00
+156795;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;370;;;40722;740828.23;969855.78;2013-12-07T00:00:00
+156809;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;371;;;40722;739485.50;969660.33;2013-12-07T00:00:00
+156817;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;372;;;40722;740129.69;969872.92;2013-12-07T00:00:00
+156825;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;374;;;40722;740370.43;971283.36;2013-12-07T00:00:00
+156833;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;376;;;40722;740419.00;970022.39;2013-12-07T00:00:00
+156841;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;377;;;40722;740932.52;970737.31;2013-12-07T00:00:00
+156850;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;378;;;40722;740887.49;969847.82;2013-12-07T00:00:00
+156868;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;379;;;40722;740156.37;969863.77;2013-12-07T00:00:00
+156876;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;380;;;40722;740157.91;969824.74;2013-12-07T00:00:00
+156884;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;381;;;40722;740405.67;969700.92;2013-12-07T00:00:00
+156892;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;383;;;40722;740416.26;969652.00;2013-12-07T00:00:00
+156906;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;384;;;40722;740423.05;969627.14;2013-12-07T00:00:00
+156914;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;385;;;40722;740422.65;969601.83;2013-12-07T00:00:00
+156922;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;386;;;40722;740433.22;969517.61;2013-12-07T00:00:00
+156931;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;387;;;40722;740430.88;969532.18;2013-12-07T00:00:00
+156949;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;388;;;40722;740426.18;969554.19;2013-12-07T00:00:00
+156957;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;389;;;40722;740393.88;969605.09;2013-12-07T00:00:00
+156965;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;391;;;40722;740369.44;969630.50;2013-12-07T00:00:00
+156973;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;392;;;40722;740372.39;969650.71;2013-12-07T00:00:00
+156981;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;393;;;40722;740366.95;969669.08;2013-12-07T00:00:00
+156990;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;394;;;40722;740363.06;969693.25;2013-12-07T00:00:00
+157007;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;395;;;40722;740307.49;969800.38;2013-12-07T00:00:00
+157015;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;396;;;40722;740287.80;969809.49;2013-12-07T00:00:00
+157023;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;397;;;40722;740272.84;969800.40;2013-12-07T00:00:00
+157031;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;399;;;40722;740241.98;969813.50;2013-12-07T00:00:00
+157040;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;400;;;40722;741180.66;970025.73;2013-12-07T00:00:00
+157058;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;401;;;40722;740194.49;969841.85;2013-12-07T00:00:00
+157066;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;402;;;40722;740175.88;969852.84;2013-12-07T00:00:00
+157074;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;403;;;40722;740180.20;969777.78;2013-12-07T00:00:00
+157082;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;404;;;40722;740189.05;969557.20;2013-12-07T00:00:00
+157091;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;405;;;40722;741005.33;969826.92;2013-12-07T00:00:00
+157104;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;406;;;40722;740627.54;970219.38;2013-12-07T00:00:00
+157112;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;407;;;40722;740157.99;969838.03;2013-12-07T00:00:00
+157121;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;408;;;40722;740799.21;970666.02;2013-12-07T00:00:00
+157139;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;409;;;40722;740711.75;970489.13;2013-12-07T00:00:00
+157147;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;410;;;40722;740627.48;970034.84;2013-12-07T00:00:00
+157155;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;411;;;40722;740581.09;970288.17;2013-12-07T00:00:00
+157163;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;412;;;40722;740445.62;969471.46;2013-12-07T00:00:00
+157171;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;413;;;40722;740016.87;969902.82;2013-12-07T00:00:00
+157180;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;414;;;40722;740439.86;969490.92;2013-12-07T00:00:00
+157198;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;415;;;40722;740915.63;970734.44;2013-12-07T00:00:00
+157201;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86258;Smetanova;è.p.;416;;;40722;740294.08;969707.92;2013-12-07T00:00:00
+157210;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;417;;;40722;740413.76;969975.88;2013-12-07T00:00:00
+157228;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86169;Opletalova;è.p.;418;;;40722;740967.95;969755.34;2013-12-07T00:00:00
+157236;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;419;;;40722;740472.53;969495.53;2013-12-07T00:00:00
+157244;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86169;Opletalova;è.p.;420;;;40722;740963.56;969736.88;2013-12-07T00:00:00
+157252;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86223;Pøíèná;è.p.;422;;;40722;740423.69;970117.33;2013-12-07T00:00:00
+157261;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;423;;;40722;740426.36;970137.48;2013-12-07T00:00:00
+157279;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;424;;;40722;740423.70;970179.66;2013-12-07T00:00:00
+157287;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;425;;;40722;740423.37;970193.89;2013-12-07T00:00:00
+157295;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;426;;;40722;740421.98;970222.61;2013-12-07T00:00:00
+157309;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;427;;;40722;740430.00;970262.54;2013-12-07T00:00:00
+157317;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;428;;;40722;740434.89;970294.45;2013-12-07T00:00:00
+157325;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;429;;;40722;740440.56;970317.00;2013-12-07T00:00:00
+157333;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;430;;;40722;740447.84;970338.75;2013-12-07T00:00:00
+157341;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;431;;;40722;740454.99;970356.38;2013-12-07T00:00:00
+157350;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;432;;;40722;740463.15;970371.36;2013-12-07T00:00:00
+157368;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;433;;;40722;740469.64;970385.54;2013-12-07T00:00:00
+157376;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;436;;;40722;740495.35;970438.75;2013-12-07T00:00:00
+157384;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;437;;;40722;740514.96;970444.15;2013-12-07T00:00:00
+157392;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;439;;;40722;740528.64;970506.07;2013-12-07T00:00:00
+157406;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;443;;;40722;740548.75;970542.97;2013-12-07T00:00:00
+157414;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86215;Pod vyhlídkou;è.p.;444;;;40722;740713.76;970257.46;2013-12-07T00:00:00
+157422;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;445;;;40722;740157.40;969705.72;2013-12-07T00:00:00
+157431;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;446;;;40722;740160.66;969744.99;2013-12-07T00:00:00
+157449;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86215;Pod vyhlídkou;è.p.;447;;;40722;740697.79;970250.80;2013-12-07T00:00:00
+157457;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;449;;;40722;741052.05;969864.26;2013-12-07T00:00:00
+157465;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;451;;;40722;741803.14;969723.32;2013-12-07T00:00:00
+157473;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86258;Smetanova;è.p.;452;;;40722;740247.67;969735.50;2013-12-07T00:00:00
+157481;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86215;Pod vyhlídkou;è.p.;453;;;40722;740729.82;970261.97;2013-12-07T00:00:00
+157490;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;454;;;40722;740792.72;971054.61;2013-12-07T00:00:00
+157503;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;455;;;40722;740159.48;969735.90;2013-12-07T00:00:00
+157511;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86304;U skládky;è.p.;456;;;40722;741597.30;969832.68;2013-12-07T00:00:00
+157520;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86304;U skládky;è.p.;457;;;40722;741599.78;969840.91;2013-12-07T00:00:00
+157538;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;458;;;40722;741064.81;969865.82;2013-12-07T00:00:00
+157546;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;460;;;40722;740710.07;970222.49;2013-12-07T00:00:00
+157554;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;463;;;40722;740748.49;971164.45;2013-12-07T00:00:00
+157562;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;464;;;40722;741472.23;969794.48;2013-12-07T00:00:00
+157571;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;465;;;40722;741477.46;969790.26;2013-12-07T00:00:00
+157589;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;466;;;40722;741824.21;969720.34;2013-12-07T00:00:00
+157597;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;467;;;40722;741495.01;969787.87;2013-12-07T00:00:00
+157601;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;468;;;40722;741500.88;969786.48;2013-12-07T00:00:00
+157619;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;469;;;40722;740763.24;971152.72;2013-12-07T00:00:00
+157627;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;470;;;40722;740764.54;971122.36;2013-12-07T00:00:00
+157635;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;471;;;40722;741449.89;969796.23;2013-12-07T00:00:00
+157643;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86088;Komenského;è.p.;472;;;40722;740871.97;969795.84;2013-12-07T00:00:00
+157651;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;473;;;40722;741444.34;969772.28;2013-12-07T00:00:00
+157660;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86088;Komenského;è.p.;474;;;40722;740869.38;969777.14;2013-12-07T00:00:00
+157678;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;475;;;40722;741466.06;969707.21;2013-12-07T00:00:00
+157686;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;476;;;40722;741517.06;969779.05;2013-12-07T00:00:00
+157694;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85987;Èapkova;è.p.;477;;;40722;740697.82;969963.72;2013-12-07T00:00:00
+157708;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;478;;;40722;740777.55;970620.68;2013-12-07T00:00:00
+157716;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86088;Komenského;è.p.;479;;;40722;740865.87;969758.24;2013-12-07T00:00:00
+157724;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;480;;;40722;741483.59;969705.51;2013-12-07T00:00:00
+157732;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;481;;;40722;741498.55;969702.01;2013-12-07T00:00:00
+157741;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86169;Opletalova;è.p.;482;;;40722;740983.34;969824.83;2013-12-07T00:00:00
+157759;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;483;;;40722;740787.60;969822.06;2013-12-07T00:00:00
+157767;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;485;;;40722;740739.22;971177.91;2013-12-07T00:00:00
+157775;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;486;;;40722;741556.36;969804.89;2013-12-07T00:00:00
+157783;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;487;;;40722;741840.72;969721.89;2013-12-07T00:00:00
+157791;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;488;;;40722;741847.18;969721.10;2013-12-07T00:00:00
+157805;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;489;;;40722;740888.85;970755.24;2013-12-07T00:00:00
+157813;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;490;;;40722;740878.52;970727.86;2013-12-07T00:00:00
+157821;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;491;;;40722;740160.41;969778.45;2013-12-07T00:00:00
+157830;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86088;Komenského;è.p.;492;;;40722;740863.47;969739.62;2013-12-07T00:00:00
+157848;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;493;;;40722;740729.08;971190.58;2013-12-07T00:00:00
+157856;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;494;;;40722;741078.02;969867.12;2013-12-07T00:00:00
+157864;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;495;;;40722;741532.03;969779.34;2013-12-07T00:00:00
+157872;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;496;;;40722;741449.51;969707.96;2013-12-07T00:00:00
+157881;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;497;;;40722;741514.91;969702.50;2013-12-07T00:00:00
+157899;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;498;;;40722;741531.39;969700.67;2013-12-07T00:00:00
+157902;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;499;;;40722;741546.92;969699.49;2013-12-07T00:00:00
+157911;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;500;;;40722;741563.64;969697.56;2013-12-07T00:00:00
+157929;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;501;;;40722;741580.85;969695.09;2013-12-07T00:00:00
+157937;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;502;;;40722;740434.72;970283.37;2013-12-07T00:00:00
+157945;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;504;;;40722;740668.17;971255.63;2013-12-07T00:00:00
+157953;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;505;;;40722;739833.21;969821.90;2013-12-07T00:00:00
+157961;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;506;;;40722;740675.89;971245.84;2013-12-07T00:00:00
+157970;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;507;;;40722;741548.94;969775.11;2013-12-07T00:00:00
+157988;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;508;;;40722;740695.46;971229.34;2013-12-07T00:00:00
+157996;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;509;;;40722;740690.71;971233.19;2013-12-07T00:00:00
+158003;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;510;;;40722;740709.48;971215.37;2013-12-07T00:00:00
+158011;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;511;;;40722;741433.35;969709.76;2013-12-07T00:00:00
+158020;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;512;;;40722;741565.86;969766.95;2013-12-07T00:00:00
+158038;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;513;;;40722;740515.50;969445.79;2013-12-07T00:00:00
+158046;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;514;;;40722;740721.05;971202.77;2013-12-07T00:00:00
+158062;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;517;;;40722;740647.82;971269.47;2013-12-07T00:00:00
+158071;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;518;;;40722;741093.75;969868.58;2013-12-07T00:00:00
+158089;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;519;;;40722;740159.05;969788.95;2013-12-07T00:00:00
+158097;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86088;Komenského;è.p.;520;;;40722;740844.92;969711.68;2013-12-07T00:00:00
+158101;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86088;Komenského;è.p.;522;;;40722;740862.66;969700.98;2013-12-07T00:00:00
+158119;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86258;Smetanova;è.p.;523;;;40722;740333.90;969708.53;2013-12-07T00:00:00
+158127;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86169;Opletalova;è.p.;524;;;40722;740981.03;969783.88;2013-12-07T00:00:00
+158135;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;525;;;40722;740832.97;970220.34;2013-12-07T00:00:00
+158143;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86142;Nerudova;è.p.;526;;;40722;740740.58;969980.86;2013-12-07T00:00:00
+158151;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85952;Bezruèova;è.p.;527;;;40722;741357.00;969883.60;2013-12-07T00:00:00
+158160;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85952;Bezruèova;è.p.;528;;;40722;741363.14;969930.17;2013-12-07T00:00:00
+158178;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86258;Smetanova;è.p.;529;;;40722;740214.21;969702.85;2013-12-07T00:00:00
+158186;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;531;;;40722;741543.93;969728.72;2013-12-07T00:00:00
+158194;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86169;Opletalova;è.p.;532;;;40722;740955.85;969708.05;2013-12-07T00:00:00
+158208;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;533;;;40722;739796.83;969781.19;2013-12-07T00:00:00
+158216;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;534;;;40722;741582.75;969723.87;2013-12-07T00:00:00
+158224;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85952;Bezruèova;è.p.;535;;;40722;741370.47;969978.03;2013-12-07T00:00:00
+158232;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;536;;;40722;740620.43;971295.59;2013-12-07T00:00:00
+158241;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;537;;;40722;740525.78;969412.20;2013-12-07T00:00:00
+158259;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;538;;;40722;740739.70;969654.36;2013-12-07T00:00:00
+158267;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;539;;;40722;740689.53;969677.92;2013-12-07T00:00:00
+158275;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;540;;;40722;740667.94;969687.75;2013-12-07T00:00:00
+158283;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;541;;;40722;740656.34;969665.52;2013-12-07T00:00:00
+158291;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;542;;;40722;740664.60;969662.38;2013-12-07T00:00:00
+158305;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85952;Bezruèova;è.p.;543;;;40722;741376.50;969843.24;2013-12-07T00:00:00
+158313;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;544;;;40722;741198.39;970090.50;2013-12-07T00:00:00
+158321;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;545;;;40722;740647.16;969697.50;2013-12-07T00:00:00
+158330;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;546;;;40722;741582.40;969756.83;2013-12-07T00:00:00
+158348;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;547;;;40722;741509.69;969733.82;2013-12-07T00:00:00
+158356;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;548;;;40722;741525.79;969730.07;2013-12-07T00:00:00
+158364;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;549;;;40722;741460.11;969737.06;2013-12-07T00:00:00
+158372;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;550;;;40722;741331.87;969850.92;2013-12-07T00:00:00
+158381;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;551;;;40722;739855.48;969839.87;2013-12-07T00:00:00
+158399;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;553;;;40722;741135.75;969841.48;2013-12-07T00:00:00
+158402;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;554;;;40722;741154.05;969838.82;2013-12-07T00:00:00
+158411;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;556;;;40722;741476.33;969735.38;2013-12-07T00:00:00
+158429;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;557;;;40722;740608.87;971305.34;2013-12-07T00:00:00
+158437;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;559;;;40722;741490.21;969837.66;2013-12-07T00:00:00
+158445;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85952;Bezruèova;è.p.;560;;;40722;741410.08;969911.78;2013-12-07T00:00:00
+158453;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;561;;;40722;741492.31;969732.02;2013-12-07T00:00:00
+158461;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;562;;;40722;741099.63;969843.18;2013-12-07T00:00:00
+158470;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;563;;;40722;741562.11;969726.85;2013-12-07T00:00:00
+158488;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;564;;;40722;740631.50;969675.97;2013-12-07T00:00:00
+158496;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;565;;;40722;740561.00;969508.46;2013-12-07T00:00:00
+158500;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;566;;;40722;740577.40;969489.24;2013-12-07T00:00:00
+158518;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;567;;;40722;740580.66;969480.67;2013-12-07T00:00:00
+158526;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;568;;;40722;740584.03;969472.13;2013-12-07T00:00:00
+158534;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;569;;;40722;740599.35;969452.42;2013-12-07T00:00:00
+158542;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;570;;;40722;740604.59;969430.99;2013-12-07T00:00:00
+158551;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;571;;;40722;740609.68;969408.67;2013-12-07T00:00:00
+158569;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;572;;;40722;740608.27;969385.53;2013-12-07T00:00:00
+158577;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;573;;;40722;740609.68;969376.35;2013-12-07T00:00:00
+158585;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;574;;;40722;740613.36;969353.13;2013-12-07T00:00:00
+158593;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;575;;;40722;740613.06;969344.02;2013-12-07T00:00:00
+158607;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;576;;;40722;740608.11;969322.36;2013-12-07T00:00:00
+158615;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;577;;;40722;740587.02;969338.14;2013-12-07T00:00:00
+158623;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;578;;;40722;740585.69;969344.72;2013-12-07T00:00:00
+158631;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;579;;;40722;740584.28;969351.66;2013-12-07T00:00:00
+158640;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;581;;;40722;740586.93;969385.92;2013-12-07T00:00:00
+158658;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;582;;;40722;740582.59;969408.63;2013-12-07T00:00:00
+158666;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;583;;;40722;740580.70;969416.54;2013-12-07T00:00:00
+158674;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;584;;;40722;740575.05;969440.61;2013-12-07T00:00:00
+158682;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;586;;;40722;740557.51;969472.26;2013-12-07T00:00:00
+158691;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;587;;;40722;740542.28;969502.39;2013-12-07T00:00:00
+158704;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;588;;;40722;740540.54;969509.77;2013-12-07T00:00:00
+158712;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;590;;;40722;740531.05;969538.24;2013-12-07T00:00:00
+158721;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;591;;;40722;740524.37;969561.18;2013-12-07T00:00:00
+158739;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;592;;;40722;740525.91;969568.49;2013-12-07T00:00:00
+158747;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;593;;;40722;740523.73;969589.32;2013-12-07T00:00:00
+158755;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;594;;;40722;740523.30;969596.33;2013-12-07T00:00:00
+158763;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85944;Alšova;è.p.;595;;;40722;740357.18;969931.28;2013-12-07T00:00:00
+158771;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86258;Smetanova;è.p.;597;;;40722;740272.93;969737.29;2013-12-07T00:00:00
+158780;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86258;Smetanova;è.p.;598;;;40722;740220.77;969735.46;2013-12-07T00:00:00
+158798;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86258;Smetanova;è.p.;599;;;40722;740268.16;969705.70;2013-12-07T00:00:00
+158801;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86258;Smetanova;è.p.;600;;;40722;740242.90;969704.67;2013-12-07T00:00:00
+158810;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;601;;;40722;740188.16;969695.07;2013-12-07T00:00:00
+158828;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85979;Cihelní;è.p.;602;;;40722;740746.48;969720.55;2013-12-07T00:00:00
+158836;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;603;;;40722;740797.19;969864.88;2013-12-07T00:00:00
+158844;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;604;;;40722;740811.99;969858.32;2013-12-07T00:00:00
+158852;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;605;;;40722;741414.94;969841.75;2013-12-07T00:00:00
+158861;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;606;;;40722;741433.75;969838.94;2013-12-07T00:00:00
+158879;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86169;Opletalova;è.p.;607;;;40722;740939.99;969624.37;2013-12-07T00:00:00
+158887;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;608;;;40722;740158.75;969802.83;2013-12-07T00:00:00
+158895;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;610;;;40722;741058.65;969748.95;2013-12-07T00:00:00
+158909;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;611;;;40722;741078.56;969749.13;2013-12-07T00:00:00
+158917;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;612;;;40722;741097.19;969748.56;2013-12-07T00:00:00
+158925;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;613;;;40722;741115.25;969746.06;2013-12-07T00:00:00
+158933;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;614;;;40722;741390.55;969551.76;2013-12-07T00:00:00
+158941;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;615;;;40722;740259.52;969951.26;2013-12-07T00:00:00
+158950;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;616;;;40722;740220.54;969621.10;2013-12-07T00:00:00
+158968;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;617;;;40722;740252.92;969625.20;2013-12-07T00:00:00
+158976;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;618;;;40722;740253.90;969598.26;2013-12-07T00:00:00
+158984;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;619;;;40722;740221.41;969595.79;2013-12-07T00:00:00
+158992;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;620;;;40722;740563.66;969681.77;2013-12-07T00:00:00
+159000;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;621;;;40722;740539.33;969686.47;2013-12-07T00:00:00
+159018;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;622;;;40722;740517.88;969686.40;2013-12-07T00:00:00
+159026;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;623;;;40722;740481.31;969691.79;2013-12-07T00:00:00
+159034;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;625;;;40722;741033.06;969811.81;2013-12-07T00:00:00
+159042;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;626;;;40722;741030.88;969796.94;2013-12-07T00:00:00
+159051;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;627;;;40722;741028.26;969778.95;2013-12-07T00:00:00
+159069;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;628;;;40722;741026.31;969766.25;2013-12-07T00:00:00
+159077;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;629;;;40722;741118.32;969796.90;2013-12-07T00:00:00
+159085;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;630;;;40722;741114.80;969779.27;2013-12-07T00:00:00
+159093;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;631;;;40722;741178.50;969794.38;2013-12-07T00:00:00
+159107;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;632;;;40722;741172.47;969773.86;2013-12-07T00:00:00
+159115;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;633;;;40722;741234.00;969787.75;2013-12-07T00:00:00
+159123;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;634;;;40722;741228.69;969768.21;2013-12-07T00:00:00
+159131;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;635;;;40722;741305.83;969792.50;2013-12-07T00:00:00
+159140;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;636;;;40722;741304.06;969779.00;2013-12-07T00:00:00
+159158;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;637;;;40722;741301.44;969764.31;2013-12-07T00:00:00
+159166;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;638;;;40722;741370.81;969757.69;2013-12-07T00:00:00
+159174;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;639;;;40722;741374.00;969772.81;2013-12-07T00:00:00
+159182;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;640;;;40722;741376.62;969787.48;2013-12-07T00:00:00
+159191;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;641;;;40722;741140.69;969733.69;2013-12-07T00:00:00
+159204;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;642;;;40722;741152.93;969727.63;2013-12-07T00:00:00
+159212;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;643;;;40722;741173.75;969730.13;2013-12-07T00:00:00
+159221;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;644;;;40722;741189.69;969729.25;2013-12-07T00:00:00
+159239;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;645;;;40722;741206.75;969726.19;2013-12-07T00:00:00
+159247;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;646;;;40722;741222.75;969724.38;2013-12-07T00:00:00
+159255;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;647;;;40722;741241.13;969721.75;2013-12-07T00:00:00
+159263;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;648;;;40722;741259.06;969719.56;2013-12-07T00:00:00
+159271;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;649;;;40722;741275.56;969717.88;2013-12-07T00:00:00
+159280;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;650;;;40722;740215.59;969822.14;2013-12-07T00:00:00
+159298;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;651;;;40722;740471.54;970401.19;2013-12-07T00:00:00
+159301;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;654;;;40722;740571.19;970626.84;2013-12-07T00:00:00
+159310;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;655;;;40722;740582.44;970656.38;2013-12-07T00:00:00
+159328;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;656;;;40722;741309.50;969714.75;2013-12-07T00:00:00
+159336;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;657;;;40722;741326.56;969714.06;2013-12-07T00:00:00
+159344;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;658;;;40722;741342.66;969710.45;2013-12-07T00:00:00
+159352;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;659;;;40722;741362.38;969708.38;2013-12-07T00:00:00
+159361;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;660;;;40722;741380.69;969707.75;2013-12-07T00:00:00
+159379;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;661;;;40722;741397.81;969706.19;2013-12-07T00:00:00
+159387;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;662;;;40722;741354.32;969660.78;2013-12-07T00:00:00
+159395;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;663;;;40722;741368.90;969657.99;2013-12-07T00:00:00
+159409;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;664;;;40722;741383.71;969654.10;2013-12-07T00:00:00
+159417;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;665;;;40722;741398.78;969652.56;2013-12-07T00:00:00
+159425;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;666;;;40722;741413.71;969651.04;2013-12-07T00:00:00
+159433;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86029;Divišova;è.p.;668;;;40722;740582.29;970153.88;2013-12-07T00:00:00
+159441;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;669;;;40722;740760.13;969837.21;2013-12-07T00:00:00
+159450;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86088;Komenského;è.p.;670;;;40722;740806.21;969765.25;2013-12-07T00:00:00
+159468;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;671;;;40722;739649.32;969665.65;2013-12-07T00:00:00
+159476;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;672;;;40722;741028.63;970780.48;2013-12-07T00:00:00
+159484;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;674;;;40722;741880.65;969699.69;2013-12-07T00:00:00
+159492;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;675;;;40722;739813.11;969798.74;2013-12-07T00:00:00
+159506;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;676;;;40722;740571.14;969679.59;2013-12-07T00:00:00
+159514;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;677;;;40722;740534.11;969398.61;2013-12-07T00:00:00
+159522;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;678;;;40722;739970.82;969866.94;2013-12-07T00:00:00
+159531;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;679;;;40722;740299.07;969843.79;2013-12-07T00:00:00
+159549;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86339;Vilová;è.p.;680;;;40722;741439.64;969744.17;2013-12-07T00:00:00
+159557;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;681;;;40722;741334.81;969611.90;2013-12-07T00:00:00
+159565;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;682;;;40722;741353.49;969610.43;2013-12-07T00:00:00
+159573;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;683;;;40722;741371.47;969608.57;2013-12-07T00:00:00
+159581;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86207;Pod Táborským vrchem;è.p.;685;;;40722;740690.00;969645.29;2013-12-07T00:00:00
+159590;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86304;U skládky;è.p.;687;;;40722;741602.53;969856.15;2013-12-07T00:00:00
+159603;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;688;;;40722;740592.43;970683.18;2013-12-07T00:00:00
+159620;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;700;;;40722;740851.73;971050.31;2013-12-07T00:00:00
+21055424;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86169;Opletalova;è.p.;699;;;40722;740960.98;969480.43;2013-12-07T00:00:00
+21055432;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86355;Zámecká;è.p.;48;;;40722;740551.12;969807.29;2013-12-07T00:00:00
+21055441;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;106;;;40722;740610.25;970030.30;2013-12-07T00:00:00
+25026909;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86304;U skládky;è.p.;691;;;40722;741689.19;969807.93;2013-12-07T00:00:00
+25060198;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86169;Opletalova;è.p.;673;;;40722;740963.56;969634.82;2013-12-07T00:00:00
+25060201;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;7;;;40502;741868.81;968773.05;2013-12-07T00:00:00
+25134183;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86100;Krátká;è.p.;93;;;40722;740577.65;969944.92;2013-12-07T00:00:00
+25159372;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;31;;;40722;741237.93;969448.01;2013-12-07T00:00:00
+25159381;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;1;;;40722;741333.26;969454.74;2013-12-07T00:00:00
+25159399;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;13;;;40722;741294.98;969451.95;2013-12-07T00:00:00
+25180592;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;14;;;40722;741291.79;969451.71;2013-12-07T00:00:00
+25180606;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;703;;;40722;740424.04;970235.98;2013-12-07T00:00:00
+25181297;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;705;;;40722;740401.03;971231.08;2013-12-07T00:00:00
+25292897;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;40;;;40722;740743.40;969851.68;2013-12-07T00:00:00
+25308823;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;229;;;40722;741004.50;970777.35;2013-12-07T00:00:00
+25308831;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86100;Krátká;è.p.;90;;;40722;740521.05;969940.15;2013-12-07T00:00:00
+25308840;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;693;;;40722;741150.72;969686.76;2013-12-07T00:00:00
+25308866;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;585;;;40722;740573.14;969447.35;2013-12-07T00:00:00
+25341782;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86215;Pod vyhlídkou;è.p.;218;;;40722;740727.97;970280.30;2013-12-07T00:00:00
+25423835;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;580;;;40722;740586.29;969379.49;2013-12-07T00:00:00
+25444701;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;174;;;40722;740491.36;970248.91;2013-12-07T00:00:00
+25621882;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;24;;;40722;740728.91;969874.55;2013-12-07T00:00:00
+25621891;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;552;;;40722;741117.61;969841.83;2013-12-07T00:00:00
+25621904;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86045;Dvoøákova;è.p.;100;;;40722;740535.03;969996.91;2013-12-07T00:00:00
+25621912;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86045;Dvoøákova;è.p.;296;;;40722;740571.57;969976.79;2013-12-07T00:00:00
+25621921;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86045;Dvoøákova;è.p.;624;;;40722;740636.45;969959.90;2013-12-07T00:00:00
+25621939;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;112;;;40722;740609.54;970054.65;2013-12-07T00:00:00
+25621947;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;143;;;40722;739960.05;969938.81;2013-12-07T00:00:00
+25621971;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;201;;;40722;740602.08;970289.00;2013-12-07T00:00:00
+25621980;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;208;;;40722;740588.83;970415.83;2013-12-07T00:00:00
+25622013;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;246;;;40722;740691.73;970195.14;2013-12-07T00:00:00
+25622021;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86096;Kostelní;è.p.;270;;;40722;740496.50;969845.58;2013-12-07T00:00:00
+25622030;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86142;Nerudova;è.p.;272;;;40722;740658.72;970003.88;2013-12-07T00:00:00
+25622064;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;282;;;40722;740801.92;970741.24;2013-12-07T00:00:00
+25622072;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;286;;;40722;740924.33;970081.24;2013-12-07T00:00:00
+25622099;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;373;;;40722;740798.07;970677.23;2013-12-07T00:00:00
+25622102;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;484;;;40722;740768.53;971138.73;2013-12-07T00:00:00
+25622111;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;503;;;40722;740663.23;971257.13;2013-12-07T00:00:00
+25622129;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86321;Valkeøická;è.p.;515;;;40722;740630.80;971284.03;2013-12-07T00:00:00
+25622137;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;521;;;40722;741604.53;970175.81;2013-12-07T00:00:00
+25622145;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;589;;;40722;740533.71;969531.55;2013-12-07T00:00:00
+25622153;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;2;;;40502;741445.06;968841.46;2013-12-07T00:00:00
+25622170;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;30;;;40502;742150.35;968473.63;2013-12-07T00:00:00
+25622188;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;37;;;40502;741814.95;968698.44;2013-12-07T00:00:00
+25810367;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;32;;;40722;741234.29;969906.11;2013-12-07T00:00:00
+25810383;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86002;Èeskoslovenské armády;è.p.;459;;;40722;740525.66;969973.63;2013-12-07T00:00:00
+25810391;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86355;Zámecká;è.p.;51;;;40722;740530.22;969785.94;2013-12-07T00:00:00
+25810405;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86355;Zámecká;è.p.;52;;;40722;740496.25;969790.66;2013-12-07T00:00:00
+25826654;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86142;Nerudova;è.p.;307;;;40722;740709.69;970004.61;2013-12-07T00:00:00
+25874144;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;82;;;40722;741211.17;970131.52;2013-12-07T00:00:00
+25909681;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;4;;;40502;741324.34;968789.04;2013-12-07T00:00:00
+25995821;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;702;;;40722;740465.00;970218.50;2016-01-25T00:00:00
+26025981;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;224;;;40722;740742.07;970749.84;2013-12-07T00:00:00
+26025990;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;695;;;40722;741071.55;969788.87;2013-12-07T00:00:00
+26268892;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;137;;;40722;740249.00;969842.44;2013-12-07T00:00:00
+26268906;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;18;;;40722;740686.95;969890.40;2013-12-07T00:00:00
+26268914;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;181;;;40722;740525.23;970392.50;2013-12-07T00:00:00
+26268922;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;319;;;40722;740850.17;970078.15;2013-12-07T00:00:00
+26268931;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86151;Novina;è.p.;435;;;40722;740484.77;970417.10;2013-12-07T00:00:00
+26268949;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;530;;;40722;740588.42;969563.26;2013-12-07T00:00:00
+26268957;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86142;Nerudova;è.p.;689;;;40722;740676.61;970036.57;2013-12-07T00:00:00
+26268965;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85952;Bezruèova;è.p.;692;;;40722;741448.79;969937.16;2013-12-07T00:00:00
+26341883;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;14;;;40502;742135.78;968545.35;2013-12-07T00:00:00
+26417731;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;205;;;40722;741058.15;969188.51;2013-12-07T00:00:00
+26419769;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;710;;;40722;740413.33;969575.04;2013-12-07T00:00:00
+26423588;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;42;;;40722;741308.36;969446.37;2013-12-07T00:00:00
+26424037;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;245;;;40722;741136.73;969471.39;2013-12-07T00:00:00
+26446316;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85979;Cihelní;è.p.;706;;;40722;740760.80;969697.94;2013-12-07T00:00:00
+26449536;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;133;;;40722;741147.91;969187.27;2021-07-12T00:00:00
+26479907;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;708;;;40722;740681.27;969432.07;2013-12-07T00:00:00
+26479931;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;19;;;40502;742222.13;968446.99;2021-12-07T00:00:00
+26500205;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;41;;;40722;741311.23;969447.03;2013-12-07T00:00:00
+26513412;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;18;;;40722;741279.27;969451.31;2013-12-07T00:00:00
+26543613;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;17;;;40722;741282.70;969451.41;2013-12-07T00:00:00
+26713594;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;707;;;40722;740220.27;969517.35;2013-12-07T00:00:00
+26743787;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85961;Boženy Nìmcové;è.p.;187;;;40722;740535.53;970134.96;2013-12-07T00:00:00
+26878003;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;5;;;40502;741390.74;968836.57;2013-12-07T00:00:00
+26878011;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;10;;;40502;741526.83;968804.09;2013-12-07T00:00:00
+26878020;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;16;;;40502;740801.65;969434.52;2013-12-07T00:00:00
+26878038;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;19;;;40502;741863.61;968694.77;2013-12-07T00:00:00
+26878046;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;21;;;40502;742004.23;968627.99;2013-12-07T00:00:00
+26878054;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;1;;;40502;741679.79;968855.14;2013-12-07T00:00:00
+26878062;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;2;;;40502;741609.53;968820.71;2013-12-07T00:00:00
+26878071;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;9;;;40502;741327.32;968841.46;2013-12-07T00:00:00
+26878089;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;10;;;40502;741697.65;968815.96;2013-12-07T00:00:00
+26878097;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;12;;;40502;742196.50;968445.04;2013-12-07T00:00:00
+26878101;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;13;;;40502;742172.90;968480.89;2013-12-07T00:00:00
+26878119;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;14;;;40502;742168.17;968507.86;2013-12-07T00:00:00
+26878127;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;15;;;40502;741662.20;968761.36;2013-12-07T00:00:00
+26878135;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;16;;;40502;742222.66;968486.17;2013-12-07T00:00:00
+26878143;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;18;;;40502;742059.86;968394.46;2013-12-07T00:00:00
+26878151;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;10;;;40722;740591.44;969948.30;2013-12-07T00:00:00
+26878160;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;11;;;40722;740600.11;969933.23;2013-12-07T00:00:00
+26878178;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;35;;;40722;741263.20;969856.79;2013-12-07T00:00:00
+26878186;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;43;;;40722;740641.59;969862.61;2013-12-07T00:00:00
+26878194;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86134;námìstí Míru;è.p.;45;;;40722;740635.26;969806.93;2013-12-07T00:00:00
+26878208;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86355;Zámecká;è.p.;54;;;40722;740551.34;969776.32;2013-12-07T00:00:00
+26878216;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;76;;;40722;740447.41;969871.60;2013-12-07T00:00:00
+26878224;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86142;Nerudova;è.p.;109;;;40722;740641.96;970050.09;2013-12-07T00:00:00
+26878232;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;131;;;40722;740494.29;969976.51;2013-12-07T00:00:00
+26878241;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;223;;;40722;740733.67;970937.72;2013-12-07T00:00:00
+26878259;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;261;;;40722;741255.36;969611.95;2013-12-07T00:00:00
+26878267;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;398;;;40722;740255.65;969816.01;2013-12-07T00:00:00
+26878275;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;450;;;40722;741353.08;970146.39;2013-12-07T00:00:00
+26878283;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;555;;;40722;741299.48;969518.50;2013-12-07T00:00:00
+26878291;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;558;;;40722;740187.01;969818.25;2013-12-07T00:00:00
+26878305;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;652;;;40722;741401.30;969744.78;2013-12-07T00:00:00
+26878313;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;684;;;40722;741060.40;969822.34;2013-12-07T00:00:00
+26878321;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;696;;;40722;741866.84;969779.72;2013-12-07T00:00:00
+26878330;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;697;;;40722;740844.24;970674.41;2013-12-07T00:00:00
+26878348;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;704;;;40722;740866.12;970698.14;2013-12-07T00:00:00
+26878356;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86274;Sokolský vrch;è.p.;711;;;40722;740721.99;970439.92;2013-12-07T00:00:00
+26878364;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;15;;;40722;741288.59;969451.49;2013-12-07T00:00:00
+26878372;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;22;;;40722;741266.40;969450.19;2013-12-07T00:00:00
+26878381;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;56;;;40722;741263.87;969443.15;2013-12-07T00:00:00
+26878399;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;76;;;40722;741186.12;970131.85;2013-12-07T00:00:00
+26878402;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;116;;;40722;741191.17;969172.35;2013-12-07T00:00:00
+26878411;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;120;;;40722;741176.55;969255.94;2013-12-07T00:00:00
+26878429;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;123;;;40722;741191.44;969310.11;2013-12-07T00:00:00
+26878437;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;125;;;40722;741186.88;969157.08;2013-12-07T00:00:00
+26878445;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;131;;;40722;741152.75;969155.70;2013-12-07T00:00:00
+26878453;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;132;;;40722;741160.87;969171.96;2013-12-07T00:00:00
+26878461;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;134;;;40722;741148.93;969206.90;2013-12-07T00:00:00
+26878470;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;135;;;40722;741134.90;969225.32;2013-12-07T00:00:00
+26878488;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;145;;;40722;741148.69;969339.12;2013-12-07T00:00:00
+26878496;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;146;;;40722;741119.90;969329.34;2013-12-07T00:00:00
+26878500;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;148;;;40722;741135.64;969171.35;2013-12-07T00:00:00
+27070107;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;53;;;40722;741273.21;969444.19;2013-12-07T00:00:00
+27113434;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;698;;;40722;741082.44;969820.35;2013-12-07T00:00:00
+27309134;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;130;;;40722;739911.01;969951.79;2013-12-07T00:00:00
+27315151;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;712;;;40722;740909.00;969991.22;2013-12-07T00:00:00
+27315169;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;5;;;40502;740961.29;969195.00;2013-12-07T00:00:00
+27352579;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;23;;;40502;741646.18;968805.96;2013-12-07T00:00:00
+27352617;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;718;;;40722;740760.04;970587.22;2013-12-07T00:00:00
+27406156;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;717;;;40722;741513.39;969606.93;2013-12-07T00:00:00
+27446425;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;709;;;40722;740688.47;969365.46;2013-12-07T00:00:00
+27511961;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86045;Dvoøákova;è.p.;694;;;40722;740610.16;969992.84;2014-05-07T00:00:00
+27526739;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;159;;;40722;741036.17;969305.22;2013-12-07T00:00:00
+27607593;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;162;;;40722;741113.70;969267.28;2013-12-07T00:00:00
+27607607;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;144;;;40722;741158.09;969342.22;2013-12-07T00:00:00
+27607615;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;118;;;40722;741188.50;969209.46;2013-12-07T00:00:00
+27607623;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;114;;;40722;741206.83;969273.88;2021-11-04T00:00:00
+27607631;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;108;;;40722;741228.06;969154.53;2013-12-07T00:00:00
+27607640;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.ev.;183;;;40722;741019.99;969371.35;2021-11-22T00:00:00
+27607658;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;199;;;40722;741100.59;969391.86;2013-12-07T00:00:00
+27607666;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;181;;;40722;741036.64;969401.35;2013-12-07T00:00:00
+27607674;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;224;;;40722;741068.88;969402.47;2016-10-17T00:00:00
+27607682;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.ev.;225;;;40722;741091.51;969364.54;2021-07-08T00:00:00
+27607691;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.ev.;226;;;40722;741100.95;969352.79;2021-07-08T00:00:00
+27607704;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;218;;;40722;740128.93;969802.71;2013-12-07T00:00:00
+27607712;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;220;;;40722;740131.42;969808.82;2013-12-07T00:00:00
+27607721;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;221;;;40722;740132.44;969812.03;2013-12-07T00:00:00
+27607739;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;222;;;40722;740133.48;969815.37;2013-12-07T00:00:00
+27607747;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;77;;;40722;741189.49;970132.17;2013-12-07T00:00:00
+27607755;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;111;;;40722;741224.79;969195.84;2021-11-04T00:00:00
+27607763;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.ev.;124;;;40722;741173.53;969304.69;2021-07-12T00:00:00
+27607771;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.ev.;143;;;40722;741166.12;969345.09;2021-09-22T00:00:00
+27607780;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;158;;;40722;741030.78;969290.91;2013-12-07T00:00:00
+27607798;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.ev.;113;;;40722;741215.32;969233.65;2021-07-12T00:00:00
+27607801;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;141;;;40722;741150.03;969297.84;2021-11-04T00:00:00
+27607810;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;178;;;40722;741042.73;969361.19;2021-11-04T00:00:00
+27607828;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;172;;;40722;741068.62;969333.58;2013-12-07T00:00:00
+27607836;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;119;;;40722;741177.55;969230.19;2013-12-07T00:00:00
+27732134;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.p.;777;;;40722;740210.57;969866.57;2013-12-07T00:00:00
+27894355;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86070;Kamenná;è.p.;797;;;40722;740857.89;970942.99;2013-12-07T00:00:00
+27923584;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86355;Zámecká;è.p.;47;;;40722;740585.96;969765.00;2013-12-07T00:00:00
+27923592;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;225;;;40722;740686.01;970727.38;2013-12-07T00:00:00
+27923606;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86088;Komenského;è.p.;274;;;40722;740894.31;969683.63;2013-12-07T00:00:00
+27923614;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;701;;;40722;741075.80;969503.68;2013-12-07T00:00:00
+27923622;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;34;;;40722;741333.92;969448.50;2013-12-07T00:00:00
+27923631;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;49;;;40722;741285.86;969444.75;2013-12-07T00:00:00
+27923649;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;64;;;40722;741238.56;969441.38;2013-12-07T00:00:00
+27923657;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;115;;;40722;741196.53;969156.67;2013-12-07T00:00:00
+27923665;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;155;;;40722;740438.29;969867.42;2013-12-07T00:00:00
+27923673;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;184;;;40722;741174.90;969357.06;2013-12-07T00:00:00
+27923681;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;185;;;40722;741170.62;969374.98;2013-12-07T00:00:00
+27923690;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;186;;;40722;741164.15;969391.61;2013-12-07T00:00:00
+27923703;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;187;;;40722;741159.85;969408.36;2013-12-07T00:00:00
+27923711;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;188;;;40722;741155.81;969426.92;2013-12-07T00:00:00
+27923720;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;189;;;40722;741149.64;969353.57;2013-12-07T00:00:00
+27923738;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;190;;;40722;741145.36;969370.72;2013-12-07T00:00:00
+27923746;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;191;;;40722;741139.78;969383.70;2013-12-07T00:00:00
+27923754;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;192;;;40722;741134.25;969401.23;2013-12-07T00:00:00
+27923762;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;193;;;40722;741129.09;969420.26;2013-12-07T00:00:00
+27923771;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;194;;;40722;741117.84;969337.54;2013-12-07T00:00:00
+27923789;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;197;;;40722;741106.93;969370.89;2013-12-07T00:00:00
+27923797;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;198;;;40722;741102.79;969380.46;2013-12-07T00:00:00
+27923801;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;200;;;40722;741096.18;969403.44;2013-12-07T00:00:00
+27923819;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;201;;;40722;741093.25;969415.48;2013-12-07T00:00:00
+27923827;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;202;;;40722;741081.50;969396.55;2013-12-07T00:00:00
+27923835;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;203;;;40722;741052.10;969160.49;2013-12-07T00:00:00
+27923851;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;206;;;40722;741032.93;969189.67;2013-12-07T00:00:00
+27923860;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;207;;;40722;741060.85;969213.27;2013-12-07T00:00:00
+27923878;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;208;;;40722;741037.10;969210.33;2013-12-07T00:00:00
+27923886;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;209;;;40722;741040.65;969222.70;2013-12-07T00:00:00
+27923894;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;210;;;40722;741030.14;969236.18;2013-12-07T00:00:00
+27923908;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;211;;;40722;741029.71;969247.88;2013-12-07T00:00:00
+27923916;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;212;;;40722;741024.99;969258.60;2013-12-07T00:00:00
+27923924;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;213;;;40722;741021.53;969267.97;2013-12-07T00:00:00
+27923932;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;214;;;40722;741018.28;969280.53;2013-12-07T00:00:00
+27923941;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;215;;;40722;741006.47;969290.88;2013-12-07T00:00:00
+27923959;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;216;;;40722;741003.00;969303.28;2013-12-07T00:00:00
+27923967;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;217;;;40722;740128.16;969799.32;2013-12-07T00:00:00
+27923975;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;223;;;40722;740553.46;969826.30;2013-12-07T00:00:00
+27923983;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;239;;;40722;740189.25;969623.05;2013-12-07T00:00:00
+27923991;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;6;;;40502;741883.98;968740.61;2013-12-07T00:00:00
+27924009;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;3;;;40502;742083.78;968536.03;2013-12-07T00:00:00
+27924017;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;17;;;40502;741813.00;968674.02;2013-12-07T00:00:00
+27924025;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.ev.;47;;;40722;741273.05;969446.56;2021-07-12T00:00:00
+28178998;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;791;;;40722;740567.00;970399.00;2013-12-07T00:00:00
+28179005;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;792;;;40722;741931.92;969775.20;2021-05-31T00:00:00
+30673755;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;8;;;40502;741511.70;968821.76;2013-12-07T00:00:00
+31044565;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;461;;;40722;740867.91;969822.35;2013-12-07T00:00:00
+31044573;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86088;Komenského;è.p.;462;;;40722;740876.20;969819.42;2013-12-07T00:00:00
+31044581;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;716;;;40722;741289.07;969445.43;2013-12-07T00:00:00
+31044590;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;719;;;40722;740834.79;970015.50;2013-12-07T00:00:00
+31044603;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;720;;;40722;741228.73;969424.00;2013-12-07T00:00:00
+31044611;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;721;;;40722;741232.14;969424.14;2013-12-07T00:00:00
+31044620;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;750;;;40722;741276.61;969444.35;2013-12-07T00:00:00
+31044638;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;780;;;40722;741329.95;969454.60;2013-12-07T00:00:00
+31044646;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;4;;;40722;741323.64;969454.38;2013-12-07T00:00:00
+31044654;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;8;;;40722;741310.94;969453.52;2013-12-07T00:00:00
+31044662;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;39;;;40722;741317.81;969447.19;2013-12-07T00:00:00
+31044671;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;142;;;40722;741132.28;969295.44;2013-12-07T00:00:00
+31044689;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;151;;;40722;741121.15;969211.78;2013-12-07T00:00:00
+31371566;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.ev.;28;;;40722;741247.38;969449.68;2013-12-07T00:00:00
+31371574;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.ev.;29;;;40722;741244.36;969449.36;2013-12-07T00:00:00
+40186717;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;375;;;40722;740181.13;969923.81;2014-01-29T00:00:00
+40186725;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86061;Husova;è.p.;382;;;40722;740409.62;969678.66;2014-01-29T00:00:00
+40186733;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86266;Sokolovská;è.p.;690;;;40722;740621.56;970074.97;2014-01-29T00:00:00
+41047141;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;794;;;40722;741398.31;969610.12;2013-12-07T00:00:00
+41306872;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;795;;;40722;740961.30;970000.86;2013-12-07T00:00:00
+41692063;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;751;;;40722;741269.21;969443.91;2014-08-25T00:00:00
+41742451;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;779;;;40722;741326.87;969458.20;2013-12-07T00:00:00
+42246440;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;788;;;40722;741282.69;969445.99;2013-12-07T00:00:00
+42597668;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.ev.;6;;;40502;741910.34;968656.79;2013-12-07T00:00:00
+71047921;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;796;;;40722;740126.32;969681.78;2014-01-16T00:00:00
+72822147;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;288;;;40722;741510.86;969958.41;2014-06-18T00:00:00
+73077003;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;786;;;40722;741299.39;969447.28;2014-09-24T00:00:00
+73206385;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86177;Palackého;è.ev.;243;;;40722;739999.33;969984.67;2014-11-18T00:00:00
+73358177;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;778;;;40722;741320.15;969455.38;2015-01-21T00:00:00
+73432300;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;766;;;40722;741269.39;969453.55;2015-04-27T00:00:00
+73751090;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.p.;713;;;40722;741670.68;969781.81;2015-06-04T00:00:00
+74062361;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;789;;;40722;741279.61;969443.41;2015-09-14T00:00:00
+74064690;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;160;;;40722;741047.04;969392.29;2015-09-15T00:00:00
+74065823;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.ev.;229;;;40722;740179.77;969645.53;2015-09-15T00:00:00
+74065971;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86070;Kamenná;è.p.;793;;;40722;740830.80;970895.14;2015-09-15T00:00:00
+74138588;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86347;Wolkerova;è.p.;798;;;40722;740104.21;969702.35;2015-10-12T00:00:00
+75259061;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;781;;;40722;741330.75;969447.14;2016-08-09T00:00:00
+75508524;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85995;Èeskolipská;è.p.;799;;;40722;740353.35;971269.91;2016-11-09T00:00:00
+77641019;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;800;;;40722;741446.62;969600.09;2017-09-12T00:00:00
+77783352;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85952;Bezruèova;è.p.;801;;;40722;741384.68;970024.04;2017-11-08T00:00:00
+77891775;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.p.;802;;;40722;741323.06;970141.93;2017-12-20T00:00:00
+78109108;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;754;;;40722;741254.23;969445.23;2018-03-12T00:00:00
+78826594;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;787;;;40722;741295.40;969448.65;2018-11-05T00:00:00
+78899869;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;761;;;40722;741250.47;969451.54;2018-11-26T00:00:00
+78993571;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;755;;;40722;741251.02;969445.46;2018-12-17T00:00:00
+79058426;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;85979;Cihelní;è.p.;803;;;40722;740742.33;969821.06;2019-03-11T00:00:00
+81816804;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;741;;;40722;741297.81;969431.20;2021-05-17T00:00:00
+81856547;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86011;Dìèínská;è.ev.;246;;;40722;741712.45;969730.98;2021-05-31T00:00:00
+81884745;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;765;;;40722;741263.52;969451.81;2021-06-09T00:00:00
+81931514;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;768;;;40722;741275.61;969454.01;2021-06-29T00:00:00
+81938357;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;804;;;40722;741256.45;969612.58;2021-07-01T00:00:00
+81999208;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86291;Tkalcovská;è.p.;805;;;40722;740912.44;970801.20;2021-08-02T00:00:00
+82017409;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;136;;;40722;741158.60;969198.25;2021-08-09T00:00:00
+82163090;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;129;;;40722;741158.94;969228.80;2021-10-06T00:00:00
+82306311;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;782;;;40722;741326.92;969450.17;2021-12-01T00:00:00
+82348014;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;753;;;40722;741260.69;969445.03;2021-12-15T00:00:00
+82457638;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;63;;;40722;741241.61;969443.51;2022-01-12T00:00:00
+82682950;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;771;;;40722;741298.02;969457.63;2022-03-01T00:00:00
+82683018;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;740;;;40722;741294.51;969434.00;2022-03-01T00:00:00
+82701237;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86126;Nádražní;è.ev.;68;;;40722;741161.97;970128.59;2022-03-02T00:00:00
+82870195;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;776;;;40722;741317.08;969455.71;2022-04-11T00:00:00
+82870209;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;773;;;40722;741304.65;969455.25;2022-04-11T00:00:00
+82874816;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;150;;;40722;741121.95;969198.34;2022-04-12T00:00:00
+83109951;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;764;;;40722;741260.07;969451.60;2022-07-13T00:00:00
+83145826;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86240;Sídlištì;è.p.;774;;;40722;741307.44;969458.32;2022-07-20T00:00:00
+83222596;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.p.;752;;;40722;741266.77;969445.89;2022-08-18T00:00:00
+85263044;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86053;Heømanovská;è.p.;806;;;40722;740896.88;970732.95;2023-06-01T00:00:00
+85551716;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;110;;;40722;741229.42;969183.22;2023-08-28T00:00:00
+85642657;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86282;Táborský vrch;è.p.;807;;;40722;740653.26;969479.81;2023-10-06T00:00:00
+85951803;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86363;Žižkova;è.p.;808;;;40722;740382.86;969971.11;2024-01-24T00:00:00
+86521675;562351;Benešov nad Plouènicí;;;;;2461;Ovesná;;;è.p.;809;;;40502;742247.22;968427.99;2024-09-19T00:00:00
+86524887;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;163;;;40722;741107.67;969267.49;2024-09-20T00:00:00
+86859439;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;86037;Družstevní;è.p.;810;;;40722;741214.93;969400.66;2025-03-11T00:00:00
+87480123;562351;Benešov nad Plouènicí;;;;;407577;Benešov nad Plouènicí;;;è.ev.;204;;;40722;741062.61;969178.00;2025-12-01T00:00:00

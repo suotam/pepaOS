@@ -1,0 +1,850 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód obvodu Prahy;Název obvodu Prahy;Kód èásti obce;Název èásti obce;Kód ulice;Název ulice;Typ SO;Èíslo domovní;Èíslo orientaèní;Znak èísla orientaèního;PSÈ;Souøadnice Y;Souøadnice X;Platí Od
+11711892;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;604;9;;37316;752236.60;1167202.10;2013-12-03T00:00:00
+11711906;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;902;18;a;37316;751973.12;1167933.52;2013-12-03T00:00:00
+11711914;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1077;18;;37316;752311.66;1167075.53;2013-12-03T00:00:00
+11711922;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;1198;10;;37006;752706.00;1167859.25;2013-12-03T00:00:00
+11711949;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;1200;1;;37006;752698.29;1167839.11;2013-12-03T00:00:00
+11711965;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;1202;5;;37006;752575.35;1167907.30;2013-12-03T00:00:00
+11711973;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;1203;13;;37316;752361.04;1167857.49;2013-12-03T00:00:00
+11711981;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;1204;17;;37316;752333.50;1167840.44;2013-12-03T00:00:00
+11711990;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1205;28;;37316;752323.30;1167825.10;2013-12-03T00:00:00
+11712007;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1206;26;;37316;752303.44;1167819.20;2013-12-03T00:00:00
+11712015;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1207;24;;37316;752295.06;1167799.54;2013-12-03T00:00:00
+11712023;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1208;22;;37316;752276.10;1167792.78;2013-12-03T00:00:00
+11712031;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1209;20;;37316;752271.34;1167774.55;2013-12-03T00:00:00
+11712040;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1210;18;;37316;752252.33;1167766.95;2013-12-03T00:00:00
+11712058;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1211;16;;37316;752245.20;1167753.18;2013-12-03T00:00:00
+11712066;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1212;14;;37316;752243.52;1167735.48;2013-12-03T00:00:00
+11712074;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1213;12;;37316;752229.82;1167726.83;2013-12-03T00:00:00
+11712082;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1214;10;;37316;752225.15;1167708.96;2013-12-03T00:00:00
+11712091;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1215;4;;37316;752206.89;1167649.85;2013-12-03T00:00:00
+11712104;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1216;40;;37316;751775.55;1167309.73;2013-12-03T00:00:00
+11712112;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1217;50;;37316;752177.73;1167573.37;2013-12-03T00:00:00
+11712121;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1218;48;;37316;752180.56;1167564.61;2013-12-03T00:00:00
+11712147;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1220;1;;37316;752203.96;1167534.89;2013-12-03T00:00:00
+11712155;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1221;3;;37316;752229.88;1167523.18;2013-12-03T00:00:00
+11712163;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1222;7;;37316;752309.99;1167507.89;2013-12-03T00:00:00
+11712171;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1223;9;;37316;752323.27;1167501.35;2013-12-03T00:00:00
+11712180;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1224;11;;37316;752334.77;1167494.19;2013-12-03T00:00:00
+11712198;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1225;13;;37316;752346.52;1167484.69;2013-12-03T00:00:00
+11712201;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1226;19;;37316;752385.16;1167436.71;2013-12-03T00:00:00
+11712210;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1227;21;;37316;752393.86;1167447.63;2013-12-03T00:00:00
+11712228;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1228;23;;37316;752397.39;1167437.96;2013-12-03T00:00:00
+11712236;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1229;25;;37316;752394.30;1167425.93;2013-12-03T00:00:00
+11712244;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1230;27;;37316;752411.24;1167409.90;2013-12-03T00:00:00
+11712252;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1231;29;;37316;752424.80;1167408.80;2013-12-03T00:00:00
+11712261;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1232;33;;37316;752462.76;1167419.99;2013-12-03T00:00:00
+11712279;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1233;35;;37316;752478.21;1167406.24;2013-12-03T00:00:00
+11712287;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1234;33;a;37316;752454.95;1167420.68;2013-12-03T00:00:00
+11712309;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1236;43;;37316;752531.13;1167402.03;2013-12-03T00:00:00
+11712317;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1237;24;;37316;752508.17;1167379.67;2013-12-03T00:00:00
+11712325;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1238;26;;37316;752517.89;1167378.50;2013-12-03T00:00:00
+11712333;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1239;28;;37316;752526.36;1167377.17;2013-12-03T00:00:00
+11712341;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1240;30;;37316;752533.73;1167375.85;2013-12-03T00:00:00
+11712350;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1241;34;;37316;752616.28;1167233.97;2013-12-03T00:00:00
+11712368;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1242;32;;37316;752618.81;1167243.65;2013-12-03T00:00:00
+11712376;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1243;38;;37316;752623.53;1167296.98;2013-12-03T00:00:00
+11712384;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1244;36;;37316;752611.69;1167304.51;2013-12-03T00:00:00
+11712392;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1245;34;;37316;752603.53;1167307.10;2013-12-03T00:00:00
+11712406;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1246;14;;37316;752368.18;1167417.26;2013-12-03T00:00:00
+11712414;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1247;12;;37316;752351.36;1167437.01;2022-01-19T00:00:00
+11712422;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1248;10;;37316;752337.92;1167447.36;2013-12-03T00:00:00
+11712431;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1249;8;;37316;752324.44;1167455.55;2013-12-03T00:00:00
+11712449;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1250;6;;37316;752313.39;1167459.73;2013-12-03T00:00:00
+11712457;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1251;4;;37316;752302.34;1167465.99;2013-12-03T00:00:00
+11712465;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1252;2;;37316;752291.00;1167470.71;2013-12-03T00:00:00
+11712473;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1253;44;;37316;752226.86;1167475.41;2013-12-03T00:00:00
+11712490;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1255;40;;37316;752299.88;1167363.18;2013-12-03T00:00:00
+11712503;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1256;38;;37316;752310.40;1167352.74;2013-12-03T00:00:00
+11712511;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1257;36;;37316;752331.96;1167332.47;2013-12-03T00:00:00
+11712520;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1258;34;;37316;752337.34;1167330.29;2013-12-03T00:00:00
+11712546;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1260;26;;37316;752393.82;1167265.14;2013-12-03T00:00:00
+11712554;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1261;24;;37316;752416.47;1167276.45;2013-12-03T00:00:00
+11712562;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1262;20;;37316;752448.01;1167228.73;2013-12-03T00:00:00
+11712571;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1263;18;;37316;752467.28;1167231.36;2013-12-03T00:00:00
+11712589;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1264;16;;37316;752472.35;1167226.07;2013-12-03T00:00:00
+11712597;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1265;14;;37316;752480.67;1167220.78;2013-12-03T00:00:00
+11712601;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1266;12;;37316;752488.13;1167215.39;2013-12-03T00:00:00
+11712619;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1267;8;;37316;752524.47;1167190.33;2013-12-03T00:00:00
+11712627;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77674;Vrbová;è.p.;1268;16;;37316;752549.15;1167214.10;2013-12-03T00:00:00
+11712635;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77674;Vrbová;è.p.;1269;20;;37316;752589.80;1167209.21;2013-12-03T00:00:00
+11712643;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1270;1;;37316;752583.56;1167121.26;2013-12-03T00:00:00
+11712651;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1272;9;;37316;752482.20;1167171.00;2013-12-03T00:00:00
+11712660;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1273;15;;37316;752438.02;1167199.54;2013-12-03T00:00:00
+11712678;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1274;17;;37316;752431.96;1167203.44;2013-12-03T00:00:00
+11712686;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1275;19;;37316;752425.89;1167207.18;2013-12-03T00:00:00
+11712694;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1276;21;;37316;752420.15;1167210.62;2013-12-03T00:00:00
+11712708;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1277;23;;37316;752414.40;1167214.36;2013-12-03T00:00:00
+11712716;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1278;25;;37316;752411.40;1167223.42;2023-06-12T00:00:00
+11712724;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1279;5;;37316;752367.95;1167190.41;2013-12-03T00:00:00
+11712732;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1280;7;;37316;752363.64;1167183.37;2013-12-03T00:00:00
+11712741;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1281;9;;37316;752358.69;1167171.85;2013-12-03T00:00:00
+11712759;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1282;15;;37316;752355.04;1167116.37;2013-12-03T00:00:00
+11712767;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1283;20;;37316;752306.91;1167055.40;2013-12-03T00:00:00
+11712775;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1284;30;;37316;752198.99;1167044.94;2013-12-03T00:00:00
+11712783;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1285;39;;37316;752209.59;1167089.52;2013-12-03T00:00:00
+11712791;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1286;45;;37316;752159.03;1167068.11;2013-12-03T00:00:00
+11712805;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1287;34;;37316;752151.73;1167046.11;2013-12-03T00:00:00
+11712813;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1288;36;;37316;752141.44;1167047.28;2013-12-03T00:00:00
+11712821;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1289;23;;37316;752137.35;1167076.12;2013-12-03T00:00:00
+11712830;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1290;46;;37316;752176.88;1167163.00;2013-12-03T00:00:00
+11712848;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1291;24;;37316;752303.17;1167133.03;2013-12-03T00:00:00
+11712856;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1292;14;;37316;752330.76;1167144.93;2013-12-03T00:00:00
+11712864;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1293;12;;37316;752332.95;1167155.39;2013-12-03T00:00:00
+11712872;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1294;10;;37316;752335.39;1167165.00;2013-12-03T00:00:00
+11712881;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1295;1;;37316;752305.71;1167183.78;2013-12-03T00:00:00
+11712899;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1296;7;;37316;752259.42;1167209.63;2013-12-03T00:00:00
+11712902;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1297;13;;37316;752216.51;1167232.52;2013-12-03T00:00:00
+11712911;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1298;15;;37316;752165.64;1167197.55;2013-12-03T00:00:00
+11712929;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1299;15;;37316;752175.19;1167253.81;2013-12-03T00:00:00
+11712937;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1300;9;;37316;752209.54;1167288.55;2013-12-03T00:00:00
+11712945;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1301;16;;37316;752221.86;1167256.68;2013-12-03T00:00:00
+11712953;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1302;14;;37316;752234.56;1167254.71;2025-05-21T00:00:00
+11712961;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1303;10;;37316;752274.28;1167262.03;2013-12-03T00:00:00
+11712970;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1304;8;;37316;752281.20;1167224.67;2013-12-03T00:00:00
+11712988;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1305;6;;37316;752290.91;1167221.34;2013-12-03T00:00:00
+11712996;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1306;2;;37316;752322.99;1167201.35;2013-12-03T00:00:00
+11713003;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1307;8;;37316;752335.29;1167195.38;2013-12-03T00:00:00
+11713011;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1308;6;;37316;752348.87;1167207.86;2022-01-19T00:00:00
+11713020;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1309;4;;37316;752356.31;1167213.81;2013-12-03T00:00:00
+11713038;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1310;2;;37316;752361.18;1167234.84;2013-12-03T00:00:00
+11713046;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1311;27;;37316;752338.66;1167246.25;2013-12-03T00:00:00
+11713054;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1312;29;;37316;752331.27;1167251.29;2013-12-03T00:00:00
+11713062;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1313;31;;37316;752331.31;1167273.89;2013-12-03T00:00:00
+11713071;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1314;41;;37316;752278.26;1167325.52;2013-12-03T00:00:00
+11713089;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1315;1;;37316;752257.49;1167332.30;2013-12-03T00:00:00
+11713097;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1316;3;;37316;752250.53;1167326.76;2013-12-03T00:00:00
+11713101;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1317;5;;37316;752245.17;1167321.09;2013-12-03T00:00:00
+11713119;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1318;10;;37316;752192.20;1167312.03;2013-12-03T00:00:00
+11713127;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1319;6;;37316;752224.46;1167329.91;2013-12-03T00:00:00
+11713135;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1320;4;;37316;752238.34;1167341.89;2013-12-03T00:00:00
+11713143;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1321;2;;37316;752244.93;1167348.91;2023-09-20T00:00:00
+11713151;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1322;49;;37316;752216.71;1167413.43;2021-06-15T00:00:00
+11713160;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1323;51;;37316;752214.84;1167424.31;2013-12-03T00:00:00
+11713178;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1324;53;;37316;752212.53;1167435.48;2013-12-03T00:00:00
+11713186;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1325;1;;37316;752195.95;1167449.60;2013-12-03T00:00:00
+11713194;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1326;3;;37316;752190.43;1167438.52;2013-12-03T00:00:00
+11713208;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1327;5;;37316;752188.44;1167427.59;2013-12-03T00:00:00
+11713216;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1328;7;;37316;752184.30;1167416.11;2013-12-03T00:00:00
+11713224;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1329;9;;37316;752182.52;1167403.84;2013-12-03T00:00:00
+11713232;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1330;13;;37316;752167.90;1167359.52;2013-12-03T00:00:00
+11713259;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1332;17;;37316;752158.21;1167326.94;2013-12-03T00:00:00
+11713267;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1333;22;;37316;752143.50;1167351.96;2021-05-03T00:00:00
+11713275;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1334;20;;37316;752130.14;1167366.41;2013-12-03T00:00:00
+11713283;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1335;16;;37316;752133.40;1167394.07;2013-12-03T00:00:00
+11713291;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1336;14;;37316;752141.19;1167401.21;2013-12-03T00:00:00
+11713305;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;780685;Pod Farou;è.p.;1337;2;a;37316;752106.08;1167426.27;2021-05-07T00:00:00
+11713313;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1338;10;;37316;752160.00;1167419.47;2013-12-03T00:00:00
+11713321;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1339;4;;37316;752178.96;1167493.01;2013-12-03T00:00:00
+11713330;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1340;2;;37316;752181.86;1167505.91;2013-12-03T00:00:00
+11713348;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1341;55;;37316;752168.37;1167513.67;2013-12-03T00:00:00
+11713356;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77470;Na Kopeèku;è.p.;1342;3;;37316;752121.52;1167518.76;2013-12-03T00:00:00
+11713364;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1343;61;;37316;752013.98;1167719.79;2013-12-03T00:00:00
+11713372;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1344;59;;37316;752031.26;1167712.07;2013-12-03T00:00:00
+11713381;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1345;1;;37316;752003.31;1167704.79;2013-12-03T00:00:00
+11713399;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1346;3;;37316;752003.96;1167675.10;2013-12-03T00:00:00
+11713402;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1347;57;;37316;752038.21;1167664.19;2013-12-03T00:00:00
+11713411;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1348;9;;37316;752044.97;1167596.24;2013-12-03T00:00:00
+11713429;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77470;Na Kopeèku;è.p.;1349;2;;37316;752108.63;1167570.03;2013-12-03T00:00:00
+11713437;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77470;Na Kopeèku;è.p.;1350;1;;37316;752116.41;1167548.11;2013-12-03T00:00:00
+11713445;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77470;Na Kopeèku;è.p.;1351;4;;37316;752082.76;1167533.52;2013-12-03T00:00:00
+11713453;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1352;11;;37316;752077.28;1167550.84;2013-12-03T00:00:00
+11713461;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1353;13;;37316;752059.25;1167549.93;2013-12-03T00:00:00
+11713470;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77470;Na Kopeèku;è.p.;1354;7;;37316;752068.87;1167498.28;2013-12-03T00:00:00
+11713488;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1355;15;;37316;752043.01;1167467.23;2023-05-26T00:00:00
+11713496;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1356;33;;37316;751994.51;1167403.77;2013-12-03T00:00:00
+11713500;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1357;29;;37316;751989.05;1167314.98;2013-12-03T00:00:00
+11713518;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;1358;16;;37316;752004.24;1167312.00;2023-06-12T00:00:00
+11713526;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1359;23;;37316;752073.99;1167327.95;2013-12-03T00:00:00
+11713534;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1360;19;;37316;752123.44;1167297.42;2013-12-03T00:00:00
+11713542;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1361;14;;37316;752140.56;1167237.22;2013-12-03T00:00:00
+11713551;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1362;16;;37316;752061.90;1167172.31;2013-12-03T00:00:00
+11713569;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1363;16;;37316;751883.79;1167304.53;2013-12-03T00:00:00
+11713577;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1364;12;;37316;751898.66;1167332.41;2013-12-03T00:00:00
+11713585;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1365;6;;37316;751942.80;1167424.15;2013-12-03T00:00:00
+11713593;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1366;33;;37316;751805.85;1167353.61;2013-12-03T00:00:00
+11713607;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1367;35;;37316;751804.62;1167342.77;2018-08-03T00:00:00
+11713615;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1368;39;;37316;751798.31;1167304.42;2013-12-03T00:00:00
+11713623;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1369;23;;37316;751719.59;1167272.81;2013-12-03T00:00:00
+11713631;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1370;21;;37316;751721.18;1167283.29;2013-12-03T00:00:00
+11713658;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1372;36;;37316;751783.26;1167353.38;2013-12-03T00:00:00
+11713666;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1373;34;;37316;751772.90;1167374.50;2013-12-03T00:00:00
+11713674;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1374;19;;37316;751686.14;1167317.38;2013-12-03T00:00:00
+11713682;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1375;17;;37316;751688.28;1167325.84;2013-12-03T00:00:00
+11713691;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1376;5;;37316;751738.44;1167403.38;2013-12-03T00:00:00
+11713704;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1377;3;;37316;751714.45;1167414.70;2013-12-03T00:00:00
+11713712;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1378;32;;37316;751785.18;1167398.19;2022-01-19T00:00:00
+11713721;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1379;30;;37316;751779.38;1167424.92;2013-12-03T00:00:00
+11713739;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1380;28;;37316;751783.83;1167449.98;2013-12-03T00:00:00
+11713747;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1381;1;;37316;751709.96;1167425.46;2013-12-03T00:00:00
+11713755;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1382;1;a;37316;751749.30;1167469.84;2019-10-16T00:00:00
+11713763;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1383;24;;37316;751783.64;1167492.31;2013-12-03T00:00:00
+11713771;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1384;21;;37316;751811.36;1167509.85;2013-12-03T00:00:00
+11713780;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1385;6;;37316;751826.08;1167507.94;2013-12-03T00:00:00
+11713798;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1386;4;;37316;751840.14;1167507.06;2013-12-03T00:00:00
+11713801;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1387;19;;37316;751815.24;1167546.84;2013-12-03T00:00:00
+11713810;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1388;17;;37316;751816.90;1167558.00;2013-12-03T00:00:00
+11713828;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1389;13;;37316;751819.97;1167580.44;2013-12-03T00:00:00
+11713836;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1390;11;;37316;751819.31;1167590.18;2013-12-03T00:00:00
+11713844;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1391;7;;37316;751824.57;1167627.77;2013-12-03T00:00:00
+11713852;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.p.;1392;5;;37316;751861.62;1167623.59;2013-12-03T00:00:00
+11713861;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1393;3;;37316;751825.74;1167641.83;2013-12-03T00:00:00
+11713879;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1394;14;;37316;752000.95;1167518.48;2022-04-08T00:00:00
+11713895;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.p.;1396;4;;37316;751952.35;1167646.34;2013-12-03T00:00:00
+11713909;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.p.;1397;16;;37316;751859.40;1167685.56;2013-12-03T00:00:00
+11713917;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1398;73;;37316;751869.10;1167727.91;2013-12-03T00:00:00
+11713925;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1399;71;;37316;751924.69;1167762.74;2013-12-03T00:00:00
+11713933;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1400;69;;37316;751936.39;1167755.73;2013-12-03T00:00:00
+11713941;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1401;67;;37316;751947.92;1167749.65;2013-12-03T00:00:00
+11713950;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1402;10;;37316;751983.26;1167841.12;2013-12-03T00:00:00
+11713968;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1403;8;;37316;751986.00;1167810.70;2013-12-03T00:00:00
+11713976;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1404;6;;37316;752006.19;1167776.40;2013-12-03T00:00:00
+11713984;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1405;2;;37316;752025.18;1167763.33;2013-12-03T00:00:00
+11713992;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1406;60;;37316;752047.95;1167754.15;2013-12-03T00:00:00
+11714018;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1408;1;;37316;752146.44;1167694.06;2013-12-03T00:00:00
+11714026;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1409;3;;37316;752163.47;1167700.05;2013-12-03T00:00:00
+11714034;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1410;5;;37316;752163.88;1167723.06;2013-12-03T00:00:00
+11714042;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1411;9;;37316;752176.65;1167751.10;2013-12-03T00:00:00
+11714051;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1412;11;;37316;752198.24;1167760.86;2013-12-03T00:00:00
+11714069;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1413;13;;37316;752207.16;1167776.32;2013-12-03T00:00:00
+11714077;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1414;15;;37316;752205.41;1167798.88;2013-12-03T00:00:00
+11714085;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1415;17;;37316;752214.73;1167812.95;2013-12-03T00:00:00
+11714093;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1416;21;;37316;752238.11;1167822.45;2013-12-03T00:00:00
+11714107;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1417;23;;37316;752207.70;1167839.69;2013-12-03T00:00:00
+11714115;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1418;25;;37316;752246.62;1167838.04;2013-12-03T00:00:00
+11714123;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1419;27;;37316;752254.32;1167851.73;2013-12-03T00:00:00
+11714131;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1420;29;;37316;752256.48;1167867.69;2013-12-03T00:00:00
+11714140;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1421;31;;37316;752264.43;1167879.04;2013-12-03T00:00:00
+11714158;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1422;33;;37316;752270.11;1167891.46;2013-12-03T00:00:00
+11714166;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1423;35;;37316;752273.22;1167905.66;2013-12-03T00:00:00
+11714174;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1424;37;;37316;752296.29;1167926.93;2013-12-03T00:00:00
+11714182;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1425;39;;37316;752286.77;1167943.63;2013-12-03T00:00:00
+11714191;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1426;41;;37316;752296.47;1167957.62;2013-12-03T00:00:00
+11714204;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1427;43;;37316;752301.40;1167974.88;2013-12-03T00:00:00
+11714212;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1428;45;;37316;752296.73;1167988.67;2013-12-03T00:00:00
+11714221;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1429;47;;37316;752297.60;1168004.02;2013-12-03T00:00:00
+11714239;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1430;49;;37316;752303.00;1168020.73;2013-12-03T00:00:00
+11714247;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1431;51;;37316;752303.98;1168040.03;2013-12-03T00:00:00
+11714255;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1432;53;;37316;752312.09;1168054.50;2013-12-03T00:00:00
+11714263;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1433;55;;37316;752305.86;1168075.97;2013-12-03T00:00:00
+11714280;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1436;65;;37316;752250.09;1168097.17;2013-12-03T00:00:00
+11714301;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1438;4;;37316;752063.81;1167837.42;2022-10-16T00:00:00
+11714310;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1439;18;;37316;752009.79;1168028.00;2013-12-03T00:00:00
+11714328;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1440;28;;37316;752100.11;1168196.02;2013-12-03T00:00:00
+11714336;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;1441;12;;37316;751868.06;1167875.43;2013-12-03T00:00:00
+11714344;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77658;U Lomu;è.p.;2073;3;;37316;751903.33;1167850.14;2013-12-03T00:00:00
+11714352;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77658;U Lomu;è.p.;1443;4;;37316;751924.26;1167834.62;2013-12-03T00:00:00
+11714361;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1444;9;;37316;751957.18;1167885.88;2013-12-03T00:00:00
+11714379;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1445;1;;37316;751991.91;1167764.61;2013-12-03T00:00:00
+11714387;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1446;3;;37316;751969.85;1167796.08;2013-12-03T00:00:00
+11714395;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77658;U Lomu;è.p.;1447;2;;37316;751918.55;1167810.16;2013-12-03T00:00:00
+11714409;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77658;U Lomu;è.p.;1448;1;;37316;751891.35;1167824.05;2013-12-03T00:00:00
+11714417;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;1449;4;;37316;751807.84;1167811.65;2013-12-03T00:00:00
+11714425;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1450;15;;37316;751910.23;1167928.36;2013-12-03T00:00:00
+11714433;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1451;75;;37316;751812.52;1167744.61;2013-12-03T00:00:00
+11714450;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1453;6;;37316;751759.81;1167651.77;2013-12-03T00:00:00
+11714468;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1454;8;;37316;751790.39;1167640.07;2013-12-03T00:00:00
+11714476;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1455;10;;37316;751772.96;1167626.16;2013-12-03T00:00:00
+11714484;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1456;16;;37316;751747.57;1167587.69;2013-12-03T00:00:00
+11714492;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1457;16;;37316;751686.17;1167538.00;2013-12-03T00:00:00
+11714506;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1458;20;;37316;751640.85;1167507.11;2025-03-04T00:00:00
+11714514;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1459;24;;37316;751601.25;1167508.13;2013-12-03T00:00:00
+11714522;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1460;13;;37316;751553.22;1167471.25;2013-12-03T00:00:00
+11714531;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1461;5;;37316;751661.08;1167488.02;2013-12-03T00:00:00
+11714549;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1462;8;;37316;751668.12;1167406.22;2013-12-03T00:00:00
+11714557;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1463;10;;37316;751686.65;1167405.27;2013-12-03T00:00:00
+11714565;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1464;12;;37316;751683.22;1167397.78;2013-12-03T00:00:00
+11714573;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1465;14;;37316;751637.93;1167366.83;2023-07-11T00:00:00
+11714581;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1466;18;;37316;751635.29;1167326.12;2013-12-03T00:00:00
+11714590;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1467;20;;37316;751625.33;1167307.02;2013-12-03T00:00:00
+11714603;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1468;22;;37316;751625.62;1167298.97;2013-12-03T00:00:00
+11714611;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1469;24;;37316;751621.22;1167290.40;2013-12-03T00:00:00
+11714620;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1470;26;;37316;751624.96;1167279.99;2013-12-03T00:00:00
+11714638;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1471;28;;37316;751618.44;1167272.86;2013-12-03T00:00:00
+11714646;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1472;30;;37316;751618.95;1167255.19;2013-12-03T00:00:00
+11714654;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1473;27;;37316;751506.50;1167189.70;2013-12-03T00:00:00
+11714662;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1474;23;;37316;751551.44;1167189.49;2013-12-03T00:00:00
+11714671;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1475;21;;37316;751570.58;1167195.64;2013-12-03T00:00:00
+11714689;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1476;19;;37316;751583.31;1167182.53;2013-12-03T00:00:00
+11714697;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1477;17;;37316;751599.74;1167192.10;2013-12-03T00:00:00
+11714701;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1478;15;;37316;751612.53;1167179.43;2013-12-03T00:00:00
+11714719;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1479;13;;37316;751628.21;1167189.04;2013-12-03T00:00:00
+11714727;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1480;11;;37316;751640.53;1167176.59;2013-12-03T00:00:00
+11714735;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1481;3;;37316;751739.41;1167190.48;2013-12-03T00:00:00
+11714743;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1482;1;;37316;751756.09;1167184.63;2013-12-03T00:00:00
+11714751;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1483;48;;37316;751440.01;1167014.78;2013-12-03T00:00:00
+11714760;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1484;62;;37316;751762.44;1167094.01;2013-12-03T00:00:00
+11714778;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1485;21;;37316;751861.93;1167178.09;2013-12-03T00:00:00
+11714786;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1486;17;;37316;752008.73;1166837.97;2022-10-16T00:00:00
+11714794;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1487;13;;37316;752169.54;1167001.38;2013-12-03T00:00:00
+11714808;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1488;11;;37316;752179.48;1166997.87;2013-12-03T00:00:00
+11714816;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1492;22;;37316;752300.56;1167039.27;2013-12-03T00:00:00
+11714824;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1498;18;;37316;751873.95;1167283.83;2013-12-03T00:00:00
+11714832;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1499;14;;37316;751887.20;1167343.31;2013-12-03T00:00:00
+11714841;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1506;11;;37316;752229.66;1167224.66;2013-12-03T00:00:00
+11714859;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1508;30;;37316;752619.69;1167268.91;2013-12-03T00:00:00
+11714867;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1514;58;;37316;752069.33;1167725.73;2015-04-13T00:00:00
+11714875;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1516;35;;37316;752251.82;1167101.03;2013-12-03T00:00:00
+11714883;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1517;20;;37316;751783.84;1167544.37;2013-12-03T00:00:00
+11714891;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1518;57;;37316;752315.42;1168093.09;2013-12-03T00:00:00
+11714905;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1522;33;;37316;752324.87;1167278.35;2013-12-03T00:00:00
+11714913;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1525;36;;37316;751531.87;1167075.33;2013-12-03T00:00:00
+11714921;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1526;5;;37316;752504.71;1167119.20;2013-12-03T00:00:00
+11714930;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1527;18;;37316;751769.69;1167561.44;2013-12-03T00:00:00
+11714948;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1532;15;;37316;751691.66;1167340.80;2013-12-03T00:00:00
+11714956;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1535;37;;37316;752286.65;1167289.43;2013-12-03T00:00:00
+11714964;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1537;20;;37316;751852.62;1167220.72;2013-12-03T00:00:00
+11714972;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1540;16;;37316;751641.12;1167349.74;2022-12-20T00:00:00
+11714981;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1573;36;;37316;752598.04;1167165.20;2013-12-03T00:00:00
+11714999;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1576;12;;37316;751710.62;1167562.82;2013-12-03T00:00:00
+11715006;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1582;32;;37316;752550.98;1167364.23;2013-12-03T00:00:00
+11715014;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;1593;11;;37316;752378.23;1167864.41;2023-06-12T00:00:00
+11715022;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1595;37;;37316;752232.09;1167114.23;2013-12-03T00:00:00
+11715031;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1596;35;;37316;752303.44;1167278.01;2013-12-03T00:00:00
+11715049;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1601;31;;37316;752446.26;1167423.86;2013-12-03T00:00:00
+11715057;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1603;12;;37316;751788.16;1167611.69;2013-12-03T00:00:00
+11715065;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1609;14;;37316;751769.32;1167600.20;2013-12-03T00:00:00
+11715073;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1610;8;;37316;752212.56;1167697.84;2013-12-03T00:00:00
+11715081;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1620;8;;37316;751941.21;1167399.12;2013-12-03T00:00:00
+11715090;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1623;33;;37316;752274.25;1167105.87;2013-12-03T00:00:00
+11715103;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1628;23;;37316;751838.21;1167182.56;2013-12-03T00:00:00
+11715111;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1631;25;;37316;751820.58;1167461.37;2013-12-03T00:00:00
+11715120;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1632;23;;37316;751822.25;1167474.56;2013-12-03T00:00:00
+11715138;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1638;26;;37316;752234.61;1167042.70;2013-12-03T00:00:00
+11715146;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1639;28;;37316;752636.92;1167317.41;2013-12-03T00:00:00
+11715154;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1640;26;;37316;752641.31;1167331.65;2013-12-03T00:00:00
+11715162;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1641;24;;37316;752645.51;1167345.71;2013-12-03T00:00:00
+11715171;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1642;22;;37316;752649.30;1167360.14;2013-12-03T00:00:00
+11715189;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1643;20;;37316;752653.70;1167374.19;2013-12-03T00:00:00
+11715197;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1644;18;;37316;752657.50;1167388.43;2013-12-03T00:00:00
+11715201;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1645;16;;37316;752662.09;1167402.49;2013-12-03T00:00:00
+11715219;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1646;14;;37316;752643.91;1167407.55;2013-12-03T00:00:00
+11715227;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1647;12;;37316;752623.13;1167413.74;2013-12-03T00:00:00
+11715235;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;1648;10;;37316;752599.95;1167420.11;2013-12-03T00:00:00
+11715243;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1649;49;;37316;752592.75;1167398.93;2013-12-03T00:00:00
+11715251;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1650;51;;37316;752587.96;1167379.63;2013-12-03T00:00:00
+11715260;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1651;53;;37316;752597.55;1167362.38;2013-12-03T00:00:00
+11715278;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1652;55;;37316;752609.94;1167345.14;2013-12-03T00:00:00
+11715286;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1653;57;;37316;752620.13;1167327.71;2013-12-03T00:00:00
+11715294;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1657;39;;37316;752271.57;1167301.02;2013-12-03T00:00:00
+11715308;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1658;19;;37316;752178.95;1167833.18;2013-12-03T00:00:00
+11715316;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1659;4;;37316;752560.82;1167171.30;2013-12-03T00:00:00
+11715324;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1672;32;;37316;752185.24;1167049.09;2013-12-03T00:00:00
+11715332;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1673;7;;37316;752172.29;1167735.23;2013-12-03T00:00:00
+11715341;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1676;29;;37316;752376.55;1167084.09;2013-12-03T00:00:00
+11715359;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1678;2;;37316;752579.77;1167168.43;2013-12-03T00:00:00
+11715367;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.p.;1679;12;;37316;751895.83;1167667.48;2013-12-03T00:00:00
+11715375;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1682;19;;37316;752154.60;1167121.80;2013-12-03T00:00:00
+11715383;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1685;5;;37316;751711.97;1167179.55;2013-12-03T00:00:00
+11715391;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1693;18;;37316;752146.17;1167375.56;2013-12-03T00:00:00
+11715405;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1694;25;;37316;751682.88;1167264.48;2013-12-03T00:00:00
+11715413;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1695;31;;37316;751679.88;1167242.24;2013-12-03T00:00:00
+11715421;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1696;29;;37316;751680.92;1167249.57;2013-12-03T00:00:00
+11715430;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1697;27;;37316;751681.71;1167256.24;2013-12-03T00:00:00
+11715448;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1701;8;;37316;752475.90;1166998.33;2013-12-03T00:00:00
+11715456;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1702;10;;37316;752467.68;1166998.88;2013-12-03T00:00:00
+11715464;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1703;54;;37316;751768.25;1167221.18;2013-12-03T00:00:00
+11715472;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1704;3;;37316;752277.05;1167191.47;2015-03-09T00:00:00
+11715481;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1706;45;;37316;752221.54;1167385.79;2013-12-03T00:00:00
+11715499;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1708;13;;37316;752360.15;1167137.48;2013-12-03T00:00:00
+11715502;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1709;1;;37316;752496.91;1167050.40;2013-12-03T00:00:00
+11715511;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;1710;59;;37316;752312.67;1168126.65;2013-12-03T00:00:00
+11715529;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1712;28;;37316;752213.83;1167043.53;2021-11-24T00:00:00
+11715537;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1713;31;;37316;752309.89;1167096.33;2013-12-03T00:00:00
+11715545;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1714;48;;37316;751768.12;1167242.76;2013-12-03T00:00:00
+11715553;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1715;50;;37316;751768.37;1167236.88;2013-12-03T00:00:00
+11715561;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1716;52;;37316;751769.26;1167227.92;2013-12-03T00:00:00
+11715570;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1720;71;;37316;751798.65;1167101.49;2013-12-03T00:00:00
+11715588;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1721;14;;37316;752448.48;1167099.52;2013-12-03T00:00:00
+11715596;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1722;43;;37316;752181.91;1167116.21;2013-12-03T00:00:00
+11715600;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1725;30;;37316;752267.43;1167137.50;2013-12-03T00:00:00
+11715618;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1726;4;;37316;752306.21;1167217.89;2013-12-03T00:00:00
+11715626;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1727;26;;37316;751783.16;1167469.67;2013-12-03T00:00:00
+11715634;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1728;5;;37316;752464.63;1167065.22;2013-12-03T00:00:00
+11715642;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1730;20;;37316;752377.42;1167023.80;2013-12-03T00:00:00
+11715651;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;1731;10;;37316;752477.05;1167321.55;2013-12-03T00:00:00
+11715669;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;1736;6;;37316;752488.08;1167028.58;2013-12-03T00:00:00
+11715677;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1737;7;;37316;752457.67;1167066.67;2013-12-03T00:00:00
+11715685;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1738;11;;37316;752442.97;1167069.85;2013-12-03T00:00:00
+11715693;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1739;13;;37316;752435.43;1167071.57;2013-12-03T00:00:00
+11715707;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1740;27;;37316;752383.90;1167082.63;2013-12-03T00:00:00
+11715715;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1741;21;;37316;752406.23;1167077.83;2013-12-03T00:00:00
+11715723;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1742;23;;37316;752398.69;1167079.46;2013-12-03T00:00:00
+11715731;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1743;25;;37316;752391.05;1167080.91;2013-12-03T00:00:00
+11715740;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1744;4;;37316;751780.94;1167666.64;2013-12-03T00:00:00
+11715758;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1745;9;;37316;752449.94;1167068.22;2013-12-03T00:00:00
+11715766;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1746;19;;37316;752413.87;1167076.38;2013-12-03T00:00:00
+11715774;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1747;14;;37316;752002.90;1167907.40;2013-12-03T00:00:00
+11715782;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1750;5;;37316;752271.17;1167199.80;2013-12-03T00:00:00
+11715804;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1752;12;;37316;752248.17;1167246.99;2013-12-03T00:00:00
+11715812;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1753;33;;37316;751675.65;1167218.74;2013-12-03T00:00:00
+11715821;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1755;64;;37316;751844.63;1167782.47;2013-12-03T00:00:00
+11715839;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1756;22;;37316;752365.43;1167026.34;2013-12-03T00:00:00
+11715847;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1757;8;;37316;752488.26;1167091.50;2013-12-03T00:00:00
+11715855;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1758;41;;37316;752198.35;1167112.70;2013-12-03T00:00:00
+11715863;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1759;10;;37316;752478.69;1167093.30;2013-12-03T00:00:00
+11715871;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1760;69;;37316;751814.15;1167114.37;2013-12-03T00:00:00
+11715880;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1761;56;;37316;751767.11;1167213.43;2013-12-03T00:00:00
+11715898;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1764;13;;37316;751695.66;1167351.21;2013-12-03T00:00:00
+11715901;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1765;2;;37316;752517.96;1167085.21;2013-12-03T00:00:00
+11715910;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1766;17;;37316;752344.49;1167086.61;2013-12-03T00:00:00
+11715928;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1767;16;;37316;751986.36;1167917.28;2013-12-03T00:00:00
+11715936;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1768;4;;37316;751724.13;1167222.83;2013-12-03T00:00:00
+11715944;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1769;6;;37316;751717.92;1167225.74;2013-12-03T00:00:00
+11715952;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1770;8;;37316;751710.89;1167224.19;2013-12-03T00:00:00
+11715961;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1771;32;;37316;751652.09;1167222.19;2023-05-31T00:00:00
+11715979;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1772;46;;37316;751768.88;1167248.49;2013-12-03T00:00:00
+11715987;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1774;17;;37316;752164.71;1167185.54;2013-12-03T00:00:00
+11715995;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1775;26;;37316;751584.05;1167499.71;2013-12-03T00:00:00
+11716002;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1778;18;;37316;752397.24;1167022.71;2013-12-03T00:00:00
+11716029;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1780;11;;37316;752365.42;1167153.95;2013-12-03T00:00:00
+11716037;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1781;4;;37316;752507.90;1167087.61;2013-12-03T00:00:00
+11716045;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1785;67;;37316;751803.59;1167130.48;2013-12-03T00:00:00
+11716053;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1789;12;;37316;752468.47;1167111.71;2013-12-03T00:00:00
+11716061;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77577;Spojovací;è.p.;1790;3;;37316;752372.05;1167329.48;2023-06-27T00:00:00
+11716070;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1792;15;;37316;752355.81;1167462.64;2021-10-20T00:00:00
+11716088;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1797;16;;37316;752413.68;1167018.45;2013-12-03T00:00:00
+11716096;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1798;22;;37316;751779.41;1167523.71;2013-12-03T00:00:00
+11716100;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1799;38;;37316;751516.78;1167070.57;2013-12-03T00:00:00
+11716118;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;1805;1;;37316;752557.10;1167098.78;2013-12-03T00:00:00
+11716126;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1807;20;;37316;751833.18;1166991.47;2013-12-03T00:00:00
+11716134;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1810;3;;37316;751698.43;1167493.08;2013-12-03T00:00:00
+11716142;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1812;65;;37316;751815.86;1167144.01;2013-12-03T00:00:00
+11716151;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1815;63;;37316;751805.90;1167161.75;2013-12-03T00:00:00
+11716169;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1816;18;;37316;751825.80;1166993.88;2023-06-12T00:00:00
+11716177;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1817;10;;37316;751798.35;1166989.05;2013-12-03T00:00:00
+11716185;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1819;19;;37316;752340.53;1167068.69;2013-12-03T00:00:00
+11716193;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;1820;9;;37316;752531.24;1167037.54;2013-12-03T00:00:00
+11716207;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1823;16;;37316;751819.15;1166991.37;2013-12-03T00:00:00
+11716215;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1824;47;;37316;751809.05;1167254.34;2013-12-03T00:00:00
+11716223;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1825;45;;37316;751809.25;1167261.05;2013-12-03T00:00:00
+11716231;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1826;43;;37316;751808.76;1167267.75;2013-12-03T00:00:00
+11716240;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1827;55;;37316;751807.89;1167227.95;2013-12-03T00:00:00
+11716258;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1828;53;;37316;751808.47;1167234.92;2013-12-03T00:00:00
+11716266;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1829;51;;37316;751808.56;1167241.62;2013-12-03T00:00:00
+11716274;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1830;49;;37316;751808.85;1167247.54;2013-12-03T00:00:00
+11716282;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1831;13;;37316;752171.00;1167219.45;2013-12-03T00:00:00
+11716291;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1832;7;;37316;751692.88;1167179.90;2013-12-03T00:00:00
+11716304;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1833;28;;37316;752276.28;1167135.54;2013-12-03T00:00:00
+11716312;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1834;32;;37316;752259.17;1167138.92;2013-12-03T00:00:00
+11716321;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1835;40;;37316;752223.43;1167147.11;2013-12-03T00:00:00
+11716339;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1836;38;;37316;752232.51;1167144.71;2013-12-03T00:00:00
+11716347;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1838;22;;37316;751568.00;1167124.84;2013-12-03T00:00:00
+11716355;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1839;25;;37316;751531.51;1167207.72;2013-12-03T00:00:00
+11716363;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1840;15;;37316;752428.47;1167073.11;2013-12-03T00:00:00
+11716371;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1842;70;;37316;751753.31;1167037.56;2013-12-03T00:00:00
+11716380;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1843;64;;37316;751752.28;1167064.49;2013-12-03T00:00:00
+11716398;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1844;58;;37316;751774.67;1167165.84;2013-12-03T00:00:00
+11716401;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1845;34;;37316;751647.64;1167137.07;2013-12-03T00:00:00
+11716410;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1847;30;;37316;751577.73;1167090.27;2013-12-03T00:00:00
+11716428;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1848;26;;37316;752285.47;1167140.26;2018-01-16T00:00:00
+11716436;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1850;2;;37316;751754.90;1167133.79;2013-12-03T00:00:00
+11716444;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77470;Na Kopeèku;è.p.;1852;5;;37316;752099.64;1167525.02;2013-12-03T00:00:00
+11716452;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1853;22;;37316;751570.65;1167232.56;2013-12-03T00:00:00
+11716461;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1855;61;;37316;751808.33;1167180.41;2013-12-03T00:00:00
+11716479;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;1856;7;;37316;752228.94;1167293.68;2013-12-03T00:00:00
+11716487;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1857;16;;37316;752380.77;1167378.76;2013-12-03T00:00:00
+11716509;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1861;6;;37316;751721.22;1167125.75;2013-12-03T00:00:00
+11716517;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1862;22;;37316;752432.26;1167247.25;2013-12-03T00:00:00
+11716525;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1864;6;;37316;752501.99;1167093.60;2013-12-03T00:00:00
+11716541;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1870;45;;37316;752549.54;1167400.23;2013-12-03T00:00:00
+11716550;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77577;Spojovací;è.p.;1871;4;;37316;752394.54;1167305.38;2013-12-03T00:00:00
+11716568;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77577;Spojovací;è.p.;1872;2;;37316;752385.02;1167284.88;2013-12-03T00:00:00
+11716576;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1873;8;;37316;752161.21;1167434.20;2013-12-03T00:00:00
+11716584;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1875;20;;37316;752468.75;1167378.78;2013-12-03T00:00:00
+11716592;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;1876;9;;37316;752399.87;1167870.89;2013-12-03T00:00:00
+11716606;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1877;23;;37316;752329.68;1167036.59;2025-06-11T00:00:00
+11716614;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1880;44;;37316;752200.44;1167159.01;2013-12-03T00:00:00
+11716622;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1881;34;;37316;751547.64;1167079.84;2013-12-03T00:00:00
+11716631;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1883;7;;37316;751814.66;1167023.09;2013-12-03T00:00:00
+11716649;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1884;12;;37316;751805.37;1166989.75;2013-12-03T00:00:00
+11716657;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;1886;11;;37316;752528.93;1167020.02;2013-12-03T00:00:00
+11716665;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;1887;13;;37316;752521.91;1167003.98;2013-12-03T00:00:00
+11716673;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1889;8;;37316;751705.49;1167122.27;2013-12-03T00:00:00
+11716681;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1890;14;;37316;752430.11;1167013.92;2013-12-03T00:00:00
+11716690;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1891;4;;37316;751778.85;1166986.03;2013-12-03T00:00:00
+11716703;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1892;59;;37316;751806.63;1167214.54;2013-12-03T00:00:00
+11716711;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1893;57;;37316;751807.41;1167221.63;2013-12-03T00:00:00
+11716720;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1894;42;;37316;752214.36;1167148.42;2013-12-03T00:00:00
+11716738;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1896;68;;37316;751752.96;1167046.49;2013-12-03T00:00:00
+11716746;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1897;9;;37316;751823.45;1167022.34;2013-12-03T00:00:00
+11716754;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1898;41;;37316;751809.83;1167274.65;2013-12-03T00:00:00
+11716762;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1899;36;;37316;751650.10;1167128.38;2013-12-03T00:00:00
+11716771;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1901;26;;37316;751572.91;1167107.81;2013-12-03T00:00:00
+11716789;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1902;66;;37316;751752.54;1167055.38;2013-12-03T00:00:00
+11716797;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1903;72;;37316;751758.50;1167031.67;2021-02-02T00:00:00
+11716801;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1904;7;;37316;752491.30;1167142.11;2013-12-03T00:00:00
+11716819;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1905;34;;37316;752250.32;1167141.11;2013-12-03T00:00:00
+11716827;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77577;Spojovací;è.p.;1912;7;;37316;752402.43;1167385.30;2013-12-03T00:00:00
+11716835;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1913;11;;37316;751702.68;1167364.97;2013-12-03T00:00:00
+11716843;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1914;20;;37316;751601.80;1167124.94;2013-12-03T00:00:00
+11716851;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1915;12;;37316;751612.35;1167090.18;2013-12-03T00:00:00
+11716860;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;1916;15;;37316;752515.56;1166987.10;2013-12-03T00:00:00
+11716878;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;1919;17;;37316;752139.74;1167282.95;2013-12-03T00:00:00
+11716886;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1920;16;;37316;751597.17;1167225.67;2013-12-03T00:00:00
+11716894;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1921;5;;37316;751703.05;1167087.77;2013-12-03T00:00:00
+11716908;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1923;4;;37316;751692.34;1167445.89;2013-12-03T00:00:00
+11716916;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1924;6;;37316;751690.14;1167437.17;2013-12-03T00:00:00
+11716924;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;1925;4;;37316;752527.53;1167112.91;2013-12-03T00:00:00
+11716932;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1927;8;;37316;751792.27;1166988.17;2013-12-03T00:00:00
+11716941;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1929;14;;37316;751812.10;1166990.39;2013-12-03T00:00:00
+11716959;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1932;21;;37316;752336.66;1167050.10;2013-12-03T00:00:00
+11716967;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1933;4;;37316;751736.05;1167129.48;2013-12-03T00:00:00
+11716975;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1936;26;;37316;751553.14;1167237.40;2013-12-03T00:00:00
+11716983;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;1938;75;;37316;751799.27;1167068.46;2013-12-03T00:00:00
+11716991;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1939;24;;37316;751570.40;1167116.57;2013-12-03T00:00:00
+11717009;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;1940;11;;37316;751832.76;1167021.75;2013-12-03T00:00:00
+11717017;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1941;47;;37316;752559.95;1167398.33;2013-12-03T00:00:00
+11717025;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1944;42;;37316;751657.48;1167102.55;2013-12-03T00:00:00
+11717033;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1945;41;;37316;751703.11;1167068.37;2013-12-03T00:00:00
+11717041;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1947;7;a;37316;751744.75;1167348.37;2013-12-03T00:00:00
+11717050;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;1948;1;;37316;752387.74;1167219.90;2013-12-03T00:00:00
+11717068;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1951;14;;37316;751618.30;1167225.46;2013-12-03T00:00:00
+11717076;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77577;Spojovací;è.p.;1952;1;;37316;752357.94;1167300.01;2013-12-03T00:00:00
+11717084;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1953;28;;37316;751574.94;1167098.91;2013-12-03T00:00:00
+11717092;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;1956;5;;37316;752268.63;1167512.75;2013-12-03T00:00:00
+11717114;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1958;12;;37316;752446.60;1167009.67;2013-12-03T00:00:00
+11717122;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;1959;7;;37316;752537.76;1167052.63;2013-12-03T00:00:00
+11717131;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1962;3;;37316;752479.19;1167059.01;2013-12-03T00:00:00
+11717149;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1964;38;;37316;751652.27;1167119.70;2013-12-03T00:00:00
+11717157;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77577;Spojovací;è.p.;1965;5;;37316;752384.52;1167348.52;2023-06-12T00:00:00
+11717165;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1968;32;;37316;751580.38;1167080.95;2013-12-03T00:00:00
+11717173;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1969;16;;37316;751606.89;1167107.82;2013-12-03T00:00:00
+11717181;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;1970;15;;37316;752126.94;1166997.38;2013-12-03T00:00:00
+11717190;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77674;Vrbová;è.p.;1971;18;;37316;752567.42;1167208.63;2013-12-03T00:00:00
+11717203;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1972;14;;37316;751609.55;1167098.75;2013-12-03T00:00:00
+11717211;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1973;13;;37316;751927.36;1167920.60;2013-12-03T00:00:00
+11717220;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;1974;20;;37316;751579.37;1167230.73;2013-12-03T00:00:00
+11717238;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1975;3;;37316;752538.07;1167135.67;2013-12-03T00:00:00
+11717246;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;1976;17;;37316;752421.32;1167074.56;2013-12-03T00:00:00
+11717254;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;1977;11;;37316;752177.33;1167383.94;2013-12-03T00:00:00
+11717262;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1979;18;;37316;751604.48;1167116.32;2013-12-03T00:00:00
+11717271;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1980;49;;37316;751716.22;1167031.05;2013-12-03T00:00:00
+11717289;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1981;20;;37316;751961.39;1167949.39;2013-12-03T00:00:00
+11717297;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;1982;22;;37316;751945.33;1167966.74;2013-12-03T00:00:00
+11717301;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1983;45;;37316;751709.32;1167049.74;2013-12-03T00:00:00
+11717319;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77674;Vrbová;è.p.;1985;6;;37316;752448.36;1167277.02;2013-12-03T00:00:00
+11717327;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;1986;16;;37316;752545.97;1167329.97;2013-12-03T00:00:00
+11717335;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;1987;3;;37316;751730.70;1167086.08;2013-12-03T00:00:00
+11717343;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;1988;43;;37316;751706.10;1167059.02;2013-12-03T00:00:00
+11717351;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1989;17;;37316;751958.38;1167312.42;2013-12-03T00:00:00
+11717360;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77577;Spojovací;è.p.;1990;6;;37316;752418.15;1167346.98;2013-12-03T00:00:00
+11717378;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;1994;7;;37316;752011.76;1167635.79;2013-12-03T00:00:00
+11717386;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77674;Vrbová;è.p.;1997;14;;37316;752532.62;1167232.25;2013-12-03T00:00:00
+11717394;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;1998;10;;37316;752505.38;1167201.49;2013-12-03T00:00:00
+11717408;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;2000;8;;37316;752197.65;1167335.25;2013-12-03T00:00:00
+11717416;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2001;8;;37316;752556.48;1167423.88;2013-12-03T00:00:00
+11717424;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2002;8;;37316;752461.74;1167326.89;2013-12-03T00:00:00
+11717432;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2003;60;;37316;751764.74;1167150.81;2013-12-03T00:00:00
+11717441;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;2004;39;;37316;751675.80;1167131.35;2013-12-03T00:00:00
+11717459;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77674;Vrbová;è.p.;2005;8;;37316;752467.85;1167266.90;2013-12-03T00:00:00
+11717467;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;2006;10;;37316;751690.16;1167119.19;2013-12-03T00:00:00
+11717475;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77674;Vrbová;è.p.;2007;12;;37316;752512.44;1167246.30;2013-12-03T00:00:00
+11717483;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;2008;40;;37316;751654.59;1167111.29;2013-12-03T00:00:00
+11717491;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;2011;47;;37316;751712.81;1167040.59;2013-12-03T00:00:00
+11717505;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;2012;5;;37316;752055.31;1167617.15;2013-12-03T00:00:00
+11717513;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2013;6;;37316;752543.03;1167180.82;2013-12-03T00:00:00
+11717521;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;2015;24;;37316;751561.86;1167235.12;2013-12-03T00:00:00
+11717530;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2016;73;;37316;751808.99;1167088.90;2023-03-29T00:00:00
+11717548;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;2018;22;;37316;751620.88;1167511.16;2013-12-03T00:00:00
+11717556;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;2019;7;a;37316;752026.71;1167628.45;2013-12-03T00:00:00
+11717564;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;2021;18;;37316;751588.31;1167227.94;2013-12-03T00:00:00
+11717572;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2024;77;;37316;751784.65;1167027.84;2013-12-03T00:00:00
+11717581;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77607;Støíbrná;è.p.;2025;10;;37316;752089.35;1167866.27;2013-12-03T00:00:00
+11717599;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2026;1;;37316;751817.25;1167714.37;2013-12-03T00:00:00
+11717602;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2027;13;a;37316;752145.67;1166994.11;2013-12-03T00:00:00
+11717611;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;2029;28;;37316;751544.64;1167239.45;2013-12-03T00:00:00
+11717629;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;2031;41;;37316;752519.04;1167402.44;2013-12-03T00:00:00
+11717637;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;2034;2;;37316;751730.97;1167221.62;2013-12-03T00:00:00
+11717645;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;2035;36;;37316;752240.78;1167142.85;2013-12-03T00:00:00
+11717653;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;2036;9;;37316;751704.64;1167373.52;2013-12-03T00:00:00
+11717661;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2038;7;;37316;751818.25;1167910.30;2013-12-03T00:00:00
+11717670;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;2039;2;;37316;751772.61;1166986.04;2013-12-03T00:00:00
+11717696;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77658;U Lomu;è.p.;2041;5;;37316;751917.86;1167891.14;2013-12-03T00:00:00
+11717700;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;2042;11;;37316;751574.51;1167470.62;2013-12-03T00:00:00
+11717718;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;2048;6;;37316;752163.44;1167454.60;2013-12-03T00:00:00
+11717726;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;2049;10;;37316;751748.04;1167527.25;2013-12-03T00:00:00
+11717734;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2052;1;;37316;752567.60;1167299.44;2013-12-03T00:00:00
+11717742;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2057;24;;37316;751959.40;1168004.29;2013-12-03T00:00:00
+11717751;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2058;12;;37316;752020.11;1167871.66;2013-12-03T00:00:00
+11717769;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2059;3;;37316;752562.07;1167294.14;2013-12-03T00:00:00
+11717777;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2060;11;;37316;752556.15;1167262.54;2013-12-03T00:00:00
+11717785;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2061;9;;37316;752557.60;1167270.81;2013-12-03T00:00:00
+11717793;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;2063;1;a;37316;752563.88;1167120.41;2013-12-03T00:00:00
+11717807;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2065;13;;37316;752529.77;1167279.76;2013-12-03T00:00:00
+11717815;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2068;12;;37316;752504.76;1167309.52;2013-12-03T00:00:00
+11717823;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2069;38;;37316;752605.50;1167192.12;2013-12-03T00:00:00
+11717831;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2071;17;;37316;752028.73;1167905.01;2013-12-03T00:00:00
+11717840;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;2200;40;;37316;751500.95;1167067.74;2013-12-03T00:00:00
+11717858;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2201;14;;37316;752526.89;1167333.39;2018-11-20T00:00:00
+11717866;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2202;7;;37316;751957.35;1167853.95;2013-12-03T00:00:00
+11717874;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2203;44;;37316;751771.08;1167267.47;2013-12-03T00:00:00
+11717882;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2204;44;a;37316;751770.77;1167261.04;2013-12-03T00:00:00
+11717891;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;2205;5;a;37316;752083.59;1167599.42;2013-12-03T00:00:00
+11717904;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;2206;5;;37316;752545.62;1167067.91;2013-12-03T00:00:00
+11717912;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;2207;23;a;37316;751540.53;1167138.11;2013-12-03T00:00:00
+11717921;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2208;1;c;37006;752712.23;1167824.66;2019-10-16T00:00:00
+11717939;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2209;6;;37316;752298.78;1167666.74;2013-12-03T00:00:00
+11717947;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2210;4;;37316;752037.49;1167384.41;2013-12-03T00:00:00
+11717955;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2211;5;;37316;752560.75;1167286.73;2013-12-03T00:00:00
+11717963;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2212;6;;37316;752041.03;1167350.37;2013-12-03T00:00:00
+11717971;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2213;9;;37316;752038.49;1167316.02;2013-12-03T00:00:00
+11717980;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2214;15;;37316;752046.30;1167282.64;2013-12-03T00:00:00
+11717998;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2215;7;;37316;752028.25;1167344.25;2013-12-03T00:00:00
+11718005;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2216;32;;37316;752343.26;1167313.20;2013-12-03T00:00:00
+11718013;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2218;5;;37316;752051.16;1167348.73;2013-12-03T00:00:00
+11718021;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2219;8;;37316;752028.18;1167335.29;2013-12-03T00:00:00
+11718030;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2220;8;;37316;751814.36;1167857.73;2013-12-03T00:00:00
+11718048;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2221;5;a;37316;752117.19;1167764.74;2013-12-03T00:00:00
+11718056;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2223;10;;37316;752038.86;1167282.94;2013-12-03T00:00:00
+11718064;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2225;42;;37316;751770.91;1167286.11;2013-12-03T00:00:00
+11718072;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2226;11;;37316;752020.29;1167277.08;2013-12-03T00:00:00
+11718081;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2228;40;a;37316;751734.92;1167312.16;2013-12-03T00:00:00
+11718099;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;2229;10;;37316;751924.94;1167376.01;2013-12-03T00:00:00
+11718102;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2230;2;;37316;752053.30;1167379.26;2013-12-03T00:00:00
+11718111;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2231;5;;37316;752025.21;1167837.79;2013-12-03T00:00:00
+11718129;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2232;13;;37316;751914.95;1167964.21;2013-12-03T00:00:00
+11718137;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.p.;2233;2;;37316;751970.58;1167638.64;2013-12-03T00:00:00
+11718145;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;2234;7;;37316;752418.31;1167875.35;2013-12-03T00:00:00
+11718153;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;2235;2;;37316;751986.78;1167619.66;2013-12-03T00:00:00
+11718161;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;2236;3;;37316;752551.48;1167083.74;2013-12-03T00:00:00
+11718170;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2237;11;;37316;751896.94;1167968.17;2013-12-03T00:00:00
+11718188;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2238;30;;37316;752071.31;1168043.81;2013-12-03T00:00:00
+11718196;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77607;Støíbrná;è.p.;2239;7;;37316;752086.59;1167913.07;2013-12-03T00:00:00
+11718200;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2240;4;;37316;752432.38;1167339.20;2013-12-03T00:00:00
+25124722;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2248;1;;37316;752059.35;1167370.26;2025-08-21T00:00:00
+25133969;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2224;1;b;37006;752727.80;1167816.97;2013-12-03T00:00:00
+25139291;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77607;Støíbrná;è.p.;2249;17;;37316;752141.09;1167846.22;2013-12-03T00:00:00
+25139304;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2241;7;;37316;752559.57;1167278.09;2013-12-03T00:00:00
+25139312;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2250;10;a;37316;752490.48;1167314.86;2013-12-03T00:00:00
+25139321;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;2247;4;;37316;752447.80;1167933.69;2013-12-03T00:00:00
+25139339;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2246;17;;37316;751916.39;1168021.25;2013-12-03T00:00:00
+25139347;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;2245;2;;37316;752501.59;1167963.20;2013-12-03T00:00:00
+25139355;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2242;3;;37316;752045.43;1167387.84;2020-02-27T00:00:00
+25139363;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2227;13;;37316;752017.37;1167297.85;2013-12-03T00:00:00
+25326228;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77526;Pod Lesem;è.p.;2254;12;;37316;752148.10;1167262.84;2013-12-03T00:00:00
+25495739;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;2256;25;;37316;752019.71;1167376.35;2013-12-03T00:00:00
+25736345;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2267;11;;37316;752227.81;1168030.57;2013-12-03T00:00:00
+25846680;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2271;19;;37316;752101.59;1167942.73;2013-12-03T00:00:00
+25952455;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;2278;1;;37316;752617.38;1167948.06;2013-12-03T00:00:00
+25960334;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2279;21;;37316;752171.00;1167917.90;2023-06-29T00:00:00
+25966294;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2263;29;;37316;751815.91;1167408.64;2013-12-03T00:00:00
+26134756;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77607;Støíbrná;è.p.;2261;15;;37316;752144.15;1167870.80;2013-12-03T00:00:00
+26152380;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2277;12;;37316;752020.14;1167311.46;2013-12-03T00:00:00
+26193311;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2273;38;;37316;751780.53;1167340.09;2013-12-03T00:00:00
+26193329;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2288;9;;37316;751859.15;1167949.27;2019-09-11T00:00:00
+26263602;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;2285;23;a;37316;751684.53;1167277.37;2013-12-03T00:00:00
+26309360;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2268;13;;37316;752223.59;1168011.68;2013-12-03T00:00:00
+26309378;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2294;5;;37316;752488.08;1167479.91;2013-12-03T00:00:00
+26309386;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2297;7;;37316;752516.78;1167467.90;2013-12-03T00:00:00
+26350131;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;1;;;37316;751980.85;1166800.53;2013-12-03T00:00:00
+26356007;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;2;;;37316;752029.25;1167078.09;2019-09-12T00:00:00
+26356015;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;4;;;37316;752052.94;1166845.67;2013-12-03T00:00:00
+26356023;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2280;9;;37316;752554.74;1167460.69;2013-12-03T00:00:00
+26356031;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;2281;21;a;37316;752095.68;1167309.83;2013-12-03T00:00:00
+26356040;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2282;1;;37316;752432.82;1167489.27;2013-12-03T00:00:00
+26356058;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2283;120;;37006;752597.81;1167929.64;2013-12-03T00:00:00
+26356066;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77453;Mládežnická;è.p.;2284;13;a;37316;752377.28;1167124.43;2013-12-03T00:00:00
+26356074;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2286;3;;37316;752455.51;1167476.82;2013-12-03T00:00:00
+26356082;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2287;66;;37316;751825.93;1167784.24;2013-12-03T00:00:00
+26356091;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;2289;28;;37316;751558.51;1167501.86;2013-12-03T00:00:00
+26356104;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2290;27;;37316;751816.92;1167434.79;2013-12-03T00:00:00
+26356112;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77577;Spojovací;è.p.;2291;8;;37316;752431.70;1167377.35;2013-12-03T00:00:00
+26356121;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.p.;2292;10;;37316;751910.88;1167658.01;2013-12-03T00:00:00
+26492156;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2295;45;a;37316;752262.90;1167997.49;2013-12-03T00:00:00
+26499851;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.ev.;6;;;37316;751945.90;1167666.43;2013-12-03T00:00:00
+26502577;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2293;2;b;37316;751771.06;1167682.92;2013-12-03T00:00:00
+26524562;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;2299;9;;37316;751621.51;1167470.29;2013-12-03T00:00:00
+26531160;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2296;34;;37316;752018.23;1167964.58;2013-12-03T00:00:00
+26535416;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2298;108;;37006;752745.94;1167842.59;2013-12-03T00:00:00
+26560950;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2300;14;;37316;751884.07;1167918.42;2013-12-03T00:00:00
+26618770;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;2302;24;;37316;752135.15;1167337.57;2013-12-03T00:00:00
+26638231;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2264;7;;37316;752228.36;1168055.85;2013-12-03T00:00:00
+26644461;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2303;14;;37316;752180.65;1168008.07;2013-12-03T00:00:00
+26810760;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77518;Olšová;è.p.;2217;6;;37316;752446.65;1167334.39;2013-12-03T00:00:00
+26810778;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2251;15;;37316;751916.48;1167997.91;2013-12-03T00:00:00
+26810786;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;2255;39;;37316;752503.43;1167403.96;2013-12-03T00:00:00
+26810794;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77607;Støíbrná;è.p.;2257;1;;37316;752050.43;1167940.65;2013-12-03T00:00:00
+26810808;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;2258;6;;37316;752400.63;1167920.28;2013-12-03T00:00:00
+26810816;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2259;19;;37316;751920.88;1168050.22;2013-12-03T00:00:00
+26810824;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2260;21;;37316;752076.75;1167972.39;2013-12-03T00:00:00
+26810832;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2274;61;;37316;752283.78;1168099.72;2013-12-03T00:00:00
+26810841;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2275;5;;37316;752227.80;1168062.31;2013-12-03T00:00:00
+26810859;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2276;63;;37316;752278.13;1168102.81;2013-12-03T00:00:00
+27235289;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2438;77;;37316;751729.19;1167781.45;2013-12-03T00:00:00
+27285669;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77631;U Haldy;è.p.;2307;6;;37316;751785.58;1166986.64;2013-12-03T00:00:00
+27285928;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2308;73;a;37316;751849.33;1167750.02;2013-12-03T00:00:00
+27320871;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2309;112;;37006;752676.16;1167879.90;2013-12-03T00:00:00
+27405397;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2317;27;a;37316;751817.20;1167426.50;2013-12-03T00:00:00
+27405401;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2310;39;b;37316;751851.65;1167304.11;2013-12-03T00:00:00
+27417140;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2319;36;;37316;752041.93;1167976.59;2025-06-11T00:00:00
+27417158;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2318;32;;37316;752019.45;1167942.41;2013-12-03T00:00:00
+27417255;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;788031;Na Palouèku;è.p.;2311;1;;37316;752074.33;1166959.40;2013-12-03T00:00:00
+27417263;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;788031;Na Palouèku;è.p.;2312;2;;37316;752041.04;1166962.22;2013-12-03T00:00:00
+27417271;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;788031;Na Palouèku;è.p.;2313;3;;37316;752073.21;1166953.29;2013-12-03T00:00:00
+27417280;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;788031;Na Palouèku;è.p.;2315;5;;37316;752070.55;1166948.06;2013-12-03T00:00:00
+27417298;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;788031;Na Palouèku;è.p.;2316;6;;37316;752038.11;1166950.07;2013-12-03T00:00:00
+27426963;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2320;39;a;37316;751840.13;1167305.91;2013-12-03T00:00:00
+27464733;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;788031;Na Palouèku;è.p.;2314;4;;37316;752038.47;1166956.26;2013-12-03T00:00:00
+27464741;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2324;117;;37006;752687.84;1167819.79;2013-12-03T00:00:00
+27464750;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77658;U Lomu;è.p.;2325;1;a;37316;751867.22;1167815.16;2013-12-03T00:00:00
+27487521;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2323;42;b;37316;752293.97;1167404.51;2013-12-03T00:00:00
+27495311;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2321;42;;37316;752275.88;1167391.30;2013-12-03T00:00:00
+27495329;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2322;42;a;37316;752255.35;1167441.55;2013-12-03T00:00:00
+27599515;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;780685;Pod Farou;è.p.;2326;4;;37316;752118.59;1167465.57;2013-12-03T00:00:00
+27599523;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2327;11;;37316;752454.23;1167176.50;2013-12-03T00:00:00
+27640027;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2328;11;;37316;752581.61;1167461.05;2013-12-03T00:00:00
+27651894;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2329;56;;37316;752141.07;1167659.60;2013-12-03T00:00:00
+27664961;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2330;13;;37316;752603.60;1167454.37;2013-12-03T00:00:00
+27688640;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77402;Gregorák;è.p.;2331;14;;37316;752009.99;1167276.73;2013-12-03T00:00:00
+27738086;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2332;116;;37006;752642.30;1167898.74;2013-12-03T00:00:00
+27769445;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2385;20;;37316;752159.90;1167935.41;2015-07-14T00:00:00
+27820611;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2334;21;;37316;751922.63;1168069.60;2013-12-03T00:00:00
+27820629;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2333;23;;37316;751923.50;1168092.45;2013-12-03T00:00:00
+27820700;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;2335;42;;37316;751485.26;1167060.84;2013-12-03T00:00:00
+27852041;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2336;18;;37316;752154.91;1167965.78;2013-12-03T00:00:00
+27863174;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;2076;10;a;37316;751688.48;1167414.35;2013-12-03T00:00:00
+27933253;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2337;1;a;37316;751813.95;1167692.13;2013-12-03T00:00:00
+27940748;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2339;44;;37316;751942.93;1166778.53;2013-12-03T00:00:00
+27940756;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2338;40;;37316;751963.56;1166774.33;2013-12-03T00:00:00
+27948196;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2340;114;;37006;752657.00;1167891.00;2013-12-03T00:00:00
+27991636;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2341;1;b;37316;751826.25;1167671.24;2013-12-03T00:00:00
+28026411;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77615;Trávní;è.p.;2342;35;a;37316;752251.98;1167077.42;2013-12-03T00:00:00
+28047087;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77607;Støíbrná;è.p.;2343;8;;37316;752076.00;1167879.00;2013-12-03T00:00:00
+28086805;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2344;25;;37316;751925.00;1168116.00;2013-12-03T00:00:00
+28111338;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2262;118;;37006;752614.06;1167923.67;2013-12-03T00:00:00
+28175697;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2345;31;;37316;751811.64;1167389.00;2014-03-25T00:00:00
+28221796;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;780685;Pod Farou;è.p.;2301;2;;37316;752116.30;1167450.00;2013-12-03T00:00:00
+28271513;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.ev.;11;;;37316;751963.73;1168220.49;2013-12-03T00:00:00
+28288092;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2265;4;c;37316;752015.26;1167844.23;2013-12-03T00:00:00
+28288106;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2306;23;;37316;752164.84;1167891.27;2013-12-03T00:00:00
+28288114;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2243;46;a;37316;752233.30;1167458.25;2013-12-03T00:00:00
+28295102;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2347;26;;37316;751978.01;1168087.76;2013-12-03T00:00:00
+28295111;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77640;U Køížku;è.p.;2346;2;;37316;752490.20;1167429.55;2013-12-03T00:00:00
+28303059;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2349;37;;37316;751811.69;1167322.50;2013-12-03T00:00:00
+28303075;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;2348;31;;37316;751993.67;1167352.81;2013-12-03T00:00:00
+28318668;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2305;3;;37316;752389.06;1166975.26;2013-12-03T00:00:00
+28340965;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.ev.;23;;;37316;751946.42;1168179.26;2014-03-26T00:00:00
+28491955;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;3;;;37316;752024.07;1167040.97;2019-09-12T00:00:00
+30201349;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;780685;Pod Farou;è.p.;1751;6;;37316;752122.89;1167480.07;2013-12-03T00:00:00
+30201357;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;1957;1;a;37006;752750.75;1167803.91;2017-07-17T00:00:00
+30558425;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2244;10;a;37316;751996.02;1167871.37;2017-07-17T00:00:00
+30704006;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2252;4;a;37316;752024.99;1167806.38;2017-07-17T00:00:00
+30704014;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;2253;50;;37316;751433.61;1167028.42;2013-12-03T00:00:00
+30704022;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2266;9;;37316;752228.31;1168037.26;2013-12-03T00:00:00
+30704031;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2269;15;;37316;752221.23;1168005.68;2013-12-03T00:00:00
+30704049;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.p.;2272;1;;37316;751977.48;1167603.54;2013-12-03T00:00:00
+30704057;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;2304;12;a;37316;752154.31;1167409.90;2017-07-17T00:00:00
+30704065;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.ev.;5;;;37316;752105.29;1168141.92;2014-03-26T00:00:00
+31199313;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2270;16;;37316;751886.47;1167935.47;2017-10-23T00:00:00
+40012034;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;1395;;;37316;751988.20;1167509.15;2015-04-20T00:00:00
+40436934;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2353;59;a;37316;752023.33;1167700.14;2017-07-17T00:00:00
+40669947;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.p.;2355;;;37316;751935.16;1167643.63;2013-12-03T00:00:00
+40670376;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;2350;3;;37316;752516.29;1167899.32;2013-12-03T00:00:00
+40670708;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2352;2;a;37316;751751.52;1167731.03;2017-07-17T00:00:00
+40670830;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;2354;7;;37316;751639.45;1167474.85;2013-12-03T00:00:00
+41207891;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2357;111;;37006;752767.12;1167786.35;2013-12-03T00:00:00
+41268717;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2358;2;;37316;752227.98;1168146.62;2014-03-25T00:00:00
+41269845;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2359;22;;37316;752416.44;1167671.15;2014-09-25T00:00:00
+41365526;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;10;;;37316;752014.70;1166908.34;2013-12-03T00:00:00
+41367928;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2360;20;;37316;752433.33;1167691.67;2014-09-25T00:00:00
+41506898;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2363;21;;37316;752434.07;1167657.28;2014-09-25T00:00:00
+41511310;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2366;1;;37316;752246.77;1168125.48;2014-03-25T00:00:00
+41582616;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2367;6;;37316;752549.20;1167833.55;2014-09-25T00:00:00
+41637631;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2365;17;;37316;752466.54;1167696.72;2023-05-31T00:00:00
+41642767;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2368;16;;37316;752470.87;1167735.88;2014-09-25T00:00:00
+41772156;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2369;64;;37316;752337.22;1167937.99;2014-03-25T00:00:00
+41787145;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;780685;Pod Farou;è.p.;2364;1;;37316;752105.29;1167401.22;2014-03-21T00:00:00
+41913400;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2362;28;;37316;751984.24;1168138.82;2014-03-25T00:00:00
+42028655;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;780685;Pod Farou;è.p.;2370;1;a;37316;752099.64;1167380.51;2017-07-17T00:00:00
+42199280;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2371;23;;37316;752414.53;1167638.50;2014-09-25T00:00:00
+42366151;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2372;24;;37316;752397.32;1167651.59;2014-09-25T00:00:00
+42366186;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2361;22;;37316;751971.25;1168029.02;2013-12-03T00:00:00
+42412901;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2373;12;;37316;752513.51;1167786.56;2014-09-25T00:00:00
+42822297;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2374;11;a;37316;752144.17;1167794.25;2017-07-17T00:00:00
+70841802;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77534;Pomezní;è.p.;2376;6;a;37316;751635.54;1167436.95;2017-07-17T00:00:00
+70860289;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2375;13;a;37316;752160.80;1167801.11;2017-07-17T00:00:00
+72104996;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2377;5;;37316;752581.14;1167835.73;2014-09-25T00:00:00
+72359552;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2378;18;;37316;752448.43;1167709.64;2014-09-25T00:00:00
+72359765;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2379;70;;37316;752341.08;1168009.07;2014-03-13T00:00:00
+72463627;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;2356;1;;37316;751734.04;1167488.35;2014-03-26T00:00:00
+72641436;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2381;28;;37316;752364.47;1167590.27;2014-09-25T00:00:00
+72642653;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2380;15;;37316;752489.96;1167723.65;2014-09-25T00:00:00
+72667338;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2382;8;;37316;752532.14;1167803.48;2014-09-25T00:00:00
+72797011;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77496;Na Stráni;è.ev.;8;;;37316;751934.93;1167683.92;2014-06-16T00:00:00
+73038814;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77437;Lázeòská;è.p.;2383;63;;37316;752035.64;1167684.58;2014-09-09T00:00:00
+73338630;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2384;60;;37316;752324.47;1167893.57;2015-04-21T00:00:00
+73372137;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2386;23;a;37316;752182.05;1167855.47;2017-07-17T00:00:00
+73454354;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;12;;;37316;751998.31;1166791.65;2015-02-24T00:00:00
+73495859;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;1001639;Krátká;è.p.;2387;1;;37316;751767.18;1167709.65;2016-03-16T00:00:00
+73710679;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2389;11;;37316;752525.90;1167749.24;2015-05-25T00:00:00
+73711187;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2390;19;;37316;752447.61;1167674.45;2015-05-25T00:00:00
+73711241;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2388;19;;37316;751920.47;1167157.04;2015-09-14T00:00:00
+73818976;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2391;3;;37316;752589.86;1167850.14;2015-06-26T00:00:00
+73818992;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2392;10;;37316;752196.47;1168058.45;2015-06-26T00:00:00
+73819018;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2393;38;;37316;751998.78;1166743.30;2015-06-26T00:00:00
+73861430;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77488;Na Lukách;è.p.;2351;2;;37316;752580.56;1167073.58;2015-07-13T00:00:00
+73958824;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;2394;13;a;37316;752036.13;1167563.68;2017-07-17T00:00:00
+74179446;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;2395;33;;37316;751365.29;1166989.33;2015-10-26T00:00:00
+74492799;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2397;62;;37316;752327.86;1167914.05;2016-01-22T00:00:00
+74492896;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77399;Borová;è.p.;2396;21;;37316;751590.85;1167146.31;2016-01-22T00:00:00
+74542265;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2398;29;;37316;752357.92;1167572.55;2016-02-05T00:00:00
+74661353;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.p.;2399;30;;37316;751966.12;1168155.90;2016-03-04T00:00:00
+74842358;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2400;24;;37316;752134.32;1167914.18;2016-04-05T00:00:00
+75114895;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2401;26;;37316;752380.35;1167636.13;2016-06-17T00:00:00
+75243938;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;2402;40;a;37316;752573.30;1167342.60;2016-08-02T00:00:00
+75243954;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77542;Potoèní;è.p.;2402;40;b;37316;752566.29;1167345.38;2016-08-02T00:00:00
+75245485;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;2403;3;a;37316;752497.07;1167876.96;2016-08-03T00:00:00
+75573300;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.ev.;13;;;37316;752063.12;1168180.61;2016-12-02T00:00:00
+75608669;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2404;9;;37316;752217.66;1167004.85;2016-12-08T00:00:00
+75638011;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77666;U Rybníka;è.p.;2406;3;b;37316;752674.89;1167976.39;2017-02-24T00:00:00
+75639939;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77623;U Domova dùchodcù;è.p.;2405;21;;37316;752085.81;1167280.67;2016-12-13T00:00:00
+75682095;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77607;Støíbrná;è.ev.;40;;;37316;752095.34;1167829.37;2016-12-28T00:00:00
+75867443;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.ev.;22;;;37316;752152.62;1167921.12;2017-02-24T00:00:00
+76098605;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;1790471;Sluneèná;è.p.;2407;4;;37316;751587.46;1167373.20;2017-04-21T00:00:00
+77667204;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.ev.;7;;;37316;752013.98;1168228.74;2017-09-25T00:00:00
+77695861;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.ev.;9;;;37316;752033.47;1168131.13;2017-10-05T00:00:00
+77783263;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77593;Stará cesta;è.p.;2408;3;;37006;752653.22;1167863.38;2017-11-10T00:00:00
+77867998;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;2182971;Školní;è.p.;2409;1;;37316;752471.51;1167890.68;2017-12-14T00:00:00
+77912136;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2410;10;;37316;752534.83;1167773.49;2018-01-16T00:00:00
+77982975;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2411;9;;37316;752553.28;1167789.45;2018-02-02T00:00:00
+78062934;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;1790471;Sluneèná;è.p.;2412;1;;37316;751631.24;1167402.20;2018-03-05T00:00:00
+78197937;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;1790471;Sluneèná;è.p.;2413;5;;37316;751600.15;1167406.50;2018-04-12T00:00:00
+78483999;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;14;;;37316;752060.46;1166887.67;2019-12-18T00:00:00
+78741688;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2414;39;c;37316;751853.37;1167348.24;2018-10-10T00:00:00
+78881889;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2415;7;;37316;752565.48;1167814.27;2018-11-21T00:00:00
+79123171;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;2417;10;;37316;751690.80;1167212.84;2021-08-20T00:00:00
+79224652;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2416;4;;37316;752559.62;1167857.25;2020-01-27T00:00:00
+79893619;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2418;7;;37316;752172.79;1166939.64;2019-09-18T00:00:00
+80270760;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2419;72;;37316;752346.88;1168041.23;2020-01-27T00:00:00
+80428321;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;1001639;Krátká;è.p.;2420;4;;37316;751732.01;1167674.47;2020-02-27T00:00:00
+80428509;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2421;42;;37316;752018.65;1166727.49;2020-02-27T00:00:00
+80705499;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;722197;Zlatá;è.p.;2422;3;;37316;752225.41;1168101.80;2020-05-29T00:00:00
+80903665;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77500;Na Vyhlídce;è.p.;2423;68;;37316;752344.46;1167981.19;2020-07-02T00:00:00
+81079991;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;1790471;Sluneèná;è.p.;2424;9;;37316;751567.38;1167403.60;2020-08-21T00:00:00
+81500998;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2425;27;;37316;752381.68;1167599.78;2021-02-12T00:00:00
+81643144;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;1790471;Sluneèná;è.p.;2426;7;;37316;751585.02;1167400.05;2021-07-21T00:00:00
+81716052;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;1790471;Sluneèná;è.p.;2427;6;;37316;751569.78;1167364.56;2023-02-21T00:00:00
+81785755;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;2428;15;;37316;752158.30;1167345.89;2021-05-07T00:00:00
+82072060;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2429;19;a;37316;752050.27;1167116.90;2021-09-23T00:00:00
+82257787;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.ev.;15;;;37316;752048.55;1168195.69;2021-11-11T00:00:00
+82598649;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77551;Požárníkù;è.p.;2430;12;a;37316;751708.20;1167534.27;2022-02-01T00:00:00
+82711038;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77461;Na Barborce;è.p.;2432;1;a;37316;751961.10;1167783.23;2022-03-04T00:00:00
+82713677;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;2182971;Školní;è.p.;2431;5;;37316;752393.92;1167815.70;2022-03-04T00:00:00
+82738467;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77607;Støíbrná;è.p.;2433;4;;37316;752043.08;1167897.69;2022-03-16T00:00:00
+83047433;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;16;;;37316;752031.59;1166862.88;2022-06-16T00:00:00
+84267089;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;17;;;37316;752012.54;1166784.18;2023-02-21T00:00:00
+84656417;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;2435;29;;37316;751411.71;1167051.28;2023-01-09T00:00:00
+84689641;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77411;Hornická;è.p.;2434;28;a;37316;751762.67;1167438.18;2023-01-18T00:00:00
+84882221;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77682;Zacharova;è.p.;2436;12;a;37316;751912.47;1167347.66;2023-01-18T00:00:00
+84946512;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;2978962;Javorová;è.p.;2437;1;;37316;751536.05;1167278.77;2023-02-08T00:00:00
+84972998;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2439;2;;37316;752580.02;1167882.32;2023-02-21T00:00:00
+85091847;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77429;K Lusnému;è.p.;2440;30;;37316;751532.63;1167245.22;2023-04-06T00:00:00
+85361551;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77445;Mírová;è.p.;2441;4;a;37316;752165.79;1167479.66;2023-07-27T00:00:00
+85854557;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77585;Srubecká;è.ev.;18;;;37316;752059.49;1168212.58;2024-01-22T00:00:00
+86205706;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;831492;Nová cesta;è.p.;2442;13;;37316;752504.68;1167734.06;2024-05-23T00:00:00
+86337572;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;19;;;37316;752033.38;1166880.13;2024-07-08T00:00:00
+86595865;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.ev.;20;;;37316;752042.17;1166891.86;2024-11-05T00:00:00
+87073072;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77607;Støíbrná;è.p.;2443;3;;37316;752059.60;1167933.12;2025-10-10T00:00:00
+87241838;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;2978962;Javorová;è.p.;2444;4;;37316;751572.30;1167332.09;2025-08-21T00:00:00
+87633302;535206;Dobrá Voda u Èeských Budìjovic;;;;;22322;Dobrá Voda u Èeských Budìjovic;77569;Sadová;è.p.;2445;25;;37316;752338.94;1166996.86;2026-02-16T00:00:00

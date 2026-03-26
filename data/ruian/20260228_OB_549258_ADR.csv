@@ -1,0 +1,790 @@
+KÛd ADM;KÛd obce;N·zev obce;KÛd MOMC;N·zev MOMC;KÛd obvodu Prahy;N·zev obvodu Prahy;KÛd Ë·sti obce;N·zev Ë·sti obce;KÛd ulice;N·zev ulice;Typ SO;»Ìslo domovnÌ;»Ìslo orientaËnÌ;Znak ËÌsla orientaËnÌho;PS»;Sou¯adnice Y;Sou¯adnice X;PlatÌ Od
+289523;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;1;;;39816;764035.06;1133911.00;2013-12-05T00:00:00
+289531;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;2;;;39816;764008.06;1133870.13;2013-12-05T00:00:00
+289540;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;3;;;39816;764043.13;1133813.38;2013-12-05T00:00:00
+289558;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;4;;;39816;764013.25;1133783.25;2013-12-05T00:00:00
+289566;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;5;;;39816;764100.69;1133760.00;2013-12-05T00:00:00
+289574;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;6;;;39816;763996.44;1133721.00;2013-12-05T00:00:00
+289582;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;7;;;39816;763973.63;1133695.75;2013-12-05T00:00:00
+289591;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;8;;;39816;763971.06;1133667.50;2013-12-05T00:00:00
+289604;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;9;;;39816;764014.88;1133667.63;2013-12-05T00:00:00
+289612;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;10;;;39816;764004.56;1133578.38;2013-12-05T00:00:00
+289621;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;11;;;39816;763970.69;1133554.38;2013-12-05T00:00:00
+289639;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;12;;;39816;763900.32;1133551.35;2013-12-05T00:00:00
+289647;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;13;;;39816;763804.63;1133534.63;2013-12-05T00:00:00
+289655;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;14;;;39816;763757.38;1133545.38;2013-12-05T00:00:00
+289663;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;15;;;39816;763711.00;1133533.00;2013-12-05T00:00:00
+289671;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;16;;;39816;763598.31;1133448.63;2013-12-05T00:00:00
+289680;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;17;;;39816;763560.58;1133431.65;2019-03-06T00:00:00
+289698;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;18;;;39816;763537.88;1133488.00;2013-12-05T00:00:00
+289701;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;19;;;39816;763545.94;1133553.00;2013-12-05T00:00:00
+289710;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;20;;;39816;763584.88;1133561.00;2013-12-05T00:00:00
+289728;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;21;;;39816;763699.50;1133583.38;2013-12-05T00:00:00
+289736;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;22;;;39816;763707.06;1133692.25;2013-12-05T00:00:00
+289744;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;23;;;39816;763723.63;1133614.13;2013-12-05T00:00:00
+289752;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;24;;;39816;763769.13;1133722.25;2013-12-05T00:00:00
+289761;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;25;;;39816;763749.50;1133595.88;2013-12-05T00:00:00
+289779;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;26;;;39816;763786.00;1133587.50;2013-12-05T00:00:00
+289787;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;27;;;39816;763816.50;1133611.38;2013-12-05T00:00:00
+289795;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;28;;;39816;763833.00;1133600.75;2013-12-05T00:00:00
+289809;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;29;;;39816;763891.44;1133857.00;2013-12-05T00:00:00
+289817;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;30;;;39816;763626.19;1133563.38;2013-12-05T00:00:00
+289825;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;31;;;39816;763924.31;1133630.88;2013-12-05T00:00:00
+289833;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;32;;;39816;763937.94;1133676.88;2013-12-05T00:00:00
+289841;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;33;;;39816;763619.81;1133508.25;2013-12-05T00:00:00
+289850;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;34;;;39816;764183.51;1134088.89;2013-12-05T00:00:00
+289868;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;35;;;39816;763650.83;1133517.69;2013-12-05T00:00:00
+289876;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;36;;;39816;764069.75;1133948.25;2013-12-05T00:00:00
+289884;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;37;;;39816;764072.69;1133968.88;2013-12-05T00:00:00
+289892;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;38;;;39816;764093.63;1134011.63;2013-12-05T00:00:00
+289906;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;39;;;39816;764161.31;1134053.25;2013-12-05T00:00:00
+289914;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;40;;;39816;764041.25;1134034.25;2013-12-05T00:00:00
+289922;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;41;;;39816;763946.88;1133706.75;2013-12-05T00:00:00
+289931;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;42;;;39816;763866.94;1133614.00;2013-12-05T00:00:00
+289949;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;43;;;39816;763791.31;1133583.63;2013-12-05T00:00:00
+289957;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;44;;;39816;764070.06;1133762.38;2013-12-05T00:00:00
+289965;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;45;;;39816;764179.88;1133769.63;2013-12-05T00:00:00
+289973;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;46;;;39816;764112.56;1134072.88;2013-12-05T00:00:00
+289981;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;47;;;39816;763777.31;1133752.63;2013-12-05T00:00:00
+289990;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;48;;;39816;764203.50;1134071.88;2013-12-05T00:00:00
+290009;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;49;;;39816;764149.50;1134080.00;2013-12-05T00:00:00
+290017;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;50;;;39816;764028.63;1133995.13;2013-12-05T00:00:00
+290025;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;51;;;39816;763607.69;1133528.38;2013-12-05T00:00:00
+290033;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;52;;;39816;764033.13;1133971.75;2013-12-05T00:00:00
+290041;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;53;;;39816;764247.69;1133760.63;2013-12-05T00:00:00
+290050;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;54;;;39816;763699.50;1133232.38;2013-12-05T00:00:00
+290068;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;55;;;39816;763697.56;1133607.50;2013-12-05T00:00:00
+290076;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;56;;;39816;764119.75;1134024.50;2013-12-05T00:00:00
+290084;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;57;;;39816;763453.69;1133594.63;2013-12-05T00:00:00
+290092;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;58;;;39816;763418.31;1133597.25;2013-12-05T00:00:00
+290106;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;59;;;39816;764220.19;1134113.75;2013-12-05T00:00:00
+290114;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;60;;;39816;764202.50;1133765.88;2013-12-05T00:00:00
+290122;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;61;;;39816;764042.56;1134118.25;2013-12-05T00:00:00
+290131;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;62;;;39816;764046.50;1133933.88;2013-12-05T00:00:00
+290149;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;63;;;39816;763475.19;1133587.50;2013-12-05T00:00:00
+290157;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;64;;;39816;763437.56;1133600.38;2013-12-05T00:00:00
+290165;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;65;;;39816;763941.38;1133877.13;2013-12-05T00:00:00
+290173;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;66;;;39816;764197.63;1134116.38;2013-12-05T00:00:00
+290181;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;67;;;39816;763992.13;1133672.25;2013-12-05T00:00:00
+290190;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;68;;;39816;764124.63;1134117.88;2013-12-05T00:00:00
+290203;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;69;;;39816;764085.50;1134128.75;2013-12-05T00:00:00
+290211;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;70;;;39816;763072.06;1133926.00;2013-12-05T00:00:00
+290220;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;71;;;39816;763555.31;1133568.63;2013-12-05T00:00:00
+290238;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;72;;;39816;764114.88;1134136.25;2013-12-05T00:00:00
+290246;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;73;;;39816;763731.81;1133574.88;2013-12-05T00:00:00
+290254;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;74;;;39816;763524.00;1133449.13;2013-12-05T00:00:00
+290271;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;76;;;39816;764055.00;1134000.88;2013-12-05T00:00:00
+290289;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;77;;;39816;764041.25;1134157.25;2013-12-05T00:00:00
+290297;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;78;;;39816;763928.94;1133561.13;2013-12-05T00:00:00
+290301;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;79;;;39816;763654.50;1133537.88;2013-12-05T00:00:00
+290319;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;80;;;39816;764088.06;1134154.25;2013-12-05T00:00:00
+290327;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;81;;;39816;764271.81;1134123.25;2013-12-05T00:00:00
+290335;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;82;;;39816;764098.50;1134173.88;2013-12-05T00:00:00
+290343;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;83;;;39816;764099.19;1134197.75;2013-12-05T00:00:00
+290351;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;84;;;39816;764083.00;1133790.00;2013-12-05T00:00:00
+290360;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;85;;;39816;764049.13;1134195.13;2013-12-05T00:00:00
+290378;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;86;;;39816;764135.06;1134181.00;2013-12-05T00:00:00
+290386;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;87;;;39816;763553.56;1133520.25;2013-12-05T00:00:00
+290394;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;88;;;39816;762465.94;1134673.63;2013-12-05T00:00:00
+290408;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;89;;;39816;763916.19;1133852.25;2013-12-05T00:00:00
+290416;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;90;;;39816;764002.38;1133951.50;2013-12-05T00:00:00
+290424;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;91;;;39816;763899.19;1133820.75;2013-12-05T00:00:00
+290432;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;92;;;39816;763896.75;1133800.38;2013-12-05T00:00:00
+290441;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;93;;;39816;763919.38;1133802.63;2013-12-05T00:00:00
+290459;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;94;;;39816;763946.31;1133820.00;2013-12-05T00:00:00
+290467;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;95;;;39816;763600.13;1133486.25;2013-12-05T00:00:00
+290475;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;96;;;39816;763941.69;1133689.38;2013-12-05T00:00:00
+290483;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;97;;;39816;763022.38;1133913.88;2013-12-05T00:00:00
+290505;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;99;;;39816;764280.63;1133770.50;2013-12-05T00:00:00
+290513;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;100;;;39816;763516.81;1133555.63;2013-12-05T00:00:00
+290530;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;102;;;39816;763488.19;1133570.38;2013-12-05T00:00:00
+290548;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;103;;;39816;764118.44;1133808.50;2013-12-05T00:00:00
+290556;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;104;;;39816;763797.13;1133551.38;2013-12-05T00:00:00
+290564;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;105;;;39816;763959.94;1133716.00;2013-12-05T00:00:00
+290572;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;106;;;39816;763661.56;1133259.00;2013-12-05T00:00:00
+290581;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;107;;;39816;764333.75;1133733.38;2013-12-05T00:00:00
+290599;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;108;;;39816;763696.69;1133534.13;2013-12-05T00:00:00
+290602;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;109;;;39816;764061.56;1133929.63;2013-12-05T00:00:00
+290611;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;110;;;39816;763558.44;1133475.50;2013-12-05T00:00:00
+290629;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;111;;;39816;764013.94;1133740.38;2013-12-05T00:00:00
+290637;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;112;;;39816;764359.50;1134137.88;2013-12-05T00:00:00
+290645;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;113;;;39816;764024.56;1133541.25;2013-12-05T00:00:00
+290653;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;114;;;39816;763995.75;1133563.50;2013-12-05T00:00:00
+290661;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;115;;;39816;764125.38;1133741.25;2013-12-05T00:00:00
+290670;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;116;;;39816;764384.75;1133718.88;2013-12-05T00:00:00
+290688;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;117;;;39816;764413.44;1133724.38;2013-12-05T00:00:00
+290696;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;118;;;39816;764435.75;1133716.38;2013-12-05T00:00:00
+290700;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;119;;;39816;763638.06;1133279.25;2013-12-05T00:00:00
+290718;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;120;;;39816;763619.06;1133261.00;2013-12-05T00:00:00
+290726;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;121;;;39816;764352.38;1133758.38;2013-12-05T00:00:00
+290734;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;122;;;39816;763945.44;1133567.13;2013-12-05T00:00:00
+290742;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;123;;;39816;764098.19;1133739.25;2013-12-05T00:00:00
+290751;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;124;;;39816;763957.06;1133738.63;2013-12-05T00:00:00
+290769;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;125;;;39816;763624.63;1133300.00;2013-12-05T00:00:00
+290777;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;126;;;39816;764090.31;1134096.00;2013-12-05T00:00:00
+290785;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;127;;;39816;763900.81;1133884.38;2013-12-05T00:00:00
+290793;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;128;;;39816;763576.91;1133535.33;2019-03-29T00:00:00
+290807;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;129;;;39816;764006.63;1133560.38;2013-12-05T00:00:00
+290815;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;130;;;39816;763446.63;1133505.88;2013-12-05T00:00:00
+290823;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;131;;;39816;764285.25;1134070.88;2013-12-05T00:00:00
+290831;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;132;;;39816;763977.19;1133873.50;2013-12-05T00:00:00
+290840;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;133;;;39816;764002.06;1133976.63;2013-12-05T00:00:00
+290858;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;134;;;39816;764223.94;1133807.00;2013-12-05T00:00:00
+290866;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;135;;;39816;764021.00;1134185.25;2013-12-05T00:00:00
+290874;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;136;;;39816;763795.00;1133728.75;2013-12-05T00:00:00
+290882;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;137;;;39816;764115.26;1134164.26;2019-11-25T00:00:00
+290891;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;138;;;39816;764312.88;1133741.00;2013-12-05T00:00:00
+290904;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;139;;;39816;763427.00;1133556.75;2013-12-05T00:00:00
+290912;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;140;;;39816;763730.13;1133537.50;2013-12-05T00:00:00
+290921;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;141;;;39816;763775.44;1133504.38;2013-12-05T00:00:00
+290939;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;142;;;39816;764004.25;1133589.63;2013-12-05T00:00:00
+290947;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;143;;;39816;764051.56;1133688.00;2013-12-05T00:00:00
+290955;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;144;;;39816;764052.69;1133841.50;2013-12-05T00:00:00
+290963;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;145;;;39816;764221.13;1133856.00;2013-12-05T00:00:00
+290971;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;146;;;39816;764214.81;1133836.13;2013-12-05T00:00:00
+290980;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;147;;;39816;764180.75;1133844.13;2013-12-05T00:00:00
+290998;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;148;;;39816;764172.63;1133820.38;2013-12-05T00:00:00
+291005;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;149;;;39816;763550.55;1133542.59;2013-12-05T00:00:00
+291013;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;150;;;39816;763847.50;1133855.75;2013-12-05T00:00:00
+291021;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;151;;;39816;763846.25;1133893.50;2013-12-05T00:00:00
+291030;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;152;;;39816;764146.00;1133765.00;2013-12-05T00:00:00
+291048;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;153;;;39816;763893.00;1133609.38;2013-12-05T00:00:00
+291056;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;154;;;39816;763904.88;1133611.38;2013-12-05T00:00:00
+291064;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;155;;;39816;763909.50;1133617.75;2013-12-05T00:00:00
+291072;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;156;;;39816;763406.06;1133471.50;2013-12-05T00:00:00
+291081;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;157;;;39816;764363.56;1133723.88;2013-12-05T00:00:00
+291099;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;158;;;39816;763055.19;1133904.00;2013-12-05T00:00:00
+291102;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;159;;;39816;763698.13;1133706.00;2013-12-05T00:00:00
+291111;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;160;;;39816;764339.88;1134085.63;2013-12-05T00:00:00
+291129;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;161;;;39816;763668.63;1133619.25;2013-12-05T00:00:00
+291137;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;162;;;39816;763644.88;1133208.25;2013-12-05T00:00:00
+291145;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;163;;;39816;763939.69;1133726.63;2013-12-05T00:00:00
+291153;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;164;;;39816;764289.13;1133769.13;2013-12-05T00:00:00
+291161;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;165;;;39816;764183.69;1133865.75;2013-12-05T00:00:00
+291170;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;166;;;39816;763836.56;1133822.38;2013-12-05T00:00:00
+291188;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;167;;;39816;764049.88;1133664.63;2013-12-05T00:00:00
+291196;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;168;;;39816;763903.19;1133827.75;2013-12-05T00:00:00
+291200;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;169;;;39816;763856.19;1133547.38;2013-12-05T00:00:00
+291218;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;170;;;39816;763738.25;1133679.63;2013-12-05T00:00:00
+291226;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;171;;;39816;764146.56;1133861.25;2013-12-05T00:00:00
+291234;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;172;;;39816;764139.44;1134206.63;2013-12-05T00:00:00
+291242;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;173;;;39816;763871.06;1133916.50;2013-12-05T00:00:00
+291251;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;174;;;39816;764168.19;1134087.25;2013-12-05T00:00:00
+291269;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;175;;;39816;763997.06;1133527.38;2013-12-05T00:00:00
+291277;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;176;;;39816;764009.81;1133515.50;2013-12-05T00:00:00
+291285;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;177;;;39816;763847.50;1133786.88;2013-12-05T00:00:00
+291293;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;178;;;39816;763775.94;1133516.88;2013-12-05T00:00:00
+291307;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;179;;;39816;763927.13;1133901.25;2013-12-05T00:00:00
+291315;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;180;;;39816;763845.73;1133967.39;2013-12-05T00:00:00
+291323;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;181;;;39816;764071.31;1133560.44;2013-12-05T00:00:00
+291331;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;182;;;39816;764120.13;1133871.75;2013-12-05T00:00:00
+291340;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;183;;;39816;764064.81;1133598.63;2013-12-05T00:00:00
+291358;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;184;;;39816;764060.43;1133590.04;2013-12-05T00:00:00
+291366;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;185;;;39816;763475.75;1133513.88;2013-12-05T00:00:00
+291374;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;186;;;39816;763870.97;1133829.67;2013-12-05T00:00:00
+291382;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;187;;;39816;764358.13;1133767.13;2013-12-05T00:00:00
+291391;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;188;;;39816;763377.00;1133449.00;2013-12-05T00:00:00
+291404;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;189;;;39816;763642.56;1133537.88;2013-12-05T00:00:00
+291412;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.ev.;7;;;39816;763087.94;1133910.13;2013-12-05T00:00:00
+291421;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.ev.;8;;;39816;763841.44;1133674.88;2013-12-05T00:00:00
+291447;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.ev.;19;;;39816;762891.69;1133863.75;2013-12-05T00:00:00
+291455;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;1;;;39811;761485.75;1133202.38;2013-12-05T00:00:00
+291463;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;2;;;39811;761451.57;1133249.35;2013-12-05T00:00:00
+291471;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;3;;;39811;761445.75;1133329.25;2013-12-05T00:00:00
+291480;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;4;;;39811;761402.63;1133376.50;2013-12-05T00:00:00
+291498;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;5;;;39811;761262.50;1133497.13;2013-12-05T00:00:00
+291501;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;7;;;39811;761977.56;1133361.63;2013-12-05T00:00:00
+291510;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;8;;;39811;761931.00;1133379.13;2013-12-05T00:00:00
+291528;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;9;;;39811;761729.44;1133368.88;2013-12-05T00:00:00
+291536;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;10;;;39811;762074.14;1133510.02;2019-04-12T00:00:00
+291544;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;11;;;39811;761374.44;1133357.00;2013-12-05T00:00:00
+291552;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;12;;;39811;761731.00;1133944.13;2013-12-05T00:00:00
+291561;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;13;;;39811;762232.87;1132495.45;2014-01-27T00:00:00
+291579;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;15;;;39811;761454.63;1133136.00;2013-12-05T00:00:00
+291587;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;16;;;39811;761234.13;1134220.88;2013-12-05T00:00:00
+291595;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;17;;;39811;761622.25;1132918.88;2013-12-05T00:00:00
+291609;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;18;;;39811;761650.13;1133384.13;2013-12-05T00:00:00
+291617;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;19;;;39811;761473.56;1133084.88;2013-12-05T00:00:00
+291625;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;20;;;39811;761424.06;1133097.63;2013-12-05T00:00:00
+291633;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;22;;;39811;761311.75;1134199.88;2013-12-05T00:00:00
+291641;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;23;;;39811;761287.69;1134174.88;2013-12-05T00:00:00
+291650;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;25;;;39811;762197.25;1132449.90;2013-12-05T00:00:00
+291668;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;1;;;39811;761406.81;1133174.63;2013-12-05T00:00:00
+291676;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;2;;;39811;761411.44;1133135.50;2017-02-02T00:00:00
+291684;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;3;;;39811;761421.56;1133118.25;2017-02-02T00:00:00
+291692;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;4;;;39811;761226.19;1133575.00;2013-12-05T00:00:00
+291706;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;5;;;39811;761434.06;1133107.13;2013-12-05T00:00:00
+291714;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;6;;;39811;761410.44;1133156.00;2017-02-02T00:00:00
+291722;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;9;;;39811;761565.25;1133052.25;2013-12-05T00:00:00
+291731;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;11;;;39811;761369.75;1133252.88;2013-12-05T00:00:00
+291749;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;12;;;39811;761291.94;1133542.25;2017-02-02T00:00:00
+291757;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;13;;;39811;761248.50;1133559.13;2017-02-02T00:00:00
+291765;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;14;;;39811;761376.50;1133171.50;2013-12-05T00:00:00
+291773;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;15;;;39811;761562.75;1132330.25;2013-12-05T00:00:00
+291781;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;16;;;39811;761396.00;1133244.75;2013-12-05T00:00:00
+291790;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;17;;;39811;761500.75;1132988.13;2013-12-05T00:00:00
+291811;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;21;;;39811;761575.31;1133059.38;2013-12-05T00:00:00
+291820;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;22;;;39811;761549.69;1133046.00;2013-12-05T00:00:00
+291838;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;1;;;39701;763240.88;1130731.63;2013-12-05T00:00:00
+291846;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;2;;;39701;763098.75;1130773.63;2013-12-05T00:00:00
+291854;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;3;;;39701;763058.13;1130700.50;2013-12-05T00:00:00
+291862;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;4;;;39701;763028.25;1130704.13;2013-12-05T00:00:00
+291871;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;5;;;39701;762995.69;1130752.25;2013-12-05T00:00:00
+291889;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;6;;;39701;762949.69;1130755.00;2013-12-05T00:00:00
+291897;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;7;;;39701;762928.75;1130788.00;2013-12-05T00:00:00
+291901;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;8;;;39701;762883.25;1130737.13;2013-12-05T00:00:00
+291919;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;9;;;39701;762897.94;1130732.25;2013-12-05T00:00:00
+291927;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;10;;;39701;762935.88;1130694.75;2013-12-05T00:00:00
+291935;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;11;;;39701;762919.38;1130666.13;2013-12-05T00:00:00
+291943;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;12;;;39701;762922.00;1130619.63;2013-12-05T00:00:00
+291951;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;13;;;39701;762919.19;1130588.38;2013-12-05T00:00:00
+291960;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;14;;;39701;762893.38;1130580.25;2013-12-05T00:00:00
+291978;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;15;;;39701;762872.94;1130580.63;2013-12-05T00:00:00
+291986;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;16;;;39701;762936.69;1130525.75;2013-12-05T00:00:00
+291994;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;17;;;39701;763163.88;1130878.13;2013-12-05T00:00:00
+292001;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;18;;;39701;762962.94;1130558.88;2013-12-05T00:00:00
+292010;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;19;;;39701;762980.75;1130570.13;2013-12-05T00:00:00
+292028;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;20;;;39701;763013.56;1130570.88;2013-12-05T00:00:00
+292036;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;21;;;39701;763022.44;1130531.88;2013-12-05T00:00:00
+292044;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;22;;;39701;762693.25;1130513.00;2013-12-05T00:00:00
+292052;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;23;;;39701;763053.75;1130567.88;2013-12-05T00:00:00
+292061;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;24;;;39701;764662.44;1131315.50;2013-12-05T00:00:00
+292087;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;26;;;39701;763197.88;1130569.75;2013-12-05T00:00:00
+292095;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;27;;;39701;763259.75;1130544.63;2013-12-05T00:00:00
+292109;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;28;;;39701;763117.13;1130575.50;2013-12-05T00:00:00
+292117;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;29;;;39701;763158.88;1130580.25;2013-12-05T00:00:00
+292125;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;30;;;39701;763141.48;1130527.75;2021-11-15T00:00:00
+292133;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;31;;;39701;763262.81;1130485.13;2013-12-05T00:00:00
+292141;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;32;;;39701;763140.69;1130627.38;2013-12-05T00:00:00
+292150;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;33;;;39701;763150.75;1129690.63;2013-12-05T00:00:00
+292168;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;34;;;39701;762906.14;1130554.22;2013-12-05T00:00:00
+292176;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;35;;;39701;762765.00;1130522.56;2013-12-05T00:00:00
+292184;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;36;;;39701;762974.06;1130704.00;2013-12-05T00:00:00
+292192;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;37;;;39701;763878.94;1131253.88;2013-12-05T00:00:00
+292206;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;38;;;39701;763082.19;1130680.50;2013-12-05T00:00:00
+292214;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;39;;;39701;763094.81;1130703.00;2013-12-05T00:00:00
+292222;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;40;;;39701;761521.19;1130356.13;2013-12-05T00:00:00
+292231;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;41;;;39701;763223.44;1129683.25;2013-12-05T00:00:00
+292249;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;42;;;39701;763103.63;1129700.25;2013-12-05T00:00:00
+292257;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;43;;;39701;762843.19;1129797.63;2013-12-05T00:00:00
+292265;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;44;;;39701;762758.94;1129789.50;2013-12-05T00:00:00
+292273;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;45;;;39701;762707.94;1129788.38;2013-12-05T00:00:00
+292281;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;46;;;39701;763864.69;1131241.00;2013-12-05T00:00:00
+292290;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;47;;;39701;762833.13;1130487.88;2013-12-05T00:00:00
+292303;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;48;;;39701;763142.00;1130922.25;2013-12-05T00:00:00
+292311;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;49;;;39701;762709.44;1129714.63;2013-12-05T00:00:00
+292320;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;50;;;39701;762791.00;1129674.38;2013-12-05T00:00:00
+292338;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;51;;;39701;763372.94;1130468.88;2013-12-05T00:00:00
+292346;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;52;;;39701;762748.13;1129735.13;2013-12-05T00:00:00
+292354;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;53;;;39701;763049.19;1130788.38;2013-12-05T00:00:00
+292362;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;54;;;39701;762692.06;1129753.63;2013-12-05T00:00:00
+292371;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;55;;;39701;763167.00;1129630.38;2013-12-05T00:00:00
+292389;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;56;;;39701;762747.31;1129700.63;2013-12-05T00:00:00
+292397;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;57;;;39701;762838.13;1129675.50;2013-12-05T00:00:00
+292401;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;58;;;39701;762826.94;1129703.75;2013-12-05T00:00:00
+292419;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;59;;;39701;763098.25;1130683.13;2013-12-05T00:00:00
+292427;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;60;;;39701;763319.63;1130443.00;2013-12-05T00:00:00
+292435;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;61;;;39701;763135.38;1130753.88;2013-12-05T00:00:00
+292443;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;62;;;39701;763160.06;1129695.25;2013-12-05T00:00:00
+292451;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;63;;;39701;763768.38;1131217.63;2013-12-05T00:00:00
+292460;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;64;;;39701;763136.80;1130818.80;2021-01-05T00:00:00
+292478;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;65;;;39701;763185.75;1130920.00;2013-12-05T00:00:00
+292486;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;66;;;39701;763178.56;1130904.88;2013-12-05T00:00:00
+292494;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;67;;;39701;763179.00;1130975.13;2013-12-05T00:00:00
+292508;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;68;;;39701;763189.38;1130205.00;2013-12-05T00:00:00
+292516;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;69;;;39701;764581.13;1131431.75;2013-12-05T00:00:00
+292524;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;70;;;39701;763195.88;1131020.38;2013-12-05T00:00:00
+292532;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;71;;;39701;763434.38;1130392.75;2013-12-05T00:00:00
+292541;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;72;;;39701;763183.63;1130484.75;2013-12-05T00:00:00
+292559;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;73;;;39701;763365.25;1130418.25;2013-12-05T00:00:00
+292567;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;74;;;39701;763247.38;1130516.38;2013-12-05T00:00:00
+292575;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;75;;;39701;762907.22;1130583.45;2013-12-05T00:00:00
+292583;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;76;;;39701;763207.38;1131045.50;2013-12-05T00:00:00
+292591;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;77;;;39701;763170.88;1130209.25;2013-12-05T00:00:00
+292605;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;78;;;39701;763236.19;1130553.13;2013-12-05T00:00:00
+292613;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;79;;;39701;763215.31;1130563.63;2013-12-05T00:00:00
+292621;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;80;;;39701;763197.13;1130594.50;2013-12-05T00:00:00
+292648;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;82;;;39701;763164.69;1129609.75;2013-12-05T00:00:00
+292656;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;83;;;39701;763039.44;1130588.25;2013-12-05T00:00:00
+292664;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;84;;;39701;763099.69;1130505.63;2013-12-05T00:00:00
+292672;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;85;;;39701;762682.00;1130550.00;2013-12-05T00:00:00
+292681;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;1;;;39701;761012.31;1130966.13;2013-12-05T00:00:00
+292699;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;2;;;39701;761016.44;1130947.63;2013-12-05T00:00:00
+292702;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;3;;;39701;760823.16;1130898.81;2018-10-02T00:00:00
+292711;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;4;;;39701;760848.38;1130937.91;2013-12-05T00:00:00
+292729;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;5;;;39701;760925.75;1131041.38;2013-12-05T00:00:00
+292737;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;6;;;39701;760833.81;1130928.25;2013-12-05T00:00:00
+292745;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;7;;;39701;760868.19;1130977.13;2013-12-05T00:00:00
+292761;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;9;;;39701;760906.83;1131001.68;2013-12-05T00:00:00
+292770;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;10;;;39701;761041.31;1130549.25;2013-12-05T00:00:00
+292788;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;11;;;39701;761038.56;1130560.88;2013-12-05T00:00:00
+292796;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;12;;;39701;761032.94;1130571.13;2013-12-05T00:00:00
+292800;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;13;;;39701;761016.19;1130579.50;2013-12-05T00:00:00
+292818;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;14;;;39701;761011.56;1130590.63;2013-12-05T00:00:00
+292826;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;15;;;39701;761007.38;1130602.38;2013-12-05T00:00:00
+292834;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;16;;;39701;763014.75;1130547.38;2013-12-05T00:00:00
+292842;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;1;;;37501;760728.56;1135240.75;2013-12-05T00:00:00
+292851;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;2;;;37501;760729.50;1135265.50;2013-12-05T00:00:00
+292869;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;3;;;37501;760309.39;1135671.80;2013-12-05T00:00:00
+292877;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;4;;;37501;760253.88;1135601.00;2013-12-05T00:00:00
+292885;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;5;;;37501;760785.75;1136345.50;2013-12-05T00:00:00
+292893;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;6;;;37501;760263.31;1135686.13;2013-12-05T00:00:00
+292907;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;7;;;37501;760347.31;1136284.75;2013-12-05T00:00:00
+292915;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;8;;;37501;760744.44;1135273.88;2013-12-05T00:00:00
+292923;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;9;;;37501;760292.50;1135648.13;2013-12-05T00:00:00
+292940;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;11;;;37501;760770.94;1135536.50;2013-12-05T00:00:00
+292958;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;12;;;37501;760765.99;1135268.18;2013-12-05T00:00:00
+292966;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;13;;;37501;760749.00;1135238.50;2013-12-05T00:00:00
+292974;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;14;;;37501;760432.19;1136606.75;2013-12-05T00:00:00
+292982;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;15;;;37501;760375.06;1136318.75;2013-12-05T00:00:00
+292991;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;16;;;37501;760541.06;1136371.88;2013-12-05T00:00:00
+293008;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;17;;;37501;760795.38;1136355.00;2013-12-05T00:00:00
+293016;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;18;;;37501;760786.81;1136368.00;2013-12-05T00:00:00
+293024;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;19;;;37501;760374.38;1136551.63;2013-12-05T00:00:00
+293032;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;20;;;37501;760388.31;1136562.13;2013-12-05T00:00:00
+293041;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;21;;;37501;760403.63;1136573.88;2013-12-05T00:00:00
+293059;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;22;;;37501;760394.13;1136586.27;2013-12-05T00:00:00
+293067;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;23;;;37501;760379.00;1136577.75;2013-12-05T00:00:00
+293075;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;24;;;37501;760362.13;1136559.50;2013-12-05T00:00:00
+293083;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;25;;;37501;760350.38;1136556.88;2013-12-05T00:00:00
+293091;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;26;;;37501;760327.31;1136554.13;2013-12-05T00:00:00
+293105;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;27;;;37501;760341.94;1136565.88;2013-12-05T00:00:00
+293113;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;28;;;37501;760357.19;1136576.75;2013-12-05T00:00:00
+293121;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;29;;;37501;760457.07;1136386.85;2020-09-02T00:00:00
+293130;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;30;;;37501;760390.69;1136598.25;2013-12-05T00:00:00
+293156;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;33;;;37501;760402.63;1136333.38;2013-12-05T00:00:00
+293164;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;34;;;37501;760450.63;1136378.88;2013-12-05T00:00:00
+293172;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;35;;;37501;760436.63;1136359.50;2013-12-05T00:00:00
+293181;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;36;;;37501;760664.19;1135262.25;2013-12-05T00:00:00
+293199;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;37;;;37501;760302.94;1136284.75;2013-12-05T00:00:00
+293202;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;38;;;37501;760777.38;1135294.75;2013-12-05T00:00:00
+293211;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;39;;;37501;760558.44;1135375.38;2013-12-05T00:00:00
+293229;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;40;;;37501;760332.94;1136367.88;2013-12-05T00:00:00
+293237;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;41;;;37501;760771.00;1136324.00;2013-12-05T00:00:00
+293245;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;42;;;37501;760371.56;1136281.38;2013-12-05T00:00:00
+293253;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;43;;;37501;759805.31;1136704.38;2013-12-05T00:00:00
+293261;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;44;;;37501;761379.75;1135845.00;2013-12-05T00:00:00
+293270;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;45;;;37501;760438.31;1136531.75;2013-12-05T00:00:00
+293288;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;46;;;37501;760332.38;1136503.25;2013-12-05T00:00:00
+293296;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;47;;;37501;760303.19;1136431.13;2013-12-05T00:00:00
+293300;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;1;;;37501;760537.75;1135338.25;2013-12-05T00:00:00
+293318;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;2;;;37501;760603.06;1135313.75;2013-12-05T00:00:00
+293326;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;3;;;37501;760610.44;1135341.25;2013-12-05T00:00:00
+293334;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;4;;;37501;760615.63;1135325.75;2016-01-07T00:00:00
+293342;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;5;;;37501;760626.75;1135295.38;2013-12-05T00:00:00
+293351;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;6;;;37501;760687.80;1135233.60;2016-01-07T00:00:00
+293369;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;7;;;37501;760525.81;1135320.13;2013-12-05T00:00:00
+293385;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;9;;;37501;760548.81;1135311.00;2013-12-05T00:00:00
+293393;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;10;;;37501;760586.13;1135355.25;2013-12-05T00:00:00
+293407;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;11;;;37501;760574.56;1135301.50;2013-12-05T00:00:00
+293415;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;12;;;37501;760610.19;1135277.88;2013-12-05T00:00:00
+293423;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;13;;;37501;760669.50;1135224.75;2013-12-05T00:00:00
+293431;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;14;;;37501;760690.44;1135206.88;2013-12-05T00:00:00
+293458;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;16;;;37501;760229.25;1135550.25;2013-12-05T00:00:00
+293466;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;17;;;37501;760240.31;1135529.50;2013-12-05T00:00:00
+293474;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;18;;;37501;760258.90;1135510.76;2023-11-14T00:00:00
+293482;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;19;;;37501;760289.50;1135496.63;2013-12-05T00:00:00
+293491;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;20;;;37501;760338.69;1135474.63;2013-12-05T00:00:00
+293504;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;21;;;37501;760327.69;1135450.50;2013-12-05T00:00:00
+293512;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;22;;;37501;760354.13;1135450.75;2013-12-05T00:00:00
+293521;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;23;;;37501;760342.63;1135429.75;2013-12-05T00:00:00
+293539;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;24;;;37501;760372.50;1135424.50;2013-12-05T00:00:00
+293547;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;25;;;37501;760397.56;1135396.25;2013-12-05T00:00:00
+293555;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;26;;;37501;760417.06;1135384.00;2013-12-05T00:00:00
+293563;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;27;;;37501;760435.50;1135373.00;2013-12-05T00:00:00
+293571;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;28;;;37501;760453.63;1135362.25;2013-12-05T00:00:00
+293580;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;29;;;37501;760720.75;1135167.50;2013-12-05T00:00:00
+293598;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;30;;;37501;760574.94;1135744.00;2013-12-05T00:00:00
+293601;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;31;;;37501;760571.56;1135337.25;2013-12-05T00:00:00
+293610;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;32;;;37501;759805.69;1136021.25;2013-12-05T00:00:00
+293628;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;33;;;37501;760493.06;1135349.00;2013-12-05T00:00:00
+293636;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;34;;;37501;760500.06;1135355.38;2013-12-05T00:00:00
+293644;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;35;;;37501;760509.50;1135362.00;2013-12-05T00:00:00
+293652;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;36;;;37501;760510.88;1135373.25;2013-12-05T00:00:00
+293661;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;37;;;37501;760513.63;1135386.75;2013-12-05T00:00:00
+293679;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;38;;;37501;760471.75;1135377.13;2013-12-05T00:00:00
+293687;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;39;;;37501;760475.50;1135390.75;2013-12-05T00:00:00
+293695;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;40;;;37501;760484.00;1135399.63;2013-12-05T00:00:00
+293709;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;41;;;37501;760454.64;1135396.64;2013-12-05T00:00:00
+293717;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;42;;;37501;760439.81;1135399.88;2013-12-05T00:00:00
+293725;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;43;;;37501;759904.00;1136643.13;2013-12-05T00:00:00
+293733;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;44;;;37501;759892.13;1136642.38;2013-12-05T00:00:00
+293741;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;45;;;37501;759875.94;1136640.50;2013-12-05T00:00:00
+293750;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;46;;;37501;759858.13;1136640.13;2013-12-05T00:00:00
+293768;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;47;;;37501;759842.08;1136642.34;2013-12-05T00:00:00
+293776;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;48;;;37501;759869.00;1136674.13;2013-12-05T00:00:00
+293784;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;49;;;37501;759857.50;1136671.75;2013-12-05T00:00:00
+293792;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;50;;;37501;759837.13;1136668.50;2013-12-05T00:00:00
+293806;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;51;;;37501;760165.13;1136701.50;2013-12-05T00:00:00
+293814;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;52;;;37501;760150.56;1136708.13;2013-12-05T00:00:00
+293822;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;53;;;37501;760133.11;1136714.69;2016-01-07T00:00:00
+293831;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;54;;;37501;760122.50;1136718.38;2013-12-05T00:00:00
+293849;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;55;;;37501;760111.63;1136723.25;2013-12-05T00:00:00
+293857;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;56;;;37501;760099.44;1136725.00;2013-12-05T00:00:00
+293865;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;57;;;37501;760087.56;1136731.88;2013-12-05T00:00:00
+293873;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;58;;;37501;760072.00;1136732.25;2013-12-05T00:00:00
+293881;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;59;;;37501;760062.44;1136743.38;2013-12-05T00:00:00
+293890;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;60;;;37501;760084.88;1136748.75;2013-12-05T00:00:00
+293903;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;61;;;37501;760080.94;1136769.50;2013-12-05T00:00:00
+293911;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;62;;;37501;760082.56;1136798.88;2013-12-05T00:00:00
+293920;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;63;;;37501;760059.81;1136757.00;2013-12-05T00:00:00
+293938;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;64;;;37501;760059.50;1136769.88;2013-12-05T00:00:00
+293946;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;65;;;37501;760059.13;1136783.38;2013-12-05T00:00:00
+293954;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;66;;;37501;760058.50;1136800.50;2013-12-05T00:00:00
+293962;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;67;;;37501;760078.19;1136699.50;2013-12-05T00:00:00
+293971;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;68;;;37501;760064.44;1136701.13;2013-12-05T00:00:00
+293989;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;69;;;37501;760056.19;1136714.38;2013-12-05T00:00:00
+293997;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;70;;;37501;760045.31;1136721.63;2013-12-05T00:00:00
+294004;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;71;;;37501;760038.69;1136729.25;2013-12-05T00:00:00
+294012;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;72;;;37501;760008.31;1136714.38;2013-12-05T00:00:00
+294021;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;73;;;37501;760032.63;1136740.00;2013-12-05T00:00:00
+294039;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;74;;;37501;760030.75;1136750.00;2013-12-05T00:00:00
+294047;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;75;;;37501;759987.50;1136721.63;2013-12-05T00:00:00
+294055;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;76;;;37501;759953.50;1136734.13;2013-12-05T00:00:00
+294063;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;77;;;37501;759989.81;1136735.88;2013-12-05T00:00:00
+294071;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;78;;;37501;759959.13;1136747.75;2013-12-05T00:00:00
+294080;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;79;;;37501;759992.13;1136752.63;2013-12-05T00:00:00
+294098;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;80;;;37501;759972.22;1136765.99;2013-12-05T00:00:00
+294101;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;81;;;37501;760047.25;1136691.88;2013-12-05T00:00:00
+294110;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;82;;;37501;760022.81;1136694.25;2013-12-05T00:00:00
+294128;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;83;;;37501;760009.63;1136699.38;2013-12-05T00:00:00
+294136;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;84;;;37501;759987.56;1136701.63;2013-12-05T00:00:00
+294144;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;85;;;37501;759975.19;1136706.88;2013-12-05T00:00:00
+294152;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;86;;;37501;759930.06;1136716.38;2013-12-05T00:00:00
+294161;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;87;;;37501;759940.31;1136722.25;2013-12-05T00:00:00
+294179;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;88;;;37501;759940.94;1136746.38;2013-12-05T00:00:00
+294187;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;89;;;37501;759917.88;1136748.00;2013-12-05T00:00:00
+294195;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;90;;;37501;759930.06;1136770.88;2013-12-05T00:00:00
+294209;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;1;;;39817;763884.50;1125694.25;2022-10-23T00:00:00
+294217;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;2;;;39817;763664.31;1125487.75;2013-12-05T00:00:00
+294225;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;3;;;39817;763956.56;1125703.50;2013-12-05T00:00:00
+294233;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;4;;;39817;763914.00;1125739.25;2013-12-05T00:00:00
+294241;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;5;;;39817;763917.81;1125774.75;2013-12-05T00:00:00
+294250;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;6;;;39817;763938.23;1125827.18;2018-08-13T00:00:00
+294268;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;7;;;39817;763947.94;1125837.63;2013-12-05T00:00:00
+294276;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;8;;;39817;763970.55;1125873.29;2020-01-22T00:00:00
+294284;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;9;;;39817;763688.44;1125494.50;2013-12-05T00:00:00
+294292;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;10;;;39817;763923.81;1125870.00;2013-12-05T00:00:00
+294306;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;11;;;39817;763897.00;1125895.63;2013-12-05T00:00:00
+294314;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;12;;;39817;763918.75;1125911.63;2013-12-05T00:00:00
+294322;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;13;;;39817;763910.75;1125944.38;2013-12-05T00:00:00
+294331;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;14;;;39817;763978.88;1125970.13;2013-12-05T00:00:00
+294349;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;15;;;39817;764048.06;1126026.38;2013-12-05T00:00:00
+294357;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;16;;;39817;763901.44;1126155.88;2013-12-05T00:00:00
+294365;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;17;;;39817;763858.25;1126315.88;2013-12-05T00:00:00
+294373;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;18;;;39817;763944.44;1126038.75;2013-12-05T00:00:00
+294381;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;19;;;39817;763890.69;1126006.13;2013-12-05T00:00:00
+294390;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;20;;;39817;763816.50;1125970.25;2013-12-05T00:00:00
+294403;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;21;;;39817;763821.98;1125930.78;2022-10-23T00:00:00
+294411;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;22;;;39817;763882.31;1125855.00;2013-12-05T00:00:00
+294420;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;23;;;39817;763885.13;1125835.38;2013-12-05T00:00:00
+294438;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;24;;;39817;763866.56;1125884.50;2013-12-05T00:00:00
+294446;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;25;;;39817;763595.50;1125462.75;2013-12-05T00:00:00
+294454;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;26;;;39817;763794.81;1125844.38;2013-12-05T00:00:00
+294462;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;27;;;39817;763847.94;1125848.38;2013-12-05T00:00:00
+294471;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;28;;;39817;763829.69;1125795.00;2013-12-05T00:00:00
+294489;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;29;;;39817;763868.87;1125715.98;2022-10-23T00:00:00
+294497;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;30;;;39817;763758.38;1125670.25;2013-12-05T00:00:00
+294501;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;31;;;39817;763941.50;1126106.38;2013-12-05T00:00:00
+294519;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;32;;;39817;763743.35;1125593.67;2022-10-23T00:00:00
+294527;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;33;;;39817;763743.56;1125586.38;2013-12-05T00:00:00
+294543;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;35;;;39817;764064.50;1126188.13;2013-12-05T00:00:00
+294551;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;36;;;39817;764009.81;1126003.50;2013-12-05T00:00:00
+294560;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;37;;;39817;763648.94;1125467.50;2013-12-05T00:00:00
+294578;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;38;;;39817;763912.44;1125788.13;2013-12-05T00:00:00
+294586;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;39;;;39817;764072.85;1125829.84;2022-10-23T00:00:00
+294594;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;40;;;39817;763989.50;1126162.46;2022-10-23T00:00:00
+294608;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;42;;;39817;763957.63;1125857.00;2013-12-05T00:00:00
+294616;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;43;;;39817;763965.03;1125886.74;2022-10-23T00:00:00
+294624;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;44;;;39817;764307.19;1127439.63;2013-12-05T00:00:00
+294632;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;45;;;39817;763791.62;1125747.57;2022-10-23T00:00:00
+294641;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;46;;;39817;764261.81;1127157.88;2013-12-05T00:00:00
+294659;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;47;;;39817;763563.85;1125403.66;2022-10-23T00:00:00
+294667;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;48;;;39817;764343.94;1127265.38;2013-12-05T00:00:00
+294675;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;49;;;39817;763769.34;1125693.74;2022-10-23T00:00:00
+294683;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;50;;;39817;763934.56;1126123.75;2013-12-05T00:00:00
+294691;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;51;;;39817;763768.67;1125721.30;2022-10-23T00:00:00
+294705;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;52;;;39817;763862.69;1126239.50;2013-12-05T00:00:00
+294713;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;53;;;39817;764656.88;1127530.50;2013-12-05T00:00:00
+294721;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;54;;;39817;763809.56;1125665.38;2013-12-05T00:00:00
+294730;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;55;;;39817;763779.94;1126487.13;2013-12-05T00:00:00
+294748;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;56;;;39817;763731.94;1125527.50;2013-12-05T00:00:00
+294756;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;57;;;39817;763875.31;1126204.86;2022-10-23T00:00:00
+294764;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;58;;;39817;763787.94;1125627.88;2013-12-05T00:00:00
+294772;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;59;;;39817;763778.53;1125596.23;2022-10-23T00:00:00
+294781;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;60;;;39817;763939.06;1125903.25;2013-12-05T00:00:00
+294799;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;61;;;39817;763930.88;1126179.63;2013-12-05T00:00:00
+294802;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;62;;;39817;763860.69;1125725.13;2013-12-05T00:00:00
+294811;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;63;;;39817;763795.06;1125541.75;2013-12-05T00:00:00
+294829;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;64;;;39817;763662.31;1125431.50;2013-12-05T00:00:00
+294837;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;65;;;39817;763728.81;1125479.75;2013-12-05T00:00:00
+294845;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;66;;;39817;763635.88;1125417.75;2013-12-05T00:00:00
+294853;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;67;;;39817;763796.88;1125987.00;2013-12-05T00:00:00
+294861;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;68;;;39817;763760.94;1125500.75;2013-12-05T00:00:00
+294870;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;69;;;39817;763559.38;1125450.25;2013-12-05T00:00:00
+294888;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;70;;;39817;764023.06;1126101.38;2013-12-05T00:00:00
+294896;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;71;;;39817;764016.75;1126084.50;2013-12-05T00:00:00
+294900;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;72;;;39817;763913.19;1125886.50;2013-12-05T00:00:00
+294918;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;73;;;39817;764074.31;1125816.00;2013-12-05T00:00:00
+294926;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;74;;;39817;763875.31;1126264.38;2013-12-05T00:00:00
+294934;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;75;;;39817;763782.81;1125572.38;2013-12-05T00:00:00
+294942;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;76;;;39817;763865.31;1126283.25;2013-12-05T00:00:00
+294951;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;77;;;39817;763964.81;1126156.25;2013-12-05T00:00:00
+294969;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;78;;;39817;764008.81;1126166.25;2013-12-05T00:00:00
+294977;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;79;;;39817;763508.50;1125429.50;2013-12-05T00:00:00
+294985;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;80;;;39817;764092.94;1125779.38;2013-12-05T00:00:00
+294993;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;81;;;39817;763980.63;1126163.63;2013-12-05T00:00:00
+295001;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;82;;;39817;764102.81;1125754.13;2013-12-05T00:00:00
+295019;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;83;;;39817;763966.38;1126028.38;2013-12-05T00:00:00
+295027;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;84;;;39817;763966.50;1126083.63;2013-12-05T00:00:00
+295035;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;85;;;39817;764073.63;1126189.38;2013-12-05T00:00:00
+295043;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;86;;;39817;763916.69;1126234.88;2013-12-05T00:00:00
+295051;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;87;;;39817;764006.06;1125988.00;2013-12-05T00:00:00
+295060;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;1;;;39817;763579.56;1125081.00;2013-12-05T00:00:00
+295078;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;2;;;39817;763561.77;1125072.85;2022-10-23T00:00:00
+295086;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;3;;;39817;763548.63;1125065.38;2013-12-05T00:00:00
+295094;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;4;;;39817;763526.89;1125053.74;2022-10-23T00:00:00
+295108;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;5;;;39817;763508.88;1125044.07;2022-10-23T00:00:00
+295116;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;6;;;39817;763490.06;1125040.88;2013-12-05T00:00:00
+295124;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;7;;;39817;763351.52;1124953.12;2023-09-07T00:00:00
+295132;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;8;;;39817;763362.94;1124938.50;2013-12-05T00:00:00
+295141;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;9;;;39817;764303.00;1124469.75;2013-12-05T00:00:00
+295159;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;10;;;39817;764288.00;1124470.13;2013-12-05T00:00:00
+295167;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;11;;;39817;764275.63;1124478.63;2013-12-05T00:00:00
+295175;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;12;;;39817;764268.00;1124501.75;2013-12-05T00:00:00
+295183;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;13;;;39817;764265.13;1124464.75;2013-12-05T00:00:00
+295191;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;14;;;39817;764248.88;1124452.13;2013-12-05T00:00:00
+295205;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;15;;;39817;764233.94;1124440.50;2013-12-05T00:00:00
+295213;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;16;;;39817;764217.56;1124432.75;2013-12-05T00:00:00
+295221;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;17;;;39817;764202.00;1124439.00;2013-12-05T00:00:00
+295230;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;18;;;39817;764189.38;1124448.25;2013-12-05T00:00:00
+295248;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;19;;;39817;764172.94;1124459.63;2013-12-05T00:00:00
+295256;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;20;;;39817;764154.06;1124468.88;2013-12-05T00:00:00
+295264;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;21;;;39817;764137.81;1124475.63;2013-12-05T00:00:00
+295272;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;22;;;39817;764015.63;1124529.13;2013-12-05T00:00:00
+295281;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;23;;;39817;763962.19;1124543.00;2013-12-05T00:00:00
+295299;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;24;;;39817;763951.25;1124553.50;2013-12-05T00:00:00
+295302;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;25;;;39817;763854.57;1124716.66;2022-10-23T00:00:00
+295311;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;26;;;39817;763851.75;1124737.88;2013-12-05T00:00:00
+295329;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;27;;;39817;763847.95;1124765.11;2022-10-23T00:00:00
+295337;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;28;;;39817;763864.14;1124817.34;2022-10-23T00:00:00
+295345;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;29;;;39817;763875.27;1124844.00;2022-10-23T00:00:00
+295353;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;30;;;39817;763883.85;1124867.99;2022-10-23T00:00:00
+295361;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;31;;;39817;763788.33;1124595.42;2022-10-23T00:00:00
+295370;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;32;;;39817;763783.31;1124578.75;2013-12-05T00:00:00
+295388;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;33;;;39817;763755.58;1124552.78;2022-10-23T00:00:00
+295396;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;34;;;39817;763741.56;1124570.38;2013-12-05T00:00:00
+295400;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;35;;;39817;763727.81;1124574.11;2022-10-23T00:00:00
+295418;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;36;;;39817;763804.06;1124608.38;2013-12-05T00:00:00
+295426;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;37;;;39817;763699.94;1124594.13;2013-12-05T00:00:00
+295434;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;38;;;39817;763685.19;1124599.75;2013-12-05T00:00:00
+295442;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;39;;;39817;763659.61;1124608.22;2022-10-23T00:00:00
+295451;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;40;;;39817;763637.32;1124609.13;2022-10-23T00:00:00
+295469;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;41;;;39817;763621.28;1124615.60;2022-10-23T00:00:00
+295477;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;42;;;39817;763601.67;1124625.39;2022-10-23T00:00:00
+295485;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;43;;;39817;763589.99;1124618.02;2022-10-23T00:00:00
+295493;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;44;;;39817;763509.38;1124613.88;2013-12-05T00:00:00
+295507;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;45;;;39817;763474.41;1124609.86;2022-10-23T00:00:00
+295515;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;46;;;39817;763443.89;1124603.86;2022-10-23T00:00:00
+295523;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;47;;;39817;764076.63;1124503.88;2013-12-05T00:00:00
+295531;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;48;;;39817;764060.25;1124511.38;2013-12-05T00:00:00
+295540;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;49;;;39817;764046.13;1124517.25;2013-12-05T00:00:00
+295558;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;50;;;39817;764031.81;1124521.25;2013-12-05T00:00:00
+295566;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;51;;;39817;763997.78;1124531.29;2022-10-23T00:00:00
+295574;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;52;;;39817;764901.25;1124977.50;2013-12-05T00:00:00
+295582;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;53;;;39817;763541.06;1124612.95;2022-10-23T00:00:00
+295591;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;54;;;39817;763975.09;1124736.79;2022-10-23T00:00:00
+295604;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;55;;;39817;763936.50;1124792.75;2013-12-05T00:00:00
+295612;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;56;;;39817;763982.81;1124756.63;2013-12-05T00:00:00
+295639;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;58;;;39817;763710.11;1124581.66;2022-10-23T00:00:00
+295647;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;59;;;39817;764093.69;1124494.63;2013-12-05T00:00:00
+295655;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;60;;;39817;764115.31;1124483.63;2013-12-05T00:00:00
+295663;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;61;;;39817;763802.29;1125771.98;2022-10-23T00:00:00
+295671;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;62;;;39817;763694.44;1125453.63;2013-12-05T00:00:00
+295680;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;63;;;39817;763268.06;1125147.55;2022-10-23T00:00:00
+295698;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;64;;;39817;763252.63;1125152.58;2022-10-23T00:00:00
+295701;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;65;;;39817;763236.60;1125157.56;2022-10-23T00:00:00
+295710;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;66;;;39817;763224.17;1125161.50;2022-10-23T00:00:00
+295728;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;67;;;39817;763245.04;1125170.46;2022-10-23T00:00:00
+295736;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;68;;;39817;763261.10;1125177.99;2022-10-23T00:00:00
+295744;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;69;;;39817;763283.42;1125175.96;2022-10-23T00:00:00
+295752;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;1;;;39701;762867.06;1128707.38;2013-12-05T00:00:00
+295761;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;2;;;39701;762837.75;1128743.63;2013-12-05T00:00:00
+295779;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;3;;;39701;762833.88;1128763.13;2013-12-05T00:00:00
+295787;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;4;;;39701;762807.25;1128738.59;2022-10-23T00:00:00
+295795;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;5;;;39701;762791.44;1128774.13;2013-12-05T00:00:00
+295809;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;6;;;39701;762756.31;1128780.25;2013-12-05T00:00:00
+295817;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;7;;;39701;762792.69;1128820.38;2013-12-05T00:00:00
+295825;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;8;;;39701;762800.69;1128885.13;2013-12-05T00:00:00
+295833;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;9;;;39701;762786.44;1128908.38;2013-12-05T00:00:00
+295841;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;10;;;39701;762692.31;1129046.88;2013-12-05T00:00:00
+295850;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;11;;;39701;762608.56;1129083.13;2013-12-05T00:00:00
+295868;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;13;;;39701;762651.00;1129038.75;2013-12-05T00:00:00
+295884;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;15;;;39701;762716.81;1128742.00;2013-12-05T00:00:00
+295892;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;16;;;39701;762843.94;1128886.38;2013-12-05T00:00:00
+295906;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;17;;;39701;762879.44;1128860.50;2013-12-05T00:00:00
+295914;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;18;;;39701;762886.00;1128823.13;2013-12-05T00:00:00
+295922;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;19;;;39701;762870.94;1128781.38;2013-12-05T00:00:00
+295931;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;20;;;39701;762908.38;1128786.38;2013-12-05T00:00:00
+295949;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;21;;;39701;762962.00;1128775.63;2013-12-05T00:00:00
+295957;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;22;;;39701;762910.21;1128801.94;2022-10-23T00:00:00
+295965;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;23;;;39701;762963.50;1128730.50;2013-12-05T00:00:00
+295973;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;24;;;39701;762947.31;1128728.50;2013-12-05T00:00:00
+295981;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;25;;;39701;762891.88;1128724.75;2013-12-05T00:00:00
+295990;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;26;;;39701;762864.38;1128757.13;2013-12-05T00:00:00
+296007;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;27;;;39701;762776.04;1128697.55;2022-10-23T00:00:00
+296015;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;28;;;39701;763576.23;1129228.76;2018-05-04T00:00:00
+296023;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;29;;;39701;763158.34;1128660.38;2013-12-05T00:00:00
+296031;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;30;;;39701;762940.00;1128666.75;2013-12-05T00:00:00
+296040;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;31;;;39701;762677.17;1129033.98;2022-10-23T00:00:00
+296058;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;32;;;39701;762802.63;1128805.75;2013-12-05T00:00:00
+296066;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;33;;;39701;762831.56;1128859.75;2013-12-05T00:00:00
+296074;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;34;;;39701;762583.13;1129097.75;2013-12-05T00:00:00
+296082;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;35;;;39701;762838.50;1128811.50;2013-12-05T00:00:00
+296091;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;36;;;39701;762728.56;1128730.50;2013-12-05T00:00:00
+296104;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;37;;;39701;762993.25;1128682.25;2013-12-05T00:00:00
+296112;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;38;;;39701;762732.00;1128712.38;2013-12-05T00:00:00
+296121;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;39;;;39701;765128.75;1127676.50;2013-12-05T00:00:00
+296139;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;40;;;39701;762372.19;1127963.25;2013-12-05T00:00:00
+296147;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;41;;;39701;762628.63;1129061.13;2013-12-05T00:00:00
+296155;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;42;;;39701;765142.00;1127675.50;2013-12-05T00:00:00
+296163;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;43;;;39701;762998.25;1128642.88;2013-12-05T00:00:00
+296171;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;44;;;39701;763023.24;1128616.01;2022-10-23T00:00:00
+296180;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;45;;;39701;763044.94;1128654.13;2013-12-05T00:00:00
+296198;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;46;;;39701;763030.25;1128662.63;2013-12-05T00:00:00
+296201;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;47;;;39701;763063.06;1128644.38;2013-12-05T00:00:00
+296210;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;48;;;39701;763086.19;1128612.00;2013-12-05T00:00:00
+296228;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;49;;;39701;762789.88;1128648.25;2013-12-05T00:00:00
+296236;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;50;;;39701;763107.44;1128562.25;2013-12-05T00:00:00
+296244;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;51;;;39701;762545.81;1129702.25;2013-12-05T00:00:00
+296252;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;52;;;39701;763152.87;1128644.85;2013-12-05T00:00:00
+296261;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;53;;;39701;763090.06;1128643.25;2013-12-05T00:00:00
+296279;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;54;;;39701;763119.81;1128612.00;2013-12-05T00:00:00
+296287;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;55;;;39701;762539.13;1129110.13;2013-12-05T00:00:00
+296295;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;56;;;39701;763156.06;1128438.75;2013-12-05T00:00:00
+296309;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;57;;;39701;763177.69;1128502.50;2013-12-05T00:00:00
+296317;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;58;;;39701;763148.75;1128474.25;2013-12-05T00:00:00
+296325;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;59;;;39701;763195.00;1128419.88;2013-12-05T00:00:00
+296333;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;60;;;39701;763149.88;1128523.25;2013-12-05T00:00:00
+296341;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;61;;;39701;762439.94;1129147.13;2013-12-05T00:00:00
+296350;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;62;;;39701;762918.38;1128688.00;2013-12-05T00:00:00
+296376;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;64;;;39701;762903.56;1129089.13;2013-12-05T00:00:00
+296384;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;65;;;39701;763742.88;1129105.13;2013-12-05T00:00:00
+296392;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;66;;;39701;763195.97;1129150.91;2013-12-05T00:00:00
+296406;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;67;;;39701;762708.50;1129020.25;2013-12-05T00:00:00
+296414;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;68;;;39701;764567.19;1128789.75;2013-12-05T00:00:00
+296422;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;69;;;39701;764525.56;1128763.25;2013-12-05T00:00:00
+296431;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;1;;;39701;761265.94;1129369.25;2013-12-05T00:00:00
+296449;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;2;;;39701;761309.69;1129339.25;2013-12-05T00:00:00
+296457;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;3;;;39701;761185.94;1129473.00;2013-12-05T00:00:00
+296465;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;4;;;39701;761345.56;1129357.13;2013-12-05T00:00:00
+296473;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;5;;;39701;762079.00;1129066.38;2013-12-05T00:00:00
+296481;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;6;;;39701;761233.56;1129394.63;2013-12-05T00:00:00
+296490;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;7;;;39701;761988.63;1127732.63;2013-12-05T00:00:00
+296503;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;8;;;39701;763153.69;1128102.38;2013-12-05T00:00:00
+296511;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;9;;;39701;762909.06;1128634.13;2013-12-05T00:00:00
+296520;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;12;;;39701;762804.94;1128907.08;2022-10-23T00:00:00
+296538;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;190;;;39816;764086.31;1133836.63;2013-12-05T00:00:00
+296546;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.ev.;10;;;39811;761375.75;1133215.25;2013-12-05T00:00:00
+296554;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;32;;;37501;760209.55;1135678.12;2013-12-05T00:00:00
+25857002;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;10;;;39701;762410.57;1129183.56;2013-12-05T00:00:00
+25858564;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;71;;;39817;764015.79;1125717.35;2022-10-23T00:00:00
+25860828;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;91;;;37501;759899.63;1136755.38;2013-12-05T00:00:00
+25863291;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;88;;;39817;763974.02;1124539.95;2013-12-05T00:00:00
+25865668;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;20;;;39701;763291.26;1130467.77;2013-12-05T00:00:00
+25869825;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.ev.;11;;;39701;762975.11;1128628.08;2019-02-11T00:00:00
+25881906;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;19;;;39701;763090.00;1130557.00;2013-12-05T00:00:00
+25884638;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;18;;;39701;761105.00;1130523.00;2013-12-05T00:00:00
+25902652;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.ev.;72;;;39817;764061.26;1125752.17;2013-12-05T00:00:00
+25904256;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;21;;;39701;761108.11;1130545.10;2013-12-05T00:00:00
+26049996;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;6;;;39811;761569.13;1133332.25;2013-12-05T00:00:00
+26328461;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;193;;;39816;764087.01;1133664.64;2020-03-24T00:00:00
+26328470;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;194;;;39816;764096.83;1133696.16;2013-12-05T00:00:00
+26764466;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;191;;;39816;763682.00;1133177.00;2013-12-05T00:00:00
+26764474;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;70;;;39701;762814.63;1128610.38;2013-12-05T00:00:00
+26831627;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;201;;;39816;763560.30;1133208.49;2014-01-21T00:00:00
+27152600;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;89;;;39701;763388.66;1130417.64;2013-12-05T00:00:00
+27237125;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;86;;;39701;763292.14;1130515.46;2021-06-10T00:00:00
+27237133;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;87;;;39701;763319.00;1130508.00;2013-12-05T00:00:00
+27237141;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;88;;;39701;763425.75;1130449.80;2013-12-05T00:00:00
+27237150;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;90;;;39701;762918.32;1130647.78;2016-01-07T00:00:00
+27237168;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;195;;;39816;763276.48;1133613.33;2016-01-07T00:00:00
+27237176;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;196;;;39816;763485.27;1133396.69;2013-12-05T00:00:00
+27237184;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;197;;;39816;763466.39;1133396.04;2013-12-05T00:00:00
+27876268;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;72;;;39701;763217.00;1129146.00;2013-12-05T00:00:00
+27876276;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;73;;;39701;762980.63;1128769.77;2017-05-25T00:00:00
+27876284;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;92;;;37501;760457.30;1135427.06;2016-01-07T00:00:00
+28105991;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;22;;;39701;761110.41;1130563.16;2013-12-05T00:00:00
+28106008;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;23;;;39701;761113.80;1130576.58;2013-12-05T00:00:00
+28106016;549258;Albrechtice nad Vltavou;;;;;54445;Ch¯eöùovice;;;Ë.p.;41;;;39817;764016.79;1126094.48;2022-10-23T00:00:00
+28451775;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;93;;;37501;760020.62;1135731.81;2023-05-21T00:00:00
+28451783;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;94;;;37501;760092.08;1135659.22;2023-05-21T00:00:00
+28451791;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;95;;;37501;760071.49;1135672.65;2023-05-21T00:00:00
+31182160;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;91;;;39701;762602.97;1130540.73;2025-11-25T00:00:00
+40000532;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;198;;;39816;763251.55;1133615.04;2023-05-21T00:00:00
+40000583;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.ev.;81;;;39701;764604.98;1131446.38;2016-01-07T00:00:00
+40271919;549258;Albrechtice nad Vltavou;;;;;230;Hladn·;;;Ë.p.;14;;;39811;761348.39;1133526.55;2017-02-02T00:00:00
+40496155;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;97;;;37501;760107.62;1135676.03;2013-12-05T00:00:00
+40869733;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;92;;;39701;763337.45;1130409.70;2013-12-05T00:00:00
+41031814;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;98;;;37501;760117.16;1135655.38;2013-12-05T00:00:00
+59984929;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;200;;;39816;763407.94;1133474.94;2013-12-05T00:00:00
+61062260;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;199;;;39816;763497.12;1133213.87;2013-12-06T00:00:00
+71072276;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;10;;;37501;761040.05;1135027.36;2014-01-20T00:00:00
+72429224;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;99;;;37501;760122.32;1135627.63;2014-03-20T00:00:00
+72429577;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;100;;;37501;760138.68;1135640.27;2014-03-20T00:00:00
+73013234;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;101;;;37501;760040.58;1135706.10;2014-08-27T00:00:00
+73035688;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;102;;;37501;760389.62;1135446.64;2014-09-05T00:00:00
+73667871;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;103;;;37501;760052.05;1135684.22;2015-05-11T00:00:00
+73958492;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;74;;;39701;762934.31;1128608.28;2015-08-14T00:00:00
+74158007;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;203;;;39816;763035.53;1133905.73;2015-10-19T00:00:00
+74441264;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;96;;;37501;760348.28;1136497.95;2016-01-07T00:00:00
+74911899;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;204;;;39816;763404.40;1133687.53;2016-04-21T00:00:00
+75074354;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;15;;;37501;760702.57;1135191.97;2017-06-21T00:00:00
+75122405;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;14;;;39701;762889.61;1128763.79;2016-06-17T00:00:00
+75276046;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;213;;;39816;763674.87;1133526.17;2016-08-17T00:00:00
+76196364;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;205;;;39816;763423.81;1133692.51;2017-06-07T00:00:00
+76197085;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;214;;;39816;763924.95;1133713.12;2017-05-31T00:00:00
+78155550;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;75;;;39701;762724.18;1128617.17;2018-03-21T00:00:00
+78338549;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;104;;;37501;760043.15;1135778.56;2018-05-15T00:00:00
+78338760;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;105;;;37501;760039.04;1135798.96;2018-05-15T00:00:00
+78339529;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;106;;;37501;760024.41;1135821.60;2018-05-15T00:00:00
+78339677;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;108;;;37501;760013.17;1135751.75;2018-05-15T00:00:00
+78339863;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;107;;;37501;760017.31;1135807.90;2018-05-15T00:00:00
+78340373;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;109;;;37501;760003.05;1135769.67;2018-05-15T00:00:00
+78340535;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;110;;;37501;759992.66;1135791.36;2018-05-15T00:00:00
+78344549;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;111;;;37501;759970.84;1135800.54;2018-05-15T00:00:00
+78448123;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;93;;;39701;761084.15;1130846.52;2018-06-19T00:00:00
+78855667;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;112;;;37501;760414.56;1135438.16;2018-11-12T00:00:00
+79223281;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;113;;;37501;760146.05;1135616.80;2019-03-14T00:00:00
+79272959;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;207;;;39816;763491.40;1133670.05;2019-04-03T00:00:00
+79400965;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;206;;;39816;763439.45;1133704.56;2019-05-23T00:00:00
+79402275;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;210;;;39816;763519.60;1133738.35;2019-05-24T00:00:00
+79448259;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;211;;;39816;763542.25;1133714.29;2019-06-10T00:00:00
+79448364;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;216;;;39816;763542.14;1133624.02;2023-02-20T00:00:00
+79661840;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;114;;;37501;760390.47;1135511.51;2019-08-13T00:00:00
+80205305;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;77;;;39701;763263.52;1128420.17;2019-12-20T00:00:00
+80690912;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;202;;;39816;763524.67;1133311.67;2020-05-26T00:00:00
+80850049;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;76;;;39701;763251.47;1128449.34;2020-06-19T00:00:00
+80910033;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;212;;;39816;763567.87;1133706.26;2020-07-01T00:00:00
+80958141;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;222;;;39816;763619.52;1133663.05;2020-07-14T00:00:00
+81394802;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;219;;;39816;763587.16;1133646.26;2020-12-28T00:00:00
+81988265;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;115;;;37501;760470.32;1135437.52;2021-07-26T00:00:00
+81988338;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;208;;;39816;763462.86;1133728.55;2021-07-26T00:00:00
+82280339;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;224;;;39816;763598.65;1133707.75;2021-11-22T00:00:00
+82758638;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;225;;;39816;763607.98;1133208.45;2022-03-21T00:00:00
+83008101;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;116;;;37501;760414.71;1135497.85;2022-06-01T00:00:00
+83069437;549258;Albrechtice nad Vltavou;;;;;264;⁄draû;;;Ë.p.;25;;;39701;763071.88;1130571.39;2022-07-29T00:00:00
+83133909;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;117;;;37501;760647.69;1135260.25;2022-07-15T00:00:00
+83164308;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;226;;;39816;763502.44;1133527.78;2022-07-27T00:00:00
+83298029;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;48;;;37501;760329.97;1135696.31;2022-09-16T00:00:00
+83351370;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;223;;;39816;763592.70;1133679.93;2022-10-11T00:00:00
+83351485;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;217;;;39816;763525.90;1133652.52;2022-10-11T00:00:00
+83352171;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;215;;;39816;763513.52;1133587.17;2022-10-11T00:00:00
+85042960;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.ev.;118;;;37501;760465.36;1135471.97;2023-03-21T00:00:00
+85758159;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;220;;;39816;763603.36;1133638.38;2023-11-14T00:00:00
+86180347;549258;Albrechtice nad Vltavou;;;;;54453;JehnÏdno;;;Ë.p.;78;;;39701;762731.80;1128670.59;2024-05-07T00:00:00
+86321323;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;221;;;39816;763626.27;1133699.65;2024-07-01T00:00:00
+87018756;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;227;;;39816;763643.45;1133966.92;2025-05-07T00:00:00
+87073633;549258;Albrechtice nad Vltavou;;;;;272;⁄jezd;;;Ë.p.;49;;;37501;760303.88;1136246.15;2025-06-02T00:00:00
+87551004;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;231;;;39816;763777.89;1133885.24;2026-01-02T00:00:00
+87612445;549258;Albrechtice nad Vltavou;;;;;221;Albrechtice nad Vltavou;;;Ë.p.;234;;;39816;764480.89;1133700.28;2026-02-03T00:00:00

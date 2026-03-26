@@ -1,0 +1,616 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód obvodu Prahy;Název obvodu Prahy;Kód èásti obce;Název èásti obce;Kód ulice;Název ulice;Typ SO;Èíslo domovní;Èíslo orientaèní;Znak èísla orientaèního;PSÈ;Souøadnice Y;Souøadnice X;Platí Od
+9726110;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;1;;;51742;611710.94;1057063.50;2013-12-04T00:00:00
+9726128;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;2;;;51742;611782.15;1057019.54;2013-12-04T00:00:00
+9726136;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;3;;;51742;611705.94;1056877.88;2013-12-04T00:00:00
+9726152;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;5;;;51742;611719.25;1056823.88;2013-12-04T00:00:00
+9726161;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;7;;;51742;611761.75;1056884.63;2013-12-04T00:00:00
+9726187;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;9;;;51742;611785.19;1056901.50;2013-12-04T00:00:00
+9726195;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;10;;;51742;611814.41;1056916.10;2014-02-20T00:00:00
+9726209;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;11;;;51742;611783.88;1057100.63;2013-12-04T00:00:00
+9726233;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;14;;;51742;611799.59;1056826.49;2016-04-26T00:00:00
+9726241;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;15;;;51742;611813.75;1056855.89;2018-08-08T00:00:00
+9726250;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;16;;;51742;611877.06;1056809.25;2013-12-04T00:00:00
+9726276;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;18;;;51742;611971.13;1056850.63;2013-12-04T00:00:00
+9726284;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;19;;;51742;611997.88;1056823.13;2013-12-04T00:00:00
+9726292;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;20;;;51742;612100.88;1056773.38;2013-12-04T00:00:00
+9726306;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;21;;;51742;612062.31;1057162.50;2013-12-04T00:00:00
+9726314;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;22;;;51742;612132.88;1056763.50;2013-12-04T00:00:00
+9726322;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;23;;;51742;612220.62;1056719.40;2013-12-04T00:00:00
+9726331;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;24;;;51742;612277.06;1056728.88;2013-12-04T00:00:00
+9726349;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;25;;;51742;612305.00;1056707.25;2013-12-04T00:00:00
+9726357;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;26;;;51742;612323.56;1056694.50;2013-12-04T00:00:00
+9726365;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;27;;;51742;612402.92;1056698.26;2013-12-04T00:00:00
+9726373;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;28;;;51742;612383.49;1056648.89;2013-12-04T00:00:00
+9726390;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;30;;;51742;612348.49;1056689.54;2013-12-04T00:00:00
+9726411;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541486;Na Bìlisku;è.p.;32;;;51742;612298.48;1056863.70;2013-12-04T00:00:00
+9726420;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541486;Na Bìlisku;è.p.;33;;;51742;612328.88;1056953.00;2013-12-04T00:00:00
+9726438;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541486;Na Bìlisku;è.p.;34;;;51742;612375.19;1056962.75;2013-12-04T00:00:00
+9726446;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;35;;;51742;612104.56;1056723.88;2013-12-04T00:00:00
+9726454;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;36;;;51742;612262.56;1056780.75;2013-12-04T00:00:00
+9726462;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;37;;;51742;612402.81;1056630.75;2013-12-04T00:00:00
+9726471;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;38;;;51742;612184.06;1056796.00;2013-12-04T00:00:00
+9726489;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;39;;;51742;612155.44;1056798.00;2013-12-04T00:00:00
+9726497;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;40;;;51742;612648.62;1056322.96;2025-03-05T00:00:00
+9726501;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;41;;;51742;612065.25;1056827.16;2013-12-04T00:00:00
+9726519;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;42;;;51742;612042.88;1056839.13;2013-12-04T00:00:00
+9726527;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;43;;;51742;612018.32;1056857.18;2013-12-04T00:00:00
+9726535;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;44;;;51742;611984.81;1056885.75;2013-12-04T00:00:00
+9726543;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;45;;;51742;611934.19;1056900.00;2013-12-04T00:00:00
+9726560;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;47;;;51742;611818.75;1057086.00;2013-12-04T00:00:00
+9726586;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;48;;;51742;611766.50;1057125.00;2013-12-04T00:00:00
+9726594;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;49;;;51742;611774.63;1057128.38;2013-12-04T00:00:00
+9726608;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;50;;;51742;611858.25;1057153.00;2013-12-04T00:00:00
+9726616;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;51;;;51742;611873.69;1057175.00;2013-12-04T00:00:00
+9726624;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;52;;;51742;611929.80;1057139.90;2013-12-04T00:00:00
+9726632;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;53;;;51742;612069.00;1057103.38;2013-12-04T00:00:00
+9726641;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;54;;;51742;612031.69;1057087.25;2013-12-04T00:00:00
+9726659;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;55;;;51742;611601.13;1057629.38;2013-12-04T00:00:00
+9726667;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;56;;;51742;612073.56;1057067.50;2013-12-04T00:00:00
+9726675;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;57;;;51742;612087.25;1057062.75;2013-12-04T00:00:00
+9726683;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;58;;;51742;612115.06;1057061.50;2013-12-04T00:00:00
+9726691;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;59;;;51742;612142.06;1057067.50;2013-12-04T00:00:00
+9726705;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;60;;;51742;612047.38;1056858.88;2013-12-04T00:00:00
+9726713;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;61;;;51742;612168.69;1057071.50;2013-12-04T00:00:00
+9726721;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;62;;;51742;612178.94;1057073.38;2013-12-04T00:00:00
+9726730;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;516;;;51742;612186.98;1057101.42;2023-01-27T00:00:00
+9726748;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;64;;;51742;612290.00;1057176.75;2013-12-04T00:00:00
+9726756;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;65;;;51742;612310.19;1057208.88;2013-12-04T00:00:00
+9726764;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;66;;;51742;612173.94;1057177.50;2013-12-04T00:00:00
+9726772;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;67;;;51742;612123.56;1057147.63;2013-12-04T00:00:00
+9726781;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;68;;;51742;611979.06;1057188.13;2013-12-04T00:00:00
+9726799;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;69;;;51742;611970.50;1057312.38;2013-12-04T00:00:00
+9726802;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541443;Koïouskova;è.p.;70;;;51742;611876.75;1057369.50;2013-12-04T00:00:00
+9726811;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;71;;;51742;611942.19;1057313.75;2013-12-04T00:00:00
+9726829;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541443;Koïouskova;è.p.;72;;;51742;611909.19;1057338.75;2013-12-04T00:00:00
+9726837;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;73;;;51742;611936.69;1057360.00;2013-12-04T00:00:00
+9726845;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541443;Koïouskova;è.p.;74;;;51742;611886.00;1057366.13;2013-12-04T00:00:00
+9726853;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;75;;;51742;612154.56;1057076.38;2013-12-04T00:00:00
+9726861;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;76;;;51742;611895.44;1057393.00;2013-12-04T00:00:00
+9726870;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;77;;;51742;611910.06;1057406.13;2013-12-04T00:00:00
+9726888;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;78;;;51742;611912.88;1057420.88;2013-12-04T00:00:00
+9726896;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;79;;;51742;612301.88;1057165.25;2013-12-04T00:00:00
+9726900;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;80;;;51742;611934.69;1057447.88;2013-12-04T00:00:00
+9726926;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;82;;;51742;611980.34;1057524.52;2018-01-27T00:00:00
+9726942;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;84;;;51742;611216.81;1057114.88;2013-12-04T00:00:00
+9726951;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;85;;;51742;612099.00;1057061.13;2013-12-04T00:00:00
+9726969;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;86;;;51742;611627.81;1056920.38;2013-12-04T00:00:00
+9726977;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;87;;;51742;611989.50;1057200.00;2013-12-04T00:00:00
+9726985;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;88;;;51742;612328.63;1057141.88;2013-12-04T00:00:00
+9726993;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;89;;;51742;611655.56;1056926.63;2013-12-04T00:00:00
+9727001;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;90;;;51742;612337.56;1057289.38;2013-12-04T00:00:00
+9727019;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;91;;;51742;611977.25;1057275.38;2013-12-04T00:00:00
+9727027;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;92;;;51742;611959.88;1057492.38;2013-12-04T00:00:00
+9727035;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230828;U Parku;è.p.;93;;;51742;611957.50;1057279.88;2018-02-13T00:00:00
+9727043;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230828;U Parku;è.p.;94;;;51742;611942.19;1057290.00;2018-02-13T00:00:00
+9727051;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;95;;;51742;612083.81;1057104.88;2013-12-04T00:00:00
+9727060;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;96;;;51742;611602.00;1056920.38;2013-12-04T00:00:00
+9727078;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;97;;;51742;611536.31;1056928.38;2013-12-04T00:00:00
+9727086;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;98;;;51742;612099.25;1057104.63;2013-12-04T00:00:00
+9727094;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;99;;;51742;612132.19;1057121.00;2013-12-04T00:00:00
+9727108;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;100;;;51742;611984.26;1057224.84;2019-04-24T00:00:00
+9727116;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;101;;;51742;612080.38;1057031.00;2013-12-04T00:00:00
+9727124;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;102;;;51742;612324.63;1057244.13;2013-12-04T00:00:00
+9727132;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;103;;;51742;612004.38;1057260.38;2013-12-04T00:00:00
+9727141;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;104;;;51742;612385.65;1056614.67;2013-12-04T00:00:00
+9727159;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;105;;;51742;612250.81;1056765.88;2013-12-04T00:00:00
+9727175;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;107;;;51742;612248.78;1056755.05;2018-03-08T00:00:00
+9727183;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;108;;;51742;612235.69;1056763.25;2013-12-04T00:00:00
+9727191;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;109;;;51742;612204.94;1057101.38;2013-12-04T00:00:00
+9727205;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;110;;;51742;611917.25;1057391.63;2013-12-04T00:00:00
+9727213;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;111;;;51742;611868.75;1056955.00;2013-12-04T00:00:00
+9727221;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;112;;;51742;611859.38;1056998.38;2013-12-04T00:00:00
+9727230;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;113;;;51742;611924.88;1057300.50;2013-12-04T00:00:00
+9727248;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;114;;;51742;612519.19;1057348.50;2013-12-04T00:00:00
+9727256;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;115;;;51742;612002.19;1057235.67;2017-06-13T00:00:00
+9727264;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;116;;;51742;612070.38;1057299.25;2013-12-04T00:00:00
+9727272;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;117;;;51742;612024.44;1057284.13;2013-12-04T00:00:00
+9727299;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;119;;;51742;611891.63;1057022.88;2013-12-04T00:00:00
+9727302;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;120;;;51742;611868.63;1057041.88;2013-12-04T00:00:00
+9727329;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;122;;;51742;611982.32;1057144.76;2013-12-04T00:00:00
+9727345;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;124;;;51742;612002.00;1057128.25;2013-12-04T00:00:00
+9727353;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;125;;;51742;611587.00;1057572.50;2013-12-04T00:00:00
+9727361;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541443;Koïouskova;è.p.;126;;;51742;611844.00;1057389.00;2013-12-04T00:00:00
+9727370;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;127;;;51742;612016.88;1057138.50;2013-12-04T00:00:00
+9727388;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;129;;;51742;612033.13;1057112.88;2013-12-04T00:00:00
+9727396;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;130;;;51742;612050.50;1057106.88;2013-12-04T00:00:00
+9727400;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;131;;;51742;611998.63;1057048.63;2013-12-04T00:00:00
+9727418;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;132;;;51742;612026.06;1057090.13;2013-12-04T00:00:00
+9727426;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;133;;;51742;612013.88;1057091.00;2013-12-04T00:00:00
+9727434;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;134;;;51742;611925.56;1057318.38;2013-12-04T00:00:00
+9727442;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;135;;;51742;612009.13;1057147.50;2013-12-04T00:00:00
+9727451;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;136;;;51742;612044.19;1057087.63;2013-12-04T00:00:00
+9727469;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;137;;;51742;612051.44;1057084.88;2013-12-04T00:00:00
+9727477;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;138;;;51742;611620.25;1056918.75;2013-12-04T00:00:00
+9727485;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;139;;;51742;612310.15;1057245.77;2018-01-27T00:00:00
+9727493;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;140;;;51742;611993.08;1057153.25;2013-12-04T00:00:00
+9727507;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;141;;;51742;612015.63;1057176.63;2013-12-04T00:00:00
+9727515;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;142;;;51742;612088.50;1057156.00;2013-12-04T00:00:00
+9727523;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;143;;;51742;612327.31;1057109.75;2013-12-04T00:00:00
+9727531;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;144;;;51742;612038.50;1057169.50;2013-12-04T00:00:00
+9727540;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;145;;;51742;612378.75;1057106.75;2013-12-04T00:00:00
+9727558;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;146;;;51742;612546.56;1057060.75;2013-12-04T00:00:00
+9727566;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;147;;;51742;612316.94;1057229.88;2013-12-04T00:00:00
+9727574;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;148;;;51742;612312.25;1057233.38;2013-12-04T00:00:00
+9727582;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;149;;;51742;612229.56;1057096.13;2013-12-04T00:00:00
+9727591;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;150;;;51742;612240.00;1057092.13;2013-12-04T00:00:00
+9727604;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;151;;;51742;612205.25;1057162.50;2013-12-04T00:00:00
+9727612;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;152;;;51742;612236.13;1057178.88;2013-12-04T00:00:00
+9727621;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;153;;;51742;611971.25;1057333.13;2013-12-04T00:00:00
+9727639;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;154;;;51742;612193.75;1057075.88;2013-12-04T00:00:00
+9727647;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;155;;;51742;611979.88;1057119.00;2013-12-04T00:00:00
+9727655;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;156;;;51742;611963.31;1057127.63;2013-12-04T00:00:00
+9727663;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;3037347;Nádražní;è.p.;157;;;51742;612052.07;1056897.79;2022-07-14T00:00:00
+9727671;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;158;;;51742;612378.31;1057314.13;2013-12-04T00:00:00
+9727680;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;159;;;51742;612580.31;1057052.13;2013-12-04T00:00:00
+9727698;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;160;;;51742;612389.81;1057307.38;2013-12-04T00:00:00
+9727701;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;161;;;51742;612355.13;1057325.38;2013-12-04T00:00:00
+9727710;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;162;;;51742;612346.44;1057309.63;2013-12-04T00:00:00
+9727728;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;163;;;51742;612391.25;1057277.13;2013-12-04T00:00:00
+9727736;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;164;;;51742;612067.13;1057212.13;2023-10-16T00:00:00
+9727744;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;165;;;51742;612083.25;1057200.88;2013-12-04T00:00:00
+9727752;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;166;;;51742;612007.06;1057047.50;2013-12-04T00:00:00
+9727761;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;167;;;51742;612015.00;1057045.75;2013-12-04T00:00:00
+9727779;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;168;;;51742;612023.13;1057042.88;2013-12-04T00:00:00
+9727787;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;169;;;51742;612019.31;1057509.75;2013-12-04T00:00:00
+9727795;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;170;;;51742;612024.50;1057524.88;2013-12-04T00:00:00
+9727809;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;171;;;51742;612031.06;1057540.00;2013-12-04T00:00:00
+9727817;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;172;;;51742;612061.25;1057534.75;2013-12-04T00:00:00
+9727825;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;173;;;51742;612086.19;1057527.25;2013-12-04T00:00:00
+9727833;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;174;;;51742;612106.94;1057521.63;2013-12-04T00:00:00
+9727841;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;175;;;51742;611976.88;1057374.63;2013-12-04T00:00:00
+9727850;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;176;;;51742;611975.25;1057386.63;2013-12-04T00:00:00
+9727868;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;177;;;51742;612035.13;1057040.13;2013-12-04T00:00:00
+9727876;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;178;;;51742;612040.72;1057034.24;2017-12-01T00:00:00
+9727884;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;179;;;51742;612050.62;1057034.95;2013-12-11T00:00:00
+9727892;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;180;;;51742;612653.50;1057046.38;2013-12-04T00:00:00
+9727906;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;181;;;51742;612365.63;1057331.63;2013-12-04T00:00:00
+9727914;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;183;;;51742;612426.46;1056627.52;2013-12-04T00:00:00
+9727922;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;184;;;51742;612368.75;1057351.00;2013-12-04T00:00:00
+9727931;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;185;;;51742;612420.31;1057331.63;2013-12-04T00:00:00
+9727949;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;186;;;51742;612434.25;1057325.38;2013-12-04T00:00:00
+9727957;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;187;;;51742;612449.00;1057319.88;2013-12-04T00:00:00
+9727965;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;188;;;51742;612379.31;1057393.38;2013-12-04T00:00:00
+9727973;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;189;;;51742;612394.63;1057410.38;2013-12-04T00:00:00
+9727981;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;190;;;51742;611989.81;1057051.63;2013-12-04T00:00:00
+9727990;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;191;;;51742;611984.13;1057052.25;2013-12-04T00:00:00
+9728007;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;192;;;51742;611977.25;1057054.63;2013-12-04T00:00:00
+9728015;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;193;;;51742;612369.00;1057298.75;2013-12-04T00:00:00
+9728023;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;194;;;51742;612376.38;1057293.38;2013-12-04T00:00:00
+9728031;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;195;;;51742;611991.38;1057084.75;2013-12-04T00:00:00
+9728040;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;196;;;51742;612009.13;1057102.63;2013-12-04T00:00:00
+9728058;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;197;;;51742;612461.88;1057397.38;2013-12-04T00:00:00
+9728066;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;198;;;51742;611997.38;1057106.63;2013-12-04T00:00:00
+9728074;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;199;;;51742;612394.19;1057340.88;2013-12-04T00:00:00
+9728082;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;200;;;51742;612408.56;1057333.88;2013-12-04T00:00:00
+9728091;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;201;;;51742;612423.94;1057411.63;2013-12-04T00:00:00
+9728104;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;202;;;51742;611977.06;1057475.88;2013-12-04T00:00:00
+9728112;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;203;;;51742;611973.31;1057414.13;2013-12-04T00:00:00
+9728121;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;204;;;51742;611978.04;1057408.12;2022-06-20T00:00:00
+9728139;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;205;;;51742;612248.50;1057186.00;2013-12-04T00:00:00
+9728147;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;206;;;51742;612486.25;1057305.88;2013-12-04T00:00:00
+9728155;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;207;;;51742;612279.19;1057111.00;2013-12-04T00:00:00
+9728163;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;208;;;51742;612293.63;1057110.25;2013-12-04T00:00:00
+9728171;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;209;;;51742;612300.44;1057111.50;2013-12-04T00:00:00
+9728180;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;210;;;51742;612307.31;1057109.88;2013-12-04T00:00:00
+9728198;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;211;;;51742;612175.00;1057294.38;2013-12-04T00:00:00
+9728210;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;213;;;51742;612277.33;1057136.39;2022-09-21T00:00:00
+9728228;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;214;;;51742;612509.69;1057445.25;2013-12-04T00:00:00
+9728236;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;215;;;51742;612505.13;1057440.88;2013-12-04T00:00:00
+9728244;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;216;;;51742;612496.19;1057443.88;2013-12-04T00:00:00
+9728252;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;217;;;51742;612490.56;1057438.75;2013-12-04T00:00:00
+9728261;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;218;;;51742;612481.38;1057445.25;2013-12-04T00:00:00
+9728279;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;219;;;51742;612476.81;1057441.25;2013-12-04T00:00:00
+9728287;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;220;;;51742;612467.38;1057442.50;2013-12-04T00:00:00
+9728295;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;221;;;51742;612462.25;1057440.38;2013-12-04T00:00:00
+9728309;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;222;;;51742;612520.19;1057442.88;2013-12-04T00:00:00
+9728317;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;223;;;51742;612002.81;1057553.63;2013-12-04T00:00:00
+9728325;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;224;;;51742;612010.81;1057580.00;2013-12-04T00:00:00
+9728333;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;225;;;51742;612505.44;1057296.75;2013-12-04T00:00:00
+9728341;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;226;;;51742;612508.19;1057317.50;2013-12-04T00:00:00
+9728350;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;227;;;51742;612521.31;1056421.63;2013-12-04T00:00:00
+9728368;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;228;;;51742;612293.31;1057194.38;2013-12-04T00:00:00
+9728376;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;229;;;51742;612610.00;1056415.75;2013-12-04T00:00:00
+9728384;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;230;;;51742;612604.94;1056394.13;2013-12-04T00:00:00
+9728392;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;231;;;51742;612593.25;1056354.50;2013-12-04T00:00:00
+9728406;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;232;;;51742;612151.88;1057144.00;2013-12-04T00:00:00
+9728414;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;233;;;51742;612602.94;1056478.00;2013-12-04T00:00:00
+9728422;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;234;;;51742;612527.19;1056449.88;2013-12-04T00:00:00
+9728431;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;235;;;51742;612571.74;1056489.68;2017-11-29T00:00:00
+9728449;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;236;;;51742;612575.88;1056395.00;2013-12-04T00:00:00
+9728457;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;237;;;51742;612455.36;1057340.61;2025-03-05T00:00:00
+9728465;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;238;;;51742;612444.63;1057349.44;2025-03-05T00:00:00
+9728473;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;239;;;51742;612436.94;1057347.68;2018-02-14T00:00:00
+9728481;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;240;;;51742;612433.44;1057360.75;2013-12-04T00:00:00
+9728490;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;241;;;51742;612394.19;1057363.75;2013-12-04T00:00:00
+9728503;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;242;;;51742;612563.19;1056361.13;2013-12-04T00:00:00
+9728511;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;243;;;51742;612553.38;1056365.25;2013-12-04T00:00:00
+9728520;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;244;;;51742;612597.65;1056373.80;2018-02-14T00:00:00
+9728538;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;245;;;51742;611887.25;1056883.75;2013-12-04T00:00:00
+9728546;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;246;;;51742;612547.50;1056520.38;2013-12-04T00:00:00
+9728554;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;247;;;51742;612422.69;1057274.00;2013-12-04T00:00:00
+9728562;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;248;;;51742;612033.19;1057643.75;2013-12-04T00:00:00
+9728571;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;249;;;51742;612590.63;1056434.50;2013-12-04T00:00:00
+9728589;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;250;;;51742;612263.19;1057221.13;2013-12-04T00:00:00
+9728597;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;251;;;51742;612623.66;1056459.18;2017-12-01T00:00:00
+9728601;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;252;;;51742;612025.06;1057619.25;2013-12-04T00:00:00
+9728619;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;253;;;51742;612419.13;1057297.25;2013-12-04T00:00:00
+9728627;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;254;;;51742;612587.94;1056342.50;2013-12-04T00:00:00
+9728635;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;255;;;51742;612230.07;1057234.72;2013-12-04T00:00:00
+9728643;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541443;Koïouskova;è.p.;256;;;51742;611864.69;1057356.50;2013-12-04T00:00:00
+9728651;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;257;;;51742;612021.69;1057608.75;2013-12-04T00:00:00
+9728660;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;258;;;51742;611930.56;1057577.88;2013-12-04T00:00:00
+9728678;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;259;;;51742;611889.88;1057560.38;2013-12-04T00:00:00
+9728686;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;260;;;51742;611908.81;1057583.50;2013-12-04T00:00:00
+9728694;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;261;;;51742;611872.06;1057566.38;2013-12-04T00:00:00
+9728708;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;262;;;51742;611900.06;1057585.25;2013-12-04T00:00:00
+9728716;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;263;;;51742;611846.81;1057573.00;2013-12-04T00:00:00
+9728724;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;264;;;51742;611880.44;1057593.38;2013-12-04T00:00:00
+9728732;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;265;;;51742;611834.56;1057578.63;2013-12-04T00:00:00
+9728741;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;266;;;51742;611855.94;1057598.63;2013-12-04T00:00:00
+9728759;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;267;;;51742;611821.56;1057582.50;2013-12-04T00:00:00
+9728767;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;268;;;51742;611840.50;1057605.63;2013-12-04T00:00:00
+9728775;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;269;;;51742;611806.50;1057588.75;2013-12-04T00:00:00
+9728783;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;270;;;51742;611824.00;1057610.88;2013-12-04T00:00:00
+9728791;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;271;;;51742;611790.38;1057591.88;2013-12-04T00:00:00
+9728805;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;272;;;51742;611806.44;1057621.26;2013-12-04T00:00:00
+9728813;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;273;;;51742;612433.88;1057420.88;2013-12-04T00:00:00
+9728821;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;274;;;51742;611792.06;1057621.88;2013-12-04T00:00:00
+9728830;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;275;;;51742;612404.88;1057386.13;2013-12-04T00:00:00
+9728848;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;276;;;51742;611777.69;1057627.50;2013-12-04T00:00:00
+9728856;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;277;;;51742;612408.56;1057392.25;2013-12-04T00:00:00
+9728864;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;278;;;51742;611758.75;1057632.00;2013-12-04T00:00:00
+9728872;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;279;;;51742;612430.00;1057388.13;2013-12-04T00:00:00
+9728881;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;280;;;51742;611738.94;1057638.38;2013-12-04T00:00:00
+9728899;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;281;;;51742;612436.69;1057386.13;2013-12-04T00:00:00
+9728902;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;282;;;51742;611744.75;1057660.63;2013-12-04T00:00:00
+9728911;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;283;;;51742;612193.50;1057156.88;2013-12-04T00:00:00
+9728929;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;284;;;51742;612181.13;1057150.75;2013-12-04T00:00:00
+9728937;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;285;;;51742;612174.38;1057145.38;2013-12-04T00:00:00
+9728945;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;286;;;51742;612212.06;1057226.75;2013-12-04T00:00:00
+9728953;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;287;;;51742;612408.31;1057358.75;2013-12-04T00:00:00
+9728961;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;288;;;51742;612416.50;1057356.50;2013-12-04T00:00:00
+9728970;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;289;;;51742;612493.31;1057327.75;2013-12-04T00:00:00
+9728988;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;290;;;51742;612046.25;1057138.25;2013-12-04T00:00:00
+9728996;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;291;;;51742;612220.56;1057197.88;2013-12-04T00:00:00
+9729003;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;292;;;51742;612618.44;1056436.25;2013-12-04T00:00:00
+9729011;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;293;;;51742;612350.13;1057107.63;2013-12-04T00:00:00
+9729020;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;294;;;51742;612360.00;1057108.25;2013-12-04T00:00:00
+9729038;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;295;;;51742;612342.13;1057360.13;2013-12-04T00:00:00
+9729046;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;296;;;51742;612355.38;1057379.25;2013-12-04T00:00:00
+9729054;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;297;;;51742;612301.06;1057384.50;2013-12-04T00:00:00
+9729062;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;298;;;51742;612449.56;1057259.00;2013-12-04T00:00:00
+9729071;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541494;Na Nábøeží;è.p.;299;;;51742;611875.38;1057197.13;2013-12-04T00:00:00
+9729089;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541494;Na Nábøeží;è.p.;300;;;51742;611875.38;1057212.00;2013-12-04T00:00:00
+9729097;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;301;;;51742;612497.75;1056389.63;2013-12-04T00:00:00
+9729101;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541494;Na Nábøeží;è.p.;302;;;51742;611862.19;1057242.00;2013-12-04T00:00:00
+9729119;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;303;;;51742;611816.81;1057026.00;2013-12-04T00:00:00
+9729127;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;304;;;51742;611717.69;1056951.63;2013-12-04T00:00:00
+9729143;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;308;;;51742;611562.88;1056807.50;2013-12-04T00:00:00
+9729151;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;310;;;51742;611981.31;1057072.75;2013-12-04T00:00:00
+9729160;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;311;;;51742;611918.13;1057551.75;2013-12-04T00:00:00
+9729178;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541443;Koïouskova;è.p.;312;;;51742;611890.00;1057347.63;2013-12-04T00:00:00
+9729186;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;313;;;51742;612603.81;1056466.38;2013-12-04T00:00:00
+9729194;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;314;;;51742;612304.13;1056811.38;2013-12-04T00:00:00
+9729208;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;315;;;51742;611944.25;1057424.50;2013-12-04T00:00:00
+9729216;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;316;;;51742;612106.69;1057299.38;2013-12-04T00:00:00
+9729224;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;317;;;51742;612105.81;1057293.75;2013-12-04T00:00:00
+9729232;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;318;;;51742;612101.63;1057283.13;2013-12-04T00:00:00
+9729241;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;319;;;51742;612100.19;1057275.13;2013-12-04T00:00:00
+9729259;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;320;;;51742;612089.69;1057235.50;2013-12-04T00:00:00
+9729275;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;322;;;51742;612276.69;1057244.75;2013-12-04T00:00:00
+9729283;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;323;;;51742;612455.06;1057356.75;2013-12-04T00:00:00
+9729291;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541524;Školní;è.p.;324;;;51742;612108.56;1057074.63;2013-12-04T00:00:00
+9729305;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;325;;;51742;612138.63;1057187.38;2013-12-04T00:00:00
+9729313;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;326;;;51742;611998.75;1056867.25;2013-12-04T00:00:00
+9729321;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;327;;;51742;612520.94;1056538.13;2013-12-04T00:00:00
+9729330;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;328;;;51742;612526.63;1056532.50;2013-12-04T00:00:00
+9729348;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;329;;;51742;611728.38;1057611.88;2013-12-04T00:00:00
+9729356;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;330;;;51742;611704.56;1057621.13;2013-12-04T00:00:00
+9729364;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;331;;;51742;611693.81;1057625.00;2013-12-04T00:00:00
+9729372;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;332;;;51742;611678.75;1057628.25;2013-12-04T00:00:00
+9729381;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;333;;;51742;611665.06;1057634.63;2013-12-04T00:00:00
+9729399;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;334;;;51742;611651.81;1057639.88;2013-12-04T00:00:00
+9729402;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;335;;;51742;611637.88;1057644.00;2013-12-04T00:00:00
+9729411;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;336;;;51742;611610.06;1057654.00;2013-12-04T00:00:00
+9729429;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;337;;;51742;611604.31;1057638.25;2013-12-04T00:00:00
+9729437;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;338;;;51742;611598.63;1057618.63;2013-12-04T00:00:00
+9729445;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;339;;;51742;611592.44;1057599.25;2013-12-04T00:00:00
+9729453;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;340;;;51742;611621.69;1057588.25;2013-12-04T00:00:00
+9729461;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;341;;;51742;611637.19;1057583.88;2013-12-04T00:00:00
+9729470;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;342;;;51742;611651.22;1057590.22;2013-12-04T00:00:00
+9729488;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;343;;;51742;611663.44;1057575.50;2013-12-04T00:00:00
+9729496;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;344;;;51742;611676.94;1057570.50;2013-12-04T00:00:00
+9729500;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;345;;;51742;611686.10;1057572.94;2013-12-04T00:00:00
+9729518;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;346;;;51742;611722.38;1057590.38;2013-12-04T00:00:00
+9729526;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;347;;;51742;611666.00;1057547.00;2013-12-04T00:00:00
+9729534;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;348;;;51742;611652.94;1057553.13;2013-12-04T00:00:00
+9729542;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;349;;;51742;611642.00;1057553.63;2013-12-04T00:00:00
+9729551;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;350;;;51742;611713.00;1057558.88;2013-12-04T00:00:00
+9729569;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;351;;;51742;611606.88;1057566.13;2013-12-04T00:00:00
+9729577;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;352;;;51742;612102.00;1056815.13;2013-12-04T00:00:00
+9729585;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;353;;;51742;612132.38;1057278.38;2013-12-04T00:00:00
+9729593;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;354;;;51742;612131.19;1057271.00;2013-12-04T00:00:00
+9729607;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;355;;;51742;612144.50;1057119.25;2013-12-04T00:00:00
+9729615;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;356;;;51742;611859.69;1056937.38;2013-12-04T00:00:00
+9729623;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;357;;;51742;612126.75;1057251.25;2013-12-04T00:00:00
+9729631;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;358;;;51742;611687.19;1057541.50;2013-12-04T00:00:00
+9729640;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;359;;;51742;611704.31;1057535.75;2013-12-04T00:00:00
+9729658;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;360;;;51742;611636.50;1057446.93;2018-12-28T00:00:00
+9729666;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;361;;;51742;612116.88;1057227.63;2013-12-04T00:00:00
+9729674;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;362;;;51742;612447.00;1057288.13;2013-12-04T00:00:00
+9729682;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;363;;;51742;612498.94;1056457.75;2013-12-04T00:00:00
+9729691;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;364;;;51742;612452.31;1057436.63;2013-12-04T00:00:00
+9729704;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;365;;;51742;612171.63;1057246.00;2013-12-04T00:00:00
+9729712;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;366;;;51742;612193.38;1057276.38;2015-10-23T00:00:00
+9729721;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;367;;;51742;612453.39;1057464.05;2013-12-04T00:00:00
+9729739;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;368;;;51742;612468.28;1057465.52;2013-12-04T00:00:00
+9729747;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;369;;;51742;612483.45;1057466.07;2013-12-04T00:00:00
+9729755;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;370;;;51742;612497.13;1057467.39;2024-10-21T00:00:00
+9729763;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;371;;;51742;612512.22;1057469.04;2016-03-30T00:00:00
+9729771;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;372;;;51742;612526.78;1057470.19;2016-03-30T00:00:00
+9729780;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;373;;;51742;611769.75;1057598.88;2013-12-04T00:00:00
+9729798;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;374;;;51742;611752.31;1057604.75;2013-12-04T00:00:00
+9729801;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;375;;;51742;611735.38;1057552.00;2013-12-04T00:00:00
+9729810;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;376;;;51742;611553.25;1056716.00;2013-12-04T00:00:00
+9729828;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;377;;;51742;611541.06;1056673.63;2013-12-04T00:00:00
+9729836;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;378;;;51742;612383.18;1056728.66;2013-12-04T00:00:00
+9729844;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;379;;;51742;612420.10;1056598.11;2013-12-04T00:00:00
+9729852;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;380;;;51742;612482.94;1056427.63;2013-12-04T00:00:00
+9729861;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;381;;;51742;612538.88;1056479.63;2013-12-04T00:00:00
+9729879;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;382;;;51742;612402.19;1057100.50;2013-12-04T00:00:00
+9729887;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;383;;;51742;611685.81;1057655.88;2013-12-04T00:00:00
+9729895;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;384;;;51742;611702.06;1057651.75;2013-12-04T00:00:00
+9729909;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;385;;;51742;612414.85;1056686.81;2013-12-04T00:00:00
+9729917;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;386;;;51742;612433.13;1057098.38;2013-12-04T00:00:00
+9729925;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;387;;;51742;612330.50;1057340.75;2013-12-04T00:00:00
+9729933;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;388;;;51742;612318.63;1057319.50;2013-12-04T00:00:00
+9729941;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;389;;;51742;611553.19;1056768.75;2013-12-04T00:00:00
+9729950;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541494;Na Nábøeží;è.p.;390;;;51742;611847.49;1057258.22;2013-12-04T00:00:00
+9729968;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;391;;;51742;612481.56;1057122.88;2013-12-04T00:00:00
+9729976;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;392;;;51742;612453.44;1057136.25;2013-12-04T00:00:00
+9729984;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;393;;;51742;612500.63;1057161.13;2013-12-04T00:00:00
+9729992;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;394;;;51742;611644.31;1057671.88;2013-12-04T00:00:00
+9730001;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;395;;;51742;612305.81;1057295.50;2013-12-04T00:00:00
+9730010;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;396;;;51742;612473.75;1057092.63;2013-12-04T00:00:00
+9730028;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541494;Na Nábøeží;è.p.;397;;;51742;611837.75;1057274.25;2013-12-04T00:00:00
+9730036;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;398;;;51742;612055.50;1056781.88;2013-12-04T00:00:00
+9730044;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;399;;;51742;612040.56;1056788.25;2013-12-04T00:00:00
+9730052;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;400;;;51742;611806.06;1057215.88;2013-12-04T00:00:00
+9730061;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;401;;;51742;611786.44;1057235.00;2013-12-04T00:00:00
+9730079;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;402;;;51742;611877.31;1057513.13;2013-12-04T00:00:00
+9730087;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;403;;;51742;611895.50;1057506.75;2013-12-04T00:00:00
+9730095;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;404;;;51742;611867.25;1057482.63;2013-12-04T00:00:00
+9730109;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;405;;;51742;611882.31;1057476.63;2013-12-04T00:00:00
+9730117;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;406;;;51742;611521.69;1056716.50;2013-12-04T00:00:00
+9730125;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;407;;;51742;611488.25;1056726.63;2013-12-04T00:00:00
+9730133;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;408;;;51742;611461.13;1056736.75;2013-12-04T00:00:00
+9730141;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;409;;;51742;611423.81;1056745.50;2013-12-04T00:00:00
+9730150;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541494;Na Nábøeží;è.p.;410;;;51742;611795.13;1057291.75;2013-12-04T00:00:00
+9730168;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;411;;;51742;611506.14;1056791.27;2014-10-10T00:00:00
+9730176;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;412;;;51742;611521.52;1056786.00;2014-10-10T00:00:00
+9730184;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;413;;;51742;611478.38;1056805.18;2014-10-10T00:00:00
+9730192;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;414;;;51742;611465.43;1056813.89;2014-10-10T00:00:00
+9730206;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;415;;;51742;611940.19;1057523.00;2013-12-04T00:00:00
+9730214;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;416;;;51742;611805.44;1057534.75;2013-12-04T00:00:00
+9730222;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;417;;;51742;611821.25;1057530.63;2013-12-04T00:00:00
+9730231;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;418;;;51742;611830.00;1057458.00;2013-12-04T00:00:00
+9730249;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;419;;;51742;611809.94;1057499.13;2013-12-04T00:00:00
+9730257;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;420;;;51742;611794.69;1057502.88;2013-12-04T00:00:00
+9730265;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;421;;;51742;611784.44;1057472.13;2013-12-04T00:00:00
+9730273;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;422;;;51742;611798.69;1057465.75;2013-12-04T00:00:00
+9730281;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;423;;;51742;611787.88;1057433.38;2013-12-04T00:00:00
+9730290;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;424;;;51742;611773.63;1057438.75;2013-12-04T00:00:00
+9730303;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;425;;;51742;612583.13;1056479.75;2013-12-04T00:00:00
+9730311;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;426;;;51742;611767.94;1057540.38;2013-12-04T00:00:00
+9730320;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;427;;;51742;612497.25;1057085.88;2013-12-04T00:00:00
+9730338;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541494;Na Nábøeží;è.p.;428;;;51742;611769.50;1057293.00;2013-12-04T00:00:00
+9730346;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;429;;;51742;612444.00;1057195.13;2013-12-04T00:00:00
+9730354;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;430;;;51742;612472.19;1057185.88;2013-12-04T00:00:00
+9730371;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;432;;;51742;612505.06;1057267.25;2013-12-04T00:00:00
+9730389;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;433;;;51742;612495.06;1057240.13;2013-12-04T00:00:00
+9730397;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;434;;;51742;612363.56;1057182.63;2013-12-04T00:00:00
+9730401;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;435;;;51742;612508.44;1057178.25;2013-12-04T00:00:00
+9730419;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;436;;;51742;612511.56;1057187.13;2013-12-04T00:00:00
+9730427;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;437;;;51742;612515.19;1057195.88;2013-12-04T00:00:00
+9730435;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;438;;;51742;612517.50;1057205.00;2013-12-04T00:00:00
+9730443;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;439;;;51742;612400.69;1057171.50;2013-12-04T00:00:00
+9730451;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;440;;;51742;612422.13;1057164.25;2013-12-04T00:00:00
+9730460;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;441;;;51742;612460.13;1057153.75;2013-12-04T00:00:00
+9730478;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;442;;;51742;612530.25;1057225.00;2013-12-04T00:00:00
+9730486;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;443;;;51742;612530.44;1057233.88;2013-12-04T00:00:00
+9730494;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;444;;;51742;612532.00;1057241.63;2013-12-04T00:00:00
+9730508;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;445;;;51742;612535.88;1057249.63;2013-12-04T00:00:00
+9730516;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;446;;;51742;612541.13;1057268.63;2013-12-04T00:00:00
+9730524;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;447;;;51742;612582.63;1057086.13;2013-12-04T00:00:00
+9730532;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;448;;;51742;612381.44;1057175.75;2013-12-04T00:00:00
+9730541;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;449;;;51742;611664.81;1057664.75;2013-12-04T00:00:00
+9730559;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;450;;;51742;611761.81;1057403.75;2013-12-04T00:00:00
+9730567;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;451;;;51742;611776.56;1057398.88;2013-12-04T00:00:00
+9730575;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;452;;;51742;611711.75;1057298.38;2013-12-04T00:00:00
+9730583;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;453;;;51742;612359.05;1056743.78;2013-12-04T00:00:00
+9730591;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541494;Na Nábøeží;è.p.;454;;;51742;611817.31;1057283.50;2013-12-04T00:00:00
+9730605;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541494;Na Nábøeží;è.p.;455;;;51742;611744.63;1057297.88;2013-12-04T00:00:00
+9730613;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;456;;;51742;612473.50;1056403.38;2013-12-04T00:00:00
+9730621;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;457;;;51742;612411.94;1057201.50;2013-12-04T00:00:00
+9730630;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;458;;;51742;612411.75;1057209.00;2013-12-04T00:00:00
+9730648;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;459;;;51742;612412.63;1057217.00;2013-12-04T00:00:00
+9730656;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;460;;;51742;612415.88;1057224.13;2013-12-04T00:00:00
+9730664;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;461;;;51742;611758.25;1057701.00;2013-12-04T00:00:00
+9730672;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;462;;;51742;611761.19;1057709.25;2013-12-04T00:00:00
+9730681;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;463;;;51742;611762.81;1057715.63;2013-12-04T00:00:00
+9730699;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;464;;;51742;611763.25;1057723.00;2013-12-04T00:00:00
+9730702;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;465;;;51742;611766.44;1057730.75;2013-12-04T00:00:00
+9730711;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;466;;;51742;611768.75;1057737.38;2013-12-04T00:00:00
+9730729;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;467;;;51742;611783.13;1057692.13;2013-12-04T00:00:00
+9730737;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;468;;;51742;611785.63;1057699.25;2013-12-04T00:00:00
+9730745;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;469;;;51742;611788.81;1057706.50;2013-12-04T00:00:00
+9730753;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;470;;;51742;611791.13;1057714.13;2013-12-04T00:00:00
+9730761;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;471;;;51742;611792.69;1057721.88;2013-12-04T00:00:00
+9730770;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;472;;;51742;611795.88;1057728.63;2013-12-04T00:00:00
+9730788;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;473;;;51742;612334.38;1057272.38;2013-12-04T00:00:00
+9730796;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;474;;;51742;611721.64;1057247.52;2014-11-05T00:00:00
+9730800;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;475;;;51742;611707.81;1057264.50;2013-12-04T00:00:00
+9730818;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;476;;;51742;611687.50;1057278.75;2013-12-04T00:00:00
+9730826;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;477;;;51742;611669.13;1057291.13;2013-12-04T00:00:00
+9730834;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;478;;;51742;612294.50;1056677.38;2013-12-04T00:00:00
+9730842;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;479;;;51742;611438.25;1056788.25;2013-12-04T00:00:00
+9730851;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;480;;;51742;611444.81;1056783.50;2013-12-04T00:00:00
+9730869;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;481;;;51742;611451.00;1056780.63;2013-12-04T00:00:00
+9730877;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;482;;;51742;611457.19;1056776.38;2013-12-04T00:00:00
+9730885;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;483;;;51742;611466.69;1056773.50;2013-12-04T00:00:00
+9730893;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;484;;;51742;611473.75;1056771.75;2013-12-04T00:00:00
+9730907;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;485;;;51742;611479.38;1056768.50;2013-12-04T00:00:00
+9730915;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;486;;;51742;611486.44;1056764.25;2013-12-04T00:00:00
+9730923;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;487;;;51742;611493.56;1056762.00;2013-12-04T00:00:00
+9730931;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;488;;;51742;611499.50;1056759.88;2013-12-04T00:00:00
+9730940;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;489;;;51742;611507.44;1056756.38;2013-12-04T00:00:00
+9730958;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;490;;;51742;611516.31;1056756.00;2013-12-04T00:00:00
+9730966;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541401;Družstevní;è.p.;491;;;51742;612493.69;1057143.50;2013-12-04T00:00:00
+9730974;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;492;;;51742;612046.69;1057235.25;2013-12-04T00:00:00
+9730982;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;493;;;51742;611652.21;1057301.40;2023-03-07T00:00:00
+9731008;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;495;;;51742;611560.94;1056713.00;2013-12-04T00:00:00
+9731016;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541541;U Bažantnice;è.p.;496;;;51742;611534.63;1056677.88;2013-12-04T00:00:00
+9731024;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;497;;;51742;612364.50;1057220.50;2013-12-04T00:00:00
+9731032;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;498;;;51742;612355.63;1057261.50;2013-12-04T00:00:00
+9731041;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;499;;;51742;612380.06;1057211.25;2013-12-04T00:00:00
+9731067;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;501;;;51742;612371.56;1057214.63;2013-12-04T00:00:00
+9731075;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;502;;;51742;611642.19;1057331.75;2013-12-04T00:00:00
+9731083;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;503;;;51742;612017.72;1057647.71;2013-12-04T00:00:00
+9731091;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;505;;;51742;612356.94;1057223.13;2013-12-04T00:00:00
+9731113;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.ev.;2;;;51742;611452.06;1057717.75;2013-12-04T00:00:00
+9731121;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.ev.;3;;;51742;611764.00;1056875.75;2013-12-04T00:00:00
+9731164;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.ev.;7;;;51742;611755.25;1057262.63;2013-12-04T00:00:00
+9731181;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;735221;V Grundì;è.ev.;10;;;51742;612832.00;1056573.38;2025-08-01T00:00:00
+9731199;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;735221;V Grundì;è.ev.;19;;;51742;612842.88;1056571.13;2025-08-01T00:00:00
+9731202;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;1;;;51742;612037.13;1057775.88;2013-12-04T00:00:00
+9731211;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;2;;;51742;612008.31;1057788.00;2013-12-04T00:00:00
+9731229;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;3;;;51742;611957.90;1057952.72;2013-12-04T00:00:00
+9731237;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;4;;;51742;612015.13;1057829.50;2013-12-04T00:00:00
+9731245;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;5;;;51742;612100.00;1057957.50;2013-12-04T00:00:00
+9731261;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;7;;;51742;611997.88;1057924.13;2013-12-04T00:00:00
+9731270;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;8;;;51742;611942.09;1057938.91;2016-02-25T00:00:00
+9731288;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;9;;;51742;611864.75;1057975.75;2013-12-04T00:00:00
+9731296;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;10;;;51742;611966.50;1057979.63;2013-12-04T00:00:00
+9731300;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;11;;;51742;611997.19;1057954.13;2013-12-04T00:00:00
+9731318;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;12;;;51742;612010.56;1057948.88;2013-12-04T00:00:00
+9731326;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;13;;;51742;612007.63;1057985.38;2013-12-04T00:00:00
+9731334;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;14;;;51742;612001.00;1058041.88;2013-12-04T00:00:00
+9731342;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;15;;;51742;612029.50;1057958.75;2013-12-04T00:00:00
+9731351;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;16;;;51742;612030.06;1057939.13;2013-12-04T00:00:00
+9731385;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;19;;;51742;612180.13;1058005.38;2013-12-04T00:00:00
+9731393;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;20;;;51742;612081.75;1057936.50;2013-12-04T00:00:00
+9731407;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;21;;;51742;611914.44;1057957.63;2013-12-04T00:00:00
+9731415;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;22;;;51742;612028.19;1057924.75;2013-12-04T00:00:00
+9731423;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;23;;;51742;612034.75;1057885.25;2013-12-04T00:00:00
+9731431;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;24;;;51742;611176.81;1058161.13;2013-12-04T00:00:00
+9731440;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;25;;;51742;611908.94;1057939.00;2013-12-04T00:00:00
+9731458;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;26;;;51742;612057.00;1057845.00;2013-12-04T00:00:00
+9731466;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;27;;;51742;612058.81;1057828.25;2013-12-04T00:00:00
+9731474;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;28;;;51742;612069.50;1057815.13;2013-12-04T00:00:00
+9731482;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;29;;;51742;612070.06;1057785.63;2013-12-04T00:00:00
+9731491;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;30;;;51742;612204.81;1058451.88;2013-12-04T00:00:00
+9731504;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;31;;;51742;611139.69;1058142.75;2013-12-04T00:00:00
+9731512;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;32;;;51742;612083.13;1057890.50;2013-12-04T00:00:00
+9731539;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;34;;;51742;612013.28;1057875.21;2023-03-10T00:00:00
+9731547;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;35;;;51742;612000.50;1057909.25;2013-12-04T00:00:00
+9731555;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;36;;;51742;612069.50;1057738.50;2013-12-04T00:00:00
+9731563;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;37;;;51742;612097.50;1057892.75;2013-12-04T00:00:00
+9731571;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;38;;;51742;612058.13;1057990.25;2013-12-04T00:00:00
+9731598;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;40;;;51742;612081.31;1057862.25;2013-12-04T00:00:00
+9731601;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;41;;;51742;611230.37;1058147.66;2025-07-25T00:00:00
+9731610;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;42;;;51742;610998.75;1058245.50;2013-12-04T00:00:00
+9731628;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;43;;;51742;612183.25;1057872.38;2013-12-04T00:00:00
+9731636;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;44;;;51742;612114.25;1058019.63;2013-12-04T00:00:00
+9731644;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;45;;;51742;612023.23;1057799.23;2013-12-04T00:00:00
+9731652;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;46;;;51742;612088.38;1057835.63;2013-12-04T00:00:00
+9731661;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;47;;;51742;612074.25;1057687.25;2013-12-04T00:00:00
+9731679;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;48;;;51742;612020.44;1057994.63;2013-12-04T00:00:00
+9731687;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;49;;;51742;610983.56;1058281.88;2013-12-04T00:00:00
+9731709;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;51;;;51742;612040.50;1057565.13;2013-12-04T00:00:00
+9731717;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;52;;;51742;612073.19;1057701.38;2013-12-04T00:00:00
+9731725;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;53;;;51742;612045.19;1057595.75;2013-12-04T00:00:00
+9731733;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;54;;;51742;612138.19;1058023.63;2013-12-04T00:00:00
+9731741;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;55;;;51742;612067.94;1057663.00;2013-12-04T00:00:00
+9731750;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;56;;;51742;611879.44;1057927.88;2013-12-04T00:00:00
+9731768;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;57;;;51742;611074.56;1058220.50;2013-12-04T00:00:00
+9731784;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;59;;;51742;611764.13;1057935.63;2013-12-04T00:00:00
+9731792;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;60;;;51742;612172.81;1057876.88;2013-12-04T00:00:00
+9731806;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;547;;;51742;612539.94;1057469.75;2019-07-29T00:00:00
+9731814;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;62;;;51742;612560.13;1057505.63;2013-12-04T00:00:00
+9731822;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;63;;;51742;612590.44;1057508.50;2013-12-04T00:00:00
+9731831;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;64;;;51742;612605.06;1057516.25;2013-12-04T00:00:00
+9731857;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;66;;;51742;612599.64;1057479.30;2021-07-29T00:00:00
+9731865;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;67;;;51742;612632.50;1057504.00;2013-12-04T00:00:00
+9731873;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;68;;;51742;612657.81;1057502.37;2018-10-08T00:00:00
+9731881;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;69;;;51742;612695.38;1057603.75;2013-12-04T00:00:00
+9731890;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;70;;;51742;612707.44;1057639.88;2013-12-04T00:00:00
+9731903;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;71;;;51742;612702.69;1057681.88;2013-12-04T00:00:00
+9731911;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;72;;;51742;612672.38;1057732.75;2013-12-04T00:00:00
+9731920;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;73;;;51742;612689.94;1057729.38;2013-12-04T00:00:00
+9731938;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;74;;;51742;612797.63;1057749.75;2013-12-04T00:00:00
+9731946;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;75;;;51742;612764.38;1057619.13;2013-12-04T00:00:00
+9731954;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;76;;;51742;612734.06;1057588.75;2013-12-04T00:00:00
+9731962;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;77;;;51742;612657.94;1057459.88;2013-12-04T00:00:00
+9731989;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;79;;;51742;612728.75;1057432.25;2013-12-04T00:00:00
+9731997;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;80;;;51742;612710.63;1057411.50;2013-12-04T00:00:00
+9732004;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;81;;;51742;613310.94;1057247.25;2013-12-04T00:00:00
+9732012;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;82;;;51742;612675.56;1057479.25;2013-12-04T00:00:00
+9732021;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;83;;;51742;611041.31;1058218.00;2013-12-04T00:00:00
+9732039;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;84;;;51742;611943.88;1057895.88;2013-12-04T00:00:00
+9732047;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;85;;;51742;612731.94;1057612.63;2013-12-04T00:00:00
+9732055;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;86;;;51742;612728.09;1057677.47;2019-02-22T00:00:00
+9732063;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;87;;;51742;613007.41;1057349.01;2016-04-14T00:00:00
+9732071;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;88;;;51742;612701.69;1057817.17;2023-03-08T00:00:00
+24985601;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;508;;;51742;612363.31;1057255.25;2013-12-04T00:00:00
+25236903;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;506;;;51742;612378.38;1057248.38;2013-12-04T00:00:00
+25236911;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.ev.;30;;;51742;612688.25;1057057.82;2023-03-08T00:00:00
+25268228;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;507;;;51742;612369.06;1057250.63;2013-12-04T00:00:00
+25768361;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541460;Liškova;è.p.;509;;;51742;611970.64;1057437.08;2013-12-04T00:00:00
+25768379;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;512;;;51742;610872.01;1057373.46;2023-03-08T00:00:00
+25787501;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;305;;;51742;611621.25;1057009.38;2013-12-04T00:00:00
+25787519;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541567;V Poøíèí;è.p.;504;;;51742;612388.00;1057248.00;2013-12-04T00:00:00
+25848496;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;514;;;51742;611608.75;1057344.50;2013-12-04T00:00:00
+25989251;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;735221;V Grundì;è.p.;511;;;51742;613191.20;1056577.11;2013-12-04T00:00:00
+26109905;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541427;Fûgnerova;è.p.;510;;;51742;612615.00;1057053.00;2013-12-04T00:00:00
+26109913;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;89;;;51742;611881.00;1058083.00;2013-12-04T00:00:00
+27296059;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541451;Komenského;è.p.;518;;;51742;612004.00;1057282.00;2013-12-04T00:00:00
+27832198;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;90;;;51742;612730.02;1057652.10;2013-12-04T00:00:00
+28102932;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;519;;;51742;611953.00;1057578.00;2013-12-04T00:00:00
+28291115;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;520;;;51742;612333.17;1056647.60;2013-12-04T00:00:00
+28361385;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;517;;;51742;611798.07;1057104.69;2014-01-14T00:00:00
+31207651;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;513;;;51742;612453.00;1056647.00;2013-12-04T00:00:00
+40475557;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;521;;;51742;612026.81;1056860.25;2013-12-04T00:00:00
+40788571;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541435;Jiráskova;è.p.;523;;;51742;611619.58;1057680.00;2013-12-04T00:00:00
+41752686;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;524;;;51742;612144.36;1057350.77;2013-12-04T00:00:00
+42225159;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541419;Dukelská;è.p.;525;;;51742;611998.64;1057350.59;2019-09-16T00:00:00
+42797063;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.ev.;31;;;51742;612847.89;1057344.20;2013-12-04T00:00:00
+70011265;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541478;Na Benátkách;è.p.;526;;;51742;612059.57;1057030.01;2019-09-16T00:00:00
+72695269;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;527;;;51742;612151.07;1057360.18;2014-05-27T00:00:00
+72926813;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;528;;;51742;612263.47;1057150.88;2018-04-19T00:00:00
+73002241;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;92;;;51742;612569.28;1057580.96;2019-09-07T00:00:00
+73109614;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;91;;;51742;612066.06;1057756.57;2014-10-06T00:00:00
+73144592;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;735221;V Grundì;è.ev.;33;;;51742;612652.02;1056632.14;2025-08-01T00:00:00
+75013045;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;529;;;51742;611923.47;1056823.48;2016-05-17T00:00:00
+75607271;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.p.;522;;;51742;611599.70;1057291.90;2016-12-02T00:00:00
+75688930;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541532;Švermova;è.p.;530;;;51742;612422.56;1057456.13;2019-07-29T00:00:00
+77837746;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;93;;;51742;612680.58;1057459.11;2017-11-30T00:00:00
+78133106;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230801;Na Slovensku;è.p.;545;;;51742;612396.89;1056435.56;2018-03-16T00:00:00
+78192072;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230801;Na Slovensku;è.p.;531;;;51742;612456.47;1056588.03;2018-03-28T00:00:00
+78938856;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;94;;;51742;612798.15;1057670.82;2018-12-03T00:00:00
+79014631;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230801;Na Slovensku;è.p.;532;;;51742;612476.77;1056557.48;2019-05-21T00:00:00
+79225438;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230801;Na Slovensku;è.p.;537;;;51742;612423.52;1056520.11;2019-07-09T00:00:00
+79326480;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;735221;V Grundì;è.ev.;34;;;51742;612675.50;1056635.29;2025-08-01T00:00:00
+79438059;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230801;Na Slovensku;è.p.;541;;;51742;612414.83;1056474.98;2019-07-03T00:00:00
+79913148;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;735221;V Grundì;è.ev.;35;;;51742;612805.18;1056572.30;2025-08-01T00:00:00
+80203752;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230801;Na Slovensku;è.p.;538;;;51742;612457.81;1056502.00;2020-01-21T00:00:00
+80483577;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;548;;;51742;612116.98;1057401.30;2020-03-16T00:00:00
+81059850;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230801;Na Slovensku;è.p.;539;;;51742;612421.48;1056507.12;2020-08-07T00:00:00
+81319151;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;2230801;Na Slovensku;è.p.;542;;;51742;612437.54;1056463.99;2020-11-27T00:00:00
+83131540;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;;;è.p.;549;;;51742;612685.99;1057074.07;2022-07-14T00:00:00
+83186018;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541486;Na Bìlisku;è.p.;550;;;51742;612239.31;1056889.94;2022-08-03T00:00:00
+83348701;576301;Doudleby nad Orlicí;;;;;31445;Vyhnánov;;;è.p.;95;;;51742;612776.18;1057708.14;2022-10-11T00:00:00
+86199447;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;735221;V Grundì;è.ev.;36;;;51742;612758.47;1056630.46;2025-08-01T00:00:00
+86461036;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;735221;V Grundì;è.ev.;37;;;51742;612395.85;1056766.04;2024-08-13T00:00:00
+86847520;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541559;U Parkovištì;è.ev.;38;;;51742;611756.99;1057255.76;2025-03-04T00:00:00
+86847589;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541508;Na Rybníkách;è.p.;551;;;51742;611703.50;1057714.90;2025-03-04T00:00:00
+87211301;576301;Doudleby nad Orlicí;;;;;31429;Doudleby nad Orlicí;541516;Rudé armády;è.p.;552;;;51742;612319.98;1056663.58;2025-08-13T00:00:00

@@ -6,7 +6,7 @@ export async function get_new_clients_by_period(period: string) {
     .from('clients')
     .select('*')
     .gte('created_at', new Date(Date.now() - days * 24 * 60 * 60 * 1000).toISOString())
-  return data
+  return data || []
 }
 
 export async function get_client_sources_breakdown(period: string) {
@@ -15,7 +15,8 @@ export async function get_client_sources_breakdown(period: string) {
     .from('clients')
     .select('source')
     .gte('created_at', new Date(Date.now() - days * 24 * 60 * 60 * 1000).toISOString())
-  const breakdown = data.reduce((acc, client) => {
+  if (!data) return {}
+  const breakdown = data.reduce((acc: Record<string, number>, client) => {
     acc[client.source] = (acc[client.source] || 0) + 1
     return acc
   }, {})
@@ -34,12 +35,13 @@ export async function get_leads_vs_sales_last_6_months() {
     .select('closed_at')
     .gte('closed_at', sixMonthsAgo.toISOString())
     .not('closed_at', 'is', null)
-  const leadsByMonth = leads.reduce((acc, lead) => {
+  if (!leads || !deals) return { leads: {}, sales: {} }
+  const leadsByMonth = leads.reduce((acc: Record<string, number>, lead) => {
     const month = new Date(lead.created_at).toISOString().slice(0, 7)
     acc[month] = (acc[month] || 0) + 1
     return acc
   }, {})
-  const salesByMonth = deals.reduce((acc, deal) => {
+  const salesByMonth = deals.reduce((acc: Record<string, number>, deal) => {
     const month = new Date(deal.closed_at).toISOString().slice(0, 7)
     acc[month] = (acc[month] || 0) + 1
     return acc
@@ -52,7 +54,7 @@ export async function find_properties_missing_reconstruction_data() {
     .from('properties')
     .select('*')
     .or('reconstruction_status.is.null,renovation_notes.is.null,structural_modifications.is.null')
-  return data
+  return data || []
 }
 
 export async function get_weekly_kpis() {
@@ -70,10 +72,47 @@ export async function get_weekly_kpis() {
     .select('*')
     .gte('closed_at', weekAgo.toISOString())
     .not('closed_at', 'is', null)
+  if (!clients || !leads || !deals) return { new_clients: 0, new_leads: 0, closed_deals: 0, total_revenue: 0 }
   return {
     new_clients: clients.length,
     new_leads: leads.length,
     closed_deals: deals.length,
     total_revenue: deals.reduce((sum, deal) => sum + (deal.amount || 0), 0)
   }
+}
+
+// Enhanced data query functions for natural language queries
+export async function get_all_clients() {
+  const { data } = await supabase.from('clients').select('*')
+  return data || []
+}
+
+export async function get_all_properties() {
+  const { data } = await supabase.from('properties').select('*')
+  return data || []
+}
+
+export async function get_all_leads() {
+  const { data } = await supabase.from('leads').select('*')
+  return data || []
+}
+
+export async function get_all_deals() {
+  const { data } = await supabase.from('deals').select('*')
+  return data || []
+}
+
+export async function get_deals_by_stage(stage: string) {
+  const { data } = await supabase.from('deals').select('*').eq('stage', stage)
+  return data || []
+}
+
+export async function get_properties_by_status(status: string) {
+  const { data } = await supabase.from('properties').select('*').eq('status', status)
+  return data || []
+}
+
+export async function get_leads_by_status(status: string) {
+  const { data } = await supabase.from('leads').select('*').eq('status', status)
+  return data || []
 }

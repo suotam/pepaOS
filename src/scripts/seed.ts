@@ -1,4 +1,10 @@
+import { config } from 'dotenv'
+import 'dotenv/config'
+import 'dotenv-flow/config'
+config({ path: '../../.env.local' })
+
 import { supabase } from '../lib/supabase'
+import { generateCzechPropertySeed } from '../lib/czech-property-seed'
 
 async function seed() {
   // Clear tables
@@ -21,6 +27,7 @@ async function seed() {
     })
   }
   const { data: clientData } = await supabase.from('clients').insert(clients).select('id')
+  if (!clientData) throw new Error('Failed to insert clients')
 
   // Insert leads
   const leads = []
@@ -33,22 +40,10 @@ async function seed() {
   }
   await supabase.from('leads').insert(leads)
 
-  // Insert properties
-  const properties = []
-  for (let i = 0; i < 30; i++) {
-    properties.push({
-      title: `Property ${i + 1}`,
-      address: `${i + 1} Main St`,
-      locality: `City ${Math.floor(Math.random() * 10) + 1}`,
-      property_type: ['apartment', 'house', 'condo'][Math.floor(Math.random() * 3)],
-      status: ['available', 'sold', 'pending'][Math.floor(Math.random() * 3)],
-      asking_price: Math.floor(Math.random() * 500000) + 100000,
-      reconstruction_status: ['good', 'needs work', 'excellent'][Math.floor(Math.random() * 3)],
-      renovation_notes: 'Some notes',
-      structural_modifications: 'None'
-    })
-  }
+  // Insert realistic Czech property map dataset
+  const properties = generateCzechPropertySeed(180)
   const { data: propertyData } = await supabase.from('properties').insert(properties).select('id')
+  if (!propertyData) throw new Error('Failed to insert properties')
 
   // Insert deals
   const deals = []

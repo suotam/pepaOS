@@ -1,0 +1,828 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód obvodu Prahy;Název obvodu Prahy;Kód èásti obce;Název èásti obce;Kód ulice;Název ulice;Typ SO;Èíslo domovní;Èíslo orientaèní;Znak èísla orientaèního;PSÈ;Souøadnice Y;Souøadnice X;Platí Od
+23557681;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;1;;;46342;685959.16;987172.75;2013-12-03T00:00:00
+23557699;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;2;;;46342;686000.05;987167.44;2013-12-03T00:00:00
+23557702;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;3;;;46342;685990.27;987187.67;2013-12-03T00:00:00
+23557711;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;4;;;46342;686029.35;987220.09;2013-12-03T00:00:00
+23557729;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;5;;;46342;685745.38;986566.92;2013-12-03T00:00:00
+23557737;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;6;;;46342;686090.56;987225.07;2013-12-03T00:00:00
+23557745;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;7;;;46342;685953.51;987243.76;2013-12-03T00:00:00
+23557753;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;10;;;46342;686139.67;987169.15;2013-12-03T00:00:00
+23557761;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;11;;;46342;686113.44;987147.28;2013-12-03T00:00:00
+23557770;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;16;;;46342;686095.70;987112.80;2013-12-03T00:00:00
+23557788;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;20;;;46342;686005.49;987102.68;2013-12-03T00:00:00
+23557796;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;21;;;46342;685941.97;987092.61;2013-12-03T00:00:00
+23557800;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;22;;;46342;686018.56;987053.87;2013-12-03T00:00:00
+23557818;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;23;;;46342;686060.35;987129.01;2013-12-03T00:00:00
+23557826;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;26;;;46342;686107.78;987021.19;2013-12-03T00:00:00
+23557834;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;27;;;46342;686084.32;987022.08;2013-12-03T00:00:00
+23557842;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;28;;;46342;686076.99;987037.81;2023-11-03T00:00:00
+23557851;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;32;;;46342;685972.02;987206.97;2013-12-03T00:00:00
+23557869;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;33;;;46342;686066.67;987196.71;2023-04-18T00:00:00
+23557877;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;34;;;46342;686065.46;987058.45;2013-12-03T00:00:00
+23557885;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;36;;;46342;686129.44;986970.22;2013-12-03T00:00:00
+23557893;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;37;;;46342;685982.90;987154.34;2013-12-03T00:00:00
+23557907;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;40;;;46342;686148.79;986865.53;2013-12-03T00:00:00
+23557915;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;41;;;46342;685898.51;987150.27;2013-12-03T00:00:00
+23557923;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;43;;;46342;686110.22;986948.90;2013-12-03T00:00:00
+23557931;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;44;;;46342;686127.04;987262.74;2013-12-03T00:00:00
+23557940;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;45;;;46342;685919.89;987147.30;2013-12-03T00:00:00
+23557974;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;49;;;46342;686164.28;986839.18;2013-12-03T00:00:00
+23557982;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;52;;;46342;686006.57;987136.47;2013-12-03T00:00:00
+23558008;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;56;;;46342;686136.27;987127.78;2013-12-03T00:00:00
+23558016;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;58;;;46342;686220.13;986722.24;2013-12-03T00:00:00
+23558024;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;59;;;46342;686173.22;986921.62;2013-12-03T00:00:00
+23558032;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;60;;;46342;686202.51;986759.35;2013-12-03T00:00:00
+23558041;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;61;;;46342;686241.61;986871.70;2013-12-03T00:00:00
+23558059;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;62;;;46342;686198.90;986829.81;2013-12-03T00:00:00
+23558067;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;64;;;46342;685780.46;987194.88;2013-12-03T00:00:00
+23558083;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;66;;;46342;686224.38;986782.65;2013-12-03T00:00:00
+23558091;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;67;;;46342;685943.25;987145.27;2013-12-03T00:00:00
+23558105;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;68;;;46342;686535.18;986256.12;2013-12-03T00:00:00
+23558113;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;69;;;46342;686186.84;986873.76;2013-12-03T00:00:00
+23558121;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;70;;;46342;686199.19;986905.15;2013-12-03T00:00:00
+23558130;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;71;;;46342;686123.59;986907.28;2013-12-03T00:00:00
+23558148;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;72;;;46342;686117.06;986904.31;2013-12-03T00:00:00
+23558156;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;73;;;46342;686109.72;986899.94;2013-12-03T00:00:00
+23558164;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;74;;;46342;686103.54;986895.89;2013-12-03T00:00:00
+23558172;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;75;;;46342;686097.03;986891.85;2013-12-03T00:00:00
+23558181;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;76;;;46342;686091.03;986888.43;2013-12-03T00:00:00
+23558199;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;77;;;46342;686084.35;986883.98;2013-12-03T00:00:00
+23558202;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;78;;;46342;686077.60;986880.56;2013-12-03T00:00:00
+23558211;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;79;;;46342;686071.59;986876.56;2013-12-03T00:00:00
+23558229;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;80;;;46342;686064.62;986873.14;2013-12-03T00:00:00
+23558237;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;81;;;46342;686140.62;986954.94;2013-12-03T00:00:00
+23558245;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;82;;;46342;686218.21;986891.26;2013-12-03T00:00:00
+23558261;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;84;;;46342;686222.98;986809.89;2013-12-03T00:00:00
+23558270;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.ev.;1;;;46342;685820.32;987183.55;2013-12-03T00:00:00
+23558288;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.ev.;2;;;46342;686191.29;986784.73;2013-12-03T00:00:00
+23558296;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.ev.;3;;;46342;686084.13;987141.62;2013-12-03T00:00:00
+23573546;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;1;;;46342;687174.91;985495.44;2015-10-26T00:00:00
+23573554;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;2;;;46342;687192.25;985474.23;2013-12-03T00:00:00
+23573562;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;3;;;46342;687197.04;985464.89;2013-12-03T00:00:00
+23573589;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;4;;;46342;687202.74;985454.88;2013-12-03T00:00:00
+23573601;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;5;;;46342;687213.56;985437.92;2013-12-03T00:00:00
+23573619;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;6;;;46342;687223.90;985423.36;2013-12-03T00:00:00
+23573643;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;8;;;46342;687253.03;985377.87;2013-12-03T00:00:00
+23573651;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;9;;;46342;687276.87;985362.03;2013-12-03T00:00:00
+23573660;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;10;;;46342;687292.84;985347.30;2013-12-03T00:00:00
+23573686;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;11;;;46342;687299.85;985339.77;2013-12-03T00:00:00
+23573694;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;12;;;46342;687305.09;985331.68;2013-12-03T00:00:00
+23573708;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;13;;;46342;687320.20;985322.44;2013-12-03T00:00:00
+23573716;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;14;;;46342;687330.61;985311.12;2013-12-03T00:00:00
+23573724;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;15;;;46342;687338.28;985298.76;2013-12-03T00:00:00
+23573741;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;16;;;46342;687354.29;985281.74;2013-12-03T00:00:00
+23573759;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;19;;;46342;687387.95;985223.43;2013-12-03T00:00:00
+23573775;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;21;;;46342;687468.34;985139.99;2013-12-03T00:00:00
+23573783;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;27;;;46342;687447.52;985211.30;2013-12-03T00:00:00
+23573791;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;30;;;46342;687404.65;985248.22;2013-12-03T00:00:00
+23573805;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;32;;;46342;687375.88;985288.62;2013-12-03T00:00:00
+23573813;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;33;;;46342;687352.16;985325.52;2013-12-03T00:00:00
+23573821;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;34;;;46342;687341.29;985334.30;2013-12-03T00:00:00
+23573848;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;35;;;46342;687324.73;985339.15;2024-09-11T00:00:00
+23573856;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;36;;;46342;687320.54;985353.95;2013-12-03T00:00:00
+23573864;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;37;;;46342;687305.51;985365.48;2013-12-03T00:00:00
+23573899;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;39;;;46342;687292.43;985379.36;2013-12-03T00:00:00
+23573902;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;40;;;46342;687277.04;985393.04;2013-12-03T00:00:00
+23573911;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;41;;;46342;687267.33;985405.24;2013-12-03T00:00:00
+23573929;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;44;;;46342;687247.63;985428.68;2013-12-03T00:00:00
+23573937;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;45;;;46342;687242.83;985434.56;2013-12-03T00:00:00
+23573945;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;46;;;46342;687235.47;985442.68;2013-12-03T00:00:00
+23573953;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;47;;;46342;687226.08;985456.08;2013-12-03T00:00:00
+23573961;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;48;;;46342;687217.30;985469.22;2013-12-03T00:00:00
+23573970;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;49;;;46342;687193.06;985506.70;2013-12-03T00:00:00
+23573996;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;51;;;46342;687203.09;985517.46;2013-12-03T00:00:00
+23574003;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;52;;;46342;687210.39;985522.38;2013-12-03T00:00:00
+23574011;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250929;Sokolská;è.p.;53;;;46342;687224.22;985527.26;2013-12-03T00:00:00
+23574020;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250724;Krátká;è.p.;56;;;46342;687247.21;985552.07;2013-12-03T00:00:00
+23574046;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;58;;;46342;687298.96;985469.95;2013-12-03T00:00:00
+23574089;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;62;;;46342;687361.31;985406.67;2013-12-03T00:00:00
+23574097;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;64;;;46342;687361.13;985462.96;2013-12-03T00:00:00
+23574119;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;67;;;46342;687306.74;985493.99;2013-12-03T00:00:00
+23574127;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;68;;;46342;687308.08;985516.40;2013-12-03T00:00:00
+23574135;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;69;;;46342;687321.10;985539.60;2013-12-03T00:00:00
+23574143;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;71;;;46342;687343.41;985562.27;2013-12-03T00:00:00
+23574151;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250724;Krátká;è.p.;72;;;46342;687290.23;985522.71;2013-12-03T00:00:00
+23574194;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250929;Sokolská;è.p.;76;;;46342;687302.94;985600.53;2013-12-03T00:00:00
+23574216;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;78;;;46342;687358.33;985591.67;2013-12-03T00:00:00
+23574224;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;80;;;46342;687325.40;985624.32;2013-12-03T00:00:00
+23574232;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;83;;;46342;687362.14;985643.68;2013-12-03T00:00:00
+23574241;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;84;;;46342;687376.19;985627.92;2013-12-03T00:00:00
+23574259;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;85;;;46342;687344.01;985657.81;2013-12-03T00:00:00
+23574267;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;88;;;46342;687369.62;985671.98;2013-12-03T00:00:00
+23574275;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;90;;;46342;687388.87;985684.27;2013-12-03T00:00:00
+23574283;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;91;;;46342;687400.95;985688.84;2013-12-03T00:00:00
+23574291;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;94;;;46342;687351.16;985686.58;2013-12-03T00:00:00
+23574305;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;96;;;46342;687329.17;985666.72;2013-12-03T00:00:00
+23574313;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;97;;;46342;687317.74;985660.99;2013-12-03T00:00:00
+23574321;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250864;Rùžová;è.p.;98;;;46342;687307.04;985659.17;2013-12-03T00:00:00
+23574330;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250929;Sokolská;è.p.;99;;;46342;687305.12;985638.56;2013-12-03T00:00:00
+23574356;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250929;Sokolská;è.p.;101;;;46342;687294.73;985615.62;2013-12-03T00:00:00
+23574364;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250929;Sokolská;è.p.;102;;;46342;687273.36;985610.06;2013-12-03T00:00:00
+23574399;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250929;Sokolská;è.p.;105;;;46342;687238.38;985587.97;2013-12-03T00:00:00
+23574402;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250929;Sokolská;è.p.;106;;;46342;687238.06;985567.91;2013-12-03T00:00:00
+23574411;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250929;Sokolská;è.p.;108;;;46342;687208.14;985542.30;2013-12-03T00:00:00
+23574429;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;109;;;46342;687200.45;985551.41;2013-12-03T00:00:00
+23574437;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;110;;;46342;687193.56;985563.94;2013-12-03T00:00:00
+23574445;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;111;;;46342;687187.27;985571.02;2020-09-14T00:00:00
+23574453;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;112;;;46342;687177.44;985586.85;2013-12-03T00:00:00
+23574461;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;114;;;46342;687193.25;985608.13;2013-12-03T00:00:00
+23574488;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;116;;;46342;687210.26;985620.07;2013-12-03T00:00:00
+23574496;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;117;;;46342;687217.78;985629.29;2013-12-03T00:00:00
+23574500;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;118;;;46342;687237.51;985637.84;2013-12-03T00:00:00
+23574518;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;119;;;46342;687246.32;985641.21;2013-12-03T00:00:00
+23574526;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;120;;;46342;687255.81;985648.74;2013-12-03T00:00:00
+23574534;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;121;;;46342;687261.77;985657.36;2013-12-03T00:00:00
+23574542;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250864;Rùžová;è.p.;122;;;46342;687273.74;985642.51;2013-12-03T00:00:00
+23574551;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250864;Rùžová;è.p.;123;;;46342;687292.53;985642.86;2013-12-03T00:00:00
+23574569;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250864;Rùžová;è.p.;124;;;46342;687293.16;985661.84;2013-12-03T00:00:00
+23574577;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250864;Rùžová;è.p.;125;;;46342;687280.85;985669.35;2013-12-03T00:00:00
+23574585;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;126;;;46342;687293.87;985736.39;2013-12-03T00:00:00
+23574593;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;127;;;46342;687256.94;985686.16;2013-12-03T00:00:00
+23574607;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;128;;;46342;687243.47;985668.13;2013-12-03T00:00:00
+23574615;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;131;;;46342;687204.71;985645.03;2013-12-03T00:00:00
+23574623;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;132;;;46342;687185.50;985666.34;2013-12-03T00:00:00
+23574631;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;134;;;46342;687175.77;985690.21;2013-12-03T00:00:00
+23574640;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;135;;;46342;687172.22;985696.88;2013-12-03T00:00:00
+23574658;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;136;;;46342;687166.22;985704.91;2013-12-03T00:00:00
+23574666;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;137;;;46342;687161.43;985711.88;2013-12-03T00:00:00
+23574674;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;138;;;46342;687198.62;985752.33;2013-12-03T00:00:00
+23574682;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;140;;;46342;687147.02;985736.76;2013-12-03T00:00:00
+23574691;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;141;;;46342;687138.04;985754.11;2013-12-03T00:00:00
+23574704;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;142;;;46342;687122.68;985779.72;2013-12-03T00:00:00
+23574721;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;144;;;46342;687113.87;985812.30;2013-12-03T00:00:00
+23574747;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;146;;;46342;687061.41;985817.40;2013-12-03T00:00:00
+23574755;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;148;;;46342;687099.18;985777.74;2013-12-03T00:00:00
+23574763;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;150;;;46342;687116.51;985740.26;2013-12-03T00:00:00
+23574771;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;152;;;46342;687138.75;985702.82;2013-12-03T00:00:00
+23574780;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;160;;;46342;687153.95;985671.89;2013-12-03T00:00:00
+23574801;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;164;;;46342;687190.33;985629.91;2013-12-03T00:00:00
+23574810;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;165;;;46342;687182.55;985620.26;2013-12-03T00:00:00
+23574828;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;166;;;46342;687173.19;985611.15;2013-12-03T00:00:00
+23574836;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;167;;;46342;687162.40;985602.33;2013-12-03T00:00:00
+23574844;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;168;;;46342;687152.41;985591.93;2013-12-03T00:00:00
+23574852;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;169;;;46342;687141.54;985580.75;2024-05-16T00:00:00
+23574861;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;170;;;46342;687115.29;985630.28;2013-12-03T00:00:00
+23574879;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;171;;;46342;687107.09;985644.27;2013-12-03T00:00:00
+23574887;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250660;Husova;è.p.;172;;;46342;687118.03;985681.13;2013-12-03T00:00:00
+23574895;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250660;Husova;è.p.;173;;;46342;687098.39;985664.75;2013-12-03T00:00:00
+23574909;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;174;;;46342;687091.53;985675.27;2013-12-03T00:00:00
+23574917;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;177;;;46342;687086.12;985704.33;2013-12-03T00:00:00
+23574925;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;178;;;46342;687070.98;985707.24;2013-12-03T00:00:00
+23574933;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;179;;;46342;687072.10;985721.95;2013-12-03T00:00:00
+23574941;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;180;;;46342;687046.53;985752.99;2013-12-03T00:00:00
+23574950;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;182;;;46342;687017.58;985742.28;2013-12-03T00:00:00
+23574968;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;184;;;46342;687031.23;985726.68;2013-12-03T00:00:00
+23574976;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;185;;;46342;687025.83;985712.08;2013-12-03T00:00:00
+23574992;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;187;;;46342;687051.21;985690.19;2013-12-03T00:00:00
+23575000;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;188;;;46342;687064.79;985672.70;2013-12-03T00:00:00
+23575018;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;190;;;46342;687077.64;985651.68;2013-12-03T00:00:00
+23575034;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;191;;;46342;687057.37;985632.24;2013-12-03T00:00:00
+23575051;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;192;;;46342;687029.48;985611.31;2013-12-03T00:00:00
+23575077;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;193;;;46342;687020.42;985595.59;2013-12-03T00:00:00
+23575093;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250694;K. H. Borovského;è.p.;196;;;46342;687052.43;985558.14;2013-12-03T00:00:00
+23575107;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;198;;;46342;687087.72;985632.14;2013-12-03T00:00:00
+23575123;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;199;;;46342;687090.62;985622.70;2013-12-03T00:00:00
+23575131;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;200;;;46342;687095.26;985615.79;2013-12-03T00:00:00
+23575140;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;202;;;46342;687106.91;985592.82;2013-12-03T00:00:00
+23575158;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;203;;;46342;687118.88;985565.51;2013-12-03T00:00:00
+23575166;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;204;;;46342;687104.88;985556.27;2013-12-03T00:00:00
+23575174;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250694;K. H. Borovského;è.p.;206;;;46342;687079.50;985543.34;2013-12-03T00:00:00
+23575182;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250694;K. H. Borovského;è.p.;208;;;46342;687053.81;985524.08;2013-12-03T00:00:00
+23575191;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;211;;;46342;687106.92;985537.33;2013-12-03T00:00:00
+23575204;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;212;;;46342;687114.09;985527.68;2013-12-03T00:00:00
+23575212;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;213;;;46342;687122.76;985512.77;2013-12-03T00:00:00
+23575221;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;215;;;46342;687131.44;985499.58;2013-12-03T00:00:00
+23575239;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;216;;;46342;687139.59;985488.16;2013-12-03T00:00:00
+23575247;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;217;;;46342;687162.40;985480.45;2015-10-26T00:00:00
+23575271;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250643;Dlouhý kopec;è.p.;222;;;46342;687170.98;985433.17;2013-12-03T00:00:00
+23575280;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250643;Dlouhý kopec;è.p.;223;;;46342;687151.00;985417.32;2013-12-03T00:00:00
+23575298;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250643;Dlouhý kopec;è.p.;224;;;46342;687135.18;985420.37;2013-12-03T00:00:00
+23575301;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250643;Dlouhý kopec;è.p.;225;;;46342;687118.97;985425.55;2013-12-03T00:00:00
+23575310;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250643;Dlouhý kopec;è.p.;226;;;46342;687094.47;985435.82;2013-12-03T00:00:00
+23575328;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;228;;;46342;687055.67;985415.39;2013-12-03T00:00:00
+23575336;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;232;;;46342;687045.95;985385.44;2013-12-03T00:00:00
+23575344;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;234;;;46342;687057.42;985347.01;2013-12-03T00:00:00
+23575352;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;235;;;46342;687066.17;985344.68;2013-12-03T00:00:00
+23575361;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;236;;;46342;687072.34;985319.47;2013-12-03T00:00:00
+23575379;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;237;;;46342;687049.04;985314.91;2013-12-03T00:00:00
+23575387;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;239;;;46342;687029.06;985356.60;2013-12-03T00:00:00
+23575395;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;240;;;46342;686997.31;985353.05;2013-12-03T00:00:00
+23575409;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;241;;;46342;686970.13;985298.95;2013-12-03T00:00:00
+23575417;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;244;;;46342;686965.56;985264.35;2018-11-02T00:00:00
+23575425;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;247;;;46342;686919.82;985223.61;2013-12-03T00:00:00
+23575441;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;252;;;46342;686962.96;985339.64;2013-12-03T00:00:00
+23575468;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;254;;;46342;686990.57;985371.11;2013-12-03T00:00:00
+23575476;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;256;;;46342;687046.60;985459.24;2013-12-03T00:00:00
+23575484;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;259;;;46342;686973.66;985457.83;2013-12-03T00:00:00
+23575506;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;261;;;46342;687004.28;985480.99;2013-12-03T00:00:00
+23575522;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;266;;;46342;687031.55;985522.30;2013-12-03T00:00:00
+23575549;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;268;;;46342;686988.67;985575.37;2013-12-03T00:00:00
+23575557;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;269;;;46342;687000.03;985603.37;2013-12-03T00:00:00
+23575565;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;270;;;46342;686954.30;985548.36;2013-12-03T00:00:00
+23575573;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;272;;;46342;686949.98;985572.95;2013-12-03T00:00:00
+23575581;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250759;Malá strana;è.p.;274;;;46342;686928.91;985599.40;2013-12-03T00:00:00
+23575590;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250759;Malá strana;è.p.;277;;;46342;686918.14;985626.85;2013-12-03T00:00:00
+23575603;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250759;Malá strana;è.p.;279;;;46342;686913.15;985648.95;2013-12-03T00:00:00
+23575611;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;281;;;46342;686946.96;985611.15;2013-12-03T00:00:00
+23575620;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250759;Malá strana;è.p.;282;;;46342;686951.67;985593.82;2013-12-03T00:00:00
+23575638;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250856;Riegrova;è.p.;283;;;46342;686957.00;985679.00;2013-12-03T00:00:00
+23575646;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250856;Riegrova;è.p.;285;;;46342;686946.99;985706.67;2013-12-03T00:00:00
+23575654;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250856;Riegrova;è.p.;286;;;46342;686927.29;985711.02;2013-12-03T00:00:00
+23575662;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250856;Riegrova;è.p.;289;;;46342;686938.29;985747.90;2013-12-03T00:00:00
+23575671;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250856;Riegrova;è.p.;290;;;46342;686934.56;985778.28;2013-12-03T00:00:00
+23575689;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250856;Riegrova;è.p.;291;;;46342;686934.05;985791.62;2013-12-03T00:00:00
+23575697;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;297;;;46342;686884.84;985801.73;2013-12-03T00:00:00
+23575701;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;298;;;46342;686891.53;985797.44;2013-12-03T00:00:00
+23575719;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;300;;;46342;686937.25;985821.69;2013-12-03T00:00:00
+23575727;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250651;Dolánky;è.p.;303;;;46342;686927.60;985839.17;2013-12-03T00:00:00
+23575735;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250651;Dolánky;è.p.;304;;;46342;686901.90;985861.28;2013-12-03T00:00:00
+23575743;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250651;Dolánky;è.p.;306;;;46342;686877.53;985863.72;2013-12-03T00:00:00
+23575751;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250651;Dolánky;è.p.;307;;;46342;686839.91;985883.51;2025-07-23T00:00:00
+23575778;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;315;;;46342;686894.86;985891.60;2013-12-03T00:00:00
+23575786;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;316;;;46342;686936.97;985887.83;2013-12-03T00:00:00
+23575794;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;318;;;46342;686976.70;985852.90;2013-12-03T00:00:00
+23575808;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;319;;;46342;686985.73;985810.86;2013-12-03T00:00:00
+23575816;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;323;;;46342;687029.48;985800.49;2013-12-03T00:00:00
+23575824;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;324;;;46342;687022.10;985802.27;2013-12-03T00:00:00
+23575832;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;326;;;46342;687004.69;985817.96;2013-12-03T00:00:00
+23575841;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;327;;;46342;687005.31;985838.24;2013-12-03T00:00:00
+23575859;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;328;;;46342;687026.55;985846.24;2013-12-03T00:00:00
+23575875;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;333;;;46342;687060.75;985851.75;2013-12-03T00:00:00
+23575891;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;335;;;46342;687064.84;985878.29;2013-12-03T00:00:00
+23575905;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;336;;;46342;687083.34;985883.31;2013-12-03T00:00:00
+23575913;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;340;;;46342;686599.34;984355.33;2022-05-24T00:00:00
+23575921;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;342;;;46342;686624.00;983615.70;2013-12-03T00:00:00
+23575956;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;350;;;46342;687467.59;984782.52;2013-12-03T00:00:00
+23575964;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;352;;;46342;687469.10;984741.91;2013-12-03T00:00:00
+23575981;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;354;;;46342;687448.83;984649.45;2013-12-03T00:00:00
+23575999;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;355;;;46342;687469.49;984519.78;2013-12-03T00:00:00
+23576006;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;357;;;46342;687490.68;984403.15;2013-12-03T00:00:00
+23576014;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;360;;;46342;687450.27;984274.95;2013-12-03T00:00:00
+23576022;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;362;;;46342;688460.42;985863.44;2026-01-27T00:00:00
+23576031;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;363;;;46342;688604.02;986001.97;2013-12-03T00:00:00
+23576049;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;364;;;46342;688643.76;986012.70;2013-12-03T00:00:00
+23576065;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;367;;;46342;687194.18;985659.32;2013-12-03T00:00:00
+23576073;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;370;;;46342;687475.32;984381.14;2013-12-03T00:00:00
+23576090;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;374;;;46342;687418.94;984305.17;2013-12-03T00:00:00
+23576103;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;375;;;46342;687046.11;985290.87;2013-12-03T00:00:00
+23576111;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;377;;;46342;687425.39;984335.65;2013-12-03T00:00:00
+23576120;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;378;;;46342;687420.43;984258.78;2013-12-03T00:00:00
+23576138;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;379;;;46342;687389.08;985607.93;2013-12-03T00:00:00
+23576154;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;383;;;46342;686753.28;985094.62;2013-12-03T00:00:00
+23576162;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;386;;;46342;686875.89;985907.19;2013-12-03T00:00:00
+23576171;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;389;;;46342;687447.00;985106.78;2013-12-03T00:00:00
+23576197;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;391;;;46342;686500.28;984461.88;2013-12-03T00:00:00
+23576201;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;392;;;46342;686843.99;985940.49;2013-12-03T00:00:00
+23576219;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;394;;;46342;687079.99;985360.00;2018-02-13T00:00:00
+23576227;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;395;;;46342;687413.49;985176.04;2013-12-03T00:00:00
+23576235;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;396;;;46342;687415.45;985109.76;2013-12-03T00:00:00
+23576243;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;397;;;46342;686909.95;985877.17;2013-12-03T00:00:00
+23576294;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250783;Nádraží;è.p.;400;;;46342;686459.42;985403.31;2013-12-03T00:00:00
+23576316;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250783;Nádraží;è.p.;401;;;46342;686415.10;985465.98;2013-12-03T00:00:00
+23576341;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250783;Nádraží;è.p.;404;;;46342;686526.07;985322.58;2013-12-03T00:00:00
+23576359;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;407;;;46342;686882.46;985312.24;2013-12-03T00:00:00
+23576367;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;409;;;46342;687205.84;985782.30;2013-12-03T00:00:00
+23576375;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;411;;;46342;687353.58;985482.48;2013-12-03T00:00:00
+23576383;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250929;Sokolská;è.p.;412;;;46342;687290.60;985576.89;2013-12-03T00:00:00
+23576391;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;413;;;46342;687032.34;985783.34;2013-12-03T00:00:00
+23576405;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250791;Nádražní;è.p.;414;;;46342;686463.54;985454.98;2013-12-03T00:00:00
+23576413;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;415;;;46342;687526.16;985125.42;2013-12-03T00:00:00
+23576421;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;416;;;46342;686958.67;985451.25;2013-12-03T00:00:00
+23576448;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;417;;;46342;687364.62;985303.13;2013-12-03T00:00:00
+23576456;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;421;;;46342;686922.66;985347.54;2013-12-03T00:00:00
+23576464;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;422;;;46342;686886.64;985415.76;2013-12-03T00:00:00
+23576472;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250856;Riegrova;è.p.;423;;;46342;686938.74;985687.62;2013-12-03T00:00:00
+23576499;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;425;;;46342;686222.86;985568.03;2013-12-03T00:00:00
+23576502;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;426;;;46342;686247.69;985533.43;2013-12-03T00:00:00
+23576511;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;427;;;46342;686226.52;985551.15;2013-12-03T00:00:00
+23576529;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;429;;;46342;687110.24;986892.86;2013-12-03T00:00:00
+23576537;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;430;;;46342;686228.25;985532.54;2013-12-03T00:00:00
+23576561;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;433;;;46342;687563.01;985167.26;2013-12-03T00:00:00
+23576570;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250686;J. Hory;è.p.;434;;;46342;687429.81;985353.07;2013-12-03T00:00:00
+23576596;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;436;;;46342;687001.38;985696.22;2013-12-03T00:00:00
+23576626;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250686;J. Hory;è.p.;439;;;46342;687444.52;985347.46;2013-12-03T00:00:00
+23576634;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250732;Lesní;è.p.;440;;;46342;686878.38;984923.97;2013-12-03T00:00:00
+23576642;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;441;;;46342;687055.18;985653.07;2013-12-03T00:00:00
+23576669;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;442;;;46342;687601.53;985146.50;2013-12-03T00:00:00
+23576685;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250791;Nádražní;è.p.;443;;;46342;686478.43;985470.65;2013-12-03T00:00:00
+23576693;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250686;J. Hory;è.p.;444;;;46342;687389.20;985352.55;2013-12-03T00:00:00
+23576707;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;445;;;46342;687457.19;985367.97;2013-12-03T00:00:00
+23576715;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;446;;;46342;687065.08;985292.99;2013-12-03T00:00:00
+23576723;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;447;;;46342;687415.00;985273.02;2013-12-03T00:00:00
+23576731;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;448;;;46342;687440.62;985310.60;2023-09-11T00:00:00
+23576740;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;449;;;46342;687470.24;985384.82;2013-12-03T00:00:00
+23576758;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;450;;;46342;687509.98;985406.04;2013-12-03T00:00:00
+23576766;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;451;;;46342;687460.46;984918.63;2014-12-30T00:00:00
+23576774;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250732;Lesní;è.p.;452;;;46342;687397.21;984580.76;2013-12-03T00:00:00
+23576804;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;457;;;46342;687427.08;984877.59;2013-12-03T00:00:00
+23576812;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;458;;;46342;687433.39;984778.30;2013-12-03T00:00:00
+23576821;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;459;;;46342;687440.66;984758.71;2022-01-10T00:00:00
+23576839;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;460;;;46342;687437.73;984738.72;2013-12-03T00:00:00
+23576847;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;461;;;46342;687440.37;984720.17;2013-12-03T00:00:00
+23576855;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;462;;;46342;687394.96;984715.40;2013-12-03T00:00:00
+23576863;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;463;;;46342;687393.26;984734.96;2013-12-03T00:00:00
+23576871;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;464;;;46342;687392.21;984754.82;2013-12-03T00:00:00
+23576880;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;465;;;46342;687390.63;984774.93;2013-12-03T00:00:00
+23576898;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;466;;;46342;687388.96;984794.58;2013-12-03T00:00:00
+23576901;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;467;;;46342;687484.67;985358.05;2013-12-03T00:00:00
+23576910;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;468;;;46342;686203.01;985560.65;2013-12-03T00:00:00
+23576928;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;469;;;46342;687508.31;985441.64;2013-12-03T00:00:00
+23576936;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250881;Smetanova;è.p.;470;;;46342;687434.50;984694.05;2013-12-03T00:00:00
+23576944;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;471;;;46342;687453.70;984566.44;2013-12-03T00:00:00
+23576952;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;472;;;46342;687433.47;984799.54;2013-12-03T00:00:00
+23576961;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250732;Lesní;è.p.;473;;;46342;687343.14;984615.22;2013-12-03T00:00:00
+23576979;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250732;Lesní;è.p.;474;;;46342;687319.65;984628.66;2013-12-03T00:00:00
+23576987;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250732;Lesní;è.p.;475;;;46342;687293.54;984645.50;2013-12-03T00:00:00
+23576995;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250881;Smetanova;è.p.;477;;;46342;687396.89;984688.70;2013-12-03T00:00:00
+23577002;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;478;;;46342;687343.12;984785.13;2015-07-08T00:00:00
+23577011;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;479;;;46342;687353.85;984801.30;2013-12-03T00:00:00
+23577029;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;480;;;46342;687400.01;984649.90;2013-12-03T00:00:00
+23577037;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;481;;;46342;686942.11;985562.45;2013-12-03T00:00:00
+23577045;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;482;;;46342;686947.28;985252.65;2013-12-03T00:00:00
+23577053;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;483;;;46342;686889.06;985365.23;2013-12-03T00:00:00
+23577061;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;484;;;46342;687368.14;984687.58;2013-12-03T00:00:00
+23577070;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;485;;;46342;687364.44;984757.82;2013-12-03T00:00:00
+23577088;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;486;;;46342;687363.85;984735.35;2025-11-18T00:00:00
+23577096;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250881;Smetanova;è.p.;487;;;46342;687367.99;984712.98;2013-12-03T00:00:00
+23577118;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250881;Smetanova;è.p.;488;;;46342;687339.23;984710.21;2013-12-03T00:00:00
+23577126;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;489;;;46342;687366.69;984653.72;2013-12-03T00:00:00
+23577134;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;490;;;46342;687362.81;984816.70;2013-12-03T00:00:00
+23577142;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;491;;;46342;687260.50;985207.33;2013-12-03T00:00:00
+23577151;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250686;J. Hory;è.p.;492;;;46342;687403.11;985341.91;2013-12-03T00:00:00
+23577177;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;494;;;46342;687219.07;985171.15;2013-12-03T00:00:00
+23577185;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250881;Smetanova;è.p.;495;;;46342;687342.92;984685.24;2013-12-03T00:00:00
+23577193;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;496;;;46342;687375.52;984836.30;2013-12-03T00:00:00
+23577207;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250902;Tyršova;è.p.;497;;;46342;687391.66;984860.28;2013-12-03T00:00:00
+23577215;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;498;;;46342;686144.22;985560.61;2013-12-03T00:00:00
+23577223;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;499;;;46342;687483.54;985401.51;2013-12-03T00:00:00
+23577231;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;500;;;46342;687432.13;984821.49;2013-12-03T00:00:00
+23577240;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;501;;;46342;686924.93;985466.38;2013-12-03T00:00:00
+23577258;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;502;;;46342;686506.17;985638.37;2013-12-03T00:00:00
+23577266;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;503;;;46342;686503.55;985623.01;2013-12-03T00:00:00
+23577274;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;504;;;46342;687243.66;985786.60;2013-12-03T00:00:00
+23577282;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250881;Smetanova;è.p.;505;;;46342;687308.61;984682.59;2013-12-03T00:00:00
+23577304;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;507;;;46342;687378.37;984949.30;2013-12-03T00:00:00
+23577339;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250732;Lesní;è.p.;511;;;46342;687266.59;984663.42;2013-12-03T00:00:00
+23577347;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;512;;;46342;686567.52;985649.71;2013-12-03T00:00:00
+23577355;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;513;;;46342;686559.01;985648.01;2013-12-03T00:00:00
+23577371;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;514;;;46342;687349.00;984907.06;2013-12-03T00:00:00
+23577398;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;515;;;46342;687344.83;984901.50;2013-12-03T00:00:00
+23577410;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;516;;;46342;687319.16;984867.47;2013-12-03T00:00:00
+23577436;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;517;;;46342;687312.78;984859.43;2013-12-03T00:00:00
+23577452;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;518;;;46342;687293.28;984834.06;2013-12-03T00:00:00
+23577479;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;519;;;46342;687289.42;984828.30;2013-12-03T00:00:00
+23577495;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;520;;;46342;687368.50;984978.92;2013-12-03T00:00:00
+23577509;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250708;Konìvova;è.p.;521;;;46342;687208.60;985602.48;2013-12-03T00:00:00
+23577517;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250686;J. Hory;è.p.;522;;;46342;687397.44;985389.19;2013-12-03T00:00:00
+23577525;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250686;J. Hory;è.p.;523;;;46342;687413.88;985379.06;2013-12-03T00:00:00
+23577533;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;524;;;46342;686992.62;985429.83;2013-12-03T00:00:00
+23577550;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;525;;;46342;686824.19;984942.21;2013-12-03T00:00:00
+23577576;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;526;;;46342;687355.54;984958.03;2013-12-03T00:00:00
+23577584;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;527;;;46342;687152.85;985159.17;2013-12-03T00:00:00
+23577592;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;528;;;46342;687119.36;985158.35;2013-12-03T00:00:00
+23577606;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;529;;;46342;687110.13;985125.50;2013-12-03T00:00:00
+23577614;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;530;;;46342;687080.49;985148.56;2013-12-03T00:00:00
+23577631;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;531;;;46342;687344.25;984941.18;2013-12-03T00:00:00
+23577649;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;532;;;46342;687329.06;984919.47;2013-12-03T00:00:00
+23577673;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;533;;;46342;687317.08;984902.40;2013-12-03T00:00:00
+23577690;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;534;;;46342;687296.57;984873.24;2013-12-03T00:00:00
+23577703;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;535;;;46342;686538.38;985671.65;2013-12-03T00:00:00
+23577711;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;536;;;46342;687424.57;984926.76;2013-12-03T00:00:00
+23577720;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;537;;;46342;687341.51;985086.00;2013-12-03T00:00:00
+23577738;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;538;;;46342;687344.50;985047.31;2013-12-03T00:00:00
+23577746;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;539;;;46342;687305.06;985032.94;2013-12-03T00:00:00
+23577754;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;540;;;46342;687288.86;985033.30;2013-12-03T00:00:00
+23577762;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;541;;;46342;687258.97;984999.42;2013-12-03T00:00:00
+23577771;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;542;;;46342;687255.92;984967.03;2013-12-03T00:00:00
+23577789;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;543;;;46342;687224.21;984942.93;2013-12-03T00:00:00
+23577797;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;544;;;46342;687190.29;984945.57;2013-12-03T00:00:00
+23577819;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;545;;;46342;687156.68;984967.38;2013-12-03T00:00:00
+23577827;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;546;;;46342;687159.35;985000.46;2013-12-03T00:00:00
+23577835;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;547;;;46342;687181.63;985032.73;2013-12-03T00:00:00
+23577843;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;548;;;46342;687184.48;985065.40;2013-12-03T00:00:00
+23577851;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;549;;;46342;687299.91;985112.86;2013-12-03T00:00:00
+23577860;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;550;;;46342;686992.08;985158.38;2013-12-03T00:00:00
+23577878;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;551;;;46342;687165.60;985235.10;2013-12-03T00:00:00
+23577886;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;552;;;46342;687192.59;985215.37;2013-12-03T00:00:00
+23577894;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;553;;;46342;687141.89;985213.57;2013-12-03T00:00:00
+23577908;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;554;;;46342;687138.32;985239.60;2013-12-03T00:00:00
+23577916;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;555;;;46342;687112.02;985216.82;2013-12-03T00:00:00
+23577924;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;556;;;46342;687122.41;985728.39;2013-12-03T00:00:00
+23577932;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;557;;;46342;687518.14;985479.05;2013-12-03T00:00:00
+23577941;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250732;Lesní;è.p.;558;;;46342;687244.41;984680.70;2013-12-03T00:00:00
+23577959;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;559;;;46342;687447.88;984617.30;2013-12-03T00:00:00
+23577967;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;560;;;46342;687207.29;985131.61;2013-12-03T00:00:00
+23577975;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;561;;;46342;687348.23;985133.61;2013-12-03T00:00:00
+23577983;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;562;;;46342;687450.33;985583.04;2013-12-03T00:00:00
+23577991;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;563;;;46342;687421.40;984954.23;2013-12-03T00:00:00
+23578009;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250694;K. H. Borovského;è.p.;564;;;46342;687088.69;985547.52;2013-12-03T00:00:00
+23578017;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;565;;;46342;687080.14;985791.80;2013-12-03T00:00:00
+23578025;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;566;;;46342;687163.62;985275.17;2013-12-03T00:00:00
+23578033;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;567;;;46342;687181.06;985263.95;2013-12-03T00:00:00
+23578041;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;568;;;46342;687202.19;985248.91;2013-12-03T00:00:00
+23578050;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;569;;;46342;687220.41;985228.13;2013-12-03T00:00:00
+23578068;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;570;;;46342;687098.93;985252.12;2013-12-03T00:00:00
+23578084;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;572;;;46342;687299.51;985763.84;2013-12-03T00:00:00
+23578092;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;573;;;46342;687454.91;985704.77;2018-01-29T00:00:00
+23578114;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;575;;;46342;687033.36;985250.40;2013-12-03T00:00:00
+23578149;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;578;;;46342;687219.36;985876.24;2013-12-03T00:00:00
+23578157;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250601;Letištì;è.p.;579;;;46342;688370.21;986701.09;2013-12-03T00:00:00
+23578165;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;580;;;46342;687082.81;985210.32;2013-12-03T00:00:00
+23578181;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;581;;;46342;687395.13;985015.92;2013-12-03T00:00:00
+23578190;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;582;;;46342;687138.60;985846.82;2013-12-03T00:00:00
+23578203;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;583;;;46342;687414.25;985058.14;2013-12-03T00:00:00
+23578220;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;584;;;46342;687279.77;984852.35;2013-12-03T00:00:00
+23578246;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;585;;;46342;687267.81;984836.39;2013-12-03T00:00:00
+23578262;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;586;;;46342;687406.80;985034.63;2013-12-03T00:00:00
+23578271;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;587;;;46342;687478.16;985592.36;2013-12-03T00:00:00
+23578289;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;588;;;46342;686933.37;985044.12;2018-10-02T00:00:00
+23578297;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;589;;;46342;686921.99;985088.26;2013-12-03T00:00:00
+23578301;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;590;;;46342;687536.99;985507.90;2013-12-03T00:00:00
+23578319;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;591;;;46342;687530.50;985512.43;2013-12-03T00:00:00
+23578327;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;592;;;46342;687519.23;985521.03;2013-12-03T00:00:00
+23578335;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;593;;;46342;687512.73;985525.42;2013-12-03T00:00:00
+23578343;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;594;;;46342;687501.61;985534.33;2013-12-03T00:00:00
+23578351;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;595;;;46342;687494.79;985539.03;2013-12-03T00:00:00
+23578378;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;596;;;46342;687262.84;984784.42;2013-12-03T00:00:00
+23578386;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;597;;;46342;686921.70;985769.28;2013-12-03T00:00:00
+23578394;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;598;;;46342;687146.89;985075.30;2013-12-03T00:00:00
+23578408;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;599;;;46342;687124.95;985075.62;2013-12-03T00:00:00
+23578416;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;600;;;46342;687060.06;985068.44;2013-12-03T00:00:00
+23578424;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;601;;;46342;687040.06;985067.88;2013-12-03T00:00:00
+23578432;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;602;;;46342;687107.25;985051.97;2013-12-03T00:00:00
+23578441;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;603;;;46342;687107.75;985029.56;2013-12-03T00:00:00
+23578459;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;604;;;46342;687108.37;985006.56;2013-12-03T00:00:00
+23578467;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;605;;;46342;687367.83;985354.36;2013-12-03T00:00:00
+23578475;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;606;;;46342;688067.09;986880.57;2013-12-03T00:00:00
+23578491;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;607;;;46342;687240.58;984751.81;2013-12-03T00:00:00
+23578505;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;608;;;46342;687320.87;985478.21;2013-12-03T00:00:00
+23578513;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250848;Pražská;è.p.;609;;;46342;687117.15;985582.64;2013-12-03T00:00:00
+23578521;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;610;;;46342;687275.18;984803.44;2013-12-03T00:00:00
+23578530;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;611;;;46342;687381.01;985000.20;2013-12-03T00:00:00
+23578548;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;612;;;46342;687300.20;984776.90;2013-12-03T00:00:00
+23578556;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;613;;;46342;687289.86;984712.19;2013-12-03T00:00:00
+23578564;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;614;;;46342;687254.84;984739.57;2013-12-03T00:00:00
+23578572;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;615;;;46342;687404.46;985573.97;2013-12-03T00:00:00
+23578599;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;617;;;46342;687313.10;984735.03;2013-12-03T00:00:00
+23578602;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;618;;;46342;687272.42;984726.41;2013-12-03T00:00:00
+23578611;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;619;;;46342;687453.79;985647.65;2013-12-03T00:00:00
+23578629;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;620;;;46342;687288.60;984751.09;2013-12-03T00:00:00
+23578637;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;621;;;46342;687480.08;985643.08;2013-12-03T00:00:00
+23578645;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;622;;;46342;687017.74;985036.33;2013-12-03T00:00:00
+23578653;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;623;;;46342;687022.45;985007.35;2013-12-03T00:00:00
+23578661;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;624;;;46342;687022.69;984986.20;2013-12-03T00:00:00
+23578670;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.p.;625;;;46342;687194.07;985519.27;2013-12-03T00:00:00
+23578688;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;626;;;46342;687369.84;984929.60;2013-12-03T00:00:00
+23578696;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;627;;;46342;686954.15;985351.11;2013-12-03T00:00:00
+23578734;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;638;;;46342;687345.18;985062.27;2014-02-05T00:00:00
+23578858;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;785;;;46342;687456.01;985201.96;2021-12-20T00:00:00
+23578866;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250759;Malá strana;è.ev.;2;;;46342;686924.25;985617.61;2013-12-03T00:00:00
+23578874;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.ev.;3;;;46342;687040.07;985870.41;2013-12-03T00:00:00
+23578882;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.ev.;4;;;46342;687076.19;985848.91;2013-12-03T00:00:00
+23578891;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.ev.;5;;;46342;687515.37;984430.47;2013-12-03T00:00:00
+23578904;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.ev.;6;;;46342;687458.89;984368.31;2013-12-03T00:00:00
+23578921;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250856;Riegrova;è.ev.;8;;;46342;686963.38;985666.44;2013-12-03T00:00:00
+23578939;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.ev.;9;;;46342;686542.50;985631.01;2013-12-03T00:00:00
+23578947;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250732;Lesní;è.ev.;10;;;46342;687167.61;984814.47;2013-12-03T00:00:00
+23578955;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.ev.;11;;;46342;686641.88;983531.40;2013-12-03T00:00:00
+23578963;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.ev.;12;;;46342;687014.60;985559.33;2013-12-03T00:00:00
+23578971;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.ev.;13;;;46342;687356.71;985263.23;2013-12-03T00:00:00
+23578980;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.ev.;14;;;46342;687375.55;985247.98;2013-12-03T00:00:00
+23578998;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;730;;;46342;687530.98;985157.94;2013-12-03T00:00:00
+23579013;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.ev.;17;;;46342;687327.37;985455.09;2013-12-03T00:00:00
+23579048;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.ev.;20;;;46342;687405.79;985708.96;2013-12-03T00:00:00
+23579056;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.ev.;21;;;46342;687051.12;985605.96;2013-12-03T00:00:00
+23579064;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250694;K. H. Borovského;è.ev.;22;;;46342;687076.68;985516.01;2013-12-03T00:00:00
+23579072;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250643;Dlouhý kopec;è.p.;672;;;46342;687153.68;985439.16;2013-12-03T00:00:00
+23579081;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.ev.;24;;;46342;687073.47;985424.83;2013-12-03T00:00:00
+23579099;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.ev.;25;;;46342;686917.31;985249.90;2013-12-03T00:00:00
+23579102;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250759;Malá strana;è.ev.;26;;;46342;686926.64;985590.02;2013-12-03T00:00:00
+23579111;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250759;Malá strana;è.ev.;27;;;46342;686919.66;985638.44;2013-12-03T00:00:00
+23579129;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;712;;;46342;686847.14;985781.47;2013-12-03T00:00:00
+23579145;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.ev.;30;;;46342;686454.53;984454.66;2013-12-03T00:00:00
+23579153;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.ev.;31;;;46342;687504.84;984393.82;2013-12-03T00:00:00
+23579161;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.ev.;32;;;46342;687448.56;984342.52;2013-12-03T00:00:00
+23579170;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.ev.;33;;;46342;687494.92;984364.22;2013-12-03T00:00:00
+23579196;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.ev.;35;;;46342;687457.53;984307.67;2013-12-03T00:00:00
+23579200;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.ev.;36;;;46342;687037.88;985557.25;2013-12-03T00:00:00
+23579218;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250660;Husova;è.ev.;37;;;46342;687125.46;985684.01;2013-12-03T00:00:00
+23579226;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.ev.;39;;;46342;686599.06;984334.55;2013-12-03T00:00:00
+23579234;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.ev.;40;;;46342;686977.27;985270.57;2013-12-03T00:00:00
+23579242;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.ev.;42;;;46342;687304.52;985537.99;2013-12-03T00:00:00
+23579251;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.ev.;43;;;46342;687137.64;985455.15;2013-12-03T00:00:00
+23579277;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;8;;;46342;685443.30;985269.93;2013-12-03T00:00:00
+23579293;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;24;;;46342;685588.22;985511.31;2013-12-03T00:00:00
+23579307;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;25;;;46342;685499.63;985226.92;2013-12-03T00:00:00
+23579315;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;28;;;46342;685496.41;985453.95;2013-12-03T00:00:00
+23579323;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;41;;;46342;685408.12;985294.04;2013-12-03T00:00:00
+23579331;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;42;;;46342;685449.64;985365.68;2013-12-03T00:00:00
+23579340;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;43;;;46342;685588.90;985518.45;2013-12-03T00:00:00
+23579366;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;1;;;46342;685388.66;985336.63;2013-12-03T00:00:00
+23579374;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;14;;;46342;685349.76;985341.32;2013-12-03T00:00:00
+23579391;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;4;;;46342;685513.55;985327.90;2013-12-03T00:00:00
+23579404;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;5;;;46342;686374.01;984565.52;2013-12-03T00:00:00
+23579412;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;6;;;46342;685556.64;985183.53;2013-12-03T00:00:00
+23579421;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;7;;;46342;685529.78;985195.59;2013-12-03T00:00:00
+23579439;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;8;;;46342;685347.71;985298.08;2013-12-03T00:00:00
+23579455;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;11;;;46342;685431.89;985307.13;2013-12-03T00:00:00
+23579463;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;17;;;46342;685498.86;985261.96;2013-12-03T00:00:00
+23579471;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;1;;;46342;687466.76;984219.41;2013-12-03T00:00:00
+23579480;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;2;;;46342;687512.89;984214.19;2013-12-03T00:00:00
+23579498;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;4;;;46342;687525.16;983867.20;2013-12-03T00:00:00
+23579501;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;6;;;46342;687595.57;983781.02;2013-12-03T00:00:00
+23579510;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;13;;;46342;687413.56;983854.29;2013-12-03T00:00:00
+23579528;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;14;;;46342;687401.98;983788.33;2013-12-03T00:00:00
+23579536;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;16;;;46342;687544.07;983408.79;2013-12-03T00:00:00
+23579544;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;17;;;46342;687329.77;983657.20;2013-12-03T00:00:00
+23579552;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;20;;;46342;687254.80;983400.92;2013-12-03T00:00:00
+23579561;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;23;;;46342;687181.18;983352.30;2013-12-03T00:00:00
+23579579;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;25;;;46342;687098.02;983441.27;2013-12-03T00:00:00
+23579587;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;26;;;46342;687079.52;983422.26;2013-12-03T00:00:00
+23579595;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;32;;;46342;687093.70;983325.56;2013-12-03T00:00:00
+23579609;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;35;;;46342;686920.94;983151.97;2013-12-03T00:00:00
+23579617;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;37;;;46342;686893.60;983161.63;2013-12-03T00:00:00
+23579625;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;40;;;46342;686839.45;983053.90;2013-12-03T00:00:00
+23579633;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;41;;;46342;686782.58;983297.75;2013-12-03T00:00:00
+23579650;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;45;;;46342;686852.81;983210.93;2020-08-19T00:00:00
+23579676;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;47;;;46342;686797.03;983210.33;2013-12-03T00:00:00
+23579692;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;49;;;46342;687021.04;983315.44;2013-12-03T00:00:00
+23579706;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;52;;;46342;687502.53;983929.71;2013-12-03T00:00:00
+23579714;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;53;;;46342;687491.59;983849.46;2013-12-03T00:00:00
+23579722;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;59;;;46342;687415.93;983723.66;2013-12-03T00:00:00
+23579731;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;60;;;46342;686990.73;983181.32;2017-01-04T00:00:00
+23579757;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;63;;;46342;686785.15;983043.69;2013-12-03T00:00:00
+23579765;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;65;;;46342;687430.08;983315.58;2013-12-03T00:00:00
+23579773;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;66;;;46342;687369.29;983685.24;2013-12-03T00:00:00
+23579781;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;72;;;46342;687128.08;983351.04;2014-12-30T00:00:00
+23579790;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;73;;;46342;687472.39;983684.16;2013-12-03T00:00:00
+23579803;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;75;;;46342;686886.05;983124.39;2018-10-22T00:00:00
+23579811;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;76;;;46342;686465.78;983022.47;2013-12-03T00:00:00
+23579820;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;77;;;46342;687115.94;983451.75;2013-12-03T00:00:00
+23579838;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;78;;;46342;686507.15;983027.28;2013-12-03T00:00:00
+23579846;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;79;;;46342;687459.02;984200.77;2014-12-30T00:00:00
+23579854;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;80;;;46342;686760.13;983097.01;2013-12-03T00:00:00
+23579862;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;82;;;46342;687426.36;983831.27;2013-12-03T00:00:00
+23579871;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;84;;;46342;686994.99;983203.25;2013-12-03T00:00:00
+23579889;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;85;;;46342;687452.01;983704.68;2013-12-03T00:00:00
+23579897;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;86;;;46342;686357.51;983348.38;2013-12-03T00:00:00
+23579901;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;87;;;46342;686277.22;982887.59;2013-12-03T00:00:00
+23579919;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;88;;;46342;685876.68;983408.93;2013-12-03T00:00:00
+23579935;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;91;;;46342;688466.60;983131.43;2023-05-21T00:00:00
+23579943;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;92;;;46342;688339.83;983225.54;2023-05-21T00:00:00
+23579951;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;93;;;46342;688455.61;982941.17;2023-05-21T00:00:00
+23579960;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;94;;;46342;687853.89;982818.32;2013-12-03T00:00:00
+23579986;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;1;;;46342;688203.43;982906.36;2023-05-21T00:00:00
+23579994;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;2;;;46342;687775.23;983700.63;2013-12-03T00:00:00
+23580003;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;3;;;46342;687813.18;983633.88;2013-12-03T00:00:00
+23580011;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;4;;;46342;687480.95;983768.46;2013-12-03T00:00:00
+23580020;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;5;;;46342;687122.53;983398.91;2013-12-03T00:00:00
+23580038;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;6;;;46342;687007.92;983243.47;2013-12-03T00:00:00
+23580046;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;7;;;46342;686994.04;983151.97;2013-12-03T00:00:00
+23580062;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;9;;;46342;686871.12;983172.30;2013-12-03T00:00:00
+23580071;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;10;;;46342;687720.25;982919.10;2013-12-03T00:00:00
+23580089;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;11;;;46342;686424.08;983335.74;2013-12-03T00:00:00
+23580097;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;12;;;46342;686498.65;983334.45;2013-12-03T00:00:00
+23580101;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;13;;;46342;686219.26;982815.42;2013-12-03T00:00:00
+23580119;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;14;;;46342;688087.86;983017.32;2020-09-17T00:00:00
+23580127;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;15;;;46342;688102.01;982958.38;2016-01-19T00:00:00
+23580143;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;18;;;46342;688244.66;982954.30;2023-05-21T00:00:00
+23580186;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;22;;;46342;688847.80;983124.75;2023-05-21T00:00:00
+23580194;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;23;;;46342;688431.27;982938.54;2023-05-21T00:00:00
+23580208;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;110;;;46342;687540.79;983889.20;2024-07-10T00:00:00
+23580216;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;25;;;46342;687948.94;982739.21;2013-12-03T00:00:00
+23580224;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;26;;;46342;687935.41;982766.82;2013-12-03T00:00:00
+23580259;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;29;;;46342;688650.70;983106.42;2023-05-21T00:00:00
+23580267;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;30;;;46342;686795.51;983144.10;2014-02-19T00:00:00
+23580275;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;31;;;46342;687891.57;982849.97;2013-12-03T00:00:00
+23580283;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;32;;;46342;687887.45;982855.80;2013-12-03T00:00:00
+23580291;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;33;;;46342;686867.93;983110.86;2013-12-03T00:00:00
+23580305;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;34;;;46342;688404.81;983055.47;2023-05-21T00:00:00
+23580313;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;35;;;46342;686733.74;983050.29;2013-12-03T00:00:00
+23580321;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;36;;;46342;687487.70;984019.40;2013-12-03T00:00:00
+23580330;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;37;;;46342;686922.48;983205.64;2013-12-03T00:00:00
+23580348;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;38;;;46342;688690.79;983123.25;2013-12-03T00:00:00
+23580356;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.p.;96;;;46342;688053.43;983075.32;2013-12-03T00:00:00
+23580364;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;40;;;46342;688287.41;983001.78;2014-02-19T00:00:00
+23580399;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;43;;;46342;687890.72;982805.79;2013-12-03T00:00:00
+23580402;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;44;;;46342;688350.65;983038.11;2023-05-21T00:00:00
+23580461;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.p.;90;;;46342;688290.27;983241.43;2014-02-18T00:00:00
+23580470;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.p.;91;;;46342;688466.60;983131.43;2013-12-03T00:00:00
+23580488;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.p.;92;;;46342;688339.83;983225.54;2013-12-03T00:00:00
+23580496;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.p.;93;;;46342;688455.61;982941.17;2013-12-03T00:00:00
+23580518;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.p.;95;;;46342;688310.35;982921.53;2014-02-18T00:00:00
+23580526;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;1;;;46342;688201.81;982911.75;2013-12-03T00:00:00
+23580569;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;5;;;46342;688771.79;983127.69;2013-12-03T00:00:00
+23580640;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;17;;;46342;688267.52;982982.23;2013-12-03T00:00:00
+23580658;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;18;;;46342;688245.88;982957.19;2013-12-03T00:00:00
+23580666;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;106;;;46342;688605.90;983102.91;2019-08-12T00:00:00
+23580674;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;20;;;46342;688342.24;983024.49;2014-02-19T00:00:00
+23580682;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;21;;;46342;688462.77;983045.77;2014-02-19T00:00:00
+23580691;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;22;;;46342;688847.80;983124.75;2013-12-03T00:00:00
+23580704;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;23;;;46342;688432.19;982935.25;2013-12-03T00:00:00
+23580712;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;27;;;46342;688100.82;983078.74;2014-02-19T00:00:00
+23580721;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;29;;;46342;688650.70;983106.42;2013-12-03T00:00:00
+23580739;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;34;;;46342;688404.81;983055.47;2013-12-03T00:00:00
+25267621;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;632;;;46342;687072.75;985238.16;2013-12-03T00:00:00
+25341383;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;45;;;46342;687868.19;982779.36;2013-12-03T00:00:00
+25346598;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;650;;;46342;687395.47;985463.64;2013-12-03T00:00:00
+25359037;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;86;;;46342;686085.41;987091.44;2013-12-03T00:00:00
+25390732;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;633;;;46342;687131.46;985284.46;2013-12-03T00:00:00
+25390741;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;636;;;46342;687104.32;985751.38;2013-12-03T00:00:00
+25531247;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;13;;;46342;685494.87;985168.49;2013-12-03T00:00:00
+25531255;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;649;;;46342;687157.79;985341.75;2013-12-03T00:00:00
+25531263;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;651;;;46342;686934.17;985502.47;2013-12-03T00:00:00
+25532278;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;628;;;46342;687347.96;985386.40;2013-12-03T00:00:00
+25577247;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;70;;;46342;687333.82;985553.68;2013-12-03T00:00:00
+25577280;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;631;;;46342;687482.33;985555.37;2013-12-03T00:00:00
+25577301;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;85;;;46342;686095.93;987251.13;2013-12-03T00:00:00
+25577310;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;10;;;46342;685421.83;985209.66;2013-12-03T00:00:00
+25634488;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;653;;;46342;687313.43;985160.46;2013-12-03T00:00:00
+25635786;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;655;;;46342;687668.33;985027.32;2013-12-03T00:00:00
+25712853;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;652;;;46342;687145.13;985316.33;2013-12-03T00:00:00
+25712861;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;654;;;46342;687124.72;985307.82;2013-12-03T00:00:00
+25712870;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;657;;;46342;686101.06;985540.63;2013-12-03T00:00:00
+25712888;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;3;;;46342;687497.13;983952.89;2013-12-03T00:00:00
+25869647;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.ev.;46;;;46342;687596.57;984479.20;2013-12-03T00:00:00
+25882961;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;5;;;46342;687293.87;984049.43;2013-12-03T00:00:00
+25910825;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;46;;;46342;686554.84;983377.51;2013-12-03T00:00:00
+26004178;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;634;;;46342;687375.28;985423.87;2013-12-03T00:00:00
+26142848;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;668;;;46342;687086.00;984984.15;2023-12-13T00:00:00
+26149869;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;656;;;46342;687173.45;985319.50;2013-12-03T00:00:00
+26196671;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;669;;;46342;687068.81;984985.14;2023-12-13T00:00:00
+26196689;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;670;;;46342;687060.80;984988.71;2023-12-13T00:00:00
+26212471;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;661;;;46342;686902.35;985233.38;2013-12-03T00:00:00
+26377659;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.ev.;47;;;46342;687369.13;985595.89;2013-12-03T00:00:00
+26377667;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;384;;;46342;687056.16;985834.35;2013-12-03T00:00:00
+26377675;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;663;;;46342;687118.43;985716.59;2018-03-19T00:00:00
+26377683;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;666;;;46342;687249.67;985275.54;2013-12-03T00:00:00
+26377691;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250821;Podlesí;è.p.;667;;;46342;687103.60;984983.15;2023-12-13T00:00:00
+26377705;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250791;Nádražní;è.p.;671;;;46342;686491.12;985590.17;2013-12-03T00:00:00
+26492911;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;680;;;46342;687459.75;985510.00;2013-12-03T00:00:00
+26494604;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;679;;;46342;687751.46;984960.23;2013-12-03T00:00:00
+26497123;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;678;;;46342;687436.65;985471.37;2013-12-03T00:00:00
+26537885;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;674;;;46342;687220.93;985293.66;2013-12-03T00:00:00
+26541807;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;675;;;46342;687369.06;985500.18;2013-12-03T00:00:00
+26571803;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;677;;;46342;687415.24;985438.43;2013-12-03T00:00:00
+26892863;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;658;;;46342;687522.66;985188.10;2019-01-08T00:00:00
+26892871;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;659;;;46342;687077.80;985402.37;2013-12-03T00:00:00
+26892880;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.ev.;44;;;46342;686766.33;985341.68;2013-12-03T00:00:00
+26892898;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250791;Nádražní;è.ev.;45;;;46342;686636.59;985227.09;2013-12-03T00:00:00
+26892901;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;13;;;46342;685371.85;985274.75;2024-01-18T00:00:00
+26892910;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;14;;;46342;685392.18;985402.63;2013-12-03T00:00:00
+26892928;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;97;;;46342;687132.38;983298.48;2013-12-03T00:00:00
+27072185;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;683;;;46342;687286.13;985230.07;2013-12-03T00:00:00
+27072193;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250791;Nádražní;è.ev.;48;;;46342;686500.81;985538.85;2013-12-03T00:00:00
+27072207;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;48;;;46342;686882.24;983849.41;2013-12-03T00:00:00
+27122867;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;34;;;46342;686938.93;983135.05;2013-12-03T00:00:00
+27263045;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;681;;;46342;686976.35;985316.63;2013-12-03T00:00:00
+27338631;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;662;;;46342;687426.50;985679.65;2013-12-03T00:00:00
+27352765;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;660;;;46342;687139.96;985334.79;2013-12-03T00:00:00
+27526771;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;687;;;46342;687202.76;985817.17;2013-12-03T00:00:00
+27553531;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;688;;;46342;687271.51;985257.91;2013-12-03T00:00:00
+27608018;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;100;;;46342;687323.01;983382.28;2013-12-03T00:00:00
+27622789;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;101;;;46342;687339.06;983741.75;2013-12-03T00:00:00
+27622797;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;696;;;46342;687474.51;985711.64;2013-12-03T00:00:00
+27630234;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250643;Dlouhý kopec;è.p.;673;;;46342;687188.72;985444.17;2013-12-03T00:00:00
+27630242;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;686;;;46342;687205.35;985342.96;2013-12-03T00:00:00
+27652874;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;685;;;46342;687414.91;984986.99;2013-12-03T00:00:00
+27672689;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;690;;;46342;687698.09;985129.90;2013-12-03T00:00:00
+27831671;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;493;;;46342;687237.85;985167.61;2013-12-03T00:00:00
+27840948;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;684;;;46342;687251.30;985815.29;2013-12-03T00:00:00
+27840956;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;697;;;46342;687030.86;985339.12;2013-12-03T00:00:00
+27878007;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;710;;;46342;687199.06;985843.75;2013-12-03T00:00:00
+28055209;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.p.;9;;;46342;685423.70;985269.83;2013-12-03T00:00:00
+28060393;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;87;;;46342;686175.07;986805.30;2013-12-03T00:00:00
+28087399;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;706;;;46342;687627.75;985055.13;2013-12-03T00:00:00
+28166493;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250724;Krátká;è.p.;713;;;46342;687272.53;985528.65;2020-04-06T00:00:00
+28266633;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;714;;;46342;688673.61;986053.73;2013-12-03T00:00:00
+28284291;564061;Hodkovice nad Mohelkou;;;;;40355;Radoòovice;;;è.ev.;15;;;46342;685528.15;985172.35;2013-12-03T00:00:00
+28326474;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;704;;;46342;687597.93;985089.73;2013-12-03T00:00:00
+28355792;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;716;;;46342;686290.14;985694.05;2013-12-03T00:00:00
+28376943;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250791;Nádražní;è.p.;715;;;46342;686499.86;985412.82;2014-01-23T00:00:00
+28380967;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;709;;;46342;687312.81;985440.71;2014-01-23T00:00:00
+28419600;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;102;;;46342;687205.80;983312.42;2014-02-19T00:00:00
+30530849;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250686;J. Hory;è.p.;424;;;46342;687427.14;985325.01;2013-12-03T00:00:00
+30530857;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;431;;;46342;686894.22;985775.70;2013-12-03T00:00:00
+30530865;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;437;;;46342;686877.75;985767.07;2013-12-03T00:00:00
+30530873;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250872;Rychnovská;è.p.;455;;;46342;686848.34;985726.14;2013-12-03T00:00:00
+30530890;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;574;;;46342;686749.46;984826.88;2013-12-03T00:00:00
+30530903;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;577;;;46342;687015.35;985287.03;2013-12-03T00:00:00
+30530920;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;616;;;46342;686944.50;985080.70;2013-12-03T00:00:00
+30746396;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;99;;;46342;687140.09;983455.76;2013-12-03T00:00:00
+30746400;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;47;;;46342;687378.63;983662.57;2013-12-03T00:00:00
+31213103;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;676;;;46342;687225.79;985331.94;2017-01-04T00:00:00
+31213111;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;40;;;46342;688287.52;983001.66;2013-12-03T00:00:00
+31213120;564061;Hodkovice nad Mohelkou;;;;;40371;Žïárek;;;è.ev.;44;;;46342;688350.06;983037.19;2013-12-03T00:00:00
+40030440;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250805;nám. T. G. Masaryka;è.ev.;41;;;46342;687145.32;985466.20;2014-02-05T00:00:00
+40030458;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;38;;;46342;688690.79;983123.25;2023-05-21T00:00:00
+40621219;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;721;;;46342;687314.83;985416.23;2014-01-23T00:00:00
+40621952;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;;;è.p.;717;;;46342;688575.93;985920.46;2014-01-23T00:00:00
+40623912;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250651;Dolánky;è.p.;720;;;46342;686875.29;985852.97;2013-12-03T00:00:00
+40899608;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;718;;;46342;685954.73;985457.97;2013-12-03T00:00:00
+40900401;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;88;;;46342;686193.99;986852.33;2013-12-03T00:00:00
+40901491;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;724;;;46342;686413.62;985661.74;2013-12-03T00:00:00
+41163761;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;7;;;46342;687247.06;985405.11;2013-12-03T00:00:00
+41283732;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;727;;;46342;686049.64;985486.50;2013-12-03T00:00:00
+41294351;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;728;;;46342;687464.10;984823.86;2013-12-03T00:00:00
+41296958;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;729;;;46342;687350.29;985445.31;2013-12-03T00:00:00
+41328167;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;726;;;46342;686005.97;985375.49;2013-12-03T00:00:00
+41525973;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;699;;;46342;687652.13;985217.72;2013-12-03T00:00:00
+41527763;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;910066;Pod Letištìm;è.p.;691;;;46342;687695.30;985306.98;2013-12-03T00:00:00
+41564766;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;733;;;46342;687692.84;985003.03;2013-12-03T00:00:00
+41566157;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;103;;;46342;686826.50;983155.18;2013-12-03T00:00:00
+41579275;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;693;;;46342;687715.91;985135.66;2013-12-03T00:00:00
+41683811;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;711;;;46342;687618.11;985211.48;2013-12-03T00:00:00
+41693744;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;695;;;46342;687653.50;985154.25;2013-12-03T00:00:00
+41693817;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;692;;;46342;687640.10;985131.32;2013-12-03T00:00:00
+41693876;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;914631;Jílovská;è.p.;722;;;46342;686596.96;985471.94;2025-11-24T00:00:00
+42045096;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;723;;;46342;686186.04;985485.14;2013-12-03T00:00:00
+42086426;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;732;;;46342;687695.31;985068.14;2013-12-03T00:00:00
+42153751;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;719;;;46342;686154.06;985603.33;2013-12-03T00:00:00
+42190355;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250619;Sametová;è.p.;737;;;46342;687235.94;984814.17;2013-12-03T00:00:00
+42249821;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;725;;;46342;686931.47;985213.92;2013-12-03T00:00:00
+42322146;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;698;;;46342;687664.49;985178.66;2013-12-03T00:00:00
+42330866;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;734;;;46342;686958.87;985203.58;2013-12-03T00:00:00
+42553431;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;735;;;46342;687013.57;985210.05;2013-12-03T00:00:00
+42663237;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;694;;;46342;687632.75;985233.70;2013-12-03T00:00:00
+55564054;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;740;;;46342;685890.51;985466.10;2013-12-04T00:00:00
+61018121;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;731;;;46342;687777.40;985023.77;2013-12-05T00:00:00
+72347538;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;705;;;46342;687671.22;985074.74;2014-03-07T00:00:00
+72494450;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;708;;;46342;686195.58;985503.61;2014-04-01T00:00:00
+72562315;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;738;;;46342;687721.50;985052.90;2014-04-14T00:00:00
+72994690;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;744;;;46342;686943.54;985291.27;2014-08-20T00:00:00
+73001481;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;701;;;46342;687642.35;985186.05;2014-08-22T00:00:00
+73034371;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;108;;;46342;687910.39;982659.37;2014-09-05T00:00:00
+73132063;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;635;;;46342;687474.88;984646.58;2014-10-15T00:00:00
+73398845;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;741;;;46342;687469.36;984993.22;2015-02-03T00:00:00
+73629952;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;739;;;46342;687480.93;985694.38;2015-04-28T00:00:00
+74158775;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250716;Kostelní vrch;è.p.;703;;;46342;687454.55;985732.69;2015-10-19T00:00:00
+74245635;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;736;;;46342;687270.51;985420.95;2015-11-11T00:00:00
+74279181;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;745;;;46342;686109.64;985495.91;2015-11-20T00:00:00
+74346873;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;682;;;46342;687203.12;985307.40;2015-12-07T00:00:00
+75269911;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;1908898;Nad Školou;è.p.;743;;;46342;687609.19;985424.23;2016-08-15T00:00:00
+75293285;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;746;;;46342;687472.64;985495.82;2016-08-24T00:00:00
+75469227;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;747;;;46342;686078.69;985364.89;2016-10-27T00:00:00
+75638240;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;104;;;46342;687248.10;983304.63;2016-12-12T00:00:00
+75663350;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250775;Mlýnská;è.p.;707;;;46342;687037.11;985423.20;2016-12-20T00:00:00
+76006239;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;742;;;46342;687501.60;985163.99;2017-03-29T00:00:00
+76129713;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;748;;;46342;687164.67;985362.86;2017-05-03T00:00:00
+76301443;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;750;;;46342;686163.11;985329.32;2017-06-16T00:00:00
+77209753;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;751;;;46342;686170.74;985387.95;2017-06-30T00:00:00
+77209842;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;752;;;46342;685993.28;985428.65;2017-06-30T00:00:00
+77681819;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;754;;;46342;686077.60;985460.47;2017-09-27T00:00:00
+77693647;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;49;;;46342;686812.56;983246.17;2017-10-04T00:00:00
+77724615;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;753;;;46342;686029.30;985368.64;2017-10-17T00:00:00
+77725107;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;755;;;46342;686022.80;985397.20;2017-10-17T00:00:00
+77782488;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;756;;;46342;686190.28;985414.77;2017-11-08T00:00:00
+77792971;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;721671;Luèní;è.p.;758;;;46342;687282.26;985282.60;2017-11-13T00:00:00
+77814231;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;749;;;46342;686110.91;985473.98;2017-11-22T00:00:00
+77824121;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;700;;;46342;687684.51;985196.06;2017-11-27T00:00:00
+77843860;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;1908898;Nad Školou;è.p.;760;;;46342;687565.68;985450.33;2017-12-04T00:00:00
+77886445;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;759;;;46342;685895.14;985503.54;2017-12-19T00:00:00
+78013950;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;757;;;46342;686104.82;985352.85;2018-02-13T00:00:00
+78425182;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;761;;;46342;686016.09;985443.73;2018-06-12T00:00:00
+78435617;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;762;;;46342;685840.67;985543.09;2018-06-14T00:00:00
+78522081;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;664;;;46342;686389.53;985611.70;2018-07-17T00:00:00
+78663342;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;763;;;46342;687547.09;985558.34;2018-09-05T00:00:00
+78663733;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;105;;;46342;686491.59;982971.42;2018-09-05T00:00:00
+78696801;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250732;Lesní;è.p.;764;;;46342;687216.50;984695.34;2018-09-17T00:00:00
+78713030;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;702;;;46342;687702.93;985181.45;2018-09-24T00:00:00
+78857996;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;765;;;46342;685851.31;985504.20;2018-11-13T00:00:00
+79092594;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;766;;;46342;685925.62;985532.22;2019-01-25T00:00:00
+79293450;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;767;;;46342;686448.46;985631.79;2019-04-10T00:00:00
+79310541;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250830;Poštovská;è.p.;768;;;46342;686947.01;985384.53;2019-04-17T00:00:00
+79475078;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;769;;;46342;686145.83;985440.22;2019-06-17T00:00:00
+79867375;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;1908898;Nad Školou;è.p.;770;;;46342;687635.37;985395.51;2019-09-09T00:00:00
+79868452;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;107;;;46342;686436.72;982969.01;2019-09-09T00:00:00
+80065431;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;771;;;46342;687629.42;985318.85;2019-11-18T00:00:00
+80257585;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;772;;;46342;687614.55;985266.61;2020-01-16T00:00:00
+80451462;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;773;;;46342;685890.81;985561.37;2020-03-03T00:00:00
+80536000;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;90;;;46342;686236.85;987061.75;2020-04-09T00:00:00
+81012276;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250767;Mánesova;è.p.;774;;;46342;687157.94;985201.34;2020-07-24T00:00:00
+81061111;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;1908898;Nad Školou;è.p.;775;;;46342;687616.77;985389.65;2020-08-07T00:00:00
+81152655;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;776;;;46342;686125.55;985408.50;2020-09-21T00:00:00
+81276079;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250741;Liberecká;è.p.;778;;;46342;687449.95;985049.34;2020-11-11T00:00:00
+81804270;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;779;;;46342;686010.77;985506.84;2021-06-03T00:00:00
+81835230;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250899;Sportovní;è.p.;780;;;46342;686933.10;984935.59;2021-05-24T00:00:00
+81908881;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250678;J. A. Komenského;è.p.;781;;;46342;687574.26;985510.37;2021-06-18T00:00:00
+82199019;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;777;;;46342;685975.51;985529.36;2021-10-19T00:00:00
+82263604;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;782;;;46342;685919.84;985479.98;2021-11-15T00:00:00
+82359229;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;784;;;46342;685877.24;985487.32;2021-12-17T00:00:00
+82456411;564061;Hodkovice nad Mohelkou;;;;;3417;Jílové;;;è.p.;89;;;46342;686202.21;987075.19;2022-01-12T00:00:00
+82470898;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;783;;;46342;687503.31;985076.10;2022-01-14T00:00:00
+82797609;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250791;Nádražní;è.p.;786;;;46342;686407.34;985541.04;2022-03-28T00:00:00
+83075119;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;791750;Duhová;è.p.;787;;;46342;687692.90;985156.44;2022-06-27T00:00:00
+83290184;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;910066;Pod Letištìm;è.p.;788;;;46342;687535.54;985575.41;2022-09-14T00:00:00
+83316493;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;789;;;46342;685921.06;985447.87;2022-09-26T00:00:00
+84637803;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;790;;;46342;685823.38;985529.66;2022-12-19T00:00:00
+84894890;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250911;Zahradní;è.p.;791;;;46342;687477.27;985455.47;2023-01-23T00:00:00
+84895268;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;910066;Pod Letištìm;è.p.;792;;;46342;687677.52;985331.08;2023-01-23T00:00:00
+85081248;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.ev.;50;;;46342;686130.48;982795.42;2023-04-03T00:00:00
+85338079;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250635;Èeskodubská;è.p.;793;;;46342;687624.99;985085.67;2023-07-03T00:00:00
+85359190;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;109;;;46342;688332.62;982941.06;2023-07-18T00:00:00
+85610411;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;794;;;46342;686143.07;985333.92;2023-09-20T00:00:00
+85774073;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;795;;;46342;686096.50;985431.32;2023-11-20T00:00:00
+86312863;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;796;;;46342;685986.01;985473.48;2024-06-27T00:00:00
+86764284;564061;Hodkovice nad Mohelkou;;;;;40363;Záskalí;;;è.p.;111;;;46342;687093.87;983264.63;2025-01-16T00:00:00
+87181398;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250813;Pelíkovická;è.p.;797;;;46342;685871.87;985602.45;2025-07-16T00:00:00
+87224143;564061;Hodkovice nad Mohelkou;;;;;40347;Hodkovice nad Mohelkou;250627;Èeská;è.p.;798;;;46342;687117.85;985800.28;2025-08-08T00:00:00

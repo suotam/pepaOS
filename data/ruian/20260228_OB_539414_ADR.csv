@@ -1,0 +1,911 @@
+Kód ADM;Kód obce;Název obce;Kód MOMC;Název MOMC;Kód obvodu Prahy;Název obvodu Prahy;Kód èásti obce;Název èásti obce;Kód ulice;Název ulice;Typ SO;Èíslo domovní;Èíslo orientaèní;Znak èísla orientaèního;PSÈ;Souøadnice Y;Souøadnice X;Platí Od
+6316590;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;1;;;25266;745304.71;1030123.80;2020-11-19T00:00:00
+6316603;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;2;;;25266;745331.40;1030142.32;2020-11-19T00:00:00
+6316611;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;3;;;25266;745329.86;1030084.95;2020-11-19T00:00:00
+6316620;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;4;;;25266;745349.58;1030050.78;2020-11-19T00:00:00
+6316638;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;5;;;25266;745322.17;1030020.22;2020-11-19T00:00:00
+6316646;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;6;;;25266;745324.61;1029952.71;2020-11-19T00:00:00
+6316654;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;7;;;25266;745312.72;1029894.24;2020-11-19T00:00:00
+6316662;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;8;;;25266;745263.48;1029912.45;2020-11-19T00:00:00
+6316671;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;9;;;25266;745243.19;1029880.61;2020-11-19T00:00:00
+6316689;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;10;;;25266;745242.07;1029908.57;2020-11-19T00:00:00
+6316697;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;11;;;25266;745251.14;1029850.36;2020-11-19T00:00:00
+6316701;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;12;;;25266;745256.35;1029793.29;2020-11-19T00:00:00
+6316719;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;13;;;25266;745267.08;1029753.74;2020-11-19T00:00:00
+6316727;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;14;;;25266;745218.32;1029729.31;2020-11-19T00:00:00
+6316735;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;15;;;25266;745213.36;1029838.56;2020-11-19T00:00:00
+6316743;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;16;;;25266;745463.06;1030529.88;2020-11-19T00:00:00
+6316751;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;17;;;25266;745224.72;1029947.63;2020-11-19T00:00:00
+6316760;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;18;;;25266;745267.08;1029954.62;2020-11-19T00:00:00
+6316778;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;19;;;25266;745247.89;1029981.32;2020-11-19T00:00:00
+6316786;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;20;;;25266;745234.24;1029840.02;2020-11-19T00:00:00
+6316794;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433888;Pod Kostelem;è.p.;21;;;25266;745189.29;1030018.57;2020-11-19T00:00:00
+6316808;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433624;K Nádraží;è.p.;22;;;25266;745213.21;1030102.21;2020-11-19T00:00:00
+6316816;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;23;;;25266;745248.31;1030066.52;2020-11-19T00:00:00
+6316824;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;24;;;25266;745260.02;1030019.78;2020-11-19T00:00:00
+6316832;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;25;;;25266;745428.25;1029346.96;2020-11-19T00:00:00
+6316841;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;26;;;25266;745396.83;1030048.51;2020-11-19T00:00:00
+6316859;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;27;;;25266;745327.96;1030133.62;2020-11-19T00:00:00
+6316867;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;28;;;25266;745230.81;1029740.84;2020-11-19T00:00:00
+6316875;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;29;;;25266;745286.74;1029735.32;2020-11-19T00:00:00
+6316883;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433888;Pod Kostelem;è.p.;30;;;25266;745197.57;1029993.19;2020-11-19T00:00:00
+6316891;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;31;;;25266;745362.06;1030141.21;2020-11-19T00:00:00
+6316905;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;32;;;25266;745380.60;1030155.06;2020-11-19T00:00:00
+6316913;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433624;K Nádraží;è.p.;33;;;25266;745160.79;1030061.89;2020-11-19T00:00:00
+6316921;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;34;;;25266;745117.86;1030158.08;2020-11-19T00:00:00
+6316930;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;35;;;25266;745277.47;1029376.33;2020-11-19T00:00:00
+6316948;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;36;;;25266;745851.14;1028965.72;2020-11-19T00:00:00
+6316956;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433624;K Nádraží;è.p.;37;;;25266;745170.66;1030103.46;2020-11-19T00:00:00
+6316964;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433624;K Nádraží;è.p.;38;;;25266;745202.41;1030123.74;2020-11-19T00:00:00
+6316972;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;39;;;25266;745022.68;1030292.27;2020-11-19T00:00:00
+6316981;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433519;Areál Šroubáren;è.p.;40;;;25266;744955.70;1030205.03;2020-11-19T00:00:00
+6316999;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;41;;;25266;745076.78;1030226.39;2020-11-19T00:00:00
+6317006;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;42;;;25266;745223.35;1030136.31;2020-11-19T00:00:00
+6317014;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;43;;;25266;745259.05;1030141.39;2020-11-19T00:00:00
+6317031;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;45;;;25266;745096.24;1030205.31;2020-11-19T00:00:00
+6317057;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;47;;;25266;745102.75;1030194.48;2020-11-19T00:00:00
+6317065;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;48;;;25266;745108.23;1030187.47;2020-11-19T00:00:00
+6317073;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;49;;;25266;745127.41;1030164.29;2020-11-19T00:00:00
+6317081;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;50;;;25266;745141.21;1030151.96;2020-11-19T00:00:00
+6317090;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;51;;;25266;745127.94;1030143.32;2020-11-19T00:00:00
+6317103;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;52;;;25266;745119.09;1030180.37;2020-11-19T00:00:00
+6317111;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;53;;;25266;745098.28;1030178.52;2020-11-19T00:00:00
+6317120;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;54;;;25266;745202.77;1030165.02;2024-06-11T00:00:00
+6317146;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;56;;;25266;745277.18;1030114.69;2020-11-19T00:00:00
+6317154;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;57;;;25266;745264.31;1029727.74;2020-11-19T00:00:00
+6317162;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;58;;;25266;745271.56;1029730.26;2020-11-19T00:00:00
+6317189;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;60;;;25266;745244.90;1030157.82;2020-11-19T00:00:00
+6317197;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;61;;;25266;745099.39;1030223.83;2020-11-19T00:00:00
+6317201;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434035;U Èerné hory;è.p.;62;;;25266;745284.08;1030134.25;2020-11-19T00:00:00
+6317219;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;63;;;25266;745454.75;1030275.61;2020-11-19T00:00:00
+6317227;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;64;;;25266;745226.27;1030174.56;2020-11-19T00:00:00
+6317235;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;65;;;25266;745446.27;1029310.90;2020-11-19T00:00:00
+6317243;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;66;;;25266;745160.74;1030205.59;2020-11-19T00:00:00
+6317251;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;67;;;25266;745210.06;1030190.39;2020-11-19T00:00:00
+6317260;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;68;;;25266;745184.38;1030175.08;2020-11-19T00:00:00
+6317278;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;69;;;25266;745157.83;1030129.43;2020-11-19T00:00:00
+6317286;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;70;;;25266;745193.58;1030209.92;2020-11-19T00:00:00
+6317294;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434035;U Èerné hory;è.p.;71;;;25266;745338.46;1030068.57;2020-11-19T00:00:00
+6317308;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;72;;;25266;745152.63;1030254.51;2020-11-19T00:00:00
+6317316;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;73;;;25266;745505.07;1030326.47;2020-11-19T00:00:00
+6317324;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433896;Pod Nádražím;è.p.;74;;;25266;745208.76;1029903.45;2020-11-19T00:00:00
+6317332;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433624;K Nádraží;è.p.;75;;;25266;745188.66;1030115.54;2020-11-19T00:00:00
+6317341;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;76;;;25266;745146.65;1030261.75;2020-11-19T00:00:00
+6317359;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;77;;;25266;745141.29;1030269.91;2020-11-19T00:00:00
+6317367;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.p.;78;;;25266;745612.24;1030027.97;2020-11-19T00:00:00
+6317375;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;80;;;25266;745491.62;1030319.61;2020-11-19T00:00:00
+6317391;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;82;;;25266;745279.02;1030091.72;2020-11-19T00:00:00
+6317405;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;83;;;25266;745172.49;1030290.27;2020-11-19T00:00:00
+6317413;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;84;;;25266;745469.69;1030317.12;2020-11-19T00:00:00
+6317421;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;85;;;25266;745453.93;1030314.34;2020-11-19T00:00:00
+6317430;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;86;;;25266;745214.65;1030293.70;2020-11-19T00:00:00
+6317448;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;87;;;25266;745074.73;1030324.01;2020-11-19T00:00:00
+6317456;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;88;;;25266;745084.88;1030317.22;2020-11-19T00:00:00
+6317464;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;89;;;25266;745343.11;1030103.58;2020-11-19T00:00:00
+6317472;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;90;;;25266;745110.83;1030297.31;2020-11-19T00:00:00
+6317481;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;91;;;25266;745064.33;1030329.99;2020-11-19T00:00:00
+6317499;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;92;;;25266;745369.22;1030118.56;2020-11-19T00:00:00
+6317502;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;93;;;25266;745195.64;1030293.28;2020-11-19T00:00:00
+6317511;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;94;;;25266;745060.38;1030244.79;2020-11-19T00:00:00
+6317529;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;95;;;25266;745050.63;1030257.06;2020-11-19T00:00:00
+6317537;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;96;;;25266;745044.53;1030262.96;2020-11-19T00:00:00
+6317545;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;97;;;25266;745380.15;1030122.97;2020-11-19T00:00:00
+6317553;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;98;;;25266;745050.33;1030339.79;2020-11-19T00:00:00
+6317561;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;99;;;25266;745165.43;1030241.71;2020-11-19T00:00:00
+6317570;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;100;;;25266;745286.58;1030071.92;2020-11-19T00:00:00
+6317588;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;101;;;25266;745448.70;1030022.69;2020-11-19T00:00:00
+6317596;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;102;;;25266;745462.03;1030012.32;2020-11-19T00:00:00
+6317600;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;103;;;25266;745474.85;1030004.75;2020-11-19T00:00:00
+6317618;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;104;;;25266;745489.93;1029994.11;2020-11-19T00:00:00
+6317626;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;105;;;25266;745514.23;1029978.08;2020-11-19T00:00:00
+6317634;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;106;;;25266;745526.48;1029970.13;2020-11-19T00:00:00
+6317642;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434019;U Staré školy;è.p.;107;;;25266;745081.41;1030276.12;2021-09-03T00:00:00
+6317651;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;108;;;25266;745070.93;1030261.85;2020-11-19T00:00:00
+6317669;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;109;;;25266;745185.12;1030221.13;2020-11-19T00:00:00
+6317677;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;110;;;25266;745378.00;1030569.57;2020-11-19T00:00:00
+6317685;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;111;;;25266;745129.83;1030320.80;2020-11-19T00:00:00
+6317693;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;112;;;25266;745111.95;1030332.05;2020-11-19T00:00:00
+6317707;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;113;;;25266;745100.50;1030338.19;2020-11-19T00:00:00
+6317715;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;114;;;25266;745486.49;1030161.03;2020-11-19T00:00:00
+6317723;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433756;Na Spojce;è.p.;115;;;25266;745055.40;1030370.60;2020-11-19T00:00:00
+6317731;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;116;;;25266;745029.24;1030387.75;2020-11-20T00:00:00
+6317740;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;117;;;25266;745017.56;1030401.76;2020-11-20T00:00:00
+6317758;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433756;Na Spojce;è.p.;118;;;25266;745062.51;1030385.51;2020-11-19T00:00:00
+6317766;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433756;Na Spojce;è.p.;119;;;25266;745046.06;1030403.35;2020-11-19T00:00:00
+6317774;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;120;;;25266;745065.71;1030362.45;2020-11-19T00:00:00
+6317782;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;121;;;25266;745009.43;1030401.08;2021-11-23T00:00:00
+6317791;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;122;;;25266;745611.57;1030379.08;2020-11-19T00:00:00
+6317804;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433993;U Krytu;è.p.;123;;;25266;745205.72;1030556.61;2020-11-19T00:00:00
+6317812;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;124;;;25266;745103.19;1030577.84;2020-11-19T00:00:00
+6317821;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;125;;;25266;745491.80;1030161.34;2020-11-19T00:00:00
+6317839;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433527;Bratrská;è.p.;126;;;25266;745119.35;1030370.99;2020-11-19T00:00:00
+6317847;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433527;Bratrská;è.p.;127;;;25266;745136.61;1030362.58;2020-11-19T00:00:00
+6317855;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433527;Bratrská;è.p.;128;;;25266;745145.60;1030357.78;2020-11-19T00:00:00
+6317863;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;129;;;25266;745377.56;1030297.84;2020-11-19T00:00:00
+6317871;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;130;;;25266;745159.58;1030330.24;2023-02-06T00:00:00
+6317880;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;131;;;25266;745438.49;1030307.74;2020-11-19T00:00:00
+6317898;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;132;;;25266;745397.48;1030299.69;2020-11-19T00:00:00
+6317901;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;133;;;25266;745746.13;1029146.53;2022-10-18T00:00:00
+6317910;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;134;;;25266;745311.10;1029374.20;2020-11-19T00:00:00
+6317928;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;135;;;25266;745226.39;1030406.15;2020-11-19T00:00:00
+6317936;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;136;;;25266;745226.65;1030291.58;2020-11-19T00:00:00
+6317944;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;137;;;25266;745621.38;1030388.37;2020-11-19T00:00:00
+6317952;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;138;;;25266;745630.53;1030392.17;2020-11-19T00:00:00
+6317979;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;140;;;25266;745584.72;1030368.15;2020-11-19T00:00:00
+6317987;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;141;;;25266;745649.41;1030402.10;2020-11-19T00:00:00
+6317995;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;142;;;25266;745709.09;1030429.53;2020-11-19T00:00:00
+6318002;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;143;;;25266;745661.27;1030408.56;2020-11-19T00:00:00
+6318011;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;144;;;25266;745116.85;1030571.02;2020-11-19T00:00:00
+6318029;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;145;;;25266;745773.10;1030451.22;2020-11-19T00:00:00
+6318037;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;146;;;25266;745748.53;1030441.94;2020-11-19T00:00:00
+6318045;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;147;;;25266;745672.60;1030413.89;2020-11-19T00:00:00
+6318053;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;148;;;25266;744882.51;1030548.25;2020-11-26T00:00:00
+6318061;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;149;;;25266;745184.03;1030496.02;2020-11-19T00:00:00
+6318070;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433527;Bratrská;è.p.;150;;;25266;745093.39;1030381.95;2020-11-19T00:00:00
+6318088;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;151;;;25266;745698.01;1030425.20;2020-11-19T00:00:00
+6318096;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;152;;;25266;745179.78;1030484.03;2020-11-19T00:00:00
+6318100;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433748;Na Rùžku;è.p.;153;;;25266;745541.10;1030363.30;2020-11-19T00:00:00
+6318118;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;154;;;25266;745520.25;1030359.36;2020-11-19T00:00:00
+6318126;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;155;;;25266;745475.45;1030348.04;2020-11-19T00:00:00
+6318134;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;156;;;25266;745239.34;1030401.09;2020-11-19T00:00:00
+6318142;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;157;;;25266;745257.17;1030399.76;2020-11-19T00:00:00
+6318151;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;158;;;25266;745278.64;1030401.36;2020-11-19T00:00:00
+6318169;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;159;;;25266;745288.49;1030398.98;2020-11-19T00:00:00
+6318177;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;160;;;25266;745125.58;1030247.35;2020-11-19T00:00:00
+6318185;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;161;;;25266;745033.37;1030346.77;2020-11-19T00:00:00
+6318193;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;162;;;25266;745455.08;1030343.48;2020-11-19T00:00:00
+6318207;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;163;;;25266;745334.75;1030331.52;2020-11-19T00:00:00
+6318215;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;164;;;25266;745285.04;1030324.48;2020-11-19T00:00:00
+6318223;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;165;;;25266;745274.02;1030324.50;2020-11-19T00:00:00
+6318231;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;166;;;25266;745255.99;1030323.74;2020-11-19T00:00:00
+6318240;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;167;;;25266;745249.65;1030293.68;2020-11-19T00:00:00
+6318258;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;168;;;25266;745200.74;1030370.36;2020-11-19T00:00:00
+6318266;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;169;;;25266;745399.16;1030411.19;2020-11-19T00:00:00
+6318274;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433527;Bratrská;è.p.;170;;;25266;745108.42;1030373.79;2020-11-19T00:00:00
+6318282;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;171;;;25266;745692.21;1030472.26;2020-11-19T00:00:00
+6318291;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;172;;;25266;745154.39;1030514.49;2020-11-19T00:00:00
+6318304;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433501;5. kvìtna;è.p.;173;;;25266;745117.59;1030256.09;2020-11-19T00:00:00
+6318312;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;174;;;25266;744888.96;1030538.19;2020-11-26T00:00:00
+6318321;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;175;;;25266;745240.08;1030321.80;2020-11-19T00:00:00
+6318339;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;176;;;25266;745605.58;1029985.04;2020-11-19T00:00:00
+6318347;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;177;;;25266;745164.79;1030448.17;2020-11-19T00:00:00
+6318355;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;178;;;25266;745127.46;1030531.88;2020-11-19T00:00:00
+6318363;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;179;;;25266;745373.65;1030327.58;2020-11-19T00:00:00
+6318371;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;180;;;25266;745186.06;1030323.61;2020-11-19T00:00:00
+6318380;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;181;;;25266;745217.28;1030367.56;2020-11-19T00:00:00
+6318398;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;182;;;25266;745364.28;1030300.30;2020-11-19T00:00:00
+6318401;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;183;;;25266;745254.24;1030350.29;2020-11-19T00:00:00
+6318410;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;184;;;25266;745265.19;1030349.30;2020-11-19T00:00:00
+6318428;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;185;;;25266;745289.01;1030351.73;2020-11-19T00:00:00
+6318436;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;186;;;25266;745310.31;1030400.47;2020-11-19T00:00:00
+6318444;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;187;;;25266;745326.50;1030401.51;2020-11-19T00:00:00
+6318452;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;188;;;25266;745368.96;1029360.87;2020-11-19T00:00:00
+6318461;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;189;;;25266;745297.80;1030350.95;2020-11-19T00:00:00
+6318479;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;190;;;25266;745177.66;1030529.72;2020-11-19T00:00:00
+6318487;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;191;;;25266;744994.14;1030414.48;2020-11-20T00:00:00
+6318495;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;192;;;25266;745252.15;1030370.17;2020-11-19T00:00:00
+6318509;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433543;Družstevní;è.p.;193;;;25266;744900.96;1030611.04;2020-11-26T00:00:00
+6318517;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;194;;;25266;745243.01;1030368.77;2020-11-19T00:00:00
+6318525;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;195;;;25266;745284.11;1030370.65;2020-11-19T00:00:00
+6318533;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;196;;;25266;745316.04;1030294.54;2020-11-19T00:00:00
+6318541;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;197;;;25266;745456.24;1030418.49;2020-11-19T00:00:00
+6318550;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;198;;;25266;745385.50;1030409.57;2020-11-19T00:00:00
+6318568;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;199;;;25266;745313.37;1030351.25;2020-11-19T00:00:00
+6318576;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;200;;;25266;745368.64;1030344.59;2020-11-19T00:00:00
+6318584;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;201;;;25266;745339.40;1030375.13;2020-11-19T00:00:00
+6318592;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;202;;;25266;745721.13;1030433.64;2020-11-19T00:00:00
+6318606;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;203;;;25266;745674.33;1030466.39;2020-11-19T00:00:00
+6318614;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;204;;;25266;745397.39;1030380.21;2020-11-19T00:00:00
+6318622;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;205;;;25266;745419.50;1030188.16;2020-11-19T00:00:00
+6318631;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;206;;;25266;745848.77;1029003.32;2020-11-19T00:00:00
+6318649;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;207;;;25266;745352.18;1030297.37;2020-11-19T00:00:00
+6318657;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;208;;;25266;744994.38;1030492.67;2021-11-23T00:00:00
+6318665;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;209;;;25266;745336.40;1030293.17;2020-11-19T00:00:00
+6318673;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;210;;;25266;745420.35;1030384.15;2020-11-19T00:00:00
+6318681;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;211;;;25266;745031.92;1030538.50;2021-11-23T00:00:00
+6318690;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;212;;;25266;745046.80;1030560.53;2021-11-23T00:00:00
+6318703;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;213;;;25266;745076.82;1030354.36;2020-11-19T00:00:00
+6318711;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;214;;;25266;745488.23;1030181.83;2020-11-19T00:00:00
+6318720;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;215;;;25266;745494.83;1030183.66;2020-11-19T00:00:00
+6318738;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433543;Družstevní;è.p.;216;;;25266;744921.51;1030596.01;2020-11-26T00:00:00
+6318746;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433993;U Krytu;è.p.;217;;;25266;745199.85;1030561.41;2020-11-19T00:00:00
+6318754;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;218;;;25266;745290.81;1030517.64;2020-11-19T00:00:00
+6318762;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;219;;;25266;745371.81;1030407.77;2020-11-19T00:00:00
+6318771;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;220;;;25266;745268.51;1030425.70;2020-11-19T00:00:00
+6318789;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;221;;;25266;745275.60;1030425.43;2020-11-19T00:00:00
+6318797;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;222;;;25266;745044.87;1030517.45;2021-11-23T00:00:00
+6318801;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;223;;;25266;745470.34;1030421.04;2020-11-19T00:00:00
+6318819;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;224;;;25266;745480.41;1030421.96;2020-11-19T00:00:00
+6318827;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;225;;;25266;745341.59;1030405.70;2020-11-19T00:00:00
+6318835;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;226;;;25266;745031.06;1030501.60;2021-11-23T00:00:00
+6318843;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;227;;;25266;745149.33;1030314.75;2020-11-19T00:00:00
+6318851;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;228;;;25266;745483.60;1030396.52;2020-11-19T00:00:00
+6318860;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;229;;;25266;745474.79;1030395.05;2020-11-19T00:00:00
+6318878;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433527;Bratrská;è.p.;230;;;25266;745010.66;1030444.46;2021-11-23T00:00:00
+6318886;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;231;;;25266;745449.06;1030390.17;2020-11-19T00:00:00
+6318894;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;232;;;25266;745457.41;1030181.66;2020-11-19T00:00:00
+6318908;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;233;;;25266;745012.14;1030514.74;2021-11-23T00:00:00
+6318916;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;234;;;25266;745338.75;1030458.94;2020-11-19T00:00:00
+6318924;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;235;;;25266;745325.72;1030428.68;2020-11-19T00:00:00
+6318941;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;237;;;25266;745412.36;1030358.10;2020-11-19T00:00:00
+6318959;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;238;;;25266;745249.18;1030462.77;2020-11-19T00:00:00
+6318967;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;239;;;25266;745617.15;1030433.47;2020-11-19T00:00:00
+6318975;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;240;;;25266;745159.43;1030289.44;2020-11-19T00:00:00
+6318983;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;241;;;25266;745292.90;1030423.56;2020-11-19T00:00:00
+6318991;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;242;;;25266;745338.40;1030430.11;2020-11-19T00:00:00
+6319009;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;243;;;25266;745503.53;1030424.50;2020-11-19T00:00:00
+6319017;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;244;;;25266;745107.55;1030265.99;2020-11-19T00:00:00
+6319025;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433543;Družstevní;è.p.;245;;;25266;744973.72;1030631.02;2020-11-26T00:00:00
+6319033;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;246;;;25266;745593.43;1030420.62;2020-11-19T00:00:00
+6319041;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;247;;;25266;745225.65;1030464.92;2020-11-19T00:00:00
+6319050;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;248;;;25266;745264.24;1030461.79;2020-11-19T00:00:00
+6319068;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;249;;;25266;745168.06;1030396.05;2020-11-19T00:00:00
+6319076;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;250;;;25266;745268.67;1030485.42;2020-11-19T00:00:00
+6319084;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;251;;;25266;745277.57;1030484.00;2020-11-19T00:00:00
+6319092;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;252;;;25266;745320.94;1030335.81;2020-11-19T00:00:00
+6319106;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433527;Bratrská;è.p.;253;;;25266;745030.93;1030459.40;2022-02-03T00:00:00
+6319114;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;254;;;25266;745205.67;1030399.64;2020-11-19T00:00:00
+6319122;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;255;;;25266;745140.08;1030318.50;2020-11-19T00:00:00
+6319131;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;256;;;25266;745655.97;1030458.58;2020-11-19T00:00:00
+6319149;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433543;Družstevní;è.p.;257;;;25266;744954.50;1030659.91;2020-11-26T00:00:00
+6319157;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;258;;;25266;745580.83;1030195.15;2020-11-19T00:00:00
+6319165;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;259;;;25266;745509.76;1030185.93;2020-11-19T00:00:00
+6319173;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;260;;;25266;745504.21;1030185.60;2020-11-19T00:00:00
+6319181;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;261;;;25266;745374.29;1030379.47;2020-11-19T00:00:00
+6319190;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;262;;;25266;745368.46;1030462.48;2020-11-19T00:00:00
+6319203;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;263;;;25266;745475.97;1030181.03;2020-11-19T00:00:00
+6319211;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;264;;;25266;745253.70;1030486.72;2020-11-19T00:00:00
+6319220;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433543;Družstevní;è.p.;265;;;25266;744929.60;1030635.51;2020-11-26T00:00:00
+6319238;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;266;;;25266;745545.42;1029956.81;2020-11-19T00:00:00
+6319246;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;267;;;25266;745342.28;1030485.45;2020-11-19T00:00:00
+6319254;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;268;;;25266;745839.78;1029020.42;2020-11-19T00:00:00
+6319262;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;269;;;25266;745627.34;1030191.46;2020-11-19T00:00:00
+6319271;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;270;;;25266;745401.65;1030468.30;2020-11-19T00:00:00
+6319289;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;271;;;25266;745598.51;1030214.21;2020-11-19T00:00:00
+6319297;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;272;;;25266;745537.92;1030426.32;2020-11-19T00:00:00
+6319301;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;273;;;25266;745611.64;1030210.23;2020-11-19T00:00:00
+6319319;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;274;;;25266;744978.93;1030342.39;2020-11-19T00:00:00
+6319327;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;275;;;25266;745667.88;1030212.59;2020-11-19T00:00:00
+6319335;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;276;;;25266;745436.78;1030416.60;2020-11-19T00:00:00
+6319343;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;277;;;25266;745506.42;1030408.42;2020-11-19T00:00:00
+6319351;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.p.;278;;;25266;745633.83;1030024.13;2020-11-19T00:00:00
+6319360;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433934;Proti Škole;è.p.;279;;;25266;745213.31;1030224.90;2020-11-19T00:00:00
+6319378;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;280;;;25266;745367.07;1030488.85;2020-11-19T00:00:00
+6319386;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;281;;;25266;745308.80;1030483.92;2020-11-19T00:00:00
+6319394;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;282;;;25266;745588.58;1030198.50;2020-11-19T00:00:00
+6319408;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;283;;;25266;745340.86;1030346.32;2020-11-19T00:00:00
+6319416;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433993;U Krytu;è.p.;284;;;25266;745150.68;1030593.65;2020-11-19T00:00:00
+6319424;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;285;;;25266;745301.01;1030483.88;2020-11-19T00:00:00
+6319432;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;286;;;25266;744855.38;1030597.60;2020-11-20T00:00:00
+6319459;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;288;;;25266;745421.76;1030169.68;2020-11-19T00:00:00
+6319467;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433543;Družstevní;è.p.;289;;;25266;744904.57;1030582.48;2020-11-26T00:00:00
+6319475;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;290;;;25266;745124.66;1030563.72;2020-11-19T00:00:00
+6319483;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;291;;;25266;745204.89;1030323.07;2020-11-19T00:00:00
+6319491;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.p.;292;;;25266;745641.45;1030030.77;2020-11-19T00:00:00
+6319505;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;293;;;25266;745414.81;1030414.67;2020-11-19T00:00:00
+6319513;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;294;;;25266;745392.77;1029674.35;2020-11-19T00:00:00
+6319521;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;295;;;25266;745060.61;1030538.16;2021-11-23T00:00:00
+6319530;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;296;;;25266;745367.70;1030433.20;2020-11-19T00:00:00
+6319548;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;297;;;25266;745402.93;1030436.81;2020-11-19T00:00:00
+6319556;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;298;;;25266;745214.79;1030426.88;2022-11-10T00:00:00
+6319564;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;299;;;25266;745418.90;1030439.71;2020-11-19T00:00:00
+6319572;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;300;;;25266;745431.23;1030143.01;2020-11-19T00:00:00
+6319581;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;301;;;25266;745225.16;1030324.25;2020-11-19T00:00:00
+6319599;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;302;;;25266;744964.46;1030437.67;2021-11-23T00:00:00
+6319602;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;303;;;25266;745461.93;1030476.09;2020-11-19T00:00:00
+6319611;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;304;;;25266;745609.92;1030183.05;2020-11-19T00:00:00
+6319629;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;305;;;25266;745238.21;1030503.45;2020-11-19T00:00:00
+6319637;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433527;Bratrská;è.p.;306;;;25266;744996.72;1030459.22;2021-11-23T00:00:00
+6319645;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;307;;;25266;745640.85;1030234.97;2020-11-19T00:00:00
+6319653;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;308;;;25266;745231.21;1030428.33;2020-11-19T00:00:00
+6319661;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;309;;;25266;745664.03;1030256.11;2020-11-19T00:00:00
+6319670;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;310;;;25266;745420.91;1030473.01;2020-11-19T00:00:00
+6319688;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;311;;;25266;745695.06;1030224.32;2020-11-19T00:00:00
+6319696;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;312;;;25266;745506.45;1030481.71;2020-11-19T00:00:00
+6319700;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;313;;;25266;745477.46;1030479.30;2020-11-19T00:00:00
+6319718;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;314;;;25266;745519.69;1030483.67;2020-11-19T00:00:00
+6319726;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;315;;;25266;745296.01;1030460.00;2020-11-19T00:00:00
+6319734;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433748;Na Rùžku;è.p.;316;;;25266;745534.83;1030464.09;2020-11-19T00:00:00
+6319742;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;317;;;25266;745683.62;1030164.84;2020-11-19T00:00:00
+6319751;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;318;;;25266;745710.59;1030150.65;2020-11-19T00:00:00
+6319769;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;319;;;25266;745698.80;1030145.55;2020-11-19T00:00:00
+6319777;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;320;;;25266;745110.94;1030541.78;2020-11-19T00:00:00
+6319785;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;321;;;25266;745729.55;1030154.70;2020-11-19T00:00:00
+6319793;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;322;;;25266;745071.03;1030505.22;2021-11-23T00:00:00
+6319807;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;323;;;25266;745244.61;1030425.43;2020-11-19T00:00:00
+6319815;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;324;;;25266;745381.39;1030356.37;2020-11-19T00:00:00
+6319823;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;325;;;25266;745820.46;1029082.86;2020-11-19T00:00:00
+6319831;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433934;Proti Škole;è.p.;326;;;25266;745236.17;1030211.63;2020-11-19T00:00:00
+6319840;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;327;;;25266;745658.33;1030206.59;2020-11-19T00:00:00
+6319858;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;328;;;25266;745443.89;1030440.46;2020-11-19T00:00:00
+6319866;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;329;;;25266;745382.35;1030465.87;2020-11-19T00:00:00
+6319874;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;330;;;25266;745442.74;1030590.75;2020-11-19T00:00:00
+6319882;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;331;;;25266;745723.64;1030234.32;2020-11-19T00:00:00
+6319891;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;332;;;25266;745457.12;1030587.42;2020-11-19T00:00:00
+6319904;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;333;;;25266;745425.58;1030287.20;2020-11-19T00:00:00
+6319912;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;334;;;25266;745585.57;1029274.34;2020-11-19T00:00:00
+6319921;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;335;;;25266;745571.24;1030170.00;2020-11-19T00:00:00
+6319939;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;336;;;25266;744950.55;1030448.71;2021-11-23T00:00:00
+6319947;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;337;;;25266;745539.08;1030151.84;2020-11-19T00:00:00
+6319955;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;338;;;25266;745492.69;1030479.56;2020-11-19T00:00:00
+6319963;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;339;;;25266;745670.78;1030124.60;2020-11-19T00:00:00
+6319971;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;340;;;25266;745276.85;1029407.49;2020-11-19T00:00:00
+6319980;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433896;Pod Nádražím;è.p.;341;;;25266;745152.90;1029955.00;2020-11-19T00:00:00
+6319998;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;342;;;25266;745371.04;1030149.41;2020-11-19T00:00:00
+6320015;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;344;;;25266;745864.62;1029072.91;2020-11-19T00:00:00
+6320023;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433993;U Krytu;è.p.;345;;;25266;745153.56;1030582.73;2020-11-19T00:00:00
+6320031;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;346;;;25266;745275.94;1030564.89;2020-11-19T00:00:00
+6320040;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;347;;;25266;745371.74;1030546.87;2020-11-19T00:00:00
+6320058;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;348;;;25266;745469.24;1030500.25;2020-11-19T00:00:00
+6320066;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;349;;;25266;745554.47;1030153.40;2020-11-19T00:00:00
+6320074;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.p.;350;;;25266;745610.47;1030135.47;2020-11-19T00:00:00
+6320082;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;351;;;25266;745443.13;1030536.78;2020-11-19T00:00:00
+6320091;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433675;Køivá;è.p.;352;;;25266;745792.85;1030121.93;2020-11-19T00:00:00
+6320104;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;353;;;25266;745517.99;1030149.82;2020-11-19T00:00:00
+6320112;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;354;;;25266;744848.37;1030672.06;2020-11-19T00:00:00
+6320121;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;355;;;25266;745440.86;1030473.37;2020-11-19T00:00:00
+6320139;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;356;;;25266;745291.90;1030586.56;2020-11-19T00:00:00
+6320147;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;357;;;25266;745524.79;1030546.64;2020-11-19T00:00:00
+6320155;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;358;;;25266;745305.84;1030426.03;2020-11-19T00:00:00
+6320163;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;359;;;25266;745430.96;1030496.43;2020-11-19T00:00:00
+6320171;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;360;;;25266;745233.46;1029849.75;2020-11-19T00:00:00
+6320180;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;361;;;25266;745488.88;1030551.63;2020-11-19T00:00:00
+6320198;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;362;;;25266;744863.13;1030581.64;2020-11-20T00:00:00
+6320201;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;363;;;25266;745736.68;1030189.58;2020-11-19T00:00:00
+6320210;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;364;;;25266;745412.68;1030572.01;2020-11-19T00:00:00
+6320228;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;365;;;25266;745332.24;1030614.49;2020-11-19T00:00:00
+6320236;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;366;;;25266;745502.88;1030550.39;2020-11-19T00:00:00
+6320244;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;367;;;25266;745280.46;1030255.37;2020-11-19T00:00:00
+6320252;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433993;U Krytu;è.p.;368;;;25266;745111.68;1030620.00;2020-11-19T00:00:00
+6320261;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;369;;;25266;745641.88;1030147.25;2020-11-19T00:00:00
+6320279;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;370;;;25266;745364.03;1030607.26;2020-11-19T00:00:00
+6320287;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;371;;;25266;745504.37;1030582.13;2020-11-19T00:00:00
+6320295;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;372;;;25266;745380.32;1030603.64;2020-11-19T00:00:00
+6320309;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;373;;;25266;745535.13;1030196.31;2020-11-19T00:00:00
+6320317;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433543;Družstevní;è.p.;374;;;25266;744960.51;1030614.27;2020-11-26T00:00:00
+6320325;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;375;;;25266;745719.31;1030177.85;2020-11-19T00:00:00
+6320333;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688657;Za Kovárnou;è.p.;376;;;25266;745421.05;1030069.21;2020-11-19T00:00:00
+6320341;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;377;;;25266;745198.81;1030522.19;2020-11-19T00:00:00
+6320350;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;378;;;25266;745395.12;1030599.41;2020-11-19T00:00:00
+6320368;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;379;;;25266;745379.60;1030578.21;2020-11-19T00:00:00
+6320376;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;380;;;25266;744784.44;1031293.86;2013-12-01T00:00:00
+6320384;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;381;;;25266;744832.25;1031045.22;2013-12-01T00:00:00
+6320392;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434027;U Zastávky;è.p.;382;;;25266;744670.19;1031336.18;2013-12-01T00:00:00
+6320406;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434027;U Zastávky;è.p.;383;;;25266;744705.90;1031372.27;2013-12-01T00:00:00
+6320414;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;384;;;25266;744834.05;1031022.45;2013-12-01T00:00:00
+6320422;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434027;U Zastávky;è.p.;385;;;25266;744714.03;1031403.25;2013-12-01T00:00:00
+6320431;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;386;;;25266;745016.50;1031455.41;2013-12-01T00:00:00
+6320449;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433926;Pod Zastávkou;è.p.;387;;;25266;744871.86;1031460.40;2013-12-01T00:00:00
+6320457;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434027;U Zastávky;è.p.;388;;;25266;744788.61;1031438.75;2013-12-01T00:00:00
+6320473;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;390;;;25266;744817.09;1031388.69;2013-12-01T00:00:00
+6320481;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434027;U Zastávky;è.p.;391;;;25266;744788.04;1031379.45;2013-12-01T00:00:00
+6320490;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434027;U Zastávky;è.p.;392;;;25266;744765.76;1031387.76;2013-12-01T00:00:00
+6320503;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;393;;;25266;744821.71;1031311.75;2013-12-01T00:00:00
+6320511;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;394;;;25266;744824.25;1031272.23;2013-12-01T00:00:00
+6320520;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;395;;;25266;744846.09;1031345.08;2013-12-01T00:00:00
+6320538;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;396;;;25266;744862.35;1031348.36;2013-12-01T00:00:00
+6320546;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;397;;;25266;744831.82;1031362.49;2013-12-01T00:00:00
+6320562;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;399;;;25266;745010.91;1031427.23;2013-12-01T00:00:00
+6320571;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433781;Na Výsluní;è.p.;400;;;25266;744946.29;1031495.57;2013-12-01T00:00:00
+6320589;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;402;;;25266;745108.96;1031421.20;2013-12-01T00:00:00
+6320597;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;403;;;25266;745113.90;1031380.06;2013-12-01T00:00:00
+6320619;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;406;;;25266;744810.72;1031045.12;2013-12-01T00:00:00
+6320627;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433551;Drážní domek;è.p.;407;;;25266;744706.52;1031349.52;2013-12-01T00:00:00
+6320635;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;410;;;25266;744905.16;1030509.07;2013-12-01T00:00:00
+6320643;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433659;Kolonie;è.p.;411;;;25266;744791.64;1030490.47;2013-12-01T00:00:00
+6320678;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433837;Objekt Šroubárny;è.p.;414;;;25266;744891.06;1030327.61;2013-12-01T00:00:00
+6320686;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;415;;;25266;744851.09;1031414.56;2013-12-01T00:00:00
+6320694;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;416;;;25266;744936.21;1030465.08;2013-12-01T00:00:00
+6320708;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;417;;;25266;744817.72;1031081.15;2013-12-01T00:00:00
+6320716;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433781;Na Výsluní;è.p.;418;;;25266;744980.79;1031490.19;2013-12-01T00:00:00
+6320724;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;419;;;25266;744826.11;1031126.76;2018-09-05T00:00:00
+6320732;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434001;U Pøívozu;è.p.;420;;;25266;744577.49;1031146.65;2013-12-01T00:00:00
+6320741;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;421;;;25266;745190.81;1031393.65;2013-12-01T00:00:00
+6320759;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;422;;;25266;744913.02;1030357.13;2013-12-01T00:00:00
+6320767;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;423;;;25266;744915.50;1031423.62;2013-12-01T00:00:00
+6320775;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;424;;;25266;744902.69;1031427.41;2013-12-01T00:00:00
+6320783;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;425;;;25266;744822.91;1031115.67;2023-09-21T00:00:00
+6320791;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;426;;;25266;744869.76;1030493.24;2013-12-01T00:00:00
+6320805;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;427;;;25266;744816.37;1031146.42;2013-12-01T00:00:00
+6320813;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;428;;;25266;745092.53;1031429.28;2013-12-01T00:00:00
+6320821;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;429;;;25266;744888.56;1030464.77;2013-12-01T00:00:00
+6320830;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;430;;;25266;744905.78;1030444.62;2013-12-01T00:00:00
+6320848;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;431;;;25266;744807.37;1030715.68;2021-02-16T00:00:00
+6320856;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;432;;;25266;744789.29;1030862.92;2013-12-01T00:00:00
+6320872;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433829;Objekt cihelen;è.p.;434;;;25266;744641.09;1030964.66;2013-12-01T00:00:00
+6320881;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;435;;;25266;744867.77;1030731.27;2013-12-01T00:00:00
+6320899;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;436;;;25266;744845.73;1030707.32;2013-12-01T00:00:00
+6320902;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;437;;;25266;744786.81;1031141.03;2013-12-01T00:00:00
+6320911;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;438;;;25266;744782.00;1031126.46;2013-12-01T00:00:00
+6320929;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;439;;;25266;744749.88;1031004.22;2013-12-01T00:00:00
+6320937;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;440;;;25266;744747.79;1030990.79;2013-12-01T00:00:00
+6320945;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;441;;;25266;744790.27;1030822.78;2013-12-01T00:00:00
+6320953;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;442;;;25266;744858.92;1030428.27;2013-12-01T00:00:00
+6320961;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;443;;;25266;744985.02;1031390.24;2013-12-01T00:00:00
+6320970;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;444;;;25266;744970.33;1031401.04;2013-12-01T00:00:00
+6320996;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688649;Pod Strání;è.p.;446;;;25266;744956.81;1031403.47;2013-12-01T00:00:00
+6321003;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;447;;;25266;744954.63;1030526.23;2013-12-01T00:00:00
+6321011;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;448;;;25266;744965.70;1030517.37;2013-12-01T00:00:00
+6321020;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433951;Tržní;è.p.;449;;;25266;744951.38;1030561.52;2013-12-01T00:00:00
+6321038;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;450;;;25266;744827.54;1030568.07;2013-12-01T00:00:00
+6321046;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433951;Tržní;è.p.;451;;;25266;744923.60;1030532.82;2013-12-01T00:00:00
+6321054;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;452;;;25266;744972.21;1030546.13;2013-12-01T00:00:00
+6321062;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;453;;;25266;744989.31;1030535.69;2013-12-01T00:00:00
+6321071;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;454;;;25266;744996.04;1030551.44;2013-12-01T00:00:00
+6321089;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;455;;;25266;745057.16;1031390.08;2013-12-01T00:00:00
+6321097;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;456;;;25266;745048.26;1031391.43;2013-12-01T00:00:00
+6321101;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;457;;;25266;744913.49;1030494.15;2013-12-01T00:00:00
+6321119;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;458;;;25266;744985.68;1030561.74;2013-12-01T00:00:00
+6321127;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;459;;;25266;745030.05;1031394.41;2013-12-01T00:00:00
+6321135;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;460;;;25266;745015.45;1031397.44;2013-12-01T00:00:00
+6321143;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;461;;;25266;744823.84;1031329.95;2013-12-01T00:00:00
+6321151;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;462;;;25266;745015.07;1030571.37;2013-12-01T00:00:00
+6321160;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;463;;;25266;745023.69;1030582.16;2013-12-01T00:00:00
+6321178;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;464;;;25266;744859.60;1031313.94;2013-12-01T00:00:00
+6321186;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;465;;;25266;744976.40;1031439.36;2013-12-01T00:00:00
+6321194;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;466;;;25266;744944.56;1030515.93;2013-12-01T00:00:00
+6321208;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433781;Na Výsluní;è.p.;467;;;25266;745031.55;1031478.05;2013-12-01T00:00:00
+6321216;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433951;Tržní;è.p.;468;;;25266;744997.70;1030613.55;2013-12-01T00:00:00
+6321224;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;469;;;25266;744990.93;1031445.33;2013-12-01T00:00:00
+6321232;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433951;Tržní;è.p.;470;;;25266;744980.05;1030595.83;2013-12-01T00:00:00
+6321241;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;471;;;25266;745232.72;1031430.43;2013-12-01T00:00:00
+6321259;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;472;;;25266;744879.96;1030407.21;2013-12-01T00:00:00
+6321267;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;473;;;25266;744807.23;1030598.06;2013-12-01T00:00:00
+6321275;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;474;;;25266;745003.30;1031453.95;2013-12-01T00:00:00
+6321283;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433781;Na Výsluní;è.p.;475;;;25266;744955.22;1031470.32;2013-12-01T00:00:00
+6321291;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433781;Na Výsluní;è.p.;476;;;25266;744962.49;1031476.82;2013-12-01T00:00:00
+6321305;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;477;;;25266;744968.27;1031450.21;2013-12-01T00:00:00
+6321313;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;478;;;25266;745242.98;1031395.62;2013-12-01T00:00:00
+6321321;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434027;U Zastávky;è.p.;479;;;25266;744645.57;1031326.82;2013-12-01T00:00:00
+6321330;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;480;;;25266;744776.86;1031111.93;2013-12-01T00:00:00
+6321348;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;481;;;25266;744774.36;1031099.45;2013-12-01T00:00:00
+6321356;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;482;;;25266;744767.54;1031079.85;2013-12-01T00:00:00
+6321364;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;483;;;25266;744764.09;1031063.99;2013-12-01T00:00:00
+6321372;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;484;;;25266;744759.06;1031047.59;2013-12-01T00:00:00
+6321381;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;485;;;25266;744754.35;1031027.30;2013-12-01T00:00:00
+6321399;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;486;;;25266;745280.22;1031407.50;2013-12-01T00:00:00
+6321402;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;487;;;25266;744899.43;1031455.51;2013-12-01T00:00:00
+6321411;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;488;;;25266;744811.72;1031051.16;2013-12-01T00:00:00
+6321429;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;489;;;25266;744791.99;1031157.76;2013-12-01T00:00:00
+6321437;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;490;;;25266;744911.06;1031494.90;2013-12-01T00:00:00
+6321445;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;491;;;25266;744829.11;1030764.14;2013-12-01T00:00:00
+6321453;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433781;Na Výsluní;è.p.;492;;;25266;745030.71;1031469.91;2013-12-01T00:00:00
+6321461;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434001;U Pøívozu;è.p.;493;;;25266;744593.16;1031140.30;2013-12-01T00:00:00
+6321488;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;495;;;25266;745125.23;1031761.48;2013-12-01T00:00:00
+6321496;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;496;;;25266;745102.46;1031720.49;2013-12-01T00:00:00
+6321500;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;497;;;25266;744935.02;1030420.38;2013-12-01T00:00:00
+6321518;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;498;;;25266;745171.86;1031811.71;2013-12-01T00:00:00
+6321526;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;499;;;25266;745136.78;1031776.47;2013-12-01T00:00:00
+6321534;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;500;;;25266;745154.51;1031797.14;2013-12-01T00:00:00
+6321542;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688649;Pod Strání;è.p.;501;;;25266;744929.08;1031366.68;2013-12-01T00:00:00
+6321551;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;502;;;25266;745219.45;1031392.86;2013-12-01T00:00:00
+6321569;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;503;;;25266;745147.08;1031788.71;2013-12-01T00:00:00
+6321577;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688649;Pod Strání;è.p.;504;;;25266;744905.56;1031380.53;2013-12-01T00:00:00
+6321585;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;505;;;25266;744866.10;1031360.58;2013-12-01T00:00:00
+6321593;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;506;;;25266;744808.55;1030995.53;2013-12-01T00:00:00
+6321607;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;507;;;25266;745108.94;1031735.29;2013-12-01T00:00:00
+6321615;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;508;;;25266;744731.03;1031035.08;2013-12-01T00:00:00
+6321623;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;509;;;25266;744812.28;1031377.60;2013-12-01T00:00:00
+6321640;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;511;;;25266;745088.84;1031706.96;2013-12-01T00:00:00
+6321658;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;512;;;25266;745250.81;1031431.89;2013-12-01T00:00:00
+6321666;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;513;;;25266;745076.91;1031690.58;2013-12-01T00:00:00
+6321674;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;514;;;25266;744882.08;1031190.74;2013-12-01T00:00:00
+6321682;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;515;;;25266;744883.92;1031155.61;2013-12-01T00:00:00
+6321691;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688649;Pod Strání;è.p.;516;;;25266;744905.05;1031301.84;2013-12-01T00:00:00
+6321704;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;517;;;25266;744896.50;1030392.47;2013-12-01T00:00:00
+6321712;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;518;;;25266;744739.77;1031130.57;2013-12-01T00:00:00
+6321721;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;519;;;25266;744751.56;1031168.88;2013-12-01T00:00:00
+6321739;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;520;;;25266;744764.11;1031206.84;2013-12-01T00:00:00
+6321747;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;521;;;25266;744776.63;1031245.35;2013-12-01T00:00:00
+6321755;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;522;;;25266;744737.33;1030626.41;2013-12-01T00:00:00
+6321763;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;523;;;25266;744699.00;1031152.92;2013-12-01T00:00:00
+6321771;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;524;;;25266;744703.70;1031166.33;2013-12-01T00:00:00
+6321780;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;525;;;25266;744713.21;1031195.48;2013-12-01T00:00:00
+6321798;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;526;;;25266;744717.70;1031208.59;2013-12-01T00:00:00
+6321801;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433616;Høištì;è.p.;527;;;25266;744634.06;1031298.83;2021-02-15T00:00:00
+6321810;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;528;;;25266;744721.89;1031068.29;2018-01-10T00:00:00
+6321828;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;529;;;25266;744727.18;1031083.77;2018-01-10T00:00:00
+6321836;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;530;;;25266;744683.28;1031077.93;2013-12-01T00:00:00
+6321844;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;531;;;25266;744688.38;1031093.74;2013-12-01T00:00:00
+6321852;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;532;;;25266;744837.09;1031003.21;2013-12-01T00:00:00
+6321861;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;533;;;25266;744808.62;1030947.25;2013-12-01T00:00:00
+6321879;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;534;;;25266;745874.06;1030350.84;2020-11-19T00:00:00
+6321887;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;535;;;25266;745874.39;1030332.45;2020-11-19T00:00:00
+6321895;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;536;;;25266;745873.54;1030314.10;2020-11-19T00:00:00
+6321909;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434001;U Pøívozu;è.p.;537;;;25266;744564.37;1031178.56;2013-12-01T00:00:00
+6321917;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;538;;;25266;744739.59;1030600.99;2013-12-01T00:00:00
+6321925;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;539;;;25266;744750.00;1030958.69;2013-12-01T00:00:00
+6321933;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;540;;;25266;744748.84;1030942.52;2013-12-01T00:00:00
+6321941;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;541;;;25266;744748.87;1030912.05;2013-12-01T00:00:00
+6321950;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;542;;;25266;744749.89;1030894.34;2013-12-01T00:00:00
+6321968;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;543;;;25266;744755.29;1030863.27;2013-12-01T00:00:00
+6321976;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;544;;;25266;744759.20;1030847.82;2013-12-01T00:00:00
+6321984;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;545;;;25266;744970.93;1030391.27;2013-12-01T00:00:00
+6321992;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;546;;;25266;745065.47;1031676.78;2013-12-01T00:00:00
+6322000;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;547;;;25266;744785.31;1030636.13;2013-12-01T00:00:00
+6322018;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;548;;;25266;744776.23;1030648.80;2020-09-15T00:00:00
+6322026;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;549;;;25266;744774.63;1030661.88;2013-12-01T00:00:00
+6322042;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;551;;;25266;744816.02;1030971.93;2013-12-01T00:00:00
+6322051;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.p.;552;;;25266;744848.99;1031386.40;2013-12-01T00:00:00
+6322069;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;554;;;25266;744930.94;1031393.42;2013-12-01T00:00:00
+6322085;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;556;;;25266;746014.95;1030575.36;2020-11-19T00:00:00
+6322093;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433683;Lesní;è.p.;557;;;25266;746100.92;1030601.74;2020-11-19T00:00:00
+6322107;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433683;Lesní;è.p.;558;;;25266;746150.42;1030627.33;2020-11-19T00:00:00
+6322115;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433683;Lesní;è.p.;559;;;25266;746088.82;1030662.85;2020-11-19T00:00:00
+6322123;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433641;Ke Køižovatce;è.p.;560;;;25266;746060.48;1030631.53;2020-11-19T00:00:00
+6322131;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433641;Ke Køižovatce;è.p.;561;;;25266;746024.15;1030663.54;2020-11-19T00:00:00
+6322158;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;563;;;25266;745988.28;1030555.05;2020-11-19T00:00:00
+6322166;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433683;Lesní;è.p.;564;;;25266;746083.30;1030625.92;2020-11-19T00:00:00
+6322174;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433683;Lesní;è.p.;565;;;25266;746182.76;1030672.33;2020-11-19T00:00:00
+6322182;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433683;Lesní;è.p.;566;;;25266;746171.63;1030666.33;2020-11-19T00:00:00
+6322191;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433772;Na Vršku;è.p.;567;;;25266;745946.78;1030535.13;2020-11-19T00:00:00
+6322204;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433772;Na Vršku;è.p.;568;;;25266;745894.98;1030524.87;2025-06-26T00:00:00
+6322212;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433772;Na Vršku;è.p.;569;;;25266;745960.86;1030539.63;2020-11-19T00:00:00
+6322221;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433641;Ke Køižovatce;è.p.;570;;;25266;746042.02;1030680.52;2020-11-19T00:00:00
+6322239;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433772;Na Vršku;è.p.;571;;;25266;745935.03;1030531.56;2020-11-19T00:00:00
+6322247;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433772;Na Vršku;è.p.;572;;;25266;745918.36;1030528.88;2020-11-19T00:00:00
+6322255;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433683;Lesní;è.p.;573;;;25266;746160.07;1030660.05;2020-11-19T00:00:00
+6322263;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434043;V Akátech;è.p.;574;;;25266;745983.51;1030740.17;2020-11-19T00:00:00
+6322271;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434043;V Akátech;è.p.;575;;;25266;745969.22;1030749.75;2020-11-19T00:00:00
+6322280;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433641;Ke Køižovatce;è.p.;576;;;25266;746022.96;1030757.91;2020-11-19T00:00:00
+6322298;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433675;Køivá;è.p.;577;;;25266;745689.73;1030398.81;2020-11-19T00:00:00
+6322301;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;578;;;25266;745681.84;1030391.55;2020-11-19T00:00:00
+6322310;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;579;;;25266;745667.29;1030381.11;2020-11-19T00:00:00
+6322328;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;580;;;25266;745657.96;1030376.14;2020-11-24T00:00:00
+6322336;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;581;;;25266;745711.86;1030403.64;2020-11-19T00:00:00
+6322344;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;582;;;25266;745753.37;1030415.38;2020-11-19T00:00:00
+6322352;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;583;;;25266;745758.39;1030418.19;2020-11-19T00:00:00
+6322361;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;584;;;25266;746203.34;1030220.59;2020-11-19T00:00:00
+6322379;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;585;;;25266;746181.76;1030218.46;2020-11-19T00:00:00
+6322387;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;586;;;25266;745642.05;1030367.79;2020-11-24T00:00:00
+6322395;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;587;;;25266;745628.73;1030360.11;2020-11-24T00:00:00
+6322409;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;588;;;25266;745731.02;1030409.66;2020-11-19T00:00:00
+6322417;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;589;;;25266;746043.40;1030183.72;2020-11-19T00:00:00
+6322425;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;590;;;25266;746136.73;1030206.67;2020-11-19T00:00:00
+6322433;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;591;;;25266;746128.53;1030204.40;2020-11-19T00:00:00
+6322441;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;592;;;25266;746149.84;1030209.48;2020-11-19T00:00:00
+6322450;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;593;;;25266;746158.34;1030212.44;2020-11-19T00:00:00
+6322468;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;594;;;25266;746088.48;1030192.43;2020-11-19T00:00:00
+6322476;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;595;;;25266;746076.37;1030190.84;2020-11-19T00:00:00
+6322484;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;596;;;25266;745770.73;1030424.49;2020-11-19T00:00:00
+6322492;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;597;;;25266;746101.35;1030193.84;2020-11-19T00:00:00
+6322506;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;598;;;25266;746067.08;1030187.09;2020-11-19T00:00:00
+6322514;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;599;;;25266;746031.67;1030188.01;2020-11-19T00:00:00
+6322522;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;600;;;25266;746021.37;1030186.24;2020-11-19T00:00:00
+6322531;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;601;;;25266;746011.47;1030186.61;2020-11-19T00:00:00
+6322549;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;602;;;25266;745785.89;1030427.74;2020-11-19T00:00:00
+6322557;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;603;;;25266;745667.22;1030297.66;2020-11-24T00:00:00
+6322565;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;604;;;25266;745678.04;1030303.20;2020-11-24T00:00:00
+6322573;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;605;;;25266;745813.70;1030437.85;2020-11-19T00:00:00
+6322581;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;606;;;25266;745693.84;1030309.70;2020-11-24T00:00:00
+6322590;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;607;;;25266;745977.57;1030192.74;2020-11-19T00:00:00
+6322603;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;608;;;25266;745834.84;1030442.24;2020-11-19T00:00:00
+6322611;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;609;;;25266;745941.53;1030192.54;2020-11-19T00:00:00
+6322620;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;610;;;25266;745857.27;1030446.43;2020-11-19T00:00:00
+6322638;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;611;;;25266;745880.77;1030455.68;2020-11-19T00:00:00
+6322646;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;612;;;25266;745992.83;1030193.60;2020-11-19T00:00:00
+6322654;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;613;;;25266;745929.37;1030189.39;2020-11-19T00:00:00
+6322662;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;614;;;25266;745915.53;1030169.65;2020-11-19T00:00:00
+6322671;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;615;;;25266;745929.00;1030209.06;2020-11-19T00:00:00
+6322689;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;616;;;25266;745895.74;1030132.38;2020-11-19T00:00:00
+6322697;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;617;;;25266;745892.35;1030122.91;2020-11-19T00:00:00
+6322701;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;618;;;25266;745917.02;1030459.90;2020-11-19T00:00:00
+6322719;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;619;;;25266;745900.59;1030415.48;2020-11-19T00:00:00
+6322735;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433675;Køivá;è.p.;621;;;25266;745722.11;1030351.46;2026-02-24T00:00:00
+6322743;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434043;V Akátech;è.p.;622;;;25266;745950.43;1030758.87;2020-11-19T00:00:00
+6322751;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;623;;;25266;745872.93;1030142.88;2020-11-19T00:00:00
+6322760;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;624;;;25266;745863.12;1030135.59;2020-11-19T00:00:00
+6322778;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;625;;;25266;745883.24;1030150.15;2020-11-19T00:00:00
+6322786;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;626;;;25266;745828.92;1030128.46;2020-11-19T00:00:00
+6322794;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;627;;;25266;746172.69;1030234.27;2020-11-19T00:00:00
+6322808;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;628;;;25266;745919.26;1030202.00;2020-11-19T00:00:00
+6322816;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;629;;;25266;745886.65;1030100.92;2020-11-19T00:00:00
+6322824;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;630;;;25266;746261.60;1030646.49;2020-11-19T00:00:00
+6322832;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;631;;;25266;746262.99;1030636.98;2020-11-19T00:00:00
+6322841;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;632;;;25266;746264.70;1030603.21;2020-11-19T00:00:00
+6322859;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;633;;;25266;746263.60;1030593.20;2020-11-19T00:00:00
+6322867;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;634;;;25266;746255.88;1030555.16;2020-11-19T00:00:00
+6322875;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;635;;;25266;746254.32;1030547.43;2020-11-19T00:00:00
+6322883;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;636;;;25266;745768.37;1030318.24;2020-11-19T00:00:00
+6322891;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;637;;;25266;745783.83;1030322.85;2020-11-19T00:00:00
+6322905;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;638;;;25266;745784.48;1030386.45;2020-11-19T00:00:00
+6322913;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433675;Køivá;è.p.;639;;;25266;745745.31;1030308.39;2020-11-19T00:00:00
+6322921;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;640;;;25266;746240.41;1030511.38;2020-11-19T00:00:00
+6322930;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;641;;;25266;746236.03;1030504.96;2020-11-19T00:00:00
+6322948;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433683;Lesní;è.p.;642;;;25266;746230.14;1030662.76;2020-11-19T00:00:00
+6322956;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;643;;;25266;746233.84;1030651.47;2024-05-10T00:00:00
+6322964;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;644;;;25266;746235.82;1030622.89;2020-11-19T00:00:00
+6322972;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;645;;;25266;746235.80;1030613.77;2020-11-19T00:00:00
+6322981;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;646;;;25266;746233.46;1030583.68;2020-11-19T00:00:00
+6322999;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;647;;;25266;746231.47;1030573.45;2020-11-19T00:00:00
+6323006;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;648;;;25266;746222.43;1030544.25;2020-11-19T00:00:00
+6323014;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;649;;;25266;746218.26;1030533.82;2020-11-19T00:00:00
+6323022;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;650;;;25266;746298.97;1030675.67;2020-11-19T00:00:00
+6323031;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;651;;;25266;746300.93;1030662.63;2020-11-19T00:00:00
+6323049;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;652;;;25266;746305.19;1030625.97;2020-11-19T00:00:00
+6323057;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;653;;;25266;746305.84;1030617.74;2020-11-19T00:00:00
+6323065;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;654;;;25266;746302.32;1030571.11;2020-11-19T00:00:00
+6323073;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;655;;;25266;746300.73;1030563.14;2020-11-19T00:00:00
+6323081;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;656;;;25266;746287.64;1030517.71;2020-11-19T00:00:00
+6323090;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;657;;;25266;746284.07;1030509.33;2020-11-19T00:00:00
+6323103;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;658;;;25266;746267.45;1030475.92;2020-11-19T00:00:00
+6323111;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;659;;;25266;746263.05;1030466.39;2020-11-19T00:00:00
+6323120;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;660;;;25266;746327.54;1030655.13;2020-11-19T00:00:00
+6323138;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;661;;;25266;746329.05;1030646.58;2020-11-19T00:00:00
+6323146;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;662;;;25266;746330.99;1030596.78;2020-11-19T00:00:00
+6323154;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;663;;;25266;746330.44;1030588.15;2020-11-19T00:00:00
+6323162;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;664;;;25266;746319.83;1030536.90;2020-11-19T00:00:00
+6323171;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;665;;;25266;746317.44;1030529.26;2020-11-19T00:00:00
+6323189;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;666;;;25266;746300.40;1030484.11;2020-11-19T00:00:00
+6323197;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;667;;;25266;746296.88;1030474.91;2024-02-27T00:00:00
+6323201;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;668;;;25266;746278.23;1030439.54;2024-03-15T00:00:00
+6323219;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;669;;;25266;746273.01;1030431.29;2020-11-19T00:00:00
+6323227;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;670;;;25266;745764.50;1030363.07;2020-11-19T00:00:00
+6323235;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;671;;;25266;745852.74;1030124.00;2020-11-19T00:00:00
+6323243;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;672;;;25266;745945.37;1030220.06;2020-11-19T00:00:00
+6323260;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;674;;;25266;745888.26;1030163.14;2020-11-19T00:00:00
+6323278;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;675;;;25266;746128.08;1030228.60;2020-11-19T00:00:00
+6323286;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;676;;;25266;746154.52;1030233.56;2020-11-19T00:00:00
+6323294;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;677;;;25266;745926.71;1030146.11;2020-11-19T00:00:00
+6323308;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;678;;;25266;746189.93;1030234.31;2020-11-19T00:00:00
+6323316;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;679;;;25266;745675.58;1030325.80;2020-11-24T00:00:00
+6323324;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;680;;;25266;745651.70;1030315.24;2020-11-24T00:00:00
+6323332;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;681;;;25266;745832.73;1030388.23;2020-11-19T00:00:00
+6323341;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;682;;;25266;745696.41;1030335.42;2020-11-24T00:00:00
+6323359;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;683;;;25266;745945.57;1030478.28;2020-11-19T00:00:00
+6323367;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;684;;;25266;745967.54;1030496.28;2020-11-19T00:00:00
+6323375;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;685;;;25266;745808.29;1030165.22;2020-11-19T00:00:00
+6323383;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;686;;;25266;745836.10;1030175.62;2020-11-19T00:00:00
+6323391;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;687;;;25266;745849.86;1030181.91;2020-11-19T00:00:00
+6323405;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;688;;;25266;745777.75;1030198.91;2020-11-19T00:00:00
+6323413;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;689;;;25266;745792.47;1030200.55;2020-11-19T00:00:00
+6323421;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;690;;;25266;745807.24;1030202.00;2020-11-19T00:00:00
+6323430;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;691;;;25266;745761.30;1030226.72;2020-11-19T00:00:00
+6323448;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;692;;;25266;745775.91;1030228.83;2020-11-19T00:00:00
+6323456;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;693;;;25266;745792.58;1030230.62;2020-11-19T00:00:00
+6323464;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;694;;;25266;745743.84;1030260.70;2020-11-19T00:00:00
+6323472;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;695;;;25266;745758.80;1030261.88;2020-11-19T00:00:00
+6323481;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;696;;;25266;745773.87;1030262.94;2020-11-19T00:00:00
+6323499;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;697;;;25266;746246.49;1030440.35;2020-11-19T00:00:00
+6323502;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;698;;;25266;745816.44;1030343.32;2020-11-19T00:00:00
+6323511;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;699;;;25266;746258.18;1030671.67;2020-11-19T00:00:00
+6323529;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;700;;;25266;746257.87;1030395.06;2020-11-19T00:00:00
+6323537;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;701;;;25266;746236.00;1030392.00;2020-11-19T00:00:00
+6323545;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;702;;;25266;746188.00;1030437.00;2020-11-19T00:00:00
+6323553;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;703;;;25266;746185.06;1030387.30;2020-11-19T00:00:00
+6323561;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;704;;;25266;746210.31;1030456.86;2020-11-19T00:00:00
+6323570;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;705;;;25266;745847.80;1030224.25;2020-11-19T00:00:00
+6323588;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;706;;;25266;746190.55;1030415.41;2020-11-19T00:00:00
+6323596;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;707;;;25266;746205.91;1030507.85;2020-11-19T00:00:00
+6323600;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;708;;;25266;746188.90;1030471.99;2020-11-19T00:00:00
+6323618;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;709;;;25266;746205.50;1030490.34;2020-11-19T00:00:00
+6323626;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;710;;;25266;746326.02;1030685.88;2020-11-19T00:00:00
+6323634;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;711;;;25266;746210.57;1030389.77;2020-11-19T00:00:00
+6323642;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;712;;;25266;745982.86;1030358.59;2020-11-19T00:00:00
+6323651;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;713;;;25266;745977.09;1030302.20;2020-11-19T00:00:00
+6323669;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;714;;;25266;745948.84;1030326.99;2020-11-19T00:00:00
+6323677;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;715;;;25266;745908.85;1030385.89;2020-11-19T00:00:00
+6323685;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;716;;;25266;745248.34;1030107.61;2020-11-19T00:00:00
+6323693;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;717;;;25266;746146.10;1030437.65;2020-11-19T00:00:00
+6323707;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433861;Pod Hájem;è.p.;718;;;25266;746221.20;1030477.16;2020-11-19T00:00:00
+6323715;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;719;;;25266;745348.69;1030616.18;2020-11-19T00:00:00
+6323723;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;720;;;25266;745370.59;1030528.38;2020-11-19T00:00:00
+6323731;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;721;;;25266;745320.56;1030619.75;2020-11-19T00:00:00
+6323740;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;722;;;25266;745921.92;1030283.83;2020-11-19T00:00:00
+6323758;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;723;;;25266;745896.38;1030255.45;2020-11-19T00:00:00
+6323766;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;724;;;25266;745507.63;1030505.44;2020-11-19T00:00:00
+6323774;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;725;;;25266;745155.18;1030553.24;2023-05-04T00:00:00
+6323791;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;727;;;25266;745368.85;1030504.63;2020-11-19T00:00:00
+6323804;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;728;;;25266;744943.82;1030357.32;2013-12-01T00:00:00
+6323812;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433632;K. H. Borovského;è.p.;729;;;25266;745339.79;1030507.23;2020-11-19T00:00:00
+6323821;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;730;;;25266;745783.56;1030471.88;2020-11-19T00:00:00
+6323839;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;731;;;25266;745427.04;1030595.42;2020-11-19T00:00:00
+6323847;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;732;;;25266;745688.76;1030256.88;2020-11-19T00:00:00
+6323855;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.p.;733;;;25266;745609.60;1030066.11;2020-11-19T00:00:00
+6323863;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;734;;;25266;745522.08;1030572.45;2020-11-19T00:00:00
+6323871;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;735;;;25266;745356.09;1030221.20;2020-11-19T00:00:00
+6323880;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;736;;;25266;745528.95;1030509.65;2020-11-19T00:00:00
+6323898;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688631;Saharská;è.p.;737;;;25266;745862.18;1030400.17;2020-11-19T00:00:00
+6323901;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;738;;;25266;745060.46;1030233.06;2020-11-19T00:00:00
+6323910;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;739;;;25266;744735.75;1030598.44;2024-03-22T00:00:00
+6323928;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;740;;;25266;745649.11;1030113.02;2020-11-19T00:00:00
+6323936;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;741;;;25266;745641.76;1030110.52;2020-11-19T00:00:00
+6323944;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;742;;;25266;745004.81;1030377.19;2013-12-01T00:00:00
+6323952;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433675;Køivá;è.p.;743;;;25266;745727.81;1030204.13;2020-11-19T00:00:00
+6323961;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688622;K Sídlišti;è.p.;744;;;25266;745967.37;1030443.21;2020-11-19T00:00:00
+6323987;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;746;;;25266;745074.47;1030558.89;2022-02-03T00:00:00
+6323995;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;747;;;25266;744847.44;1030523.28;2013-12-01T00:00:00
+6324002;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;748;;;25266;745413.13;1030497.50;2020-11-19T00:00:00
+6324011;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433675;Køivá;è.p.;749;;;25266;745753.57;1030159.76;2020-11-19T00:00:00
+6324029;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;750;;;25266;745084.05;1030209.72;2020-11-19T00:00:00
+6324037;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434086;Vltavská;è.p.;751;;;25266;745234.70;1029929.91;2020-11-19T00:00:00
+6324045;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;752;;;25266;745122.35;1031749.15;2013-12-01T00:00:00
+6324053;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.p.;753;;;25266;745295.39;1030012.83;2020-11-19T00:00:00
+6324061;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;754;;;25266;745491.47;1030585.28;2020-11-19T00:00:00
+6324070;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.p.;755;;;25266;745273.30;1030389.59;2020-11-19T00:00:00
+6324088;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;756;;;25266;744919.26;1031408.57;2013-12-01T00:00:00
+6324096;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;757;;;25266;744728.71;1031234.28;2013-12-01T00:00:00
+6324100;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.p.;758;;;25266;745727.05;1030110.65;2020-11-19T00:00:00
+6324118;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433993;U Krytu;è.p.;759;;;25266;745171.14;1030668.81;2020-11-19T00:00:00
+6324126;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433713;Libušina;è.p.;760;;;25266;745039.76;1030299.90;2020-11-19T00:00:00
+6324134;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.p.;761;;;25266;745573.98;1030057.20;2020-11-19T00:00:00
+6324142;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;763;;;25266;745412.03;1030596.05;2020-11-19T00:00:00
+6324151;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;764;;;25266;745960.65;1030113.32;2020-11-19T00:00:00
+6324169;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433691;Letecké námìstí;è.ev.;1;;;25266;744839.00;1031223.00;2025-11-05T00:00:00
+6324177;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433799;Nad Sokolovnou;è.ev.;2;;;25266;745047.16;1030489.44;2020-11-19T00:00:00
+6324185;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433543;Družstevní;è.ev.;3;;;25266;744948.70;1030594.67;2020-11-26T00:00:00
+6324207;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433578;Fügnerova;è.ev.;5;;;25266;745462.33;1030443.37;2020-11-19T00:00:00
+6324215;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.ev.;6;;;25266;745340.42;1030576.09;2020-11-19T00:00:00
+6324223;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.ev.;7;;;25266;745325.10;1030582.40;2020-11-19T00:00:00
+6324231;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.ev.;10;;;25266;745772.39;1029228.92;2020-11-19T00:00:00
+6324274;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.ev.;15;;;25266;745057.26;1031591.19;2013-12-01T00:00:00
+6324291;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.ev.;17;;;25266;745067.00;1031602.00;2025-11-05T00:00:00
+6324312;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.ev.;19;;;25266;744841.65;1030923.60;2013-12-01T00:00:00
+6324321;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.ev.;20;;;25266;745819.72;1030062.83;2020-11-19T00:00:00
+6324355;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.ev.;23;;;25266;744934.38;1031333.51;2013-12-01T00:00:00
+6324398;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.ev.;27;;;25266;745412.00;1031858.26;2013-12-01T00:00:00
+6324401;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.ev.;28;;;25266;745625.50;1031503.14;2013-12-01T00:00:00
+25070053;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;765;;;25266;745140.22;1030464.67;2020-11-19T00:00:00
+25554298;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;766;;;25266;744933.30;1031451.55;2013-12-01T00:00:00
+25554301;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434078;Ve Staré cihelnì;è.p.;767;;;25266;745428.78;1030562.00;2020-11-19T00:00:00
+25554310;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;768;;;25266;745179.92;1031393.48;2013-12-01T00:00:00
+25554328;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;769;;;25266;745711.04;1030492.20;2020-11-19T00:00:00
+25554336;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433934;Proti Škole;è.p.;770;;;25266;745240.19;1030189.28;2020-11-19T00:00:00
+25554344;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;771;;;25266;745710.40;1030260.25;2020-11-19T00:00:00
+25554361;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.ev.;34;;;25266;745748.18;1031477.27;2013-12-01T00:00:00
+25670891;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.p.;762;;;25266;745553.46;1030082.34;2020-11-19T00:00:00
+25670905;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;726;;;25266;745732.72;1030303.24;2020-11-19T00:00:00
+25670913;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;81;;;25266;745140.67;1030289.36;2020-11-19T00:00:00
+25979621;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433683;Lesní;è.p.;772;;;25266;746145.74;1030586.21;2023-03-30T00:00:00
+25979639;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433748;Na Rùžku;è.p.;773;;;25266;745563.49;1030563.08;2020-11-19T00:00:00
+25979647;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;774;;;25266;745057.99;1031663.22;2013-12-01T00:00:00
+25979655;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;775;;;25266;745674.01;1030158.43;2020-11-19T00:00:00
+25979663;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433748;Na Rùžku;è.p.;776;;;25266;745568.50;1030520.33;2020-11-19T00:00:00
+25979671;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;777;;;25266;745330.40;1030282.55;2020-11-19T00:00:00
+25979680;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.ev.;35;;;25266;745639.62;1029876.41;2020-11-19T00:00:00
+26026589;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;778;;;25266;745548.41;1030040.03;2020-11-19T00:00:00
+26026597;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.ev.;36;;;25266;745625.29;1029876.26;2020-11-19T00:00:00
+26263084;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434001;U Pøívozu;è.p.;779;;;25266;744590.92;1031176.76;2013-12-01T00:00:00
+26263092;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;780;;;25266;745251.63;1029819.05;2020-11-19T00:00:00
+26263106;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433853;Pod Hrádkem;è.p.;781;;;25266;745205.20;1029739.40;2020-11-19T00:00:00
+26263114;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;782;;;25266;745484.94;1030507.11;2020-11-19T00:00:00
+26263122;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.ev.;37;;;25266;745138.28;1031126.92;2013-12-01T00:00:00
+26500345;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433934;Proti Škole;è.p.;783;;;25266;745243.20;1030240.06;2024-06-07T00:00:00
+26622211;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433993;U Krytu;è.p.;784;;;25266;745097.26;1030607.44;2020-11-19T00:00:00
+26649195;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;785;;;25266;745687.84;1030130.08;2020-11-19T00:00:00
+26682362;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;786;;;25266;745507.34;1030076.17;2020-11-19T00:00:00
+26682371;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;787;;;25266;745521.99;1030063.87;2020-11-19T00:00:00
+26735075;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;788;;;25266;745024.11;1031680.79;2013-12-01T00:00:00
+27105288;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;789;;;25266;745337.92;1030169.48;2020-11-19T00:00:00
+27105296;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;790;;;25266;744785.66;1030873.74;2013-12-01T00:00:00
+27105300;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;791;;;25266;745041.38;1031646.80;2013-12-01T00:00:00
+27283836;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;792;;;25266;745040.85;1031701.43;2013-12-01T00:00:00
+27314162;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;793;;;25266;744924.73;1031551.11;2013-12-01T00:00:00
+27454291;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;794;;;25266;745732.49;1030498.41;2020-11-19T00:00:00
+27470709;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;795;;;25266;745910.00;1030374.00;2020-11-19T00:00:00
+27501531;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;796;;;25266;745279.05;1031880.06;2013-12-01T00:00:00
+27501558;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433802;Nerudova;è.p.;797;;;25266;745089.22;1030588.73;2020-11-19T00:00:00
+27586367;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;788996;Bratøí Fischerù;è.p.;798;;;25266;745619.08;1030489.86;2020-11-19T00:00:00
+27615162;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;799;;;25266;745412.71;1030300.05;2020-11-19T00:00:00
+27737900;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;800;;;25266;745058.00;1031429.00;2013-12-01T00:00:00
+27769127;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433730;Na Radosti;è.p.;801;;;25266;745014.77;1030596.17;2013-12-01T00:00:00
+27874982;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433543;Družstevní;è.p.;802;;;25266;744914.00;1030700.00;2020-11-19T00:00:00
+28017269;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688649;Pod Strání;è.p.;803;;;25266;744955.33;1031364.28;2014-02-11T00:00:00
+28017277;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;788996;Bratøí Fischerù;è.p.;804;;;25266;745627.00;1030465.00;2020-11-19T00:00:00
+28175484;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;805;;;25266;745542.00;1030406.00;2020-11-19T00:00:00
+28187784;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;806;;;25266;745009.00;1031658.00;2013-12-01T00:00:00
+28231147;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.ev.;38;;;25266;745716.90;1030069.63;2020-11-19T00:00:00
+28302648;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;807;;;25266;745620.38;1030104.95;2020-11-19T00:00:00
+28340761;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;808;;;25266;745054.66;1031720.06;2014-02-11T00:00:00
+28418042;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;809;;;25266;746278.57;1030245.75;2020-11-19T00:00:00
+28473868;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.ev.;39;;;25266;745614.81;1029723.30;2020-11-19T00:00:00
+30121388;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433845;Palackého;è.p.;236;;;25266;745011.03;1030474.23;2021-11-23T00:00:00
+31254641;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;398;;;25266;745053.69;1031431.63;2013-12-01T00:00:00
+40308006;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;810;;;25266;744730.72;1030997.97;2014-02-06T00:00:00
+40361543;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;812;;;25266;746292.02;1030405.26;2020-11-19T00:00:00
+40374564;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;813;;;25266;745848.72;1030083.15;2020-11-19T00:00:00
+40391833;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;811;;;25266;746216.99;1030301.55;2020-11-19T00:00:00
+40654516;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;815;;;25266;746325.15;1030295.03;2020-11-19T00:00:00
+40900347;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;814;;;25266;746124.17;1030371.47;2020-11-19T00:00:00
+40900924;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434043;V Akátech;è.p.;816;;;25266;745925.54;1030769.84;2020-11-19T00:00:00
+40901033;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;817;;;25266;745122.86;1030472.33;2020-11-19T00:00:00
+41068777;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;819;;;25266;746235.72;1030269.46;2020-11-19T00:00:00
+41107128;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;820;;;25266;745667.37;1029197.91;2020-11-19T00:00:00
+41113161;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;821;;;25266;746261.86;1030232.90;2020-11-19T00:00:00
+41177134;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;822;1;;25266;744974.64;1030362.90;2014-02-06T00:00:00
+41177185;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;822;2;;25266;744983.67;1030365.32;2019-11-14T00:00:00
+41177207;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;822;3;;25266;744991.08;1030366.11;2019-11-14T00:00:00
+41177223;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;822;4;;25266;744999.28;1030365.52;2019-11-14T00:00:00
+41177240;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433560;Dìlnická;è.p.;822;5;;25266;745008.28;1030364.26;2019-11-14T00:00:00
+41531159;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;818;;;25266;745398.63;1030487.36;2020-11-19T00:00:00
+41626826;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;823;;;25266;746168.40;1030304.92;2020-11-19T00:00:00
+41872410;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;824;;;25266;745656.63;1029263.91;2020-11-19T00:00:00
+42069203;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;825;;;25266;745304.75;1030370.97;2020-11-19T00:00:00
+42069513;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688657;Za Kovárnou;è.p.;826;;;25266;745397.38;1030127.32;2020-11-19T00:00:00
+42372666;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;827;;;25266;744971.80;1031606.53;2013-12-01T00:00:00
+42397871;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;828;;;25266;744932.77;1031572.85;2013-12-01T00:00:00
+42595339;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;829;;;25266;745088.16;1031752.51;2013-12-01T00:00:00
+55268056;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434094;Zahradní;è.p.;830;;;25266;745684.20;1030216.94;2020-11-19T00:00:00
+59985437;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;831;;;25266;746346.43;1030410.57;2020-11-19T00:00:00
+70847860;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;833;;;25266;745671.56;1029234.66;2025-03-10T00:00:00
+71122532;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;832;;;25266;745045.57;1031567.62;2014-01-22T00:00:00
+71752994;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688622;K Sídlišti;è.p.;555;;;25266;745937.80;1030425.20;2020-11-19T00:00:00
+71863966;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433641;Ke Køižovatce;è.p.;835;;;25266;746036.34;1030636.15;2020-11-19T00:00:00
+72037563;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;788996;Bratøí Fischerù;è.p.;836;;;25266;745609.23;1030466.10;2020-11-19T00:00:00
+72038306;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;834;;;25266;745650.03;1029238.26;2020-11-19T00:00:00
+72553855;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;837;;;25266;746307.99;1030376.55;2020-11-19T00:00:00
+72607971;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;673;;;25266;745976.01;1030221.14;2020-11-19T00:00:00
+73012742;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.p.;838;;;25266;745669.85;1030076.05;2020-11-19T00:00:00
+73104388;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;840;;;25266;745643.75;1029210.93;2020-11-19T00:00:00
+73159107;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;839;;;25266;745562.53;1030367.04;2020-11-19T00:00:00
+73354571;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433811;námìstí Svobody;è.p.;841;;;25266;745160.22;1030343.56;2020-11-19T00:00:00
+73788180;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;843;;;25266;746192.40;1030346.34;2020-11-19T00:00:00
+73863611;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433594;Holubická;è.ev.;41;;;25266;745688.08;1030064.95;2020-11-19T00:00:00
+73864021;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.ev.;40;;;25266;745636.72;1029720.89;2020-11-19T00:00:00
+73941948;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433951;Tržní;è.p.;842;;;25266;744936.45;1030552.75;2015-08-07T00:00:00
+74048074;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;844;;;25266;745634.52;1029255.40;2020-11-19T00:00:00
+74371096;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;846;;;25266;746230.14;1030324.55;2020-11-19T00:00:00
+74372076;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;845;;;25266;745631.52;1030439.79;2020-11-19T00:00:00
+75014840;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433721;Lidická;è.p.;343;;;25266;745448.83;1030495.97;2020-11-19T00:00:00
+75205807;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;847;;;25266;745803.43;1030372.35;2020-11-19T00:00:00
+75321904;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;849;;;25266;746232.45;1030344.79;2020-11-19T00:00:00
+75322196;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433977;Tyršova;è.p.;848;;;25266;745759.57;1030505.00;2020-11-19T00:00:00
+75905558;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;850;;;25266;744891.84;1031211.87;2017-03-08T00:00:00
+76187250;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434051;V Pražce;è.p.;852;;;25266;745695.17;1030183.21;2020-11-19T00:00:00
+77523300;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;853;;;25266;746309.18;1030346.80;2020-11-19T00:00:00
+77544145;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;851;;;25266;746061.95;1030263.75;2020-11-19T00:00:00
+77785037;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;855;;;25266;746216.30;1030344.99;2020-11-19T00:00:00
+77861451;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433764;Na Vrchách;è.p.;856;;;25266;745970.42;1030145.59;2020-11-19T00:00:00
+77875796;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;857;;;25266;746106.18;1030246.40;2020-11-19T00:00:00
+77908830;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434060;V Zahrádkách;è.p.;858;;;25266;744975.91;1031460.64;2018-01-04T00:00:00
+77934423;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;854;;;25266;746317.88;1030390.14;2020-11-19T00:00:00
+78355958;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;861;;;25266;745751.36;1029084.69;2020-11-19T00:00:00
+78356407;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433519;Areál Šroubáren;è.p.;859;;;25266;744730.84;1030401.33;2018-05-17T00:00:00
+78356458;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433519;Areál Šroubáren;è.p.;860;;;25266;744715.13;1030414.34;2018-05-17T00:00:00
+78394783;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;862;;;25266;746274.92;1030350.75;2020-11-19T00:00:00
+78464811;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;863;;;25266;745746.62;1029104.56;2020-11-19T00:00:00
+78685257;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433519;Areál Šroubáren;è.ev.;43;;;25266;744829.07;1030328.41;2018-09-12T00:00:00
+79525326;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433535;Chýnovská;è.p.;864;;;25266;745361.29;1030292.12;2020-11-19T00:00:00
+79618782;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434043;V Akátech;è.p.;865;;;25266;746000.29;1030789.91;2020-11-19T00:00:00
+79879594;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;866;;;25266;745650.40;1029176.39;2020-11-19T00:00:00
+80035167;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;867;;;25266;745725.07;1029124.66;2020-11-19T00:00:00
+80050883;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;;;è.ev.;44;;;25266;745650.66;1029839.01;2020-11-19T00:00:00
+80423035;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433900;Pod Saharou;è.p.;868;;;25266;745842.61;1030350.18;2020-11-19T00:00:00
+80502571;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;;;è.ev.;178;;;25266;745328.30;1031868.44;2020-03-24T00:00:00
+80529585;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;869;;;25266;746279.03;1030284.46;2020-11-19T00:00:00
+81091397;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;870;;;25266;746043.94;1030248.16;2024-06-13T00:00:00
+81123744;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;788996;Bratøí Fischerù;è.p.;871;;;25266;745660.38;1030506.25;2024-06-13T00:00:00
+81124899;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;873;;;25266;746049.12;1030296.47;2020-11-19T00:00:00
+81242891;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;875;;;25266;746135.61;1030346.77;2020-11-19T00:00:00
+81284683;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;874;;;25266;746130.18;1030288.42;2020-12-16T00:00:00
+81376499;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;872;;;25266;746042.30;1030336.20;2024-06-07T00:00:00
+81414862;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;876;;;25266;746254.90;1030276.28;2021-01-06T00:00:00
+81532873;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;;;è.ev.;45;;;25266;746378.22;1030233.81;2021-02-25T00:00:00
+81626291;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;877;;;25266;746070.77;1030348.06;2021-04-08T00:00:00
+81814755;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;878;;;25266;744709.32;1031124.64;2021-05-14T00:00:00
+81963556;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;879;;;25266;745474.40;1029298.31;2021-08-09T00:00:00
+82022453;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.ev.;46;;;25266;745620.62;1029731.88;2021-09-15T00:00:00
+82280690;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;;;è.ev.;47;;;25266;745570.54;1029728.08;2021-12-15T00:00:00
+82624046;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688649;Pod Strání;è.p.;880;;;25266;744917.36;1031341.61;2022-02-09T00:00:00
+82722498;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433608;Høbitovní;è.p.;881;;;25266;745395.14;1030173.93;2022-03-09T00:00:00
+82994315;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;882;;;25266;745700.79;1029224.50;2023-03-10T00:00:00
+83074074;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;883;;;25266;745614.79;1029199.20;2024-06-07T00:00:00
+83204652;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;884;;;25266;746026.07;1030320.93;2024-06-07T00:00:00
+83278427;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433918;Pod Vinièkou;è.p.;886;;;25266;744958.28;1031589.94;2022-09-09T00:00:00
+83465057;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;885;;;25266;746256.58;1030351.86;2022-10-14T00:00:00
+84263466;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433969;Turská;è.p.;887;;;25266;744863.27;1031218.54;2025-12-11T00:00:00
+85014826;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;3183149;Pod Hliníkem;è.p.;888;;;25266;744862.20;1030839.03;2023-03-08T00:00:00
+85135135;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;889;;;25266;746014.33;1030245.88;2024-06-07T00:00:00
+85419010;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;890;;;25266;745507.01;1029264.16;2023-08-14T00:00:00
+85624896;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;891;;;25266;744819.96;1030686.18;2023-09-27T00:00:00
+85652296;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.ev.;48;;;25266;745680.31;1029773.36;2023-10-11T00:00:00
+85926485;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;892;;;25266;745532.00;1029259.86;2024-01-15T00:00:00
+85973700;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433705;Letecká;è.p.;893;;;25266;744739.96;1031281.88;2024-02-02T00:00:00
+86073052;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.ev.;49;;;25266;745643.43;1029732.79;2024-03-15T00:00:00
+86320530;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433667;Kralupská;è.ev.;50;;;25266;745592.47;1029724.28;2025-02-04T00:00:00
+86705679;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;688665;Ke Studánkám;è.p.;894;;;25266;746337.85;1030280.86;2024-12-18T00:00:00
+86895621;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433870;Pod Kameníèkem;è.p.;895;;;25266;745637.20;1030295.36;2025-04-02T00:00:00
+87099853;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;433586;Hašlerova;è.p.;896;;;25266;745494.58;1029277.14;2025-06-09T00:00:00
+87407043;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;2093642;Luèní;è.p.;897;;;25266;746108.52;1030364.88;2025-11-13T00:00:00
+87624575;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;;;è.ev.;51;;;25266;746483.19;1030139.63;2026-02-12T00:00:00
+87683881;539414;Libèice nad Vltavou;;;;;81833;Libèice nad Vltavou;434027;U Zastávky;è.p.;898;;;25266;744752.73;1031355.95;2026-02-20T00:00:00
