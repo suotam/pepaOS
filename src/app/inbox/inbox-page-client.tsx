@@ -16,6 +16,10 @@ export default function InboxPage() {
   const [disconnecting, setDisconnecting] = useState(false)
 
   const fetchEmails = async () => {
+    if (!googleConnected) {
+      setEmails([])
+      return
+    }
     setLoading(true); setError(null)
     try {
       const res = await fetch(`/api/inbox/threads?ts=${Date.now()}`, { cache: 'no-store' })
@@ -42,6 +46,10 @@ export default function InboxPage() {
   }
 
   const fetchThread = async (threadId: string) => {
+    if (!googleConnected) {
+      setSelectedThread(null)
+      return
+    }
     setLoading(true); setError(null)
     try {
       const res = await fetch(`/api/inbox/thread/${threadId}?ts=${Date.now()}`, { cache: 'no-store' })
@@ -59,7 +67,7 @@ export default function InboxPage() {
   }
 
   const sendReply = async () => {
-    if (!selectedThread || !replyBody.trim()) return
+    if (!googleConnected || !selectedThread || !replyBody.trim()) return
     setLoading(true); setError(null)
     try {
       const recipient = selectedThread.messages[0]?.from || ''
@@ -79,8 +87,17 @@ export default function InboxPage() {
     }
   }
 
-  useEffect(() => { fetchEmails() }, [])
   useEffect(() => { fetchGoogleStatus() }, [])
+  useEffect(() => {
+    if (googleConnected) {
+      fetchEmails()
+    } else {
+      setEmails([])
+      setSelectedThread(null)
+      setReplyBody('')
+    }
+  }, [googleConnected])
+
   useEffect(() => {
     const params = new URLSearchParams(window.location.search)
     const connected = params.get('google_connected')
@@ -94,6 +111,24 @@ export default function InboxPage() {
       setError(googleError)
       window.history.replaceState({}, document.title, window.location.pathname)
     }
+  }, [])
+
+  useEffect(() => {
+    const handleGoogleConnectionChange = (event: Event) => {
+      const customEvent = event as CustomEvent<{ connected: boolean; email?: string | null }>
+      const connected = Boolean(customEvent.detail?.connected)
+      setGoogleConnected(connected)
+      setGoogleEmail(customEvent.detail?.email || null)
+      if (!connected) {
+        setEmails([])
+        setSelectedThread(null)
+        setReplyBody('')
+      }
+    }
+
+    window.addEventListener('pepaos-google-connection-changed', handleGoogleConnectionChange as EventListener)
+    return () =>
+      window.removeEventListener('pepaos-google-connection-changed', handleGoogleConnectionChange as EventListener)
   }, [])
 
   const reconnectGoogle = async () => {
@@ -123,6 +158,11 @@ export default function InboxPage() {
       setEmails([])
       setSelectedThread(null)
       setReplyBody('')
+      window.dispatchEvent(
+        new CustomEvent('pepaos-google-connection-changed', {
+          detail: { connected: false, email: null },
+        })
+      )
     } catch (disconnectError) {
       setError(disconnectError instanceof Error ? disconnectError.message : 'Nepodařilo se odpojit Google účet')
     } finally {
@@ -160,9 +200,11 @@ export default function InboxPage() {
         <div className="lg:col-span-1 bg-white rounded shadow p-4">
           <div className="mb-3 flex items-center justify-between">
             <h2 className="font-semibold">Recent emails</h2>
-            <button onClick={fetchEmails} className="text-sm text-blue-600">Refresh</button>
+            <button onClick={fetchEmails} disabled={!googleConnected} className="text-sm text-blue-600 disabled:opacity-50">Refresh</button>
           </div>
-          {loading ? (<p>Loading...</p>) : emails.length === 0 ? (<p>No emails found.</p>) : (
+          {!googleConnected ? (
+            <p>Google účet není připojen.</p>
+          ) : loading ? (<p>Loading...</p>) : emails.length === 0 ? (<p>No emails found.</p>) : (
             <ul className="space-y-2">
               {emails.map((email) => (
                 <li key={email.id} className="border rounded p-2 hover:bg-gray-50 cursor-pointer" onClick={() => fetchThread(email.threadId)}>
@@ -176,7 +218,9 @@ export default function InboxPage() {
         </div>
 
         <div className="lg:col-span-2 bg-white rounded shadow p-4">
-          {selectedThread ? (
+          {!googleConnected ? (
+            <p>Po připojení Google účtu se zde zobrazí vlákna i možnost odpovídat.</p>
+          ) : selectedThread ? (
             <>
               <h2 className="font-semibold mb-3">Thread: {selectedThread.threadId}</h2>
               <div className="space-y-2 mb-4">
@@ -189,7 +233,7 @@ export default function InboxPage() {
                 ))}
               </div>
               <textarea value={replyBody} onChange={(e) => setReplyBody(e.target.value)} className="w-full border-gray-300 rounded-md p-2" rows={4} placeholder="Type your reply..." />
-              <button onClick={sendReply} className="mt-2 bg-blue-600 text-white px-4 py-2 rounded">Send Reply</button>
+              <button onClick={sendReply} disabled={!googleConnected} className="mt-2 bg-blue-600 text-white px-4 py-2 rounded disabled:opacity-50">Send Reply</button>
             </>
           ) : (
             <p>Select a thread to view details and reply.</p>

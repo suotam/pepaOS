@@ -96,6 +96,8 @@ export default function CalendarPage() {
   const [viewMode, setViewMode] = useState<ViewMode>('week')
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const [googleConnected, setGoogleConnected] = useState(false)
+  const [googleEmail, setGoogleEmail] = useState<string | null>(null)
 
   const [title, setTitle] = useState('')
   const [description, setDescription] = useState('')
@@ -126,7 +128,28 @@ export default function CalendarPage() {
     return { start: startOfMonth(selectedDateObject), end: endOfMonth(selectedDateObject) }
   }, [selectedDateObject, viewMode])
 
+  const fetchGoogleStatus = useCallback(async () => {
+    try {
+      const response = await fetch('/api/google/status', { cache: 'no-store' })
+      const data = await response.json()
+      const connected = Boolean(data.connected)
+      setGoogleConnected(connected)
+      setGoogleEmail(data.email || null)
+      if (!connected) {
+        setEvents([])
+      }
+    } catch {
+      setGoogleConnected(false)
+      setGoogleEmail(null)
+      setEvents([])
+    }
+  }, [])
+
   const fetchEvents = useCallback(async () => {
+    if (!googleConnected) {
+      setEvents([])
+      return
+    }
     setLoading(true)
     setError(null)
 
@@ -146,11 +169,36 @@ export default function CalendarPage() {
     } finally {
       setLoading(false)
     }
-  }, [visibleRange.end, visibleRange.start])
+  }, [googleConnected, visibleRange.end, visibleRange.start])
 
   useEffect(() => {
-    fetchEvents()
-  }, [fetchEvents])
+    fetchGoogleStatus()
+  }, [fetchGoogleStatus])
+
+  useEffect(() => {
+    if (googleConnected) {
+      fetchEvents()
+    } else {
+      setEvents([])
+    }
+  }, [fetchEvents, googleConnected])
+
+  useEffect(() => {
+    const handleGoogleConnectionChange = (event: Event) => {
+      const customEvent = event as CustomEvent<{ connected: boolean; email?: string | null }>
+      const connected = Boolean(customEvent.detail?.connected)
+      setGoogleConnected(connected)
+      setGoogleEmail(customEvent.detail?.email || null)
+      if (!connected) {
+        setEvents([])
+        setError(null)
+      }
+    }
+
+    window.addEventListener('pepaos-google-connection-changed', handleGoogleConnectionChange as EventListener)
+    return () =>
+      window.removeEventListener('pepaos-google-connection-changed', handleGoogleConnectionChange as EventListener)
+  }, [])
 
   const todaysEvents = useMemo(() => {
     const today = new Date()
@@ -185,7 +233,7 @@ export default function CalendarPage() {
   }, [events])
 
   const createEvent = async () => {
-    if (!title.trim()) return
+    if (!googleConnected || !title.trim()) return
 
     setLoading(true)
     setError(null)
@@ -224,6 +272,7 @@ export default function CalendarPage() {
   }
 
   const deleteEvent = async (eventId: string) => {
+    if (!googleConnected) return
     setLoading(true)
     setError(null)
 
@@ -261,6 +310,9 @@ export default function CalendarPage() {
           <div>
             <h1 className="text-2xl font-semibold text-gray-900">Kalendář</h1>
             <p className="mt-1 text-sm text-gray-500">Denní agenda, týdenní rozvrh a ruční správa událostí.</p>
+            <p className="mt-2 text-xs text-gray-500">
+              {googleConnected ? `Google účet připojen${googleEmail ? `: ${googleEmail}` : ''}` : 'Google účet není připojen.'}
+            </p>
           </div>
           <div className="flex flex-wrap items-center gap-2">
             {(['day', 'week', 'month'] as ViewMode[]).map((mode) => (
@@ -371,7 +423,7 @@ export default function CalendarPage() {
                 </label>
                 <button
                   onClick={createEvent}
-                  disabled={loading || !title.trim()}
+                  disabled={loading || !googleConnected || !title.trim()}
                   className="w-full rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white disabled:opacity-50"
                 >
                   {loading ? 'Ukládám…' : 'Vytvořit událost'}
@@ -393,7 +445,13 @@ export default function CalendarPage() {
                 <div className="mb-4 rounded-lg border border-red-200 bg-red-50 p-3 text-sm text-red-700">{error}</div>
               ) : null}
 
-              {viewMode === 'month' ? (
+              {!googleConnected ? (
+                <div className="mb-4 rounded-lg border border-dashed border-gray-300 bg-gray-50 p-4 text-sm text-gray-600">
+                  Po připojení Google účtu se zde zobrazí události kalendáře a půjde vytvářet i mazat události.
+                </div>
+              ) : null}
+
+              {googleConnected && viewMode === 'month' ? (
                 <div className="grid grid-cols-7 gap-3">
                   {daysInView.map((date) => {
                     const key = formatDateInput(date)
@@ -424,7 +482,7 @@ export default function CalendarPage() {
                     )
                   })}
                 </div>
-              ) : (
+              ) : googleConnected ? (
                 <div className={`grid gap-4 ${viewMode === 'day' ? 'grid-cols-1' : 'grid-cols-1 xl:grid-cols-7'}`}>
                   {daysInView.map((date) => {
                     const key = formatDateInput(date)
@@ -482,7 +540,7 @@ export default function CalendarPage() {
                     )
                   })}
                 </div>
-              )}
+              ) : null}
             </div>
           </div>
         </div>
