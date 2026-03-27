@@ -13,6 +13,7 @@ export default function InboxPage() {
   const [replyBody, setReplyBody] = useState('')
   const [googleConnected, setGoogleConnected] = useState(false)
   const [googleEmail, setGoogleEmail] = useState<string | null>(null)
+  const [disconnecting, setDisconnecting] = useState(false)
 
   const fetchEmails = async () => {
     setLoading(true); setError(null)
@@ -103,6 +104,32 @@ export default function InboxPage() {
     }
   }
 
+  const disconnectGoogle = async () => {
+    setDisconnecting(true)
+    setError(null)
+    try {
+      const response = await fetch('/api/google/status', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ action: 'disconnect' }),
+      })
+      const data = await response.json()
+      if (!response.ok) {
+        throw new Error(data.error || 'Nepodařilo se odpojit Google účet')
+      }
+
+      setGoogleConnected(false)
+      setGoogleEmail(null)
+      setEmails([])
+      setSelectedThread(null)
+      setReplyBody('')
+    } catch (disconnectError) {
+      setError(disconnectError instanceof Error ? disconnectError.message : 'Nepodařilo se odpojit Google účet')
+    } finally {
+      setDisconnecting(false)
+    }
+  }
+
   return (
     <div>
       <h1 className="text-2xl font-bold mb-4">Inbox</h1>
@@ -112,9 +139,20 @@ export default function InboxPage() {
             <p className="font-semibold text-gray-900">{googleConnected ? 'Google účet připojen' : 'Google účet není připojen'}</p>
             {googleEmail ? <p className="text-sm text-gray-500">{googleEmail}</p> : null}
           </div>
-          <button onClick={reconnectGoogle} className="rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white">
-            Znovu připojit Google
-          </button>
+          <div className="flex items-center gap-2">
+            {googleConnected ? (
+              <button
+                onClick={disconnectGoogle}
+                disabled={disconnecting}
+                className="rounded-md border border-red-200 px-4 py-2 text-sm font-medium text-red-600 disabled:opacity-50"
+              >
+                {disconnecting ? 'Odpojuji…' : 'Odpojit Google'}
+              </button>
+            ) : null}
+            <button onClick={reconnectGoogle} className="rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white">
+              {googleConnected ? 'Znovu připojit Google' : 'Připojit Google'}
+            </button>
+          </div>
         </div>
         <p className="mt-2 text-sm text-gray-600">Pro čtení e-mailů musí mít účet nově povolené oprávnění `gmail.readonly`.</p>
       </div>
