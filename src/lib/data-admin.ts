@@ -1,3 +1,4 @@
+import { alignPropertyCoordinates, backfillPropertyLocation } from './czech-property-seed'
 import { supabase } from './supabase'
 import { buildGeocodedPropertyPayload, ensurePropertyGeocodeColumns, stripUnsupportedPropertyGeocodeColumns } from './ruian'
 
@@ -118,7 +119,7 @@ const SELECT_BY_ENTITY: Record<DataEntity, string> = {
   deals: '*, client:clients(id, name), property:properties(id, title, address)',
 }
 
-const DEFAULT_LIMIT = 200
+const DEFAULT_LIMIT = 5000
 
 function isNonEmptyValue(value: unknown) {
   return value !== undefined && value !== null && value !== ''
@@ -224,14 +225,32 @@ function sanitizePayload(entity: DataEntity, payload: Record<string, any>, mode:
   return nextPayload
 }
 
-async function fetchBaseRecords(entity: DataEntity, limit = DEFAULT_LIMIT) {
+function enrichPropertyPayloadForMap(payload: Record<string, any>) {
+  const backfilled = backfillPropertyLocation(payload as any)
+  const aligned = alignPropertyCoordinates(backfilled as any)
+
+  return {
+    ...payload,
+    address: backfilled.address,
+    city: backfilled.city,
+    locality: backfilled.locality,
+    region: backfilled.region,
+    latitude: aligned.latitude,
+    longitude: aligned.longitude,
+  }
+}
+
+async function fetchBaseRecords(entity: DataEntity, limit?: number) {
   const definition = ENTITY_DEFINITIONS[entity]
   const sortColumn = definition.defaultSortColumn
-  const query = supabase
+  let query = supabase
     .from(entity)
     .select(SELECT_BY_ENTITY[entity])
     .order(sortColumn, { ascending: false, nullsFirst: false })
-    .limit(limit)
+
+  if (typeof limit === 'number' && Number.isFinite(limit) && limit > 0) {
+    query = query.limit(limit)
+  }
 
   const { data, error } = await query
   if (error) {
@@ -277,7 +296,7 @@ export async function listDataRecords(params: {
   limit?: number
 }) {
   const definition = ENTITY_DEFINITIONS[params.entity]
-  const rows = await fetchBaseRecords(params.entity, params.limit || DEFAULT_LIMIT)
+  const rows = await fetchBaseRecords(params.entity, params.limit ?? DEFAULT_LIMIT)
   const filtered = rows.filter((row) => matchesSearch(row, definition.searchFields, params.query || ''))
 
   return {
@@ -304,6 +323,7 @@ export async function createDataRecord(entity: DataEntity, payload: Record<strin
   if (entity === 'properties') {
     await ensurePropertyGeocodeColumns()
     sanitized = await buildGeocodedPropertyPayload(sanitized)
+    sanitized = enrichPropertyPayloadForMap(sanitized)
   }
 
   let { data, error } = await supabase.from(entity).insert(sanitized).select(SELECT_BY_ENTITY[entity]).single()
@@ -330,6 +350,10 @@ export async function updateDataRecord(entity: DataEntity, id: string, payload: 
     await ensurePropertyGeocodeColumns()
     const existing = await getDataRecord(entity, id)
     sanitized = await buildGeocodedPropertyPayload(sanitized, existing as any)
+    sanitized = enrichPropertyPayloadForMap({
+      ...existing,
+      ...sanitized,
+    })
   }
 
   let { data, error } = await supabase.from(entity).update(sanitized).eq('id', id).select(SELECT_BY_ENTITY[entity]).single()

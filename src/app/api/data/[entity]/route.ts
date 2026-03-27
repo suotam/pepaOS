@@ -20,7 +20,9 @@ export async function GET(request: NextRequest, context: RouteContext) {
   try {
     const entity = assertEntity(context.params.entity)
     const query = request.nextUrl.searchParams.get('q') || ''
-    const limit = Number(request.nextUrl.searchParams.get('limit') || '200')
+    const limitParam = request.nextUrl.searchParams.get('limit')
+    const parsedLimit = limitParam ? Number(limitParam) : undefined
+    const limit = typeof parsedLimit === 'number' && Number.isFinite(parsedLimit) && parsedLimit > 0 ? parsedLimit : undefined
     const result = await listDataRecords({ entity, query, limit })
     return NextResponse.json(result)
   } catch (error) {

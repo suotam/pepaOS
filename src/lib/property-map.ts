@@ -132,7 +132,8 @@ function applyInMemoryFilters(properties: MapProperty[], filters: PropertyMapFil
     filtered = filtered.sort((a, b) => new Date(b.created_at || 0).getTime() - new Date(a.created_at || 0).getTime())
   }
 
-  const allMatching = filtered.slice(0, filters.limit || 300)
+  const limit = typeof filters.limit === 'number' && Number.isFinite(filters.limit) && filters.limit > 0 ? filters.limit : null
+  const allMatching = limit ? filtered.slice(0, limit) : filtered
   const visibleProperties = applyBoundsFilter(allMatching, filters.bounds)
 
   return {
@@ -148,13 +149,16 @@ export async function getPropertiesForMap(filters: PropertyMapFilters = {}) {
   const propertyType = normalizeString(filters.propertyType)
   const status = normalizeString(filters.status)
   const sortBy = filters.sortBy || 'newest'
-  const limit = filters.limit || 300
+  const limit = typeof filters.limit === 'number' && Number.isFinite(filters.limit) && filters.limit > 0 ? filters.limit : null
 
   const buildQuery = (selectClause: string) => {
     let query = supabase
       .from('properties')
       .select(selectClause)
-      .limit(limit)
+
+    if (limit) {
+      query = query.limit(limit)
+    }
 
     if (city) {
       query = query.ilike('city', city)

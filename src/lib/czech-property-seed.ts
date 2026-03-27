@@ -405,9 +405,12 @@ export function sanitizePropertyAddress(address: string | null | undefined) {
     previous = value
     value = value
       .replace(/^\d+\+\w+\s+/i, '')
-      .replace(/^\d+\s*m²\s*/i, '')
+      .replace(/^\d+\s*m(?:²|2)\s*/i, '')
       .replace(/^,\s*/i, '')
-      .replace(/^pozemek\s+\d+\s*m²\s*/i, '')
+      .replace(/^pozemek\s+\d+\s*m(?:²|2)\s*/i, '')
+      .replace(/^,\s*/i, '')
+      .replace(/^(?:prodej|pronajem|pronájem)\s+/i, '')
+      .replace(/^(?:bytu|byt|domu|dům|dum|rodinneho domu|rodinného domu)\s+/i, '')
       .replace(/^,\s*/i, '')
       .trim()
   }

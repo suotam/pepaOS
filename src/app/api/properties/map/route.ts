@@ -43,7 +43,7 @@ export async function GET(request: NextRequest) {
       bounds: parseBounds(searchParams),
     }
 
-    const allForOptions = await getPropertiesForMap({ limit: 500 })
+    const allForOptions = await getPropertiesForMap()
     const result = await getPropertiesForMap(filters)
 
     return NextResponse.json({
