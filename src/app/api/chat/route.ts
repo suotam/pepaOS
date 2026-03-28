@@ -70,6 +70,7 @@ type CalendarEventLite = {
 }
 
 const pendingChartByUser: Record<string, PendingChart> = {}
+const EXPORT_FONT_FAMILY = `'DejaVu Sans', 'Liberation Sans', Arial, sans-serif`
 
 const openai = process.env.OPENAI_API_KEY ? new OpenAI({ apiKey: process.env.OPENAI_API_KEY }) : null
 
@@ -190,7 +191,7 @@ function createPieChartSvg(chart: PendingChart) {
   const colors = ['#2563eb', '#14b8a6', '#f59e0b', '#ef4444', '#8b5cf6', '#06b6d4']
   const items = chart.data
     .map((item) => ({
-      name: String((item as any).name ?? 'Unknown'),
+      name: truncateLabel(String((item as any).name ?? 'Unknown'), 22),
       value: Number((item as any).value || 0),
     }))
     .filter((item) => item.value >= 0)
@@ -199,6 +200,7 @@ function createPieChartSvg(chart: PendingChart) {
 
   const slices: string[] = []
   const labels: string[] = []
+  const showSliceLabels = items.length <= 7
   let currentAngle = 0
 
   items.forEach((item, index) => {
@@ -212,9 +214,11 @@ function createPieChartSvg(chart: PendingChart) {
       `<path d="${describePieSlice(190, 210, 120, currentAngle, endAngle)}" fill="${colors[index % colors.length]}" stroke="#ffffff" stroke-width="2" />`
     )
 
-    labels.push(
-      `<text x="${labelPosition.x}" y="${labelPosition.y}" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#0f172a">${percentage}%</text>`
-    )
+    if (showSliceLabels) {
+      labels.push(
+        `<text x="${labelPosition.x}" y="${labelPosition.y}" font-family="${EXPORT_FONT_FAMILY}" font-size="14" text-anchor="middle" fill="#0f172a">${percentage}%</text>`
+      )
+    }
 
     currentAngle = endAngle
   })
@@ -225,8 +229,8 @@ function createPieChartSvg(chart: PendingChart) {
       const percentage = total > 0 ? Math.round((item.value / total) * 100) : 0
       return [
         `<rect x="390" y="${y}" width="18" height="18" rx="4" fill="${colors[index % colors.length]}" />`,
-        `<text x="420" y="${y + 14}" font-family="Arial, sans-serif" font-size="18" fill="#0f172a">${escapeXml(item.name)}</text>`,
-        `<text x="620" y="${y + 14}" font-family="Arial, sans-serif" font-size="16" text-anchor="end" fill="#475569">${item.value} / ${percentage}%</text>`,
+        `<text x="420" y="${y + 14}" font-family="${EXPORT_FONT_FAMILY}" font-size="18" fill="#0f172a">${escapeXml(item.name)}</text>`,
+        `<text x="620" y="${y + 14}" font-family="${EXPORT_FONT_FAMILY}" font-size="16" text-anchor="end" fill="#475569">${item.value} / ${percentage}%</text>`,
       ].join('')
     })
     .join('')
@@ -234,8 +238,8 @@ function createPieChartSvg(chart: PendingChart) {
   return [
     `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">`,
     '<rect width="100%" height="100%" fill="#f8fafc" />',
-    `<text x="40" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">${title}</text>`,
-    `<text x="40" y="80" font-family="Arial, sans-serif" font-size="15" fill="#475569">${description}</text>`,
+    `<text x="40" y="50" font-family="${EXPORT_FONT_FAMILY}" font-size="28" font-weight="700" fill="#0f172a">${title}</text>`,
+    `<text x="40" y="80" font-family="${EXPORT_FONT_FAMILY}" font-size="15" fill="#475569">${description}</text>`,
     ...slices,
     ...labels,
     legend,
@@ -264,7 +268,7 @@ function createCartesianChartSvg(chart: PendingChart) {
     const y = bottom - (chartHeight * index) / 4
     return [
       `<line x1="${chartLeft}" y1="${y}" x2="${chartLeft + chartWidth}" y2="${y}" stroke="#cbd5e1" stroke-width="1" />`,
-      `<text x="${chartLeft - 12}" y="${y + 5}" font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#64748b">${value}</text>`,
+      `<text x="${chartLeft - 12}" y="${y + 5}" font-family="${EXPORT_FONT_FAMILY}" font-size="12" text-anchor="end" fill="#64748b">${value}</text>`,
     ].join('')
   })
 
@@ -301,7 +305,7 @@ function createCartesianChartSvg(chart: PendingChart) {
         showXAxisLabel
           ? `<text x="${point.x}" y="${bottom + 24}" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">${safeLabel}</text>`
           : '',
-        `<text x="${point.x}" y="${point.y - 12}" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#0f172a">${point.value}</text>`,
+        `<text x="${point.x}" y="${point.y - 12}" font-family="${EXPORT_FONT_FAMILY}" font-size="12" text-anchor="middle" fill="#0f172a">${point.value}</text>`,
       ].join('')
     })
     .join('')
@@ -309,8 +313,8 @@ function createCartesianChartSvg(chart: PendingChart) {
   return [
     `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}">`,
     '<rect width="100%" height="100%" fill="#f8fafc" />',
-    `<text x="40" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#0f172a">${title}</text>`,
-    `<text x="40" y="80" font-family="Arial, sans-serif" font-size="15" fill="#475569">${description}</text>`,
+    `<text x="40" y="50" font-family="${EXPORT_FONT_FAMILY}" font-size="28" font-weight="700" fill="#0f172a">${title}</text>`,
+    `<text x="40" y="80" font-family="${EXPORT_FONT_FAMILY}" font-size="15" fill="#475569">${description}</text>`,
     `<line x1="${chartLeft}" y1="${bottom}" x2="${chartLeft + chartWidth}" y2="${bottom}" stroke="#0f172a" stroke-width="2" />`,
     `<line x1="${chartLeft}" y1="${chartTop}" x2="${chartLeft}" y2="${bottom}" stroke="#0f172a" stroke-width="2" />`,
     ...yGrid,
@@ -1712,6 +1716,14 @@ const tools: any[] = [
             type: "boolean",
             description: "If true, also attach chart data as a CSV file."
           },
+          includeSvg: {
+            type: "boolean",
+            description: "If true, also attach the chart as SVG."
+          },
+          includeHtmlReport: {
+            type: "boolean",
+            description: "If true, also attach the chart report as HTML."
+          },
           includeJpeg: {
             type: "boolean",
             description: "If true, also attach the chart rendered as a JPEG image."
@@ -2800,19 +2812,36 @@ async function executeTool(toolCall: any) {
         summarizeChart(chart),
       ].join('\n')
       const chartEmailHtml = createChartEmailHtml(chart, parsedArgs.body)
-      const chartAttachments: EmailAttachment[] = [
-        {
+      const hasExplicitAttachmentSelection =
+        typeof parsedArgs.includeJpeg === 'boolean' ||
+        typeof parsedArgs.includeCsv === 'boolean' ||
+        typeof parsedArgs.includePresentation === 'boolean' ||
+        typeof parsedArgs.includeSvg === 'boolean' ||
+        typeof parsedArgs.includeHtmlReport === 'boolean'
+
+      const includeHtmlReport = hasExplicitAttachmentSelection ? Boolean(parsedArgs.includeHtmlReport) : true
+      const includeSvg = hasExplicitAttachmentSelection ? Boolean(parsedArgs.includeSvg) : true
+      const includeJpeg = Boolean(parsedArgs.includeJpeg)
+      const includeCsv = Boolean(parsedArgs.includeCsv)
+      const includePresentation = Boolean(parsedArgs.includePresentation)
+
+      const chartAttachments: EmailAttachment[] = []
+
+      if (includeHtmlReport) {
+        chartAttachments.push({
           filename: `${chartFilenameBase}-report.html`,
           contentType: 'text/html; charset=UTF-8',
           content: createChartAttachmentHtml(chart),
-        },
-        {
+        })
+      }
+      if (includeSvg) {
+        chartAttachments.push({
           filename: `${chartFilenameBase}.svg`,
           contentType: 'image/svg+xml',
           content: createChartSvg(chart),
-        },
-      ]
-      if (parsedArgs.includeJpeg) {
+        })
+      }
+      if (includeJpeg) {
         chartAttachments.push({
           filename: `${chartFilenameBase}.jpg`,
           contentType: 'image/jpeg',
@@ -2820,14 +2849,14 @@ async function executeTool(toolCall: any) {
           encoding: 'base64',
         })
       }
-      if (parsedArgs.includeCsv) {
+      if (includeCsv) {
         chartAttachments.push({
           filename: `${chartFilenameBase}.csv`,
           contentType: 'text/csv; charset=UTF-8',
           content: createChartCsv(chart),
         })
       }
-      if (parsedArgs.includePresentation) {
+      if (includePresentation) {
         chartAttachments.push({
           filename: `${chartFilenameBase}-prezentace.html`,
           contentType: 'text/html; charset=UTF-8',
@@ -2931,7 +2960,7 @@ export async function POST(request: NextRequest) {
       const pendingMarketContext = pendingMarketContextByUser[userId]
       const pendingInfo = pendingEmail ? `\n\nPENDING EMAIL DRAFT:\nTo: ${pendingEmail.to}\nSubject: ${pendingEmail.subject}\nBody: ${pendingEmail.body}\n\nIf user wants to send this email, use send_pending_email tool.` : ''
       const chartInfo = pendingChart
-        ? `\n\nPENDING CHART:\nTitle: ${pendingChart.title || 'Graf'}\nType: ${pendingChart.type}\nDescription: ${pendingChart.description || 'N/A'}\nCreatedAt: ${pendingChart.createdAt || 'unknown'}\nData: ${JSON.stringify(pendingChart.data)}\n\nIf user wants to send this chart as email attachment, use send_chart_email tool. If the user wants a simple presentation too, set includePresentation=true. If the user wants data in CSV, set includeCsv=true. If the user wants an image attachment in JPEG, set includeJpeg=true.`
+        ? `\n\nPENDING CHART:\nTitle: ${pendingChart.title || 'Graf'}\nType: ${pendingChart.type}\nDescription: ${pendingChart.description || 'N/A'}\nCreatedAt: ${pendingChart.createdAt || 'unknown'}\nData: ${JSON.stringify(pendingChart.data)}\n\nIf user wants to send this chart as email attachment, use send_chart_email tool. If the user wants a simple presentation too, set includePresentation=true. If the user wants data in CSV, set includeCsv=true. If the user wants an image attachment in JPEG, set includeJpeg=true. If the user explicitly asks for JPEG only, do not also attach SVG or HTML unless they ask for them.`
         : ''
       const marketInfo = pendingMarketContext
         ? `\n\nMOST RECENT MARKET CONTEXT:\nSources: ${JSON.stringify(pendingMarketContext.sources || [])}\nCategory: ${pendingMarketContext.category || 'unknown'}\nLocation: ${pendingMarketContext.locationLabel || 'anywhere'}\nShown listings count: ${pendingMarketContext.listings?.length || 0}\n\nUse this when the user follows up with phrases like "na tom webu", "ty nabídky", "libovolnou nabídku", or does not repeat the website/category/location. If the user asks to save the already shown listings, use save_recent_market_listings_to_database so you store exactly those shown results.`
@@ -2988,6 +3017,7 @@ IMPORTANT GUIDELINES:
 - If the user asks for chart data as a table or attachment, set includeCsv=true so the email also contains a CSV export of the chart data.
 - If the user asks for exactly three presentation slides, the current HTML presentation already uses a 3-slide layout.
 - If the user asks for the chart as an image or JPEG attachment, set includeJpeg=true.
+- If the user explicitly asks for only one attachment format, send only that format and do not add extra chart attachments unless requested.
 - When the user asks for recurring monitoring of real-estate portals or "nové nabídky z webů", create a market watch workflow with create_market_watch_workflow instead of pretending that a generic email workflow can fetch those sites.
 - If the user asks for "poslední", "nejnovější", or a direct one-time question about current listings on Sreality or Bezrealitky, use get_market_listings instead of creating a workflow.
 - If the user asks "kolik je momentálně ..." for listings on Sreality or Bezrealitky, use get_market_listing_count.

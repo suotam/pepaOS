@@ -51,6 +51,7 @@ type BrowserSpeechRecognition = {
 }
 
 type BrowserSpeechRecognitionCtor = new () => BrowserSpeechRecognition
+type VoiceInputMode = 'speech-recognition' | 'media-recorder' | 'none'
 
 const CHART_COLORS = ['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6']
 
@@ -127,8 +128,11 @@ export default function AssistantSidebar() {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [isListening, setIsListening] = useState(false)
-  const [speechSupported, setSpeechSupported] = useState(false)
+  const [voiceMode, setVoiceMode] = useState<VoiceInputMode>('none')
   const recognitionRef = useRef<BrowserSpeechRecognition | null>(null)
+  const mediaRecorderRef = useRef<MediaRecorder | null>(null)
+  const mediaStreamRef = useRef<MediaStream | null>(null)
+  const recordedChunksRef = useRef<BlobPart[]>([])
 
   const pageContext = useMemo(() => {
     const context: any = { pageType: 'dashboard' }
@@ -202,12 +206,17 @@ export default function AssistantSidebar() {
       | BrowserSpeechRecognitionCtor
       | undefined
 
+    const supportsMediaRecorder =
+      typeof navigator !== 'undefined' &&
+      !!navigator.mediaDevices?.getUserMedia &&
+      typeof MediaRecorder !== 'undefined'
+
     if (!speechApi) {
-      setSpeechSupported(false)
+      setVoiceMode(supportsMediaRecorder ? 'media-recorder' : 'none')
       return
     }
 
-    setSpeechSupported(true)
+    setVoiceMode('speech-recognition')
 
     const recognition = new speechApi()
     recognition.lang = 'cs-CZ'
@@ -241,6 +250,10 @@ export default function AssistantSidebar() {
     return () => {
       recognition.stop()
       recognitionRef.current = null
+      mediaRecorderRef.current?.stop()
+      mediaStreamRef.current?.getTracks().forEach((track) => track.stop())
+      mediaRecorderRef.current = null
+      mediaStreamRef.current = null
     }
   }, [])
 
@@ -291,6 +304,11 @@ export default function AssistantSidebar() {
   }
 
   const toggleVoiceInput = () => {
+    if (voiceMode === 'media-recorder') {
+      void toggleRecordedVoiceInput()
+      return
+    }
+
     const recognition = recognitionRef.current
     if (!recognition) {
       setError('Tento prohlížeč nepodporuje hlasové ovládání chatu.')
@@ -303,6 +321,81 @@ export default function AssistantSidebar() {
     }
 
     recognition.start()
+  }
+
+  const transcribeRecordedAudio = async (audioBlob: Blob) => {
+    const formData = new FormData()
+    formData.append('audio', audioBlob, 'voice-input.webm')
+
+    const response = await fetch('/api/chat/transcribe', {
+      method: 'POST',
+      body: formData,
+    })
+
+    const data = await response.json()
+    if (!response.ok) {
+      throw new Error(data.error || 'Přepis hlasu se nepodařil.')
+    }
+
+    setInput((current) => [current, data.text].filter(Boolean).join(current ? ' ' : '').trim())
+  }
+
+  const toggleRecordedVoiceInput = async () => {
+    if (typeof navigator === 'undefined' || !navigator.mediaDevices?.getUserMedia || typeof MediaRecorder === 'undefined') {
+      setError('Tento prohlížeč nepodporuje hlasové ovládání chatu.')
+      return
+    }
+
+    if (isListening) {
+      mediaRecorderRef.current?.stop()
+      return
+    }
+
+    try {
+      setError(null)
+      recordedChunksRef.current = []
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true })
+      mediaStreamRef.current = stream
+
+      const recorder = new MediaRecorder(stream)
+      mediaRecorderRef.current = recorder
+
+      recorder.onstart = () => {
+        setIsListening(true)
+      }
+
+      recorder.ondataavailable = (event) => {
+        if (event.data.size > 0) {
+          recordedChunksRef.current.push(event.data)
+        }
+      }
+
+      recorder.onerror = () => {
+        setError('Nahrávání hlasu se nepodařilo spustit.')
+        setIsListening(false)
+      }
+
+      recorder.onstop = async () => {
+        setIsListening(false)
+        mediaStreamRef.current?.getTracks().forEach((track) => track.stop())
+        mediaStreamRef.current = null
+
+        const audioBlob = new Blob(recordedChunksRef.current, { type: recorder.mimeType || 'audio/webm' })
+        recordedChunksRef.current = []
+        if (audioBlob.size === 0) return
+
+        try {
+          await transcribeRecordedAudio(audioBlob)
+        } catch (transcriptionError) {
+          setError(transcriptionError instanceof Error ? transcriptionError.message : 'Přepis hlasu selhal.')
+        }
+      }
+
+      recorder.start()
+    } catch (recordError) {
+      setIsListening(false)
+      setError(recordError instanceof Error && recordError.message ? recordError.message : 'Pro hlasové ovládání je potřeba povolit mikrofon.')
+    }
   }
 
   return (
@@ -349,7 +442,7 @@ export default function AssistantSidebar() {
             </button>
             <button
               onClick={toggleVoiceInput}
-              disabled={!speechSupported || loading}
+              disabled={voiceMode === 'none' || loading}
               className={`px-3 py-1 rounded-md border text-sm ${isListening ? 'border-red-300 bg-red-50 text-red-700' : 'border-gray-300 bg-white text-gray-700'} disabled:opacity-50`}
             >
               {isListening ? 'Stop mic' : 'Mic'}
