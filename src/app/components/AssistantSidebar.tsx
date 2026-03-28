@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { usePathname, useSearchParams } from 'next/navigation'
 import { ResponsiveContainer, PieChart, Pie, Cell, Tooltip, CartesianGrid, XAxis, YAxis, Legend, BarChart, Bar, LineChart, Line } from 'recharts'
 
@@ -37,6 +37,20 @@ interface ChatChart {
   type: 'pie' | 'bar' | 'line'
   data: ChartPoint[]
 }
+
+type BrowserSpeechRecognition = {
+  lang: string
+  interimResults: boolean
+  continuous: boolean
+  start: () => void
+  stop: () => void
+  onstart: null | (() => void)
+  onend: null | (() => void)
+  onerror: null | ((event: { error?: string }) => void)
+  onresult: null | ((event: { resultIndex: number; results: ArrayLike<ArrayLike<{ transcript: string }>> }) => void)
+}
+
+type BrowserSpeechRecognitionCtor = new () => BrowserSpeechRecognition
 
 const CHART_COLORS = ['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6']
 
@@ -112,6 +126,9 @@ export default function AssistantSidebar() {
   const [messages, setMessages] = useState<ChatMessage[]>([]) 
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const [isListening, setIsListening] = useState(false)
+  const [speechSupported, setSpeechSupported] = useState(false)
+  const recognitionRef = useRef<BrowserSpeechRecognition | null>(null)
 
   const pageContext = useMemo(() => {
     const context: any = { pageType: 'dashboard' }
@@ -178,6 +195,55 @@ export default function AssistantSidebar() {
     localStorage.setItem('pepaos-assistant-messages', JSON.stringify(messages))
   }, [messages])
 
+  useEffect(() => {
+    if (typeof window === 'undefined') return
+
+    const speechApi = ((window as any).SpeechRecognition || (window as any).webkitSpeechRecognition) as
+      | BrowserSpeechRecognitionCtor
+      | undefined
+
+    if (!speechApi) {
+      setSpeechSupported(false)
+      return
+    }
+
+    setSpeechSupported(true)
+
+    const recognition = new speechApi()
+    recognition.lang = 'cs-CZ'
+    recognition.interimResults = true
+    recognition.continuous = false
+
+    recognition.onstart = () => {
+      setIsListening(true)
+      setError(null)
+    }
+
+    recognition.onend = () => {
+      setIsListening(false)
+    }
+
+    recognition.onerror = (event) => {
+      setIsListening(false)
+      setError(event?.error === 'not-allowed' ? 'Pro hlasové ovládání je potřeba povolit mikrofon.' : 'Hlasové ovládání se nepodařilo spustit.')
+    }
+
+    recognition.onresult = (event) => {
+      let transcript = ''
+      for (let index = event.resultIndex; index < event.results.length; index += 1) {
+        transcript += event.results[index][0]?.transcript || ''
+      }
+      setInput(transcript.trim())
+    }
+
+    recognitionRef.current = recognition
+
+    return () => {
+      recognition.stop()
+      recognitionRef.current = null
+    }
+  }, [])
+
   const handleSend = async () => {
     if (!input.trim()) return
     setError(null)
@@ -224,6 +290,21 @@ export default function AssistantSidebar() {
     }
   }
 
+  const toggleVoiceInput = () => {
+    const recognition = recognitionRef.current
+    if (!recognition) {
+      setError('Tento prohlížeč nepodporuje hlasové ovládání chatu.')
+      return
+    }
+
+    if (isListening) {
+      recognition.stop()
+      return
+    }
+
+    recognition.start()
+  }
+
   return (
     <aside className="w-[360px] h-screen border-l border-gray-200 bg-white flex flex-col">
       <header className="px-4 py-3 border-b border-gray-200">
@@ -258,13 +339,22 @@ export default function AssistantSidebar() {
           }}
         />
         <div className="mt-2 flex items-center justify-between">
-          <button
-            onClick={handleSend}
-            disabled={loading || !input.trim()}
-            className="bg-blue-600 text-white px-3 py-1 rounded-md disabled:opacity-50"
-          >
-            {loading ? 'Processing…' : 'Send'}
-          </button>
+          <div className="flex items-center gap-2">
+            <button
+              onClick={handleSend}
+              disabled={loading || !input.trim()}
+              className="bg-blue-600 text-white px-3 py-1 rounded-md disabled:opacity-50"
+            >
+              {loading ? 'Processing…' : 'Send'}
+            </button>
+            <button
+              onClick={toggleVoiceInput}
+              disabled={!speechSupported || loading}
+              className={`px-3 py-1 rounded-md border text-sm ${isListening ? 'border-red-300 bg-red-50 text-red-700' : 'border-gray-300 bg-white text-gray-700'} disabled:opacity-50`}
+            >
+              {isListening ? 'Stop mic' : 'Mic'}
+            </button>
+          </div>
           {error && <p className="text-xs text-red-500">{error}</p>}
         </div>
       </div>

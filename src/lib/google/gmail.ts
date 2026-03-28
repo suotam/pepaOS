@@ -5,6 +5,7 @@ export interface EmailInput {
   to: string
   subject: string
   body: string
+  htmlBody?: string
   threadId?: string
   attachments?: EmailAttachment[]
 }
@@ -13,6 +14,7 @@ export interface EmailAttachment {
   filename: string
   contentType: string
   content: string
+  encoding?: 'utf8' | 'base64'
 }
 
 export interface DraftResult {
@@ -46,6 +48,10 @@ function wrapBase64(value: string) {
 }
 
 function encodeTextBody(value: string) {
+  return wrapBase64(Buffer.from(value, 'utf8').toString('base64'))
+}
+
+function encodeHtmlBody(value: string) {
   return wrapBase64(Buffer.from(value, 'utf8').toString('base64'))
 }
 
@@ -106,11 +112,12 @@ function extractPlainText(payload: any): string {
  * Create an RFC 2822 formatted email
  */
 function createMimeMessage(input: EmailInput): string {
-  const { to, subject, body, attachments = [] } = input
+  const { to, subject, body, htmlBody, attachments = [] } = input
   const encodedSubject = encodeMimeWord(subject)
   const encodedBody = encodeTextBody(body)
+  const encodedHtmlBody = htmlBody ? encodeHtmlBody(htmlBody) : null
 
-  if (attachments.length === 0) {
+  if (attachments.length === 0 && !encodedHtmlBody) {
     const mimeHeaders = [
       `To: ${to}`,
       `Subject: ${encodedSubject}`,
@@ -123,7 +130,33 @@ function createMimeMessage(input: EmailInput): string {
     return mimeHeaders + '\r\n' + encodedBody
   }
 
+  if (attachments.length === 0 && encodedHtmlBody) {
+    const alternativeBoundary = `alt-${Date.now()}`
+    return [
+      `To: ${to}`,
+      `Subject: ${encodedSubject}`,
+      'MIME-Version: 1.0',
+      `Content-Type: multipart/alternative; boundary="${alternativeBoundary}"`,
+      '',
+      `--${alternativeBoundary}`,
+      'Content-Type: text/plain; charset="UTF-8"',
+      'Content-Transfer-Encoding: base64',
+      '',
+      encodedBody,
+      '',
+      `--${alternativeBoundary}`,
+      'Content-Type: text/html; charset="UTF-8"',
+      'Content-Transfer-Encoding: base64',
+      '',
+      encodedHtmlBody,
+      '',
+      `--${alternativeBoundary}--`,
+      '',
+    ].join('\r\n')
+  }
+
   const boundary = `mixed-${Date.now()}`
+  const alternativeBoundary = `alt-${Date.now()}`
   const headers = [
     `To: ${to}`,
     `Subject: ${encodedSubject}`,
@@ -134,15 +167,33 @@ function createMimeMessage(input: EmailInput): string {
 
   const textPart = [
     `--${boundary}`,
+    `Content-Type: multipart/alternative; boundary="${alternativeBoundary}"`,
+    '',
+    `--${alternativeBoundary}`,
     'Content-Type: text/plain; charset="UTF-8"',
     'Content-Transfer-Encoding: base64',
     '',
     encodedBody,
     '',
+    ...(encodedHtmlBody
+      ? [
+          `--${alternativeBoundary}`,
+          'Content-Type: text/html; charset="UTF-8"',
+          'Content-Transfer-Encoding: base64',
+          '',
+          encodedHtmlBody,
+          '',
+        ]
+      : []),
+    `--${alternativeBoundary}--`,
+    '',
   ].join('\r\n')
 
   const attachmentParts = attachments.map((attachment) => {
-    const encodedContent = wrapBase64(Buffer.from(attachment.content, 'utf8').toString('base64'))
+    const encodedContent =
+      attachment.encoding === 'base64'
+        ? wrapBase64(attachment.content)
+        : wrapBase64(Buffer.from(attachment.content, 'utf8').toString('base64'))
     return [
       `--${boundary}`,
       `Content-Type: ${attachment.contentType}; name="${encodeMimeWord(attachment.filename)}"`,

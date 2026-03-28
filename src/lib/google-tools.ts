@@ -112,6 +112,7 @@ export async function send_email(
   to: string,
   subject: string,
   body: string,
+  htmlBody?: string,
   attachments?: EmailAttachment[]
 ) {
   const status = await getConnectionStatus(SESSION_USER_ID)
@@ -119,7 +120,7 @@ export async function send_email(
     throw new Error('Gmail not connected. Please connect your Google account first.')
   }
 
-  const result = await sendEmail(SESSION_USER_ID, { to, subject, body, attachments })
+  const result = await sendEmail(SESSION_USER_ID, { to, subject, body, htmlBody, attachments })
 
   await logAction(SESSION_USER_ID, 'send_email', 'google', 'success', {
     to,

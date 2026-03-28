@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import OpenAI from 'openai'
 import cron from 'node-cron'
+import sharp from 'sharp'
+import type { EmailAttachment } from '../../../lib/google/gmail'
 import { get_weekly_kpis, get_all_clients, get_all_properties, get_all_leads, get_all_deals, get_leads_vs_sales_last_6_months, find_properties_missing_reconstruction_data, get_deals_by_stage, get_properties_by_status, get_leads_by_status, get_client_sources_breakdown } from '../../../lib/tools'
 import { get_calendar_availability, suggest_meeting_slots, draft_email, send_email, create_calendar_event, draft_viewing_email_from_availability, get_calendar_events_in_range, update_calendar_event, delete_calendar_event, list_recent_emails, get_email_thread, reply_to_email_thread } from '../../../lib/google-tools'
 import { supabase } from '../../../lib/supabase'
@@ -159,6 +161,11 @@ function summarizeChart(chart: PendingChart) {
     .join('\n')
 }
 
+function truncateLabel(value: string, maxLength = 22) {
+  if (value.length <= maxLength) return value
+  return `${value.slice(0, Math.max(0, maxLength - 1)).trim()}…`
+}
+
 function polarToCartesian(cx: number, cy: number, radius: number, angleInDegrees: number) {
   const angleInRadians = ((angleInDegrees - 90) * Math.PI) / 180
   return {
@@ -287,9 +294,13 @@ function createCartesianChartSvg(chart: PendingChart) {
 
   const labels = points
     .map((point) => {
-      const safeLabel = escapeXml(point.label)
+      const labelStep = rows.length > 10 ? Math.ceil(rows.length / 10) : 1
+      const safeLabel = escapeXml(truncateLabel(point.label, rows.length > 12 ? 12 : 18))
+      const showXAxisLabel = points.length <= 10 || points.indexOf(point) % labelStep === 0
       return [
-        `<text x="${point.x}" y="${bottom + 24}" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">${safeLabel}</text>`,
+        showXAxisLabel
+          ? `<text x="${point.x}" y="${bottom + 24}" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">${safeLabel}</text>`
+          : '',
         `<text x="${point.x}" y="${point.y - 12}" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#0f172a">${point.value}</text>`,
       ].join('')
     })
@@ -342,6 +353,103 @@ function createPresentationHtml(chart: PendingChart) {
     `<section class="slide"><h1>${title}</h1><p>${description}</p><p class="meta">Vygenerováno: ${generatedAt}</p></section>`,
     `<section class="slide"><h2>Graf</h2><div class="chart">${createChartSvg(chart)}</div></section>`,
     `<section class="slide"><h2>Klíčové body</h2><ul>${summaryItems}</ul></section>`,
+    '</body>',
+    '</html>',
+  ].join('')
+}
+
+function createChartAttachmentHtml(chart: PendingChart) {
+  const title = escapeXml(chart.title || 'Graf')
+  const description = escapeXml(chart.description || 'Datový výstup z aplikace')
+  const generatedAt = escapeXml(
+    new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
+  )
+  const summaryItems = summarizeChart(chart)
+    .split('\n')
+    .filter(Boolean)
+    .slice(0, 10)
+    .map((line) => `<li>${escapeXml(line)}</li>`)
+    .join('')
+
+  return [
+    '<!doctype html>',
+    '<html lang="cs">',
+    '<head>',
+    '<meta charset="utf-8" />',
+    `<title>${title}</title>`,
+    '<style>',
+    'body{font-family:Arial,sans-serif;background:#f8fafc;margin:0;padding:32px;color:#0f172a}',
+    '.wrap{max-width:1100px;margin:0 auto}',
+    '.card{background:#fff;border:1px solid #e2e8f0;border-radius:22px;padding:28px 32px;box-shadow:0 14px 34px rgba(15,23,42,.08);margin-bottom:24px}',
+    'h1{font-size:32px;margin:0 0 10px} h2{font-size:22px;margin:0 0 16px}',
+    'p,li{font-size:16px;line-height:1.65} ul{padding-left:22px;margin:0}',
+    '.meta{color:#64748b;font-size:14px}',
+    '.chart svg{width:100%;height:auto;display:block}',
+    '</style>',
+    '</head>',
+    '<body>',
+    '<div class="wrap">',
+    `<section class="card"><h1>${title}</h1><p>${description}</p><p class="meta">Vygenerováno ${generatedAt}</p></section>`,
+    `<section class="card"><h2>Graf</h2><div class="chart">${createChartSvg(chart)}</div></section>`,
+    `<section class="card"><h2>Klíčové body</h2><ul>${summaryItems}</ul></section>`,
+    '</div>',
+    '</body>',
+    '</html>',
+  ].join('')
+}
+
+function createChartCsv(chart: PendingChart) {
+  if (!chart.data.length) {
+    return 'label,value'
+  }
+
+  const keys = Object.keys(chart.data[0] as Record<string, string | number>)
+  const escapeCsv = (value: string | number) => {
+    const raw = String(value ?? '')
+    return /[",\n;]/.test(raw) ? `"${raw.replace(/"/g, '""')}"` : raw
+  }
+
+  const header = keys.map(escapeCsv).join(',')
+  const rows = chart.data.map((row) =>
+    keys.map((key) => escapeCsv((row as Record<string, string | number>)[key] ?? '')).join(',')
+  )
+
+  return [header, ...rows].join('\n')
+}
+
+async function createChartJpegBase64(chart: PendingChart) {
+  const svg = createChartSvg(chart)
+  return await sharp(Buffer.from(svg, 'utf8'))
+    .flatten({ background: '#ffffff' })
+    .jpeg({ quality: 92, mozjpeg: true })
+    .toBuffer()
+    .then((buffer) => buffer.toString('base64'))
+}
+
+function createChartEmailHtml(chart: PendingChart, body?: string | null) {
+  const title = escapeXml(chart.title || 'Graf')
+  const description = escapeXml(chart.description || 'Datový výstup z aplikace')
+  const intro = escapeXml(body || `V příloze posílám graf: ${title}.`)
+  const summaryItems = summarizeChart(chart)
+    .split('\n')
+    .filter(Boolean)
+    .slice(0, 8)
+    .map((line) => `<li>${escapeXml(line)}</li>`)
+    .join('')
+
+  return [
+    '<!doctype html>',
+    '<html lang="cs">',
+    '<body style="margin:0;padding:24px;background:#f8fafc;color:#0f172a;font-family:Arial,sans-serif;">',
+    '<div style="max-width:760px;margin:0 auto;background:#ffffff;border:1px solid #e2e8f0;border-radius:20px;padding:28px;">',
+    `<h1 style="margin:0 0 8px;font-size:28px;">${title}</h1>`,
+    `<p style="margin:0 0 10px;color:#334155;">${description}</p>`,
+    `<p style="margin:0 0 18px;color:#0f172a;">${intro}</p>`,
+    `<div style="margin:0 0 20px;">${createChartSvg(chart)}</div>`,
+    `<h2 style="font-size:18px;margin:0 0 10px;">Shrnutí</h2>`,
+    `<ul style="padding-left:20px;margin:0;color:#334155;">${summaryItems}</ul>`,
+    '<p style="margin:20px 0 0;color:#64748b;font-size:13px;">Přikládám i export grafu / reportu jako soubor pro další sdílení.</p>',
+    '</div>',
     '</body>',
     '</html>',
   ].join('')
@@ -1599,6 +1707,14 @@ const tools: any[] = [
           includePresentation: {
             type: "boolean",
             description: "If true, also attach a simple HTML presentation with the chart and summary."
+          },
+          includeCsv: {
+            type: "boolean",
+            description: "If true, also attach chart data as a CSV file."
+          },
+          includeJpeg: {
+            type: "boolean",
+            description: "If true, also attach the chart rendered as a JPEG image."
           }
         },
         required: ["to"]
@@ -2683,13 +2799,34 @@ async function executeTool(toolCall: any) {
         '',
         summarizeChart(chart),
       ].join('\n')
-      const chartAttachments = [
+      const chartEmailHtml = createChartEmailHtml(chart, parsedArgs.body)
+      const chartAttachments: EmailAttachment[] = [
+        {
+          filename: `${chartFilenameBase}-report.html`,
+          contentType: 'text/html; charset=UTF-8',
+          content: createChartAttachmentHtml(chart),
+        },
         {
           filename: `${chartFilenameBase}.svg`,
           contentType: 'image/svg+xml',
           content: createChartSvg(chart),
         },
       ]
+      if (parsedArgs.includeJpeg) {
+        chartAttachments.push({
+          filename: `${chartFilenameBase}.jpg`,
+          contentType: 'image/jpeg',
+          content: await createChartJpegBase64(chart),
+          encoding: 'base64',
+        })
+      }
+      if (parsedArgs.includeCsv) {
+        chartAttachments.push({
+          filename: `${chartFilenameBase}.csv`,
+          contentType: 'text/csv; charset=UTF-8',
+          content: createChartCsv(chart),
+        })
+      }
       if (parsedArgs.includePresentation) {
         chartAttachments.push({
           filename: `${chartFilenameBase}-prezentace.html`,
@@ -2701,6 +2838,7 @@ async function executeTool(toolCall: any) {
         parsedArgs.to,
         parsedArgs.subject || `${chartTitle}`,
         chartEmailBody,
+        chartEmailHtml,
         chartAttachments
       )
       delete pendingChartByUser[userId]
@@ -2793,7 +2931,7 @@ export async function POST(request: NextRequest) {
       const pendingMarketContext = pendingMarketContextByUser[userId]
       const pendingInfo = pendingEmail ? `\n\nPENDING EMAIL DRAFT:\nTo: ${pendingEmail.to}\nSubject: ${pendingEmail.subject}\nBody: ${pendingEmail.body}\n\nIf user wants to send this email, use send_pending_email tool.` : ''
       const chartInfo = pendingChart
-        ? `\n\nPENDING CHART:\nTitle: ${pendingChart.title || 'Graf'}\nType: ${pendingChart.type}\nDescription: ${pendingChart.description || 'N/A'}\nCreatedAt: ${pendingChart.createdAt || 'unknown'}\nData: ${JSON.stringify(pendingChart.data)}\n\nIf user wants to send this chart as email attachment, use send_chart_email tool. If the user wants a simple presentation too, set includePresentation=true.`
+        ? `\n\nPENDING CHART:\nTitle: ${pendingChart.title || 'Graf'}\nType: ${pendingChart.type}\nDescription: ${pendingChart.description || 'N/A'}\nCreatedAt: ${pendingChart.createdAt || 'unknown'}\nData: ${JSON.stringify(pendingChart.data)}\n\nIf user wants to send this chart as email attachment, use send_chart_email tool. If the user wants a simple presentation too, set includePresentation=true. If the user wants data in CSV, set includeCsv=true. If the user wants an image attachment in JPEG, set includeJpeg=true.`
         : ''
       const marketInfo = pendingMarketContext
         ? `\n\nMOST RECENT MARKET CONTEXT:\nSources: ${JSON.stringify(pendingMarketContext.sources || [])}\nCategory: ${pendingMarketContext.category || 'unknown'}\nLocation: ${pendingMarketContext.locationLabel || 'anywhere'}\nShown listings count: ${pendingMarketContext.listings?.length || 0}\n\nUse this when the user follows up with phrases like "na tom webu", "ty nabídky", "libovolnou nabídku", or does not repeat the website/category/location. If the user asks to save the already shown listings, use save_recent_market_listings_to_database so you store exactly those shown results.`
@@ -2847,6 +2985,9 @@ IMPORTANT GUIDELINES:
 - Default behavior is to create drafts for review
 - When the user asks to schedule or automate recurring email sending, create a workflow with create_scheduled_email_workflow instead of sending the email immediately.
 - When the user wants to send a generated chart by email, use send_chart_email. If they ask for a simple presentation as well, set includePresentation=true so the email contains both the chart SVG and a lightweight HTML presentation.
+- If the user asks for chart data as a table or attachment, set includeCsv=true so the email also contains a CSV export of the chart data.
+- If the user asks for exactly three presentation slides, the current HTML presentation already uses a 3-slide layout.
+- If the user asks for the chart as an image or JPEG attachment, set includeJpeg=true.
 - When the user asks for recurring monitoring of real-estate portals or "nové nabídky z webů", create a market watch workflow with create_market_watch_workflow instead of pretending that a generic email workflow can fetch those sites.
 - If the user asks for "poslední", "nejnovější", or a direct one-time question about current listings on Sreality or Bezrealitky, use get_market_listings instead of creating a workflow.
 - If the user asks "kolik je momentálně ..." for listings on Sreality or Bezrealitky, use get_market_listing_count.
