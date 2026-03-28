@@ -167,6 +167,15 @@ function truncateLabel(value: string, maxLength = 22) {
   return `${value.slice(0, Math.max(0, maxLength - 1)).trim()}…`
 }
 
+function normalizeExportText(value: string) {
+  return value
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^\x20-\x7E]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 function polarToCartesian(cx: number, cy: number, radius: number, angleInDegrees: number) {
   const angleInRadians = ((angleInDegrees - 90) * Math.PI) / 180
   return {
@@ -186,15 +195,23 @@ function describePieSlice(cx: number, cy: number, radius: number, startAngle: nu
 function createPieChartSvg(chart: PendingChart) {
   const width = 720
   const height = 420
-  const title = escapeXml(chart.title || 'Graf')
-  const description = escapeXml(chart.description || 'Vygenerováno z dat v aplikaci')
+  const title = escapeXml(normalizeExportText(chart.title || 'Graf'))
+  const description = escapeXml(normalizeExportText(chart.description || 'Vygenerováno z dat v aplikaci'))
   const colors = ['#2563eb', '#14b8a6', '#f59e0b', '#ef4444', '#8b5cf6', '#06b6d4']
-  const items = chart.data
+  let items = chart.data
     .map((item) => ({
-      name: truncateLabel(String((item as any).name ?? 'Unknown'), 22),
+      name: normalizeExportText(truncateLabel(String((item as any).name ?? 'Unknown'), 22)),
       value: Number((item as any).value || 0),
     }))
     .filter((item) => item.value >= 0)
+
+  if (items.length > 8) {
+    const sorted = [...items].sort((left, right) => right.value - left.value)
+    const primary = sorted.slice(0, 7)
+    const remainder = sorted.slice(7)
+    const otherValue = remainder.reduce((sum, item) => sum + item.value, 0)
+    items = otherValue > 0 ? [...primary, { name: 'Ostatni', value: otherValue }] : primary
+  }
 
   const total = items.reduce((sum, item) => sum + item.value, 0)
 
@@ -250,8 +267,8 @@ function createPieChartSvg(chart: PendingChart) {
 function createCartesianChartSvg(chart: PendingChart) {
   const width = 820
   const height = 460
-  const title = escapeXml(chart.title || 'Graf')
-  const description = escapeXml(chart.description || 'Vygenerováno z dat v aplikaci')
+  const title = escapeXml(normalizeExportText(chart.title || 'Graf'))
+  const description = escapeXml(normalizeExportText(chart.description || 'Vygenerováno z dat v aplikaci'))
   const normalized = normalizeSeriesData(chart)
   const rows = normalized.rows.slice(0, 24)
   const values = rows.map((row) => row.value)
@@ -299,11 +316,11 @@ function createCartesianChartSvg(chart: PendingChart) {
   const labels = points
     .map((point) => {
       const labelStep = rows.length > 10 ? Math.ceil(rows.length / 10) : 1
-      const safeLabel = escapeXml(truncateLabel(point.label, rows.length > 12 ? 12 : 18))
+      const safeLabel = escapeXml(normalizeExportText(truncateLabel(point.label, rows.length > 12 ? 12 : 18)))
       const showXAxisLabel = points.length <= 10 || points.indexOf(point) % labelStep === 0
       return [
         showXAxisLabel
-          ? `<text x="${point.x}" y="${bottom + 24}" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#475569">${safeLabel}</text>`
+          ? `<text x="${point.x}" y="${bottom + 24}" font-family="${EXPORT_FONT_FAMILY}" font-size="12" text-anchor="middle" fill="#475569">${safeLabel}</text>`
           : '',
         `<text x="${point.x}" y="${point.y - 12}" font-family="${EXPORT_FONT_FAMILY}" font-size="12" text-anchor="middle" fill="#0f172a">${point.value}</text>`,
       ].join('')
@@ -3018,6 +3035,8 @@ IMPORTANT GUIDELINES:
 - If the user asks for exactly three presentation slides, the current HTML presentation already uses a 3-slide layout.
 - If the user asks for the chart as an image or JPEG attachment, set includeJpeg=true.
 - If the user explicitly asks for only one attachment format, send only that format and do not add extra chart attachments unless requested.
+- If the user asks in one message to create a chart and send it by email, do both in the same turn. Do not ask a follow-up question about formats unless the request is ambiguous.
+- If the user asks to create and send a chart but does not specify a format, default to includeJpeg=true and send it immediately.
 - When the user asks for recurring monitoring of real-estate portals or "nové nabídky z webů", create a market watch workflow with create_market_watch_workflow instead of pretending that a generic email workflow can fetch those sites.
 - If the user asks for "poslední", "nejnovější", or a direct one-time question about current listings on Sreality or Bezrealitky, use get_market_listings instead of creating a workflow.
 - If the user asks "kolik je momentálně ..." for listings on Sreality or Bezrealitky, use get_market_listing_count.
