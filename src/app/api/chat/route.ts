@@ -70,7 +70,7 @@ type CalendarEventLite = {
 }
 
 const pendingChartByUser: Record<string, PendingChart> = {}
-const EXPORT_FONT_FAMILY = `'DejaVu Sans', 'Liberation Sans', Arial, sans-serif`
+const EXPORT_FONT_FAMILY = 'sans-serif'
 
 const openai = process.env.OPENAI_API_KEY ? new OpenAI({ apiKey: process.env.OPENAI_API_KEY }) : null
 
@@ -176,6 +176,16 @@ function normalizeExportText(value: string) {
     .trim()
 }
 
+function normalizeExportTitle(value: string) {
+  const normalized = normalizeExportText(value)
+  return normalized || 'Graf'
+}
+
+function normalizeExportLabel(value: string, fallback = 'Polozka') {
+  const normalized = normalizeExportText(value)
+  return normalized || fallback
+}
+
 function polarToCartesian(cx: number, cy: number, radius: number, angleInDegrees: number) {
   const angleInRadians = ((angleInDegrees - 90) * Math.PI) / 180
   return {
@@ -195,12 +205,12 @@ function describePieSlice(cx: number, cy: number, radius: number, startAngle: nu
 function createPieChartSvg(chart: PendingChart) {
   const width = 720
   const height = 420
-  const title = escapeXml(normalizeExportText(chart.title || 'Graf'))
-  const description = escapeXml(normalizeExportText(chart.description || 'Vygenerováno z dat v aplikaci'))
+  const title = escapeXml(normalizeExportTitle(chart.title || 'Graf'))
+  const description = escapeXml(normalizeExportLabel(chart.description || 'Vygenerovano z dat v aplikaci', 'Prehled dat'))
   const colors = ['#2563eb', '#14b8a6', '#f59e0b', '#ef4444', '#8b5cf6', '#06b6d4']
   let items = chart.data
     .map((item) => ({
-      name: normalizeExportText(truncateLabel(String((item as any).name ?? 'Unknown'), 22)),
+      name: normalizeExportLabel(truncateLabel(String((item as any).name ?? 'Unknown'), 18), 'Polozka'),
       value: Number((item as any).value || 0),
     }))
     .filter((item) => item.value >= 0)
@@ -247,7 +257,7 @@ function createPieChartSvg(chart: PendingChart) {
       return [
         `<rect x="390" y="${y}" width="18" height="18" rx="4" fill="${colors[index % colors.length]}" />`,
         `<text x="420" y="${y + 14}" font-family="${EXPORT_FONT_FAMILY}" font-size="18" fill="#0f172a">${escapeXml(item.name)}</text>`,
-        `<text x="620" y="${y + 14}" font-family="${EXPORT_FONT_FAMILY}" font-size="16" text-anchor="end" fill="#475569">${item.value} / ${percentage}%</text>`,
+        `<text x="655" y="${y + 14}" font-family="${EXPORT_FONT_FAMILY}" font-size="16" text-anchor="end" fill="#475569">${item.value} (${percentage}%)</text>`,
       ].join('')
     })
     .join('')
@@ -267,8 +277,8 @@ function createPieChartSvg(chart: PendingChart) {
 function createCartesianChartSvg(chart: PendingChart) {
   const width = 820
   const height = 460
-  const title = escapeXml(normalizeExportText(chart.title || 'Graf'))
-  const description = escapeXml(normalizeExportText(chart.description || 'Vygenerováno z dat v aplikaci'))
+  const title = escapeXml(normalizeExportTitle(chart.title || 'Graf'))
+  const description = escapeXml(normalizeExportLabel(chart.description || 'Vygenerovano z dat v aplikaci', 'Prehled dat'))
   const normalized = normalizeSeriesData(chart)
   const rows = normalized.rows.slice(0, 24)
   const values = rows.map((row) => row.value)
@@ -316,7 +326,7 @@ function createCartesianChartSvg(chart: PendingChart) {
   const labels = points
     .map((point) => {
       const labelStep = rows.length > 10 ? Math.ceil(rows.length / 10) : 1
-      const safeLabel = escapeXml(normalizeExportText(truncateLabel(point.label, rows.length > 12 ? 12 : 18)))
+      const safeLabel = escapeXml(normalizeExportLabel(truncateLabel(point.label, rows.length > 12 ? 12 : 18), 'Polozka'))
       const showXAxisLabel = points.length <= 10 || points.indexOf(point) % labelStep === 0
       return [
         showXAxisLabel
