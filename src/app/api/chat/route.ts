@@ -41,6 +41,22 @@ type PendingChart = {
   xKey?: string
   yKey?: string
   createdAt?: string
+  reportSpec?: ChartNarrativeSpec
+}
+type ChartNarrativeSpec = {
+  headline?: string
+  subheadline?: string
+  executiveSummary?: string
+  insights?: string[]
+  recommendedActions?: string[]
+  layout?: {
+    preferredChartType?: 'pie' | 'bar' | 'line'
+    maxCategories?: number
+    xLabelMaxLength?: number
+    showSliceLabels?: boolean
+    aggregateSmallSlices?: boolean
+    sortDescending?: boolean
+  }
 }
 type ChatMessage = { role: 'user' | 'assistant' | 'tool'; content: string }
 type MapAction = {
@@ -72,7 +88,7 @@ type CalendarEventLite = {
 }
 
 const pendingChartByUser: Record<string, PendingChart> = {}
-const EXPORT_FONT_FAMILY = 'sans-serif'
+const EXPORT_FONT_FAMILY = '"DejaVu Sans","Liberation Sans","Arial","Helvetica",sans-serif'
 
 const openai = process.env.OPENAI_API_KEY ? new OpenAI({ apiKey: process.env.OPENAI_API_KEY }) : null
 
@@ -188,6 +204,93 @@ function normalizeExportLabel(value: string, fallback = 'Polozka') {
   return normalized || fallback
 }
 
+function getChartLayoutHints(chart: PendingChart) {
+  const raw = chart.reportSpec?.layout
+  return {
+    preferredChartType: raw?.preferredChartType,
+    maxCategories: typeof raw?.maxCategories === 'number' && Number.isFinite(raw.maxCategories) ? Math.max(3, Math.min(12, Math.round(raw.maxCategories))) : chart.type === 'pie' ? 8 : 24,
+    xLabelMaxLength: typeof raw?.xLabelMaxLength === 'number' && Number.isFinite(raw.xLabelMaxLength) ? Math.max(8, Math.min(28, Math.round(raw.xLabelMaxLength))) : chart.type === 'pie' ? 18 : 16,
+    showSliceLabels: typeof raw?.showSliceLabels === 'boolean' ? raw.showSliceLabels : chart.type === 'pie',
+    aggregateSmallSlices: typeof raw?.aggregateSmallSlices === 'boolean' ? raw.aggregateSmallSlices : chart.type === 'pie',
+    sortDescending: typeof raw?.sortDescending === 'boolean' ? raw.sortDescending : true,
+  }
+}
+
+function applyNarrativeLayout(chart: PendingChart) {
+  const hints = getChartLayoutHints(chart)
+  if (hints.preferredChartType && hints.preferredChartType !== chart.type) {
+    return {
+      ...chart,
+      type: hints.preferredChartType,
+    }
+  }
+  return chart
+}
+
+function extractEmailAddressesFromText(value: string) {
+  return Array.from(
+    new Set(
+      (value.match(/[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/gi) || []).map((email) => email.trim())
+    )
+  )
+}
+
+function findMostRecentEmailAddress(message: string, history: ChatMessage[] = []) {
+  const current = extractEmailAddressesFromText(message)
+  if (current.length > 0) return current[0]
+
+  for (let index = history.length - 1; index >= 0; index -= 1) {
+    const emails = extractEmailAddressesFromText(history[index]?.content || '')
+    if (emails.length > 0) return emails[0]
+  }
+
+  return null
+}
+
+function buildAttachmentFlags(parsedArgs: Record<string, any>) {
+  const hasExplicitAttachmentSelection =
+    typeof parsedArgs.includeJpeg === 'boolean' ||
+    typeof parsedArgs.includeCsv === 'boolean' ||
+    typeof parsedArgs.includePresentation === 'boolean' ||
+    typeof parsedArgs.includePptx === 'boolean' ||
+    typeof parsedArgs.includePdf === 'boolean' ||
+    typeof parsedArgs.includeSvg === 'boolean' ||
+    typeof parsedArgs.includeHtmlReport === 'boolean'
+
+  return {
+    includeHtmlReport: hasExplicitAttachmentSelection ? Boolean(parsedArgs.includeHtmlReport) : true,
+    includeSvg: hasExplicitAttachmentSelection ? Boolean(parsedArgs.includeSvg) : true,
+    includeJpeg: typeof parsedArgs.includeJpeg === 'boolean' ? Boolean(parsedArgs.includeJpeg) : !hasExplicitAttachmentSelection,
+    includeCsv: Boolean(parsedArgs.includeCsv),
+    includePresentation: Boolean(parsedArgs.includePresentation),
+    includePptx: Boolean(parsedArgs.includePptx),
+    includePdf: Boolean(parsedArgs.includePdf),
+  }
+}
+
+function detectDirectDeliveryRequest(message: string, history: ChatMessage[] = []) {
+  const normalized = normalizeText(message)
+  const email = findMostRecentEmailAddress(message, history)
+  if (!email) return null
+  if (!/(posli|odesli|zasli|mail)/.test(normalized)) return null
+
+  if (normalized.includes('prezentac') && normalized.includes('klient')) {
+    return {
+      kind: 'clients-presentation' as const,
+      email,
+    }
+  }
+
+  if (normalized.includes('graf') && normalized.includes('nemovit') && (normalized.includes('mesto') || normalized.includes('mest'))) {
+    return {
+      kind: 'properties-by-city-chart' as const,
+      email,
+    }
+  }
+
+  return null
+}
+
 function polarToCartesian(cx: number, cy: number, radius: number, angleInDegrees: number) {
   const angleInRadians = ((angleInDegrees - 90) * Math.PI) / 180
   return {
@@ -207,29 +310,35 @@ function describePieSlice(cx: number, cy: number, radius: number, startAngle: nu
 function createPieChartSvg(chart: PendingChart) {
   const width = 720
   const height = 420
+  const layout = getChartLayoutHints(chart)
   const title = escapeXml(normalizeExportTitle(chart.title || 'Graf'))
   const description = escapeXml(normalizeExportLabel(chart.description || 'Vygenerovano z dat v aplikaci', 'Prehled dat'))
   const colors = ['#2563eb', '#14b8a6', '#f59e0b', '#ef4444', '#8b5cf6', '#06b6d4']
   let items = chart.data
     .map((item) => ({
-      name: normalizeExportLabel(truncateLabel(String((item as any).name ?? 'Unknown'), 18), 'Polozka'),
+      name: normalizeExportLabel(truncateLabel(String((item as any).name ?? 'Unknown'), layout.xLabelMaxLength), 'Polozka'),
       value: Number((item as any).value || 0),
     }))
     .filter((item) => item.value >= 0)
 
-  if (items.length > 8) {
-    const sorted = [...items].sort((left, right) => right.value - left.value)
-    const primary = sorted.slice(0, 7)
-    const remainder = sorted.slice(7)
+  if (layout.sortDescending) {
+    items = [...items].sort((left, right) => right.value - left.value)
+  }
+
+  if (layout.aggregateSmallSlices && items.length > layout.maxCategories) {
+    const primary = items.slice(0, Math.max(1, layout.maxCategories - 1))
+    const remainder = items.slice(Math.max(1, layout.maxCategories - 1))
     const otherValue = remainder.reduce((sum, item) => sum + item.value, 0)
     items = otherValue > 0 ? [...primary, { name: 'Ostatni', value: otherValue }] : primary
+  } else if (items.length > layout.maxCategories) {
+    items = items.slice(0, layout.maxCategories)
   }
 
   const total = items.reduce((sum, item) => sum + item.value, 0)
 
   const slices: string[] = []
   const labels: string[] = []
-  const showSliceLabels = items.length <= 7
+  const showSliceLabels = layout.showSliceLabels && items.length <= layout.maxCategories
   let currentAngle = 0
 
   items.forEach((item, index) => {
@@ -279,10 +388,15 @@ function createPieChartSvg(chart: PendingChart) {
 function createCartesianChartSvg(chart: PendingChart) {
   const width = 820
   const height = 460
+  const layout = getChartLayoutHints(chart)
   const title = escapeXml(normalizeExportTitle(chart.title || 'Graf'))
   const description = escapeXml(normalizeExportLabel(chart.description || 'Vygenerovano z dat v aplikaci', 'Prehled dat'))
   const normalized = normalizeSeriesData(chart)
-  const rows = normalized.rows.slice(0, 24)
+  let rows = normalized.rows
+  if (layout.sortDescending && chart.type === 'bar') {
+    rows = [...rows].sort((left, right) => right.value - left.value)
+  }
+  rows = rows.slice(0, layout.maxCategories)
   const values = rows.map((row) => row.value)
   const maxValue = Math.max(...values, 1)
   const chartLeft = 70
@@ -328,7 +442,7 @@ function createCartesianChartSvg(chart: PendingChart) {
   const labels = points
     .map((point) => {
       const labelStep = rows.length > 10 ? Math.ceil(rows.length / 10) : 1
-      const safeLabel = escapeXml(normalizeExportLabel(truncateLabel(point.label, rows.length > 12 ? 12 : 18), 'Polozka'))
+      const safeLabel = escapeXml(normalizeExportLabel(truncateLabel(point.label, rows.length > 12 ? Math.min(layout.xLabelMaxLength, 12) : layout.xLabelMaxLength), 'Polozka'))
       const showXAxisLabel = points.length <= 10 || points.indexOf(point) % labelStep === 0
       return [
         showXAxisLabel
@@ -354,11 +468,11 @@ function createCartesianChartSvg(chart: PendingChart) {
 }
 
 function getChartHeadline(chart: PendingChart) {
-  return chart.title || 'Datový přehled'
+  return chart.reportSpec?.headline || chart.title || 'Datový přehled'
 }
 
 function getChartSubheadline(chart: PendingChart) {
-  return chart.description || 'Automaticky vygenerovaný přehled nad firemními daty.'
+  return chart.reportSpec?.subheadline || chart.description || 'Automaticky vygenerovaný přehled nad firemními daty.'
 }
 
 function getTopChartRows(chart: PendingChart, limit = 5) {
@@ -408,6 +522,10 @@ function getChartKpiSummary(chart: PendingChart) {
 }
 
 function createExecutiveInsights(chart: PendingChart) {
+  if (Array.isArray(chart.reportSpec?.insights) && chart.reportSpec!.insights!.length > 0) {
+    return chart.reportSpec!.insights!.slice(0, 4)
+  }
+
   const summary = getChartKpiSummary(chart)
   const topRows = getTopChartRows(chart, 4)
   const topShare = summary.top && summary.total > 0 ? Math.round((summary.top.value / summary.total) * 100) : 0
@@ -432,6 +550,10 @@ function createExecutiveInsights(chart: PendingChart) {
 }
 
 function createRecommendedActions(chart: PendingChart) {
+  if (Array.isArray(chart.reportSpec?.recommendedActions) && chart.reportSpec!.recommendedActions!.length > 0) {
+    return chart.reportSpec!.recommendedActions!.slice(0, 4)
+  }
+
   const summary = getChartKpiSummary(chart)
   const actions: string[] = []
 
@@ -443,6 +565,257 @@ function createRecommendedActions(chart: PendingChart) {
   actions.push('Použít stejné seskupení i v navazujícím reportu za delší časové období pro porovnání trendu.')
 
   return actions
+}
+
+async function createChartNarrativeSpec(chart: PendingChart): Promise<ChartNarrativeSpec | null> {
+  if (!openai) return null
+
+  try {
+    const summaryRows = getTopChartRows(chart, 8)
+    const payload = {
+      title: chart.title || 'Datový přehled',
+      description: chart.description || '',
+      type: chart.type,
+      topRows: summaryRows,
+      totals: getChartKpiSummary(chart),
+    }
+
+    const completion = await openai.chat.completions.create({
+      model: 'gpt-4o-mini',
+      response_format: { type: 'json_object' },
+      messages: [
+        {
+          role: 'system',
+          content:
+            'You create concise executive report specs in Czech for business charts. Return valid JSON only with keys headline, subheadline, executiveSummary, insights, recommendedActions, layout. Keep headline short. Return 3 insights and 3 recommendedActions max. layout may contain preferredChartType, maxCategories, xLabelMaxLength, showSliceLabels, aggregateSmallSlices, sortDescending. Prefer bar charts for many categories such as cities. Do not use markdown.',
+        },
+        {
+          role: 'user',
+          content: `Vytvoř executive spec pro tento graf: ${JSON.stringify(payload)}`,
+        },
+      ],
+      max_tokens: 500,
+    })
+
+    const raw = completion.choices[0]?.message?.content || '{}'
+    const parsed = JSON.parse(raw)
+    return {
+      headline: typeof parsed.headline === 'string' ? parsed.headline.trim() : undefined,
+      subheadline: typeof parsed.subheadline === 'string' ? parsed.subheadline.trim() : undefined,
+      executiveSummary: typeof parsed.executiveSummary === 'string' ? parsed.executiveSummary.trim() : undefined,
+      insights: Array.isArray(parsed.insights) ? parsed.insights.map((item: any) => String(item).trim()).filter(Boolean).slice(0, 4) : undefined,
+      recommendedActions: Array.isArray(parsed.recommendedActions)
+        ? parsed.recommendedActions.map((item: any) => String(item).trim()).filter(Boolean).slice(0, 4)
+        : undefined,
+      layout:
+        parsed.layout && typeof parsed.layout === 'object'
+          ? {
+              preferredChartType: ['pie', 'bar', 'line'].includes(String(parsed.layout.preferredChartType)) ? parsed.layout.preferredChartType : undefined,
+              maxCategories: typeof parsed.layout.maxCategories === 'number' ? parsed.layout.maxCategories : undefined,
+              xLabelMaxLength: typeof parsed.layout.xLabelMaxLength === 'number' ? parsed.layout.xLabelMaxLength : undefined,
+              showSliceLabels: typeof parsed.layout.showSliceLabels === 'boolean' ? parsed.layout.showSliceLabels : undefined,
+              aggregateSmallSlices: typeof parsed.layout.aggregateSmallSlices === 'boolean' ? parsed.layout.aggregateSmallSlices : undefined,
+              sortDescending: typeof parsed.layout.sortDescending === 'boolean' ? parsed.layout.sortDescending : undefined,
+            }
+          : undefined,
+    }
+  } catch (error) {
+    console.log('Failed to create chart narrative spec:', error)
+    return null
+  }
+}
+
+function normalizeChartGrouping(dataSource: 'clients' | 'properties' | 'leads' | 'deals', requested?: string | null) {
+  const value = normalizeText(requested || '')
+
+  if (!value) {
+    if (dataSource === 'properties') return 'city'
+    if (dataSource === 'clients') return 'source'
+    if (dataSource === 'leads') return 'source_channel'
+    return 'stage'
+  }
+
+  if (value.includes('mesto') || value === 'city') return 'city'
+  if (value.includes('lokalit') || value === 'locality') return 'locality'
+  if (value.includes('typ') || value.includes('type') || value === 'property_type') return 'property_type'
+  if (value.includes('stav') || value === 'status') return 'status'
+  if (value.includes('zdroj') || value === 'source') return dataSource === 'leads' ? 'source_channel' : 'source'
+  if (value.includes('owner') || value.includes('vlastnik')) return 'owner'
+  if (value.includes('stage')) return 'stage'
+
+  return requested || (dataSource === 'properties' ? 'city' : dataSource === 'clients' ? 'source' : dataSource === 'leads' ? 'source_channel' : 'stage')
+}
+
+function cleanChartGroupingLabel(value: any, groupBy: string) {
+  const raw = String(value ?? '').trim()
+  if (!raw) return 'Neuvedeno'
+
+  let cleaned = raw
+    .replace(/^\s*\d+\s*m²\s+/i, '')
+    .replace(/^\s*pozemek\s+\d+\s*m²\s+/i, '')
+    .replace(/^\s*(prodej|pronajem)\s+/i, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+
+  if (groupBy === 'city') {
+    cleaned = cleaned.replace(/^\d+\s*m²\s+/i, '').trim()
+    if (cleaned.includes(',')) {
+      const parts = cleaned.split(',').map((part) => part.trim()).filter(Boolean)
+      cleaned = parts[parts.length - 1] || cleaned
+    }
+    if (cleaned.includes(' - ')) {
+      cleaned = cleaned.split(' - ')[0].trim()
+    }
+  }
+
+  return cleaned || 'Neuvedeno'
+}
+
+async function buildDatabaseChart(params: {
+  dataSource: 'clients' | 'properties' | 'leads' | 'deals'
+  groupBy?: string
+  chartType?: 'pie' | 'bar' | 'line'
+  title?: string
+  description?: string
+}): Promise<PendingChart> {
+  const dataSource = params.dataSource
+  const chartType = params.chartType || 'bar'
+  const groupBy = normalizeChartGrouping(dataSource, params.groupBy)
+
+  const table = dataSource
+  const selectColumns =
+    dataSource === 'properties'
+      ? `${groupBy},created_at`
+      : dataSource === 'clients'
+        ? `${groupBy},created_at`
+        : dataSource === 'leads'
+          ? `${groupBy},created_at`
+          : `${groupBy},closed_at,created_at`
+
+  const { data, error } = await supabase.from(table).select(selectColumns)
+  if (error) throw new Error(error.message)
+
+  const grouped = new Map<string, number>()
+  ;(data || []).forEach((row: any) => {
+    const label = cleanChartGroupingLabel(row[groupBy], groupBy)
+    grouped.set(label, (grouped.get(label) || 0) + 1)
+  })
+
+  const chartRows = Array.from(grouped.entries())
+    .map(([name, value]) => ({ name, value }))
+    .sort((left, right) => right.value - left.value)
+
+  const defaultTitle =
+    dataSource === 'properties'
+      ? `Nemovitosti podle ${groupBy === 'city' ? 'města' : groupBy === 'locality' ? 'lokality' : groupBy === 'property_type' ? 'typu' : groupBy}`
+      : dataSource === 'clients'
+        ? `Klienti podle ${groupBy === 'source' ? 'zdroje' : groupBy}`
+        : dataSource === 'leads'
+          ? `Leady podle ${groupBy === 'source_channel' ? 'zdroje' : groupBy}`
+          : `Dealy podle ${groupBy}`
+
+  const defaultDescription =
+    dataSource === 'properties'
+      ? `Rozdělení nemovitostí podle pole ${groupBy}.`
+      : `Rozdělení ${dataSource} podle pole ${groupBy}.`
+
+  return {
+    type: chartType,
+    title: params.title || defaultTitle,
+    description: params.description || defaultDescription,
+    createdAt: new Date().toISOString(),
+    data: chartRows,
+  }
+}
+
+async function sendPreparedChartEmail(
+  userId: string,
+  chart: PendingChart,
+  parsedArgs: Record<string, any>
+) {
+  const chartTitle = chart.title || 'Vygenerovaný graf'
+  const chartFilenameBase = getChartAttachmentBaseName(chart)
+  const chartEmailBody = [
+    parsedArgs.body || `V příloze posílám výstup z ${REPORT_BRAND_NAME}: ${chartTitle}.`,
+    '',
+    summarizeChart(chart),
+  ].join('\n')
+  const chartEmailHtml = createChartEmailHtml(chart, parsedArgs.body)
+  const {
+    includeHtmlReport,
+    includeSvg,
+    includeJpeg,
+    includeCsv,
+    includePresentation,
+    includePptx,
+    includePdf,
+  } = buildAttachmentFlags(parsedArgs)
+
+  const chartAttachments: EmailAttachment[] = []
+
+  if (includeHtmlReport) {
+    chartAttachments.push({
+      filename: `${chartFilenameBase}-report.html`,
+      contentType: 'text/html; charset=UTF-8',
+      content: createChartAttachmentHtml(chart),
+    })
+  }
+  if (includeSvg) {
+    chartAttachments.push({
+      filename: `${chartFilenameBase}.svg`,
+      contentType: 'image/svg+xml',
+      content: createChartSvg(chart),
+    })
+  }
+  if (includeJpeg) {
+    chartAttachments.push({
+      filename: `${chartFilenameBase}.jpg`,
+      contentType: 'image/jpeg',
+      content: await createChartJpegBase64(chart),
+      encoding: 'base64',
+    })
+  }
+  if (includePdf) {
+    chartAttachments.push({
+      filename: `${chartFilenameBase}-report.pdf`,
+      contentType: 'application/pdf',
+      content: await createChartPdfBase64(chart),
+      encoding: 'base64',
+    })
+  }
+  if (includeCsv) {
+    chartAttachments.push({
+      filename: `${chartFilenameBase}.csv`,
+      contentType: 'text/csv; charset=UTF-8',
+      content: createChartCsv(chart),
+    })
+  }
+  if (includePresentation) {
+    chartAttachments.push({
+      filename: `${chartFilenameBase}-prezentace.html`,
+      contentType: 'text/html; charset=UTF-8',
+      content: createPresentationHtml(chart),
+    })
+  }
+  if (includePptx) {
+    chartAttachments.push({
+      filename: `${chartFilenameBase}-prezentace.pptx`,
+      contentType: 'application/vnd.openxmlformats-officedocument.presentationml.presentation',
+      content: await createPresentationPptxBase64(chart),
+      encoding: 'base64',
+    })
+  }
+
+  pendingChartByUser[userId] = chart
+  const chartMailResult = await send_email(
+    parsedArgs.to,
+    parsedArgs.subject || `${REPORT_BRAND_NAME}: ${chartTitle}`,
+    chartEmailBody,
+    chartEmailHtml,
+    chartAttachments
+  )
+  delete pendingChartByUser[userId]
+  return chartMailResult
 }
 
 function createChartDataTableHtml(chart: PendingChart, limit = 10) {
@@ -759,11 +1132,13 @@ function createChartEmailHtml(chart: PendingChart, body?: string | null) {
 }
 
 function createChartSvg(chart: PendingChart) {
-  if (chart.type === 'pie') {
-    return createPieChartSvg(chart)
+  const layoutChart = applyNarrativeLayout(chart)
+
+  if (layoutChart.type === 'pie') {
+    return createPieChartSvg(layoutChart)
   }
 
-  return createCartesianChartSvg(chart)
+  return createCartesianChartSvg(layoutChart)
 }
 
 function isMapToolResult(result: any): result is { mapAction: MapAction } {
@@ -2043,6 +2418,34 @@ const tools: any[] = [
   {
     type: "function",
     function: {
+      name: "create_and_send_chart_email",
+      description: "Create a chart directly from database data and send it immediately by email in the requested format. Prefer this over chaining create_chart + send_chart_email when the user asks to create and send a chart or presentation in one step.",
+      parameters: {
+        type: "object",
+        properties: {
+          to: { type: "string", description: "Recipient email address" },
+          data_source: { type: "string", enum: ["clients", "properties", "leads", "deals"] },
+          group_by: { type: "string", description: "Grouping field such as city, property_type, locality, status, source, source_channel, or stage" },
+          chart_type: { type: "string", enum: ["pie", "bar", "line"], description: "Chart type. Defaults to bar." },
+          title: { type: "string", description: "Optional custom chart title" },
+          description: { type: "string", description: "Optional custom chart description" },
+          subject: { type: "string", description: "Optional email subject" },
+          body: { type: "string", description: "Optional email body" },
+          includePresentation: { type: "boolean" },
+          includePptx: { type: "boolean" },
+          includePdf: { type: "boolean" },
+          includeCsv: { type: "boolean" },
+          includeSvg: { type: "boolean" },
+          includeHtmlReport: { type: "boolean" },
+          includeJpeg: { type: "boolean" }
+        },
+        required: ["to", "data_source"]
+      }
+    }
+  },
+  {
+    type: "function",
+    function: {
       name: "create_calendar_event",
       description: "Create an event in Google Calendar",
       parameters: {
@@ -3111,94 +3514,22 @@ async function executeTool(toolCall: any) {
       if (!chart) {
         throw new Error('Žádný připravený graf k odeslání nemám. Nejdříve vytvoř graf.')
       }
-      const chartTitle = chart.title || 'Vygenerovaný graf'
-      const chartFilenameBase = getChartAttachmentBaseName(chart)
-      const chartEmailBody = [
-        parsedArgs.body || `V příloze posílám výstup z ${REPORT_BRAND_NAME}: ${chartTitle}.`,
-        '',
-        summarizeChart(chart),
-      ].join('\n')
-      const chartEmailHtml = createChartEmailHtml(chart, parsedArgs.body)
-      const hasExplicitAttachmentSelection =
-        typeof parsedArgs.includeJpeg === 'boolean' ||
-        typeof parsedArgs.includeCsv === 'boolean' ||
-        typeof parsedArgs.includePresentation === 'boolean' ||
-        typeof parsedArgs.includePptx === 'boolean' ||
-        typeof parsedArgs.includePdf === 'boolean' ||
-        typeof parsedArgs.includeSvg === 'boolean' ||
-        typeof parsedArgs.includeHtmlReport === 'boolean'
+      chart.reportSpec = chart.reportSpec || (await createChartNarrativeSpec(chart)) || undefined
+      return await sendPreparedChartEmail(userId, chart, parsedArgs)
+    case 'create_and_send_chart_email':
+      const preferredChartType =
+        parsedArgs.chart_type ||
+        (parsedArgs.group_by === 'city' || parsedArgs.group_by === 'locality' || parsedArgs.includePptx || parsedArgs.includeJpeg ? 'bar' : 'pie')
 
-      const includeHtmlReport = hasExplicitAttachmentSelection ? Boolean(parsedArgs.includeHtmlReport) : true
-      const includeSvg = hasExplicitAttachmentSelection ? Boolean(parsedArgs.includeSvg) : true
-      const includeJpeg = Boolean(parsedArgs.includeJpeg)
-      const includeCsv = Boolean(parsedArgs.includeCsv)
-      const includePresentation = Boolean(parsedArgs.includePresentation)
-      const includePptx = Boolean(parsedArgs.includePptx)
-      const includePdf = Boolean(parsedArgs.includePdf)
-
-      const chartAttachments: EmailAttachment[] = []
-
-      if (includeHtmlReport) {
-        chartAttachments.push({
-          filename: `${chartFilenameBase}-report.html`,
-          contentType: 'text/html; charset=UTF-8',
-          content: createChartAttachmentHtml(chart),
-        })
-      }
-      if (includeSvg) {
-        chartAttachments.push({
-          filename: `${chartFilenameBase}.svg`,
-          contentType: 'image/svg+xml',
-          content: createChartSvg(chart),
-        })
-      }
-      if (includeJpeg) {
-        chartAttachments.push({
-          filename: `${chartFilenameBase}.jpg`,
-          contentType: 'image/jpeg',
-          content: await createChartJpegBase64(chart),
-          encoding: 'base64',
-        })
-      }
-      if (includePdf) {
-        chartAttachments.push({
-          filename: `${chartFilenameBase}-report.pdf`,
-          contentType: 'application/pdf',
-          content: await createChartPdfBase64(chart),
-          encoding: 'base64',
-        })
-      }
-      if (includeCsv) {
-        chartAttachments.push({
-          filename: `${chartFilenameBase}.csv`,
-          contentType: 'text/csv; charset=UTF-8',
-          content: createChartCsv(chart),
-        })
-      }
-      if (includePresentation) {
-        chartAttachments.push({
-          filename: `${chartFilenameBase}-prezentace.html`,
-          contentType: 'text/html; charset=UTF-8',
-          content: createPresentationHtml(chart),
-        })
-      }
-      if (includePptx) {
-        chartAttachments.push({
-          filename: `${chartFilenameBase}-prezentace.pptx`,
-          contentType: 'application/vnd.openxmlformats-officedocument.presentationml.presentation',
-          content: await createPresentationPptxBase64(chart),
-          encoding: 'base64',
-        })
-      }
-      const chartMailResult = await send_email(
-        parsedArgs.to,
-        parsedArgs.subject || `${REPORT_BRAND_NAME}: ${chartTitle}`,
-        chartEmailBody,
-        chartEmailHtml,
-        chartAttachments
-      )
-      delete pendingChartByUser[userId]
-      return chartMailResult
+      const builtChart = await buildDatabaseChart({
+        dataSource: parsedArgs.data_source,
+        groupBy: parsedArgs.group_by,
+        chartType: preferredChartType,
+        title: parsedArgs.title,
+        description: parsedArgs.description,
+      })
+      builtChart.reportSpec = (await createChartNarrativeSpec(builtChart)) || undefined
+      return await sendPreparedChartEmail(userId, builtChart, parsedArgs)
     case 'create_calendar_event':
       return await create_calendar_event(parsedArgs.summary, parsedArgs.start, parsedArgs.end, parsedArgs.description, parsedArgs.attendeeEmails)
     case 'update_calendar_event':
@@ -3245,6 +3576,9 @@ async function executeTool(toolCall: any) {
 export async function POST(request: NextRequest) {
   try {
     const { message, context, messages: conversationHistory } = await request.json()
+    const normalizedHistory: ChatMessage[] = Array.isArray(conversationHistory)
+      ? conversationHistory.filter((entry: ChatMessage) => entry && (entry.role === 'user' || entry.role === 'assistant'))
+      : []
 
     // Log (don't fail if this fails)
     try {
@@ -3255,6 +3589,73 @@ export async function POST(request: NextRequest) {
       })
     } catch (logError) {
       console.log('Failed to log:', logError)
+    }
+
+    const directDeliveryRequest = detectDirectDeliveryRequest(message, normalizedHistory)
+    if (directDeliveryRequest) {
+      const userId = process.env.SESSION_USER_ID || 'default-user'
+
+      if (directDeliveryRequest.kind === 'properties-by-city-chart') {
+        const chart = await buildDatabaseChart({
+          dataSource: 'properties',
+          groupBy: 'city',
+          chartType: 'bar',
+          title: 'Nemovitosti podle města',
+          description: 'Rozdělení nemovitostí podle města.',
+        })
+        chart.reportSpec = (await createChartNarrativeSpec(chart)) || undefined
+
+        const emailResult = await sendPreparedChartEmail(userId, chart, {
+          to: directDeliveryRequest.email,
+          includeJpeg: true,
+          includeSvg: false,
+          includeHtmlReport: false,
+          includePresentation: false,
+          includePptx: false,
+          includePdf: false,
+          includeCsv: false,
+          subject: 'Graf nemovitostí podle města',
+        })
+
+        return NextResponse.json({
+          response: `Graf nemovitostí podle města jsem rovnou odeslal na ${directDeliveryRequest.email} jako JPEG přílohu.`,
+          chart,
+          mapAction: null,
+          dataAction: null,
+          emailResult,
+        })
+      }
+
+      if (directDeliveryRequest.kind === 'clients-presentation') {
+        const chart = await buildDatabaseChart({
+          dataSource: 'clients',
+          groupBy: 'source',
+          chartType: 'bar',
+          title: 'Klienti podle zdroje',
+          description: 'Přehled klientů podle zdroje akvizice.',
+        })
+        chart.reportSpec = (await createChartNarrativeSpec(chart)) || undefined
+
+        const emailResult = await sendPreparedChartEmail(userId, chart, {
+          to: directDeliveryRequest.email,
+          includeJpeg: false,
+          includeSvg: false,
+          includeHtmlReport: false,
+          includePresentation: false,
+          includePptx: true,
+          includePdf: false,
+          includeCsv: false,
+          subject: 'Třístránková prezentace o klientech',
+        })
+
+        return NextResponse.json({
+          response: `Třístránkovou prezentaci s daty o klientech jsem rovnou odeslal na ${directDeliveryRequest.email} jako PPTX přílohu.`,
+          chart,
+          mapAction: null,
+          dataAction: null,
+          emailResult,
+        })
+      }
     }
 
     let response = ''
@@ -3341,12 +3742,18 @@ IMPORTANT GUIDELINES:
 - Default behavior is to create drafts for review
 - When the user asks to schedule or automate recurring email sending, create a workflow with create_scheduled_email_workflow instead of sending the email immediately.
 - When the user wants to send a generated chart by email, use send_chart_email. If they ask for a simple HTML presentation, set includePresentation=true. If they ask for a real PowerPoint, set includePptx=true. If they ask for a PDF report, set includePdf=true.
+- If the user asks to create and send a chart or presentation in one request, prefer create_and_send_chart_email instead of promising that you will do it later.
 - If the user asks for chart data as a table or attachment, set includeCsv=true so the email also contains a CSV export of the chart data.
 - If the user asks for exactly three presentation slides, the PPTX export should be the preferred choice when they ask for PowerPoint, otherwise the HTML presentation already uses a 3-slide layout.
 - If the user asks for the chart as an image or JPEG attachment, set includeJpeg=true.
 - If the user explicitly asks for only one attachment format, send only that format and do not add extra chart attachments unless requested.
 - If the user asks in one message to create a chart and send it by email, do both in the same turn. Do not ask a follow-up question about formats unless the request is ambiguous.
 - If the user asks to create and send a chart but does not specify a format, default to includeJpeg=true and send it immediately.
+- If the user asks for a three-slide presentation about clients and does not specify grouping, default to data_source=clients, group_by=source, chart_type=bar, includePptx=true and send it in the same turn.
+- If the user asks for properties by city, use group_by=city and never use created_at or month as the grouping field.
+- If the user asks for a graph of properties by city for email export, prefer a bar chart over a pie chart because it is more readable.
+- If the user says "na stejný mail", reuse the most recently mentioned email address from the conversation and send the requested attachment in the same turn.
+- Never say that you are about to send a chart or presentation later. Either execute the send tool in this turn or explain the exact concrete failure.
 - When the user asks for recurring monitoring of real-estate portals or "nové nabídky z webů", create a market watch workflow with create_market_watch_workflow instead of pretending that a generic email workflow can fetch those sites.
 - If the user asks for "poslední", "nejnovější", or a direct one-time question about current listings on Sreality or Bezrealitky, use get_market_listings instead of creating a workflow.
 - If the user asks "kolik je momentálně ..." for listings on Sreality or Bezrealitky, use get_market_listing_count.
