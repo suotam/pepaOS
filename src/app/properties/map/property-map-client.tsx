@@ -12,6 +12,7 @@ import {
 import L from 'leaflet'
 import Supercluster from 'supercluster'
 import type { MapProperty, PropertyMapFilters } from '../../../lib/property-map'
+import { AppStateCard, AppStateInline } from '../../components/AppStateCard'
 
 type PropertyMapResponse = {
   properties: MapProperty[]
@@ -600,8 +601,8 @@ export default function PropertyMapClient() {
             onWheelCapture={(event) => event.stopPropagation()}
             onWheel={(event) => event.stopPropagation()}
           >
-            {loading ? <div className="text-sm text-gray-500">Načítám nemovitosti…</div> : null}
-            {error ? <div className="rounded-lg border border-red-200 bg-red-50 p-3 text-sm text-red-700">{error}</div> : null}
+            {loading ? <AppStateInline>Načítám nemovitosti pro aktuální mapový výřez…</AppStateInline> : null}
+            {error ? <AppStateCard compact tone="error" eyebrow="Mapa" title="Mapu se nepodařilo načíst." description={error} /> : null}
 
             <div className="space-y-3">
               {properties.map((property) => (
@@ -615,9 +616,12 @@ export default function PropertyMapClient() {
             </div>
 
             {!loading && properties.length === 0 ? (
-              <div className="rounded-lg border border-dashed border-gray-300 bg-white px-4 py-6 text-sm text-gray-500">
-                Pro zadané filtry ani aktuální výřez mapy jsme nenašli žádné nemovitosti.
-              </div>
+              <AppStateCard
+                compact
+                eyebrow="Prázdný výřez"
+                title="Pro zadané filtry ani aktuální výřez mapy jsme nenašli žádné nemovitosti."
+                description="Zkus upravit filtry, posunout mapu nebo resetovat výběr."
+              />
             ) : null}
           </div>
 

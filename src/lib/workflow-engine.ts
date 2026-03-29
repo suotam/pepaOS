@@ -231,6 +231,7 @@ export class WorkflowEngine {
         content_json: {
           workflowId: workflow.id,
           workflowName: workflow.name,
+          status: 'success',
           result,
           executedAt: new Date().toISOString(),
         },
@@ -259,6 +260,18 @@ export class WorkflowEngine {
           config_json: nextConfig,
         })
         .eq('id', workflowId)
+
+      await supabase.from('outputs').insert({
+        type: 'workflow_result',
+        title: `Workflow: ${workflow.name}`,
+        content_json: {
+          workflowId: workflow.id,
+          workflowName: workflow.name,
+          status: 'error',
+          error: error instanceof Error ? error.message : 'Unknown workflow error',
+          executedAt: new Date().toISOString(),
+        },
+      })
 
       throw error
     }

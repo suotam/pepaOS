@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import { AppStateCard, AppStateInline } from '../components/AppStateCard'
 
 type WorkflowRecord = {
   id: string
@@ -22,8 +23,43 @@ type WorkflowRecord = {
   last_error?: string | null
 }
 
+type WorkflowRunRecord = {
+  id: string
+  title: string | null
+  created_at: string
+  workflowId: string | null
+  workflowName: string | null
+  status: 'success' | 'error'
+  error?: string | null
+  result?: {
+    fetchedCount?: number
+    newCount?: number
+    storedCount?: number
+    storedPropertyCount?: number
+  } | null
+  executedAt: string
+}
+
+type WorkflowStats = {
+  total: number
+  active: number
+  paused: number
+  failed: number
+  running: number
+}
+
+const emptyStats: WorkflowStats = {
+  total: 0,
+  active: 0,
+  paused: 0,
+  failed: 0,
+  running: 0,
+}
+
 export default function WorkflowsPage() {
   const [workflows, setWorkflows] = useState<WorkflowRecord[]>([])
+  const [recentRuns, setRecentRuns] = useState<WorkflowRunRecord[]>([])
+  const [stats, setStats] = useState<WorkflowStats>(emptyStats)
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [successMessage, setSuccessMessage] = useState<string | null>(null)
@@ -60,7 +96,9 @@ export default function WorkflowsPage() {
     try {
       const { response, data } = await fetchJsonWithTimeout('/api/workflows', { cache: 'no-store' }, 10000)
       if (!response.ok) throw new Error(data.error || 'Nepodařilo se načíst workflow.')
-      setWorkflows(data)
+      setWorkflows(data.workflows || [])
+      setRecentRuns(data.recentRuns || [])
+      setStats(data.stats || emptyStats)
     } catch (loadError) {
       if (loadError instanceof Error && loadError.name === 'AbortError') {
         setError('Načtení workflow trvalo příliš dlouho. Zkuste obnovit stránku.')
@@ -260,67 +298,86 @@ export default function WorkflowsPage() {
 
   return (
     <div className="space-y-4">
-      <section className="rounded-2xl border border-gray-200 bg-white p-6">
-        <h1 className="text-2xl font-semibold text-gray-900">Workflow</h1>
-        <p className="mt-1 text-sm text-gray-600">
-          Plánované úlohy pro pravidelné odesílání e-mailů a další opakovatelné back office akce.
+      <section className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
+        <h1 className="text-2xl font-semibold text-slate-900 dark:text-slate-100">Workflow</h1>
+        <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">
+          Plánované úlohy pro pravidelné odesílání e-mailů, monitoring realitních serverů a další opakovatelné back office akce.
         </p>
       </section>
 
-      <section className="rounded-2xl border border-gray-200 bg-white p-6">
-        <h2 className="text-lg font-semibold text-gray-900">Nový plánovaný e-mail</h2>
+      <section className="grid gap-4 md:grid-cols-5">
+        {[
+          { label: 'Celkem', value: stats.total, tone: 'text-slate-900 dark:text-slate-100' },
+          { label: 'Aktivní', value: stats.active, tone: 'text-emerald-600 dark:text-emerald-400' },
+          { label: 'Běžící', value: stats.running, tone: 'text-sky-600 dark:text-sky-400' },
+          { label: 'Pozastavené', value: stats.paused, tone: 'text-amber-600 dark:text-amber-400' },
+          { label: 'S chybou', value: stats.failed, tone: 'text-rose-600 dark:text-rose-400' },
+        ].map((item) => (
+          <article
+            key={item.label}
+            className="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-950"
+          >
+            <p className="text-xs uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">{item.label}</p>
+            <p className={`mt-3 text-3xl font-semibold ${item.tone}`}>{item.value}</p>
+          </article>
+        ))}
+      </section>
+
+      <section className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
+        <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-100">Nový plánovaný e-mail</h2>
         <div className="mt-4 grid gap-4 md:grid-cols-2">
-          <input value={form.name} onChange={(event) => setForm((current) => ({ ...current, name: event.target.value }))} placeholder="Název workflow" className="rounded-xl border border-gray-300 px-4 py-2 text-sm" />
-          <input value={form.schedule} onChange={(event) => setForm((current) => ({ ...current, schedule: event.target.value }))} placeholder="Cron výraz, např. 0 9 * * *" className="rounded-xl border border-gray-300 px-4 py-2 text-sm" />
-          <input value={form.to} onChange={(event) => setForm((current) => ({ ...current, to: event.target.value }))} placeholder="Příjemce" className="rounded-xl border border-gray-300 px-4 py-2 text-sm" />
-          <input value={form.subject} onChange={(event) => setForm((current) => ({ ...current, subject: event.target.value }))} placeholder="Předmět" className="rounded-xl border border-gray-300 px-4 py-2 text-sm" />
-          <input value={form.description} onChange={(event) => setForm((current) => ({ ...current, description: event.target.value }))} placeholder="Popis workflow" className="rounded-xl border border-gray-300 px-4 py-2 text-sm md:col-span-2" />
-          <textarea value={form.body} onChange={(event) => setForm((current) => ({ ...current, body: event.target.value }))} rows={5} placeholder="Tělo e-mailu" className="rounded-xl border border-gray-300 px-4 py-2 text-sm md:col-span-2" />
+          <input value={form.name} onChange={(event) => setForm((current) => ({ ...current, name: event.target.value }))} placeholder="Název workflow" className="rounded-2xl border border-slate-300 bg-white px-4 py-2 text-sm dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100" />
+          <input value={form.schedule} onChange={(event) => setForm((current) => ({ ...current, schedule: event.target.value }))} placeholder="Cron výraz, např. 0 9 * * *" className="rounded-2xl border border-slate-300 bg-white px-4 py-2 text-sm dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100" />
+          <input value={form.to} onChange={(event) => setForm((current) => ({ ...current, to: event.target.value }))} placeholder="Příjemce" className="rounded-2xl border border-slate-300 bg-white px-4 py-2 text-sm dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100" />
+          <input value={form.subject} onChange={(event) => setForm((current) => ({ ...current, subject: event.target.value }))} placeholder="Předmět" className="rounded-2xl border border-slate-300 bg-white px-4 py-2 text-sm dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100" />
+          <input value={form.description} onChange={(event) => setForm((current) => ({ ...current, description: event.target.value }))} placeholder="Popis workflow" className="rounded-2xl border border-slate-300 bg-white px-4 py-2 text-sm md:col-span-2 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100" />
+          <textarea value={form.body} onChange={(event) => setForm((current) => ({ ...current, body: event.target.value }))} rows={5} placeholder="Tělo e-mailu" className="rounded-2xl border border-slate-300 bg-white px-4 py-2 text-sm md:col-span-2 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100" />
         </div>
         <div className="mt-4 flex items-center gap-3">
-          <button onClick={createWorkflow} disabled={creating} className="rounded-xl bg-blue-600 px-4 py-2 text-sm font-medium text-white disabled:opacity-50">
+          <button onClick={createWorkflow} disabled={creating} className="rounded-full bg-sky-500 px-4 py-2 text-sm font-medium text-sky-950 disabled:opacity-50 dark:bg-sky-400">
             {creating ? 'Vytvářím…' : 'Vytvořit workflow'}
           </button>
-          <span className="text-sm text-gray-500">Cron příklad: `0 9 * * *` znamená každý den v 9:00.</span>
+          <span className="text-sm text-slate-500 dark:text-slate-400">Cron příklad: `0 9 * * *` znamená každý den v 9:00.</span>
         </div>
       </section>
 
-      <section className="rounded-2xl border border-gray-200 bg-white p-6">
+      <section className="grid gap-4 xl:grid-cols-[minmax(0,1fr)_360px]">
+        <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
         <div className="mb-4 flex items-center justify-between">
-          <h2 className="text-lg font-semibold text-gray-900">Aktivní workflow</h2>
-          <button onClick={loadWorkflows} className="rounded-xl border border-gray-300 px-4 py-2 text-sm font-medium text-gray-700">
+          <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-100">Aktivní workflow</h2>
+          <button onClick={loadWorkflows} className="rounded-full border border-slate-300 px-4 py-2 text-sm font-medium text-slate-700 dark:border-slate-700 dark:text-slate-300">
             Obnovit
           </button>
         </div>
 
-        {actingLabel ? <p className="mb-4 text-sm text-blue-600">{actingLabel}</p> : null}
-        {successMessage ? <p className="mb-4 text-sm text-emerald-600">{successMessage}</p> : null}
+        {actingLabel ? <div className="mb-4"><AppStateInline>{actingLabel}</AppStateInline></div> : null}
+        {successMessage ? <div className="mb-4"><AppStateInline tone="success">{successMessage}</AppStateInline></div> : null}
 
         <div className="space-y-4">
           {workflows.map((workflow) => (
-            <article key={workflow.id} className="rounded-2xl border border-gray-200 p-4">
+            <article key={workflow.id} className="rounded-3xl border border-slate-200 p-4 dark:border-slate-800">
               <div className="flex flex-wrap items-start justify-between gap-4">
                 <div>
-                  <h3 className="text-base font-semibold text-gray-900">{workflow.name}</h3>
-                  <p className="mt-1 text-sm text-gray-600">{workflow.description || 'Bez popisu.'}</p>
-                  <div className="mt-2 flex flex-wrap gap-2 text-xs text-gray-500">
-                    <span className="rounded-full bg-gray-100 px-3 py-1">{workflow.type}</span>
-                    <span className="rounded-full bg-gray-100 px-3 py-1">Status: {workflow.status || 'unknown'}</span>
-                    <span className="rounded-full bg-gray-100 px-3 py-1">Cron: {workflow.schedule || 'bez plánu'}</span>
+                  <h3 className="text-base font-semibold text-slate-900 dark:text-slate-100">{workflow.name}</h3>
+                  <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">{workflow.description || 'Bez popisu.'}</p>
+                  <div className="mt-2 flex flex-wrap gap-2 text-xs text-slate-500 dark:text-slate-400">
+                    <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-slate-900">{workflow.type}</span>
+                    <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-slate-900">Status: {workflow.status || 'unknown'}</span>
+                    <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-slate-900">Cron: {workflow.schedule || 'bez plánu'}</span>
                   </div>
                 </div>
                 <div className="flex flex-wrap gap-2">
                   <button
                     onClick={() => runWorkflow(workflow.id)}
                     disabled={actingWorkflowId === workflow.id}
-                    className="rounded-xl bg-blue-600 px-3 py-2 text-sm font-medium text-white disabled:cursor-not-allowed disabled:opacity-60"
+                    className="rounded-full bg-sky-500 px-3 py-2 text-sm font-medium text-sky-950 disabled:cursor-not-allowed disabled:opacity-60 dark:bg-sky-400"
                   >
                     {actingWorkflowId === workflow.id && actingLabel?.includes('Spouštím') ? 'Spouštím…' : 'Spustit teď'}
                   </button>
                   <button
                     onClick={() => pauseOrResumeWorkflow(workflow)}
                     disabled={actingWorkflowId === workflow.id}
-                    className="rounded-xl border border-gray-300 px-3 py-2 text-sm font-medium text-gray-700 disabled:cursor-not-allowed disabled:opacity-60"
+                    className="rounded-full border border-slate-300 px-3 py-2 text-sm font-medium text-slate-700 disabled:cursor-not-allowed disabled:opacity-60 dark:border-slate-700 dark:text-slate-300"
                   >
                     {workflow.status === 'paused'
                       ? actingWorkflowId === workflow.id && actingLabel?.includes('Obnovuji')
@@ -333,7 +390,7 @@ export default function WorkflowsPage() {
                   <button
                     onClick={() => deleteWorkflow(workflow.id)}
                     disabled={actingWorkflowId === workflow.id}
-                    className="rounded-xl border border-red-200 px-3 py-2 text-sm font-medium text-red-600 disabled:cursor-not-allowed disabled:opacity-60"
+                    className="rounded-full border border-red-200 px-3 py-2 text-sm font-medium text-red-600 disabled:cursor-not-allowed disabled:opacity-60 dark:border-red-900/60 dark:text-red-400"
                   >
                     {actingWorkflowId === workflow.id && actingLabel?.includes('Mažu') ? 'Mažu…' : 'Smazat'}
                   </button>
@@ -350,15 +407,15 @@ export default function WorkflowsPage() {
                     }
                   }}
                   disabled={actingWorkflowId === workflow.id}
-                  className="rounded-xl border border-gray-300 px-4 py-2 text-sm"
+                  className="rounded-2xl border border-slate-300 bg-white px-4 py-2 text-sm dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100"
                 />
-                <div className="text-sm text-gray-500">
+                <div className="text-sm text-slate-500 dark:text-slate-400">
                   Poslední běh: {workflow.last_run ? new Date(workflow.last_run).toLocaleString('cs-CZ') : 'zatím nikdy'}
                 </div>
               </div>
 
               {workflow.task ? (
-                <div className="mt-4 rounded-xl bg-gray-50 p-4 text-sm text-gray-700">
+                <div className="mt-4 rounded-2xl bg-slate-50 p-4 text-sm text-slate-700 dark:bg-slate-900/70 dark:text-slate-300">
                   <p><strong>Komu:</strong> {workflow.task.to || '—'}</p>
                   <p className="mt-1"><strong>Předmět:</strong> {workflow.task.subject || '—'}</p>
                   {workflow.type === 'market_watch' ? (
@@ -373,15 +430,71 @@ export default function WorkflowsPage() {
                 </div>
               ) : null}
 
-              {workflow.last_error ? <p className="mt-3 text-sm text-red-600">{workflow.last_error}</p> : null}
+              {workflow.last_error ? <p className="mt-3 text-sm text-red-600 dark:text-red-400">{workflow.last_error}</p> : null}
             </article>
           ))}
           {!loading && workflows.length === 0 ? (
-            <p className="text-sm text-gray-500">Zatím tu nejsou žádná workflow.</p>
+            <AppStateCard
+              compact
+              eyebrow="Workflow"
+              title="Zatím tu nejsou žádná workflow."
+              description="Můžeš je zakládat ručně zde, nebo přirozeně přes AI chat."
+            />
           ) : null}
-          {loading ? <p className="text-sm text-gray-500">Načítám workflow…</p> : null}
-          {error ? <p className="text-sm text-red-600">{error}</p> : null}
+          {loading ? <AppStateInline>Načítám workflow a provozní historii…</AppStateInline> : null}
+          {error ? <AppStateCard tone="error" compact eyebrow="Chyba" title="Workflow se nepodařilo načíst." description={error} /> : null}
         </div>
+        </div>
+
+        <aside className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
+          <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-100">Poslední běhy</h2>
+          <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
+            Krátká provozní historie pro kontrolu, co doběhlo a co spadlo.
+          </p>
+          <div className="mt-4 space-y-3">
+            {recentRuns.map((run) => (
+              <article key={run.id} className="rounded-2xl border border-slate-200 p-4 dark:border-slate-800">
+                <div className="flex items-start justify-between gap-3">
+                  <div>
+                    <p className="text-sm font-semibold text-slate-900 dark:text-slate-100">{run.workflowName || run.title || 'Workflow run'}</p>
+                    <p className="mt-1 text-xs text-slate-500 dark:text-slate-400">
+                      {new Date(run.executedAt).toLocaleString('cs-CZ')}
+                    </p>
+                  </div>
+                  <span
+                    className={`rounded-full px-3 py-1 text-xs font-medium ${
+                      run.status === 'success'
+                        ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-950/40 dark:text-emerald-300'
+                        : 'bg-rose-100 text-rose-700 dark:bg-rose-950/40 dark:text-rose-300'
+                    }`}
+                  >
+                    {run.status === 'success' ? 'OK' : 'Chyba'}
+                  </span>
+                </div>
+
+                {run.result ? (
+                  <div className="mt-3 grid grid-cols-2 gap-2 text-xs text-slate-600 dark:text-slate-400">
+                    {typeof run.result.fetchedCount === 'number' ? <span>Načteno: {run.result.fetchedCount}</span> : null}
+                    {typeof run.result.newCount === 'number' ? <span>Nové: {run.result.newCount}</span> : null}
+                    {typeof run.result.storedCount === 'number' ? <span>Uloženo: {run.result.storedCount}</span> : null}
+                    {typeof run.result.storedPropertyCount === 'number' ? <span>Nemovitosti: {run.result.storedPropertyCount}</span> : null}
+                  </div>
+                ) : null}
+
+                {run.error ? <p className="mt-3 text-xs text-red-600 dark:text-red-400">{run.error}</p> : null}
+              </article>
+            ))}
+
+            {recentRuns.length === 0 ? (
+              <AppStateCard
+                compact
+                eyebrow="Historie"
+                title="Zatím tu není žádná historie běhů."
+                description="Jakmile workflow jednou doběhne, objeví se zde stručný provozní log."
+              />
+            ) : null}
+          </div>
+        </aside>
       </section>
     </div>
   )

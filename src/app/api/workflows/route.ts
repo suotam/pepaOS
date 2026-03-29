@@ -18,17 +18,50 @@ function buildWorkflowDescription(description: string | undefined, to: string, s
 
 export async function GET() {
   try {
-    const { data, error } = await supabase.from('workflows').select('*').order('name', { ascending: true })
+    const [{ data, error }, { data: outputs, error: outputsError }] = await Promise.all([
+      supabase.from('workflows').select('*').order('name', { ascending: true }),
+      supabase
+        .from('outputs')
+        .select('*')
+        .eq('type', 'workflow_result')
+        .order('created_at', { ascending: false })
+        .limit(24),
+    ])
     if (error) throw error
+    if (outputsError) throw outputsError
+
+    const normalizedWorkflows = (data || []).map((workflow: any) => ({
+      ...workflow,
+      description: workflow.config_json?.description || '',
+      task: workflow.config_json?.task || null,
+      last_run: workflow.config_json?.last_run || null,
+      last_error: workflow.config_json?.last_error || null,
+    }))
+
+    const stats = {
+      total: normalizedWorkflows.length,
+      active: normalizedWorkflows.filter((workflow: any) => workflow.status === 'active').length,
+      paused: normalizedWorkflows.filter((workflow: any) => workflow.status === 'paused').length,
+      failed: normalizedWorkflows.filter((workflow: any) => workflow.status === 'failed').length,
+      running: normalizedWorkflows.filter((workflow: any) => workflow.status === 'running').length,
+    }
 
     return NextResponse.json(
-      (data || []).map((workflow: any) => ({
-        ...workflow,
-        description: workflow.config_json?.description || '',
-        task: workflow.config_json?.task || null,
-        last_run: workflow.config_json?.last_run || null,
-        last_error: workflow.config_json?.last_error || null,
-      }))
+      {
+        workflows: normalizedWorkflows,
+        stats,
+        recentRuns: (outputs || []).map((output: any) => ({
+          id: output.id,
+          title: output.title,
+          created_at: output.created_at,
+          workflowId: output.content_json?.workflowId || null,
+          workflowName: output.content_json?.workflowName || null,
+          status: output.content_json?.status || 'success',
+          error: output.content_json?.error || null,
+          result: output.content_json?.result || null,
+          executedAt: output.content_json?.executedAt || output.created_at,
+        })),
+      }
     )
   } catch (error) {
     return NextResponse.json(

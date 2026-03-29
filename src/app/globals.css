@@ -3,3 +3,43 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+    --background: 248 250 252;
+    --foreground: 15 23 42;
+    --card: 255 255 255;
+    --card-foreground: 15 23 42;
+    --muted: 241 245 249;
+    --muted-foreground: 71 85 105;
+    --border: 226 232 240;
+    --accent: 37 99 235;
+    --accent-foreground: 255 255 255;
+  }
+
+  .dark {
+    color-scheme: dark;
+    --background: 2 6 23;
+    --foreground: 226 232 240;
+    --card: 15 23 42;
+    --card-foreground: 226 232 240;
+    --muted: 30 41 59;
+    --muted-foreground: 148 163 184;
+    --border: 51 65 85;
+    --accent: 56 189 248;
+    --accent-foreground: 8 47 73;
+  }
+
+  html {
+    @apply bg-[rgb(var(--background))] text-[rgb(var(--foreground))];
+  }
+
+  body {
+    @apply min-h-screen bg-[rgb(var(--background))] text-[rgb(var(--foreground))] antialiased transition-colors duration-200;
+  }
+
+  * {
+    scrollbar-color: rgb(var(--border)) transparent;
+  }
+}

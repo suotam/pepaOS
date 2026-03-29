@@ -27,6 +27,24 @@ export type DataEntityDefinition = {
   fields: DataFieldDefinition[]
 }
 
+export type DataRecordDetail = {
+  record: Record<string, any>
+  related: {
+    clients?: Array<Record<string, any>>
+    properties?: Array<Record<string, any>>
+    leads?: Array<Record<string, any>>
+    deals?: Array<Record<string, any>>
+    propertySources?: Array<Record<string, any>>
+  }
+  timeline: Array<{
+    id: string
+    at: string
+    title: string
+    description: string
+    kind: 'created' | 'lead' | 'deal' | 'source' | 'note'
+  }>
+}
+
 type RecordWithRelations = Record<string, any>
 
 const ENTITY_DEFINITIONS: Record<DataEntity, DataEntityDefinition> = {
@@ -315,6 +333,214 @@ export async function getDataRecord(entity: DataEntity, id: string) {
     throw new Error('Záznam nebyl nalezen.')
   }
   return normalizeRow(entity, data as RecordWithRelations)
+}
+
+function sortTimelineDescending<T extends { at: string }>(items: T[]) {
+  return [...items].sort((left, right) => new Date(right.at).getTime() - new Date(left.at).getTime())
+}
+
+export async function getDataRecordDetail(entity: DataEntity, id: string): Promise<DataRecordDetail> {
+  const record = await getDataRecord(entity, id)
+  const related: DataRecordDetail['related'] = {}
+  const timeline: DataRecordDetail['timeline'] = []
+
+  if (record.created_at) {
+    timeline.push({
+      id: `${entity}-${id}-created`,
+      at: record.created_at,
+      title: 'Záznam vytvořen',
+      description:
+        entity === 'clients'
+          ? `Klient ${record.name || 'bez názvu'} byl založen do systému.`
+          : entity === 'properties'
+            ? `Nemovitost ${record.title || 'bez názvu'} byla založena do systému.`
+            : entity === 'leads'
+              ? `Lead byl založen se statusem ${record.status || 'unknown'}.`
+              : `Deal byl založen ve fázi ${record.stage || 'unknown'}.`,
+      kind: 'created',
+    })
+  }
+
+  if (entity === 'clients') {
+    const [leadsRes, dealsRes] = await Promise.all([
+      supabase
+        .from('leads')
+        .select('*, client:clients(id, name)')
+        .eq('client_id', id)
+        .order('created_at', { ascending: false }),
+      supabase
+        .from('deals')
+        .select('*, property:properties(id, title, city), client:clients(id, name)')
+        .eq('client_id', id)
+        .order('closed_at', { ascending: false, nullsFirst: false }),
+    ])
+
+    if (leadsRes.error) throw new Error(leadsRes.error.message)
+    if (dealsRes.error) throw new Error(dealsRes.error.message)
+
+    const clientLeads = (leadsRes.data || []).map((row: any) => normalizeRow('leads', row))
+    const clientDeals = (dealsRes.data || []).map((row: any) => normalizeRow('deals', row))
+    related.leads = clientLeads
+    related.deals = clientDeals
+
+    clientLeads.forEach((lead: Record<string, any>) => {
+      if (!lead.created_at) return
+      timeline.push({
+        id: `lead-${lead.id}`,
+        at: lead.created_at,
+        title: 'Nový lead',
+        description: `Zdroj ${lead.source_channel || 'neuveden'} · status ${lead.status || 'unknown'}.`,
+        kind: 'lead',
+      })
+    })
+
+    clientDeals.forEach((deal: Record<string, any>) => {
+      const at = deal.closed_at || deal.created_at
+      if (!at) return
+      timeline.push({
+        id: `deal-${deal.id}`,
+        at,
+        title: 'Deal',
+        description: `${deal.stage || 'unknown'}${deal.property_title ? ` · ${deal.property_title}` : ''}${deal.amount ? ` · ${Number(deal.amount).toLocaleString('cs-CZ')} Kč` : ''}`,
+        kind: 'deal',
+      })
+    })
+  }
+
+  if (entity === 'properties') {
+    const [dealsRes, sourcesRes] = await Promise.all([
+      supabase
+        .from('deals')
+        .select('*, client:clients(id, name), property:properties(id, title, city)')
+        .eq('property_id', id)
+        .order('closed_at', { ascending: false, nullsFirst: false }),
+      supabase
+        .from('property_sources')
+        .select('*')
+        .eq('property_id', id)
+        .order('synced_at', { ascending: false }),
+    ])
+
+    if (dealsRes.error) throw new Error(dealsRes.error.message)
+    if (sourcesRes.error) throw new Error(sourcesRes.error.message)
+
+    const propertyDeals = (dealsRes.data || []).map((row: any) => normalizeRow('deals', row))
+    const propertySources = sourcesRes.data || []
+    related.deals = propertyDeals
+    related.propertySources = propertySources
+
+    propertyDeals.forEach((deal: Record<string, any>) => {
+      const at = deal.closed_at || deal.created_at
+      if (!at) return
+      timeline.push({
+        id: `deal-${deal.id}`,
+        at,
+        title: 'Deal navázán',
+        description: `${deal.client_name || 'Klient'} · ${deal.stage || 'unknown'}${deal.amount ? ` · ${Number(deal.amount).toLocaleString('cs-CZ')} Kč` : ''}`,
+        kind: 'deal',
+      })
+    })
+
+    propertySources.forEach((source: Record<string, any>) => {
+      if (!source.synced_at) return
+      timeline.push({
+        id: `source-${source.id}`,
+        at: source.synced_at,
+        title: 'Synchronizace zdroje',
+        description: `${source.source || 'unknown'}${source.source_url ? ` · ${source.source_url}` : ''}`,
+        kind: 'source',
+      })
+    })
+  }
+
+  if (entity === 'leads') {
+    const [clientRes, dealsRes] = await Promise.all([
+      record.client_id
+        ? supabase.from('clients').select('*').eq('id', record.client_id).maybeSingle()
+        : Promise.resolve({ data: null, error: null } as any),
+      record.client_id
+        ? supabase
+            .from('deals')
+            .select('*, client:clients(id, name), property:properties(id, title, city)')
+            .eq('client_id', record.client_id)
+            .order('closed_at', { ascending: false, nullsFirst: false })
+            .limit(5)
+        : Promise.resolve({ data: [], error: null } as any),
+    ])
+
+    if (clientRes.error) throw new Error(clientRes.error.message)
+    if (dealsRes.error) throw new Error(dealsRes.error.message)
+
+    const leadClients = clientRes.data ? [clientRes.data] : []
+    const leadDeals = (dealsRes.data || []).map((row: any) => normalizeRow('deals', row))
+    related.clients = leadClients
+    related.deals = leadDeals
+
+    if (clientRes.data?.created_at) {
+      timeline.push({
+        id: `client-${clientRes.data.id}`,
+        at: clientRes.data.created_at,
+        title: 'Klient založen',
+        description: clientRes.data.name || 'Klient',
+        kind: 'note',
+      })
+    }
+
+    leadDeals.forEach((deal: Record<string, any>) => {
+      const at = deal.closed_at || deal.created_at
+      if (!at) return
+      timeline.push({
+        id: `deal-${deal.id}`,
+        at,
+        title: 'Související deal',
+        description: `${deal.property_title || 'Nemovitost'} · ${deal.stage || 'unknown'}`,
+        kind: 'deal',
+      })
+    })
+  }
+
+  if (entity === 'deals') {
+    const [clientRes, propertyRes] = await Promise.all([
+      record.client_id
+        ? supabase.from('clients').select('*').eq('id', record.client_id).maybeSingle()
+        : Promise.resolve({ data: null, error: null } as any),
+      record.property_id
+        ? supabase.from('properties').select('*').eq('id', record.property_id).maybeSingle()
+        : Promise.resolve({ data: null, error: null } as any),
+    ])
+
+    if (clientRes.error) throw new Error(clientRes.error.message)
+    if (propertyRes.error) throw new Error(propertyRes.error.message)
+
+    related.clients = clientRes.data ? [clientRes.data] : []
+    related.properties = propertyRes.data ? [propertyRes.data] : []
+
+    if (clientRes.data?.created_at) {
+      timeline.push({
+        id: `client-${clientRes.data.id}`,
+        at: clientRes.data.created_at,
+        title: 'Klient v systému',
+        description: clientRes.data.name || 'Klient',
+        kind: 'note',
+      })
+    }
+
+    if (propertyRes.data?.created_at) {
+      timeline.push({
+        id: `property-${propertyRes.data.id}`,
+        at: propertyRes.data.created_at,
+        title: 'Nemovitost v systému',
+        description: propertyRes.data.title || 'Nemovitost',
+        kind: 'note',
+      })
+    }
+  }
+
+  return {
+    record,
+    related,
+    timeline: sortTimelineDescending(timeline),
+  }
 }
 
 export async function createDataRecord(entity: DataEntity, payload: Record<string, any>) {

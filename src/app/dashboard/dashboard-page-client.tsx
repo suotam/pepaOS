@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react'
 import { supabase } from '../../lib/supabase'
 import { BarChart, Bar, CartesianGrid, PieChart, Pie, Cell, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts'
+import { AppStateCard, AppStateInline } from '../components/AppStateCard'
 
 type Kpis = {
   totalClients: number
@@ -31,6 +32,15 @@ type OutputSummary = {
 }
 
 const CHART_COLORS = ['#2563eb', '#14b8a6', '#f59e0b', '#ef4444', '#8b5cf6']
+
+function formatWorkflowStatus(status: string | null) {
+  if (status === 'active') return 'Aktivní'
+  if (status === 'paused') return 'Pozastavené'
+  if (status === 'running') return 'Běží'
+  if (status === 'failed') return 'Chyba'
+  if (status === 'completed') return 'Dokončeno'
+  return 'Neznámý stav'
+}
 
 export default function DashboardPage() {
   const [kpis, setKpis] = useState<Kpis>({
@@ -112,9 +122,9 @@ export default function DashboardPage() {
 
   return (
     <div className="space-y-4">
-      <section className="rounded-2xl border border-gray-200 bg-white p-6">
-        <h1 className="text-2xl font-semibold text-gray-900">Operativní přehled</h1>
-        <p className="mt-1 text-sm text-gray-600">
+      <section className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
+        <h1 className="text-2xl font-semibold text-slate-900 dark:text-slate-100">Operativní přehled</h1>
+        <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">
           Rychlý přehled portfolia, pipeline a běžících workflow na jednom místě.
         </p>
       </section>
@@ -127,22 +137,30 @@ export default function DashboardPage() {
           ['Dealy', kpis.totalDeals],
           ['Tržby za 7 dní', `${kpis.weeklyRevenue.toLocaleString('cs-CZ')} Kč`],
         ].map(([label, value]) => (
-          <div key={label} className="rounded-2xl border border-gray-200 bg-white p-5">
-            <p className="text-sm text-gray-500">{label}</p>
-            <p className="mt-2 text-2xl font-semibold text-gray-900">{value}</p>
+          <div key={label} className="rounded-3xl border border-slate-200 bg-white p-5 shadow-sm dark:border-slate-800 dark:bg-slate-950">
+            <p className="text-xs uppercase tracking-[0.18em] text-slate-500 dark:text-slate-400">{label}</p>
+            <p className="mt-3 text-3xl font-semibold text-slate-900 dark:text-slate-100">{value}</p>
           </div>
         ))}
       </section>
 
       <section className="grid gap-4 xl:grid-cols-2">
-        <div className="rounded-2xl border border-gray-200 bg-white p-6">
-          <h2 className="text-lg font-semibold text-gray-900">Leady vs. dealy</h2>
+        <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
+          <div className="flex items-start justify-between gap-4">
+            <div>
+              <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-100">Leady vs. dealy</h2>
+              <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">Vývoj pipeline za posledních 6 měsíců.</p>
+            </div>
+            <span className="rounded-full bg-sky-100 px-3 py-1 text-xs font-medium text-sky-700 dark:bg-sky-950/40 dark:text-sky-300">
+              Pipeline
+            </span>
+          </div>
           <div className="mt-4 h-72">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart data={monthlyFunnelData}>
                 <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="month" />
-                <YAxis />
+                <XAxis dataKey="month" stroke="#94a3b8" />
+                <YAxis stroke="#94a3b8" />
                 <Tooltip />
                 <Bar dataKey="leads" fill="#2563eb" radius={[6, 6, 0, 0]} />
                 <Bar dataKey="deals" fill="#14b8a6" radius={[6, 6, 0, 0]} />
@@ -151,8 +169,16 @@ export default function DashboardPage() {
           </div>
         </div>
 
-        <div className="rounded-2xl border border-gray-200 bg-white p-6">
-          <h2 className="text-lg font-semibold text-gray-900">Stavy nemovitostí</h2>
+        <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
+          <div className="flex items-start justify-between gap-4">
+            <div>
+              <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-100">Stavy nemovitostí</h2>
+              <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">Aktuální rozpad portfolia podle stavu.</p>
+            </div>
+            <span className="rounded-full bg-emerald-100 px-3 py-1 text-xs font-medium text-emerald-700 dark:bg-emerald-950/40 dark:text-emerald-300">
+              Portfolio
+            </span>
+          </div>
           <div className="mt-4 h-72">
             <ResponsiveContainer width="100%" height="100%">
               <PieChart>
@@ -168,39 +194,60 @@ export default function DashboardPage() {
         </div>
       </section>
 
-      <section className="grid gap-4 xl:grid-cols-2">
-        <div className="rounded-2xl border border-gray-200 bg-white p-6">
+      <section className="grid gap-4 xl:grid-cols-[1.15fr_0.85fr]">
+        <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
           <div className="flex items-center justify-between">
-            <h2 className="text-lg font-semibold text-gray-900">Workflow</h2>
-            <a href="/workflows" className="text-sm font-medium text-blue-600">Otevřít workflow</a>
+            <div>
+              <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-100">Workflow</h2>
+              <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">Rychlý pohled na aktivní automatizace.</p>
+            </div>
+            <a href="/workflows" className="text-sm font-medium text-sky-600 dark:text-sky-400">Otevřít workflow</a>
           </div>
           <div className="mt-4 space-y-3">
             {workflows.map((workflow) => (
-              <div key={workflow.id} className="rounded-xl border border-gray-200 p-4">
+              <div key={workflow.id} className="rounded-2xl border border-slate-200 p-4 dark:border-slate-800">
                 <div className="flex items-center justify-between gap-3">
                   <div>
-                    <p className="font-medium text-gray-900">{workflow.name}</p>
-                    <p className="mt-1 text-sm text-gray-500">{workflow.config_json?.description || 'Bez popisu.'}</p>
+                    <p className="font-medium text-slate-900 dark:text-slate-100">{workflow.name}</p>
+                    <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">{workflow.config_json?.description || 'Bez popisu.'}</p>
                   </div>
-                  <span className="rounded-full bg-gray-100 px-3 py-1 text-xs text-gray-700">{workflow.status || 'unknown'}</span>
+                  <span className="rounded-full bg-slate-100 px-3 py-1 text-xs text-slate-700 dark:bg-slate-900 dark:text-slate-300">
+                    {formatWorkflowStatus(workflow.status)}
+                  </span>
                 </div>
-                <p className="mt-2 text-xs text-gray-500">Cron: {workflow.schedule || 'bez plánu'} · Poslední běh: {workflow.config_json?.last_run ? new Date(workflow.config_json.last_run).toLocaleString('cs-CZ') : 'zatím nikdy'}</p>
+                <p className="mt-2 text-xs text-slate-500 dark:text-slate-400">Cron: {workflow.schedule || 'bez plánu'} · Poslední běh: {workflow.config_json?.last_run ? new Date(workflow.config_json.last_run).toLocaleString('cs-CZ') : 'zatím nikdy'}</p>
               </div>
             ))}
-            {!loading && workflows.length === 0 ? <p className="text-sm text-gray-500">Žádná workflow zatím nejsou.</p> : null}
+            {loading ? <AppStateInline>Načítám workflow přehled…</AppStateInline> : null}
+            {!loading && workflows.length === 0 ? (
+              <AppStateCard
+                compact
+                eyebrow="Workflow"
+                title="Žádná workflow zatím nejsou."
+                description="Jakmile založíš první automatizaci, objeví se tady její stručný provozní přehled."
+              />
+            ) : null}
           </div>
         </div>
 
-        <div className="rounded-2xl border border-gray-200 bg-white p-6">
-          <h2 className="text-lg font-semibold text-gray-900">Poslední výstupy</h2>
+        <div className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
+          <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-100">Poslední výstupy</h2>
           <div className="mt-4 space-y-3">
             {outputs.map((output) => (
-              <div key={output.id} className="rounded-xl border border-gray-200 p-4">
-                <p className="font-medium text-gray-900">{output.title || 'Bez názvu'}</p>
-                <p className="mt-1 text-sm text-gray-500">{output.type || 'unknown'} · {new Date(output.created_at).toLocaleString('cs-CZ')}</p>
+              <div key={output.id} className="rounded-2xl border border-slate-200 p-4 dark:border-slate-800">
+                <p className="font-medium text-slate-900 dark:text-slate-100">{output.title || 'Bez názvu'}</p>
+                <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">{output.type || 'unknown'} · {new Date(output.created_at).toLocaleString('cs-CZ')}</p>
               </div>
             ))}
-            {!loading && outputs.length === 0 ? <p className="text-sm text-gray-500">Zatím nejsou žádné výstupy.</p> : null}
+            {loading ? <AppStateInline>Načítám poslední výstupy…</AppStateInline> : null}
+            {!loading && outputs.length === 0 ? (
+              <AppStateCard
+                compact
+                eyebrow="Výstupy"
+                title="Zatím nejsou žádné výstupy."
+                description="Grafy, reporty a automatizované výsledky workflow se začnou zobrazovat tady."
+              />
+            ) : null}
           </div>
         </div>
       </section>

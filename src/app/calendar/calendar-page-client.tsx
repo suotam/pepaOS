@@ -1,6 +1,7 @@
 'use client'
 
 import { useCallback, useEffect, useMemo, useState } from 'react'
+import { AppStateCard, AppStateInline } from '../components/AppStateCard'
 
 type CalendarEvent = {
   id: string
@@ -438,16 +439,18 @@ export default function CalendarPage() {
                 <h2 className="text-lg font-semibold text-gray-900">
                   {viewMode === 'day' ? 'Přehled dne' : viewMode === 'week' ? 'Týdenní rozvrh' : 'Měsíční rozvrh'}
                 </h2>
-                {loading ? <span className="text-sm text-gray-500">Načítám…</span> : null}
+                {loading ? <AppStateInline>Načítám…</AppStateInline> : null}
               </div>
 
               {error ? (
-                <div className="mb-4 rounded-lg border border-red-200 bg-red-50 p-3 text-sm text-red-700">{error}</div>
+                <div className="mb-4">
+                  <AppStateCard tone="error" compact eyebrow="Chyba" title="Kalendář narazil na problém." description={error} />
+                </div>
               ) : null}
 
               {!googleConnected ? (
-                <div className="mb-4 rounded-lg border border-dashed border-gray-300 bg-gray-50 p-4 text-sm text-gray-600">
-                  Po připojení Google účtu se zde zobrazí události kalendáře a půjde vytvářet i mazat události.
+                <div className="mb-4">
+                  <AppStateCard eyebrow="Google" title="Po připojení Google účtu se zde zobrazí události kalendáře a půjde vytvářet i mazat události." description="Po odpojení zůstává kalendář bez dat i bez možnosti operací, jak jsme chtěli pro demo i ostré použití." />
                 </div>
               ) : null}
 

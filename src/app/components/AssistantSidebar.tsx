@@ -65,7 +65,7 @@ function ChartCard({ chart }: { chart: ChatChart }) {
   const valueKeys = Object.keys(firstRow).filter((key) => key !== categoryKey)
 
   return (
-    <div className="mt-2 rounded-md border border-gray-200 bg-white p-3">
+    <div className="mt-2 rounded-xl border border-slate-200 bg-white p-3 shadow-sm dark:border-slate-700 dark:bg-slate-900">
       <div className="h-56">
         <ResponsiveContainer width="100%" height="100%">
           {chart.type === 'pie' ? (
@@ -133,6 +133,7 @@ export default function AssistantSidebar() {
   const mediaRecorderRef = useRef<MediaRecorder | null>(null)
   const mediaStreamRef = useRef<MediaStream | null>(null)
   const recordedChunksRef = useRef<BlobPart[]>([])
+  const textareaRef = useRef<HTMLTextAreaElement | null>(null)
 
   const pageContext = useMemo(() => {
     const context: any = { pageType: 'dashboard' }
@@ -255,6 +256,15 @@ export default function AssistantSidebar() {
       mediaRecorderRef.current = null
       mediaStreamRef.current = null
     }
+  }, [])
+
+  useEffect(() => {
+    const handleFocusAssistant = () => {
+      textareaRef.current?.focus()
+    }
+
+    window.addEventListener('pepaos-focus-assistant', handleFocusAssistant)
+    return () => window.removeEventListener('pepaos-focus-assistant', handleFocusAssistant)
   }, [])
 
   const handleSend = async () => {
@@ -399,30 +409,42 @@ export default function AssistantSidebar() {
   }
 
   return (
-    <aside className="w-[360px] h-screen border-l border-gray-200 bg-white flex flex-col">
-      <header className="px-4 py-3 border-b border-gray-200">
-        <h2 className="text-lg font-semibold">AI Assistant</h2>
-        <p className="text-xs text-gray-500">Context: {pageContext.pageType}</p>
+    <aside className="flex h-screen w-[360px] flex-col border-l border-slate-200 bg-white/90 backdrop-blur dark:border-slate-800 dark:bg-slate-950/90">
+      <header className="border-b border-slate-200 px-4 py-3 dark:border-slate-800">
+        <h2 className="text-lg font-semibold text-slate-900 dark:text-slate-100">AI Assistant</h2>
+        <p className="text-xs text-slate-500 dark:text-slate-400">Context: {pageContext.pageType}</p>
       </header>
-      <main className="flex-1 overflow-y-auto p-3 space-y-2">
+      <main className="flex-1 space-y-2 overflow-y-auto p-3">
         {messages.length === 0 ? (
-          <div className="text-xs text-gray-500">Ask me anything about operations, calendar, email, or clients.</div>
+          <div className="rounded-xl border border-dashed border-slate-300 bg-slate-50 p-3 text-xs text-slate-500 dark:border-slate-700 dark:bg-slate-900/70 dark:text-slate-400">
+            Ask me anything about operations, calendar, email, or clients.
+          </div>
         ) : (
           messages.map((msg, idx) => (
-            <div key={idx} className={`rounded-md p-2 ${msg.role === 'user' ? 'bg-blue-50 text-blue-900' : msg.role === 'assistant' ? 'bg-gray-100 text-gray-900' : 'bg-green-50 text-green-900'}`}>
-              <div className="text-xs font-bold uppercase">{msg.role}</div>
+            <div
+              key={idx}
+              className={`rounded-xl p-3 shadow-sm ${
+                msg.role === 'user'
+                  ? 'bg-sky-50 text-sky-950 dark:bg-sky-950/40 dark:text-sky-100'
+                  : msg.role === 'assistant'
+                    ? 'bg-slate-100 text-slate-900 dark:bg-slate-900 dark:text-slate-100'
+                    : 'bg-emerald-50 text-emerald-950 dark:bg-emerald-950/30 dark:text-emerald-100'
+              }`}
+            >
+              <div className="text-xs font-bold uppercase tracking-[0.14em] opacity-70">{msg.role}</div>
               <div className="text-sm whitespace-pre-wrap">{msg.content}</div>
               {msg.chart && <ChartCard chart={msg.chart} />}
             </div>
           ))
         )}
       </main>
-      <div className="border-t border-gray-200 p-3">
+      <div className="border-t border-slate-200 p-3 dark:border-slate-800">
         <textarea
+          ref={textareaRef}
           value={input}
           onChange={(e) => setInput(e.target.value)}
           rows={3}
-          className="w-full rounded-md border-gray-300 focus:border-blue-500 focus:ring-blue-500"
+          className="w-full rounded-xl border border-slate-300 bg-white px-3 py-2 text-slate-900 focus:border-sky-500 focus:ring-sky-500 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:placeholder:text-slate-500"
           placeholder="Type a command or question..."
           onKeyDown={(e) => {
             if (e.key === 'Enter' && !e.shiftKey) {
@@ -436,19 +458,23 @@ export default function AssistantSidebar() {
             <button
               onClick={handleSend}
               disabled={loading || !input.trim()}
-              className="bg-blue-600 text-white px-3 py-1 rounded-md disabled:opacity-50"
+              className="rounded-full bg-sky-500 px-4 py-2 text-sm font-medium text-sky-950 transition hover:bg-sky-400 disabled:opacity-50 dark:bg-sky-400 dark:text-slate-950 dark:hover:bg-sky-300"
             >
               {loading ? 'Processing…' : 'Send'}
             </button>
             <button
               onClick={toggleVoiceInput}
               disabled={voiceMode === 'none' || loading}
-              className={`px-3 py-1 rounded-md border text-sm ${isListening ? 'border-red-300 bg-red-50 text-red-700' : 'border-gray-300 bg-white text-gray-700'} disabled:opacity-50`}
+              className={`rounded-full border px-4 py-2 text-sm font-medium transition ${
+                isListening
+                  ? 'border-red-300 bg-red-50 text-red-700 dark:border-red-800 dark:bg-red-950/30 dark:text-red-300'
+                  : 'border-slate-300 bg-white text-slate-700 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300'
+              } disabled:opacity-50`}
             >
               {isListening ? 'Stop mic' : 'Mic'}
             </button>
           </div>
-          {error && <p className="text-xs text-red-500">{error}</p>}
+          {error && <p className="text-xs text-red-500 dark:text-red-400">{error}</p>}
         </div>
       </div>
     </aside>

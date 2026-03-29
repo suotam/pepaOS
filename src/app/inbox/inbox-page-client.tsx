@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from 'react'
+import { AppStateCard, AppStateInline } from '../components/AppStateCard'
 
 type EmailSummary = { id: string; threadId: string; subject: string; from: string; date: string; snippet: string }
 type EmailThread = { threadId: string; messages: { id: string; subject: string; from: string; date: string; snippet: string; body?: string }[] }
@@ -171,74 +172,84 @@ export default function InboxPage() {
   }
 
   return (
-    <div>
-      <h1 className="text-2xl font-bold mb-4">Inbox</h1>
-      <div className="mb-4 rounded-lg border border-gray-200 bg-white p-4">
+    <div className="space-y-4">
+      <section className="rounded-3xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-950">
+        <h1 className="text-2xl font-semibold text-slate-900 dark:text-slate-100">Inbox</h1>
+        <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">
+          Přehled doručené pošty, detail vlákna a rychlá odpověď z jednoho místa.
+        </p>
+      </section>
+
+      <div className="rounded-3xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-950">
         <div className="flex items-center justify-between">
           <div>
-            <p className="font-semibold text-gray-900">{googleConnected ? 'Google účet připojen' : 'Google účet není připojen'}</p>
-            {googleEmail ? <p className="text-sm text-gray-500">{googleEmail}</p> : null}
+            <p className="font-semibold text-slate-900 dark:text-slate-100">{googleConnected ? 'Google účet připojen' : 'Google účet není připojen'}</p>
+            {googleEmail ? <p className="text-sm text-slate-500 dark:text-slate-400">{googleEmail}</p> : null}
           </div>
           <div className="flex items-center gap-2">
             {googleConnected ? (
               <button
                 onClick={disconnectGoogle}
                 disabled={disconnecting}
-                className="rounded-md border border-red-200 px-4 py-2 text-sm font-medium text-red-600 disabled:opacity-50"
+                className="rounded-full border border-red-200 px-4 py-2 text-sm font-medium text-red-600 disabled:opacity-50 dark:border-red-900/60 dark:text-red-400"
               >
                 {disconnecting ? 'Odpojuji…' : 'Odpojit Google'}
               </button>
             ) : null}
-            <button onClick={reconnectGoogle} className="rounded-md bg-blue-600 px-4 py-2 text-sm font-medium text-white">
+            <button onClick={reconnectGoogle} className="rounded-full bg-sky-500 px-4 py-2 text-sm font-medium text-sky-950 dark:bg-sky-400">
               {googleConnected ? 'Znovu připojit Google' : 'Připojit Google'}
             </button>
           </div>
         </div>
-        <p className="mt-2 text-sm text-gray-600">Pro čtení e-mailů musí mít účet nově povolené oprávnění `gmail.readonly`.</p>
+        <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">Pro čtení e-mailů musí mít účet nově povolené oprávnění `gmail.readonly`.</p>
       </div>
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-4">
-        <div className="lg:col-span-1 bg-white rounded shadow p-4">
+      <div className="grid grid-cols-1 gap-4 lg:grid-cols-3">
+        <div className="lg:col-span-1 rounded-3xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-950">
           <div className="mb-3 flex items-center justify-between">
-            <h2 className="font-semibold">Recent emails</h2>
-            <button onClick={fetchEmails} disabled={!googleConnected} className="text-sm text-blue-600 disabled:opacity-50">Refresh</button>
+            <h2 className="font-semibold text-slate-900 dark:text-slate-100">Recent emails</h2>
+            <button onClick={fetchEmails} disabled={!googleConnected} className="text-sm text-sky-600 disabled:opacity-50 dark:text-sky-400">Refresh</button>
           </div>
           {!googleConnected ? (
-            <p>Google účet není připojen.</p>
-          ) : loading ? (<p>Loading...</p>) : emails.length === 0 ? (<p>No emails found.</p>) : (
+            <AppStateCard compact eyebrow="Google" title="Google účet není připojen." description="Po připojení se zde zobrazí doručená pošta a detail vláken." />
+          ) : loading ? (
+            <AppStateInline>Načítám poslední e-maily…</AppStateInline>
+          ) : emails.length === 0 ? (
+            <AppStateCard compact eyebrow="Inbox" title="Doručená pošta je prázdná." description="Jakmile najdeme dostupné zprávy, zobrazí se zde seznam vláken." />
+          ) : (
             <ul className="space-y-2">
               {emails.map((email) => (
-                <li key={email.id} className="border rounded p-2 hover:bg-gray-50 cursor-pointer" onClick={() => fetchThread(email.threadId)}>
-                  <p className="font-semibold text-sm">{email.subject}</p>
-                  <p className="text-xs text-gray-500">{email.from} · {new Date(email.date).toLocaleString()}</p>
-                  <p className="text-xs text-gray-600 truncate">{email.snippet}</p>
+                <li key={email.id} className="cursor-pointer rounded-2xl border border-slate-200 p-3 hover:bg-slate-50 dark:border-slate-800 dark:hover:bg-slate-900/70" onClick={() => fetchThread(email.threadId)}>
+                  <p className="text-sm font-semibold text-slate-900 dark:text-slate-100">{email.subject}</p>
+                  <p className="text-xs text-slate-500 dark:text-slate-400">{email.from} · {new Date(email.date).toLocaleString()}</p>
+                  <p className="text-xs text-slate-600 truncate dark:text-slate-400">{email.snippet}</p>
                 </li>
               ))}
             </ul>
           )}
         </div>
 
-        <div className="lg:col-span-2 bg-white rounded shadow p-4">
+        <div className="lg:col-span-2 rounded-3xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-950">
           {!googleConnected ? (
-            <p>Po připojení Google účtu se zde zobrazí vlákna i možnost odpovídat.</p>
+            <AppStateCard eyebrow="Vlákna" title="Po připojení Google účtu se zde zobrazí vlákna i možnost odpovídat." description="Inbox zůstává po odpojení čistý a bez přístupu k e-mailovým operacím." />
           ) : selectedThread ? (
             <>
-              <h2 className="font-semibold mb-3">Thread: {selectedThread.threadId}</h2>
+              <h2 className="mb-3 font-semibold text-slate-900 dark:text-slate-100">Thread: {selectedThread.threadId}</h2>
               <div className="space-y-2 mb-4">
                 {selectedThread.messages.map((msg) => (
-                  <div key={msg.id} className="border rounded p-2 bg-gray-50">
-                    <p className="text-sm font-semibold">{msg.subject}</p>
-                    <p className="text-xs text-gray-500">{msg.from} · {new Date(msg.date).toLocaleString()}</p>
-                    <p className="mt-2 whitespace-pre-wrap text-sm">{msg.body || msg.snippet}</p>
+                  <div key={msg.id} className="rounded-2xl border border-slate-200 bg-slate-50 p-3 dark:border-slate-800 dark:bg-slate-900/70">
+                    <p className="text-sm font-semibold text-slate-900 dark:text-slate-100">{msg.subject}</p>
+                    <p className="text-xs text-slate-500 dark:text-slate-400">{msg.from} · {new Date(msg.date).toLocaleString()}</p>
+                    <p className="mt-2 whitespace-pre-wrap text-sm text-slate-700 dark:text-slate-300">{msg.body || msg.snippet}</p>
                   </div>
                 ))}
               </div>
-              <textarea value={replyBody} onChange={(e) => setReplyBody(e.target.value)} className="w-full border-gray-300 rounded-md p-2" rows={4} placeholder="Type your reply..." />
-              <button onClick={sendReply} disabled={!googleConnected} className="mt-2 bg-blue-600 text-white px-4 py-2 rounded disabled:opacity-50">Send Reply</button>
+              <textarea value={replyBody} onChange={(e) => setReplyBody(e.target.value)} className="w-full rounded-2xl border border-slate-300 bg-white p-3 text-sm dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100" rows={4} placeholder="Type your reply..." />
+              <button onClick={sendReply} disabled={!googleConnected} className="mt-2 rounded-full bg-sky-500 px-4 py-2 text-sm font-medium text-sky-950 disabled:opacity-50 dark:bg-sky-400">Send Reply</button>
             </>
           ) : (
-            <p>Select a thread to view details and reply.</p>
+            <AppStateCard eyebrow="Vlákno" title="Vyber vlákno pro detail a odpověď." description="Po kliknutí na e-mail vlevo se zde zobrazí celé konverzační vlákno a rychlá odpověď." />
           )}
-          {error && <p className="text-red-500 mt-2 whitespace-pre-wrap">{error}</p>}
+          {error ? <div className="mt-3"><AppStateCard tone="error" compact eyebrow="Chyba" title="Inbox narazil na problém." description={error} /></div> : null}
         </div>
       </div>
     </div>

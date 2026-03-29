@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import OpenAI from 'openai'
 import cron from 'node-cron'
+import PptxGenJS from 'pptxgenjs'
+import { PDFDocument, StandardFonts, rgb } from 'pdf-lib'
 import sharp from 'sharp'
 import type { EmailAttachment } from '../../../lib/google/gmail'
 import { get_weekly_kpis, get_all_clients, get_all_properties, get_all_leads, get_all_deals, get_leads_vs_sales_last_6_months, find_properties_missing_reconstruction_data, get_deals_by_stage, get_properties_by_status, get_leads_by_status, get_client_sources_breakdown } from '../../../lib/tools'
@@ -351,13 +353,146 @@ function createCartesianChartSvg(chart: PendingChart) {
   ].join('')
 }
 
+function getChartHeadline(chart: PendingChart) {
+  return chart.title || 'Datový přehled'
+}
+
+function getChartSubheadline(chart: PendingChart) {
+  return chart.description || 'Automaticky vygenerovaný přehled nad firemními daty.'
+}
+
+function getTopChartRows(chart: PendingChart, limit = 5) {
+  if (chart.type === 'pie') {
+    return chart.data
+      .map((item) => ({
+        label: String((item as any).name ?? 'Unknown'),
+        value: Number((item as any).value || 0),
+      }))
+      .sort((left, right) => right.value - left.value)
+      .slice(0, limit)
+  }
+
+  const normalized = normalizeSeriesData(chart)
+  return normalized.rows
+    .map((row) => ({
+      label: row.label,
+      value: row.value,
+    }))
+    .sort((left, right) => right.value - left.value)
+    .slice(0, limit)
+}
+
+function getChartKpiSummary(chart: PendingChart) {
+  const rows =
+    chart.type === 'pie'
+      ? chart.data.map((item) => ({
+          label: String((item as any).name ?? 'Unknown'),
+          value: Number((item as any).value || 0),
+        }))
+      : normalizeSeriesData(chart).rows.map((row) => ({
+          label: row.label,
+          value: row.value,
+        }))
+
+  const total = rows.reduce((sum, row) => sum + row.value, 0)
+  const sorted = [...rows].sort((left, right) => right.value - left.value)
+  const top = sorted[0]
+  const second = sorted[1]
+
+  return {
+    total,
+    itemCount: rows.length,
+    top,
+    second,
+  }
+}
+
+function createExecutiveInsights(chart: PendingChart) {
+  const summary = getChartKpiSummary(chart)
+  const topRows = getTopChartRows(chart, 4)
+  const topShare = summary.top && summary.total > 0 ? Math.round((summary.top.value / summary.total) * 100) : 0
+
+  const insights: string[] = []
+
+  if (summary.top) {
+    insights.push(`Nejvýraznější položkou je ${summary.top.label} s hodnotou ${summary.top.value}${summary.total > 0 ? `, což představuje přibližně ${topShare} % celku` : ''}.`)
+  }
+
+  if (summary.second) {
+    insights.push(`Druhá nejsilnější položka je ${summary.second.label} s hodnotou ${summary.second.value}.`)
+  }
+
+  if (topRows.length >= 3) {
+    insights.push(`Nejsilnější část portfolia tvoří ${topRows.slice(0, 3).map((row) => row.label).join(', ')}.`)
+  }
+
+  insights.push(`Celkem graf pracuje s ${summary.itemCount} položkami a agregovanou hodnotou ${summary.total}.`)
+
+  return insights
+}
+
+function createRecommendedActions(chart: PendingChart) {
+  const summary = getChartKpiSummary(chart)
+  const actions: string[] = []
+
+  if (summary.top) {
+    actions.push(`Prověřit detailně segment ${summary.top.label}, protože má v přehledu největší váhu.`)
+  }
+
+  actions.push('Sdílet výstup s týmem jako podklad pro prioritizaci dalších kroků.')
+  actions.push('Použít stejné seskupení i v navazujícím reportu za delší časové období pro porovnání trendu.')
+
+  return actions
+}
+
+function createChartDataTableHtml(chart: PendingChart, limit = 10) {
+  const rows =
+    chart.type === 'pie'
+      ? chart.data.map((item) => ({
+          label: String((item as any).name ?? 'Unknown'),
+          value: Number((item as any).value || 0),
+        }))
+      : normalizeSeriesData(chart).rows.map((row) => ({
+          label: row.label,
+          value: row.value,
+        }))
+
+  const topRows = [...rows].sort((left, right) => right.value - left.value).slice(0, limit)
+
+  const body = topRows
+    .map(
+      (row, index) => `
+        <tr>
+          <td style="padding:12px 14px;border-bottom:1px solid #e2e8f0;color:#334155;">${index + 1}</td>
+          <td style="padding:12px 14px;border-bottom:1px solid #e2e8f0;color:#0f172a;font-weight:600;">${escapeXml(row.label)}</td>
+          <td style="padding:12px 14px;border-bottom:1px solid #e2e8f0;color:#0f172a;text-align:right;">${row.value}</td>
+        </tr>
+      `
+    )
+    .join('')
+
+  return `
+    <table style="width:100%;border-collapse:collapse;background:#ffffff;border:1px solid #e2e8f0;border-radius:18px;overflow:hidden;">
+      <thead style="background:#f8fafc;">
+        <tr>
+          <th style="padding:12px 14px;text-align:left;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#64748b;">#</th>
+          <th style="padding:12px 14px;text-align:left;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#64748b;">Položka</th>
+          <th style="padding:12px 14px;text-align:right;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:#64748b;">Hodnota</th>
+        </tr>
+      </thead>
+      <tbody>${body}</tbody>
+    </table>
+  `
+}
+
 function createPresentationHtml(chart: PendingChart) {
-  const title = escapeXml(chart.title || 'Graf')
-  const description = escapeXml(chart.description || 'Stručná prezentace grafu')
-  const summaryItems = summarizeChart(chart)
-    .split('\n')
-    .filter(Boolean)
-    .slice(0, 8)
+  const title = escapeXml(getChartHeadline(chart))
+  const description = escapeXml(getChartSubheadline(chart))
+  const summaryItems = createExecutiveInsights(chart)
+    .slice(0, 6)
+    .map((line) => `<li>${escapeXml(line)}</li>`)
+    .join('')
+  const recommendedActions = createRecommendedActions(chart)
     .map((line) => `<li>${escapeXml(line)}</li>`)
     .join('')
 
@@ -372,33 +507,36 @@ function createPresentationHtml(chart: PendingChart) {
     '<meta charset="utf-8" />',
     `<title>${title}</title>`,
     '<style>',
-    'body{font-family:Arial,sans-serif;background:#e2e8f0;margin:0;padding:24px;color:#0f172a}',
-    '.slide{background:#fff;border-radius:20px;padding:36px;margin:0 auto 24px;max-width:960px;box-shadow:0 18px 40px rgba(15,23,42,.12)}',
-    'h1{font-size:34px;margin:0 0 12px} h2{font-size:26px;margin:0 0 18px}',
-    'p,li{font-size:18px;line-height:1.6} ul{margin:0;padding-left:24px}',
-    '.meta{color:#475569;font-size:16px}',
+    'body{font-family:Arial,sans-serif;background:linear-gradient(180deg,#dbeafe 0%,#f8fafc 100%);margin:0;padding:28px;color:#0f172a}',
+    '.slide{background:#fff;border-radius:28px;padding:40px;margin:0 auto 28px;max-width:1080px;box-shadow:0 24px 60px rgba(15,23,42,.12);border:1px solid #dbeafe}',
+    '.eyebrow{display:inline-block;padding:8px 14px;border-radius:999px;background:#e0f2fe;color:#075985;font-size:12px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;margin-bottom:20px}',
+    'h1{font-size:40px;margin:0 0 14px} h2{font-size:28px;margin:0 0 18px}',
+    'p,li{font-size:18px;line-height:1.7} ul{margin:0;padding-left:24px}',
+    '.meta{color:#475569;font-size:15px}',
     '.chart{margin-top:20px}',
+    '.grid{display:grid;grid-template-columns:1.1fr .9fr;gap:28px}',
+    '.panel{background:#f8fafc;border:1px solid #e2e8f0;border-radius:20px;padding:22px}',
     '</style>',
     '</head>',
     '<body>',
-    `<section class="slide"><h1>${title}</h1><p>${description}</p><p class="meta">Vygenerováno: ${generatedAt}</p></section>`,
-    `<section class="slide"><h2>Graf</h2><div class="chart">${createChartSvg(chart)}</div></section>`,
-    `<section class="slide"><h2>Klíčové body</h2><ul>${summaryItems}</ul></section>`,
+    `<section class="slide"><span class="eyebrow">${escapeXml(REPORT_BRAND_NAME)}</span><h1>${title}</h1><p>${description}</p><p class="meta">Vygenerováno: ${generatedAt}</p></section>`,
+    `<section class="slide"><h2>Vizualizace a datový přehled</h2><div class="grid"><div class="panel chart">${createChartSvg(chart)}</div><div class="panel"><h2 style="font-size:22px;margin:0 0 16px;">Klíčové body</h2><ul>${summaryItems}</ul></div></div></section>`,
+    `<section class="slide"><h2>Doporučené další kroky</h2><div class="grid"><div class="panel"><ul>${recommendedActions}</ul></div><div class="panel"><h2 style="font-size:22px;margin:0 0 16px;">Top data</h2>${createChartDataTableHtml(chart, 8)}</div></div></section>`,
     '</body>',
     '</html>',
   ].join('')
 }
 
 function createChartAttachmentHtml(chart: PendingChart) {
-  const title = escapeXml(chart.title || 'Graf')
-  const description = escapeXml(chart.description || 'Datový výstup z aplikace')
+  const title = escapeXml(getChartHeadline(chart))
+  const description = escapeXml(getChartSubheadline(chart))
   const generatedAt = escapeXml(
     new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
   )
-  const summaryItems = summarizeChart(chart)
-    .split('\n')
-    .filter(Boolean)
-    .slice(0, 10)
+  const summaryItems = createExecutiveInsights(chart)
+    .map((line) => `<li>${escapeXml(line)}</li>`)
+    .join('')
+  const recommendedActions = createRecommendedActions(chart)
     .map((line) => `<li>${escapeXml(line)}</li>`)
     .join('')
 
@@ -409,20 +547,23 @@ function createChartAttachmentHtml(chart: PendingChart) {
     '<meta charset="utf-8" />',
     `<title>${title}</title>`,
     '<style>',
-    'body{font-family:Arial,sans-serif;background:#f8fafc;margin:0;padding:32px;color:#0f172a}',
-    '.wrap{max-width:1100px;margin:0 auto}',
-    '.card{background:#fff;border:1px solid #e2e8f0;border-radius:22px;padding:28px 32px;box-shadow:0 14px 34px rgba(15,23,42,.08);margin-bottom:24px}',
-    'h1{font-size:32px;margin:0 0 10px} h2{font-size:22px;margin:0 0 16px}',
+    'body{font-family:Arial,sans-serif;background:linear-gradient(180deg,#f8fafc 0%,#eef2ff 100%);margin:0;padding:32px;color:#0f172a}',
+    '.wrap{max-width:1180px;margin:0 auto}',
+    '.hero{background:linear-gradient(135deg,#0f172a 0%,#1d4ed8 55%,#38bdf8 100%);color:#fff;border-radius:28px;padding:34px 36px;box-shadow:0 24px 48px rgba(15,23,42,.18);margin-bottom:24px}',
+    '.card{background:#fff;border:1px solid #e2e8f0;border-radius:24px;padding:28px 32px;box-shadow:0 14px 34px rgba(15,23,42,.08);margin-bottom:24px}',
+    '.grid{display:grid;grid-template-columns:1.2fr .8fr;gap:24px;align-items:start}',
+    'h1{font-size:36px;margin:0 0 10px} h2{font-size:22px;margin:0 0 16px}',
     'p,li{font-size:16px;line-height:1.65} ul{padding-left:22px;margin:0}',
     '.meta{color:#64748b;font-size:14px}',
     '.chart svg{width:100%;height:auto;display:block}',
+    '.pill{display:inline-flex;padding:8px 12px;border-radius:999px;background:rgba(255,255,255,.16);font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;margin-bottom:18px}',
     '</style>',
     '</head>',
     '<body>',
     '<div class="wrap">',
-    `<section class="card"><h1>${title}</h1><p>${description}</p><p class="meta">Vygenerováno ${generatedAt}</p></section>`,
-    `<section class="card"><h2>Graf</h2><div class="chart">${createChartSvg(chart)}</div></section>`,
-    `<section class="card"><h2>Klíčové body</h2><ul>${summaryItems}</ul></section>`,
+    `<section class="hero"><span class="pill">${escapeXml(REPORT_BRAND_NAME)}</span><h1>${title}</h1><p>${description}</p><p style="margin-top:14px;font-size:14px;opacity:.9;">Vygenerováno ${generatedAt}</p></section>`,
+    `<section class="card"><div class="grid"><div><h2>Graf</h2><div class="chart">${createChartSvg(chart)}</div></div><div><h2>Executive summary</h2><ul>${summaryItems}</ul></div></div></section>`,
+    `<section class="card"><div class="grid"><div><h2>Doporučení</h2><ul>${recommendedActions}</ul></div><div><h2>Top položky</h2>${createChartDataTableHtml(chart, 10)}</div></div></section>`,
     '</div>',
     '</body>',
     '</html>',
@@ -457,14 +598,140 @@ async function createChartJpegBase64(chart: PendingChart) {
     .then((buffer) => buffer.toString('base64'))
 }
 
+const REPORT_BRAND_NAME = 'PepaOS Back Office'
+const REPORT_BRAND_TAGLINE = 'Executive output prepared by PepaOS'
+
+function getChartAttachmentBaseName(chart: PendingChart) {
+  const dateStamp = new Date(chart.createdAt || Date.now()).toISOString().slice(0, 10).replace(/-/g, '')
+  return `pepaos-${slugifyFilename(chart.title || 'graf')}-${dateStamp}`
+}
+
+async function createChartPdfBase64(chart: PendingChart) {
+  const pdf = await PDFDocument.create()
+  const page = pdf.addPage([842, 595])
+  const fontRegular = await pdf.embedFont(StandardFonts.Helvetica)
+  const fontBold = await pdf.embedFont(StandardFonts.HelveticaBold)
+  const jpgBytes = Buffer.from(await createChartJpegBase64(chart), 'base64')
+  const jpgImage = await pdf.embedJpg(jpgBytes)
+  const imageDims = jpgImage.scale(0.48)
+  const insights = createExecutiveInsights(chart)
+  const actions = createRecommendedActions(chart)
+  const generatedAt = new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
+
+  page.drawRectangle({ x: 0, y: 0, width: 842, height: 595, color: rgb(0.97, 0.98, 1) })
+  page.drawRectangle({ x: 28, y: 500, width: 786, height: 66, color: rgb(0.06, 0.1, 0.2) })
+  page.drawText(REPORT_BRAND_NAME.toUpperCase(), { x: 46, y: 540, size: 11, font: fontBold, color: rgb(0.75, 0.9, 1) })
+  page.drawText(getChartHeadline(chart), { x: 46, y: 514, size: 24, font: fontBold, color: rgb(1, 1, 1) })
+  page.drawText(getChartSubheadline(chart), { x: 46, y: 490, size: 10, font: fontRegular, color: rgb(0.85, 0.9, 0.96) })
+
+  page.drawImage(jpgImage, {
+    x: 36,
+    y: 160,
+    width: Math.min(imageDims.width, 360),
+    height: Math.min(imageDims.height, 250),
+  })
+
+  page.drawText(`Vygenerováno: ${generatedAt}`, { x: 36, y: 140, size: 10, font: fontRegular, color: rgb(0.39, 0.45, 0.55) })
+
+  page.drawText('Executive summary', { x: 440, y: 455, size: 16, font: fontBold, color: rgb(0.06, 0.1, 0.2) })
+  insights.slice(0, 4).forEach((line, index) => {
+    page.drawText(`• ${line}`, {
+      x: 440,
+      y: 430 - index * 28,
+      size: 11,
+      font: fontRegular,
+      color: rgb(0.2, 0.24, 0.3),
+      maxWidth: 330,
+      lineHeight: 14,
+    })
+  })
+
+  page.drawText('Doporučené kroky', { x: 440, y: 280, size: 16, font: fontBold, color: rgb(0.06, 0.1, 0.2) })
+  actions.slice(0, 3).forEach((line, index) => {
+    page.drawText(`• ${line}`, {
+      x: 440,
+      y: 255 - index * 28,
+      size: 11,
+      font: fontRegular,
+      color: rgb(0.2, 0.24, 0.3),
+      maxWidth: 330,
+      lineHeight: 14,
+    })
+  })
+
+  const bytes = await pdf.save()
+  return Buffer.from(bytes).toString('base64')
+}
+
+async function createPresentationPptxBase64(chart: PendingChart) {
+  const pptx = new PptxGenJS()
+  pptx.layout = 'LAYOUT_WIDE'
+  pptx.author = REPORT_BRAND_NAME
+  pptx.company = REPORT_BRAND_NAME
+  pptx.subject = getChartHeadline(chart)
+  pptx.title = getChartHeadline(chart)
+  pptx.theme = {
+    headFontFace: 'Aptos Display',
+    bodyFontFace: 'Aptos',
+  }
+
+  const chartJpegDataUri = `data:image/jpeg;base64,${await createChartJpegBase64(chart)}`
+  const generatedAt = new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
+
+  const cover = pptx.addSlide()
+  cover.background = { color: 'F8FAFC' }
+  cover.addShape(pptx.ShapeType.roundRect, { x: 0.3, y: 0.3, w: 12.7, h: 1, fill: { color: '0F172A' }, line: { color: '0F172A' } })
+  cover.addText(REPORT_BRAND_TAGLINE, { x: 0.55, y: 0.55, w: 4.8, h: 0.25, fontSize: 10, bold: true, color: 'BAE6FD' })
+  cover.addText(getChartHeadline(chart), { x: 0.55, y: 1.55, w: 8.5, h: 0.6, fontSize: 24, bold: true, color: '0F172A' })
+  cover.addText(getChartSubheadline(chart), { x: 0.55, y: 2.2, w: 8.7, h: 0.45, fontSize: 12, color: '475569' })
+  cover.addText(`Vygenerováno: ${generatedAt}`, { x: 0.55, y: 3.05, w: 3.5, h: 0.3, fontSize: 10, color: '64748B' })
+  cover.addText(REPORT_BRAND_NAME, { x: 8.2, y: 6.7, w: 4.1, h: 0.25, align: 'right', fontSize: 11, color: '64748B' })
+
+  const summarySlide = pptx.addSlide()
+  summarySlide.background = { color: 'FFFFFF' }
+  summarySlide.addText('Graf a hlavní zjištění', { x: 0.55, y: 0.45, w: 4.5, h: 0.4, fontSize: 22, bold: true, color: '0F172A' })
+  summarySlide.addImage({ data: chartJpegDataUri, x: 0.55, y: 1.05, w: 6.2, h: 3.75 })
+  summarySlide.addShape(pptx.ShapeType.roundRect, { x: 7.1, y: 1.05, w: 5.6, h: 4.6, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+  summarySlide.addText('Executive summary', { x: 7.4, y: 1.35, w: 2.8, h: 0.3, fontSize: 15, bold: true, color: '0F172A' })
+  summarySlide.addText(
+    createExecutiveInsights(chart).slice(0, 4).map((line) => ({ text: `${line}`, options: { bullet: { indent: 12 } } })),
+    { x: 7.35, y: 1.8, w: 5.0, h: 3.2, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 }
+  )
+
+  const actionsSlide = pptx.addSlide()
+  actionsSlide.background = { color: 'FFFFFF' }
+  actionsSlide.addText('Doporučené kroky a top položky', { x: 0.55, y: 0.45, w: 5.6, h: 0.4, fontSize: 22, bold: true, color: '0F172A' })
+  actionsSlide.addShape(pptx.ShapeType.roundRect, { x: 0.55, y: 1.1, w: 5.75, h: 5.6, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+  actionsSlide.addShape(pptx.ShapeType.roundRect, { x: 6.6, y: 1.1, w: 6.15, h: 5.6, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+  actionsSlide.addText('Doporučení', { x: 0.85, y: 1.4, w: 2.2, h: 0.3, fontSize: 15, bold: true, color: '0F172A' })
+  actionsSlide.addText(
+    createRecommendedActions(chart).map((line) => ({ text: `${line}`, options: { bullet: { indent: 12 } } })),
+    { x: 0.8, y: 1.85, w: 5.0, h: 4.2, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 }
+  )
+  actionsSlide.addText('Top položky', { x: 6.9, y: 1.4, w: 2.2, h: 0.3, fontSize: 15, bold: true, color: '0F172A' })
+  getTopChartRows(chart, 6).forEach((row, index) => {
+    actionsSlide.addText(`${index + 1}. ${row.label}`, { x: 6.95, y: 1.9 + index * 0.62, w: 4.15, h: 0.25, fontSize: 11, bold: true, color: '0F172A' })
+    actionsSlide.addText(String(row.value), { x: 11.2, y: 1.9 + index * 0.62, w: 1.0, h: 0.25, fontSize: 11, align: 'right', color: '334155' })
+    actionsSlide.addShape(pptx.ShapeType.line, { x: 6.9, y: 2.3 + index * 0.62, w: 5.3, h: 0, line: { color: 'E2E8F0', width: 1 } })
+  })
+
+  const output = await pptx.write({ outputType: 'nodebuffer' })
+  const normalizedBuffer =
+    output instanceof Uint8Array
+      ? Buffer.from(output)
+      : output instanceof ArrayBuffer
+        ? Buffer.from(new Uint8Array(output))
+        : Buffer.isBuffer(output)
+          ? output
+          : Buffer.from(String(output))
+  return normalizedBuffer.toString('base64')
+}
+
 function createChartEmailHtml(chart: PendingChart, body?: string | null) {
-  const title = escapeXml(chart.title || 'Graf')
-  const description = escapeXml(chart.description || 'Datový výstup z aplikace')
+  const title = escapeXml(getChartHeadline(chart))
+  const description = escapeXml(getChartSubheadline(chart))
   const intro = escapeXml(body || `V příloze posílám graf: ${title}.`)
-  const summaryItems = summarizeChart(chart)
-    .split('\n')
-    .filter(Boolean)
-    .slice(0, 8)
+  const summaryItems = createExecutiveInsights(chart)
     .map((line) => `<li>${escapeXml(line)}</li>`)
     .join('')
 
@@ -472,14 +739,19 @@ function createChartEmailHtml(chart: PendingChart, body?: string | null) {
     '<!doctype html>',
     '<html lang="cs">',
     '<body style="margin:0;padding:24px;background:#f8fafc;color:#0f172a;font-family:Arial,sans-serif;">',
-    '<div style="max-width:760px;margin:0 auto;background:#ffffff;border:1px solid #e2e8f0;border-radius:20px;padding:28px;">',
-    `<h1 style="margin:0 0 8px;font-size:28px;">${title}</h1>`,
-    `<p style="margin:0 0 10px;color:#334155;">${description}</p>`,
-    `<p style="margin:0 0 18px;color:#0f172a;">${intro}</p>`,
-    `<div style="margin:0 0 20px;">${createChartSvg(chart)}</div>`,
-    `<h2 style="font-size:18px;margin:0 0 10px;">Shrnutí</h2>`,
-    `<ul style="padding-left:20px;margin:0;color:#334155;">${summaryItems}</ul>`,
-    '<p style="margin:20px 0 0;color:#64748b;font-size:13px;">Přikládám i export grafu / reportu jako soubor pro další sdílení.</p>',
+    '<div style="max-width:820px;margin:0 auto;background:#ffffff;border:1px solid #e2e8f0;border-radius:24px;overflow:hidden;">',
+    '<div style="padding:28px 30px;background:linear-gradient(135deg,#0f172a 0%,#1d4ed8 60%,#38bdf8 100%);color:#ffffff;">',
+    `<div style="display:inline-flex;padding:7px 12px;border-radius:999px;background:rgba(255,255,255,.16);font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:700;margin-bottom:16px;">${escapeXml(REPORT_BRAND_NAME)}</div>`,
+    `<h1 style="margin:0 0 8px;font-size:30px;line-height:1.2;">${title}</h1>`,
+    `<p style="margin:0;color:rgba(255,255,255,.86);font-size:15px;">${description}</p>`,
+    '</div>',
+    '<div style="padding:28px 30px;">',
+    `<p style="margin:0 0 18px;color:#0f172a;font-size:15px;line-height:1.65;">${intro}</p>`,
+    `<div style="margin:0 0 20px;padding:18px;background:#f8fafc;border:1px solid #e2e8f0;border-radius:20px;">${createChartSvg(chart)}</div>`,
+    `<h2 style="font-size:18px;margin:0 0 10px;">Shrnutí pro vedení</h2>`,
+    `<ul style="padding-left:20px;margin:0;color:#334155;line-height:1.65;">${summaryItems}</ul>`,
+    '<p style="margin:20px 0 0;color:#64748b;font-size:13px;">V příloze je přiložen export grafu a případně i další požadované formáty pro další sdílení.</p>',
+    '</div>',
     '</div>',
     '</body>',
     '</html>',
@@ -1739,6 +2011,14 @@ const tools: any[] = [
             type: "boolean",
             description: "If true, also attach a simple HTML presentation with the chart and summary."
           },
+          includePptx: {
+            type: "boolean",
+            description: "If true, attach the presentation as a real PowerPoint PPTX file."
+          },
+          includePdf: {
+            type: "boolean",
+            description: "If true, attach the chart report as a PDF file."
+          },
           includeCsv: {
             type: "boolean",
             description: "If true, also attach chart data as a CSV file."
@@ -2832,9 +3112,9 @@ async function executeTool(toolCall: any) {
         throw new Error('Žádný připravený graf k odeslání nemám. Nejdříve vytvoř graf.')
       }
       const chartTitle = chart.title || 'Vygenerovaný graf'
-      const chartFilenameBase = slugifyFilename(chartTitle)
+      const chartFilenameBase = getChartAttachmentBaseName(chart)
       const chartEmailBody = [
-        parsedArgs.body || `V příloze posílám graf: ${chartTitle}.`,
+        parsedArgs.body || `V příloze posílám výstup z ${REPORT_BRAND_NAME}: ${chartTitle}.`,
         '',
         summarizeChart(chart),
       ].join('\n')
@@ -2843,6 +3123,8 @@ async function executeTool(toolCall: any) {
         typeof parsedArgs.includeJpeg === 'boolean' ||
         typeof parsedArgs.includeCsv === 'boolean' ||
         typeof parsedArgs.includePresentation === 'boolean' ||
+        typeof parsedArgs.includePptx === 'boolean' ||
+        typeof parsedArgs.includePdf === 'boolean' ||
         typeof parsedArgs.includeSvg === 'boolean' ||
         typeof parsedArgs.includeHtmlReport === 'boolean'
 
@@ -2851,6 +3133,8 @@ async function executeTool(toolCall: any) {
       const includeJpeg = Boolean(parsedArgs.includeJpeg)
       const includeCsv = Boolean(parsedArgs.includeCsv)
       const includePresentation = Boolean(parsedArgs.includePresentation)
+      const includePptx = Boolean(parsedArgs.includePptx)
+      const includePdf = Boolean(parsedArgs.includePdf)
 
       const chartAttachments: EmailAttachment[] = []
 
@@ -2876,6 +3160,14 @@ async function executeTool(toolCall: any) {
           encoding: 'base64',
         })
       }
+      if (includePdf) {
+        chartAttachments.push({
+          filename: `${chartFilenameBase}-report.pdf`,
+          contentType: 'application/pdf',
+          content: await createChartPdfBase64(chart),
+          encoding: 'base64',
+        })
+      }
       if (includeCsv) {
         chartAttachments.push({
           filename: `${chartFilenameBase}.csv`,
@@ -2890,9 +3182,17 @@ async function executeTool(toolCall: any) {
           content: createPresentationHtml(chart),
         })
       }
+      if (includePptx) {
+        chartAttachments.push({
+          filename: `${chartFilenameBase}-prezentace.pptx`,
+          contentType: 'application/vnd.openxmlformats-officedocument.presentationml.presentation',
+          content: await createPresentationPptxBase64(chart),
+          encoding: 'base64',
+        })
+      }
       const chartMailResult = await send_email(
         parsedArgs.to,
-        parsedArgs.subject || `${chartTitle}`,
+        parsedArgs.subject || `${REPORT_BRAND_NAME}: ${chartTitle}`,
         chartEmailBody,
         chartEmailHtml,
         chartAttachments
@@ -2987,7 +3287,7 @@ export async function POST(request: NextRequest) {
       const pendingMarketContext = pendingMarketContextByUser[userId]
       const pendingInfo = pendingEmail ? `\n\nPENDING EMAIL DRAFT:\nTo: ${pendingEmail.to}\nSubject: ${pendingEmail.subject}\nBody: ${pendingEmail.body}\n\nIf user wants to send this email, use send_pending_email tool.` : ''
       const chartInfo = pendingChart
-        ? `\n\nPENDING CHART:\nTitle: ${pendingChart.title || 'Graf'}\nType: ${pendingChart.type}\nDescription: ${pendingChart.description || 'N/A'}\nCreatedAt: ${pendingChart.createdAt || 'unknown'}\nData: ${JSON.stringify(pendingChart.data)}\n\nIf user wants to send this chart as email attachment, use send_chart_email tool. If the user wants a simple presentation too, set includePresentation=true. If the user wants data in CSV, set includeCsv=true. If the user wants an image attachment in JPEG, set includeJpeg=true. If the user explicitly asks for JPEG only, do not also attach SVG or HTML unless they ask for them.`
+        ? `\n\nPENDING CHART:\nTitle: ${pendingChart.title || 'Graf'}\nType: ${pendingChart.type}\nDescription: ${pendingChart.description || 'N/A'}\nCreatedAt: ${pendingChart.createdAt || 'unknown'}\nData: ${JSON.stringify(pendingChart.data)}\n\nIf user wants to send this chart as email attachment, use send_chart_email tool. If the user wants a simple HTML presentation too, set includePresentation=true. If the user wants a real PowerPoint file, set includePptx=true. If the user wants a PDF report, set includePdf=true. If the user wants data in CSV, set includeCsv=true. If the user wants an image attachment in JPEG, set includeJpeg=true. If the user explicitly asks for only one format, do not add other attachments unless asked.`
         : ''
       const marketInfo = pendingMarketContext
         ? `\n\nMOST RECENT MARKET CONTEXT:\nSources: ${JSON.stringify(pendingMarketContext.sources || [])}\nCategory: ${pendingMarketContext.category || 'unknown'}\nLocation: ${pendingMarketContext.locationLabel || 'anywhere'}\nShown listings count: ${pendingMarketContext.listings?.length || 0}\n\nUse this when the user follows up with phrases like "na tom webu", "ty nabídky", "libovolnou nabídku", or does not repeat the website/category/location. If the user asks to save the already shown listings, use save_recent_market_listings_to_database so you store exactly those shown results.`
@@ -3040,9 +3340,9 @@ IMPORTANT GUIDELINES:
 - Only use send_email if user explicitly says "send", "odesli", "pošli", or similar
 - Default behavior is to create drafts for review
 - When the user asks to schedule or automate recurring email sending, create a workflow with create_scheduled_email_workflow instead of sending the email immediately.
-- When the user wants to send a generated chart by email, use send_chart_email. If they ask for a simple presentation as well, set includePresentation=true so the email contains both the chart SVG and a lightweight HTML presentation.
+- When the user wants to send a generated chart by email, use send_chart_email. If they ask for a simple HTML presentation, set includePresentation=true. If they ask for a real PowerPoint, set includePptx=true. If they ask for a PDF report, set includePdf=true.
 - If the user asks for chart data as a table or attachment, set includeCsv=true so the email also contains a CSV export of the chart data.
-- If the user asks for exactly three presentation slides, the current HTML presentation already uses a 3-slide layout.
+- If the user asks for exactly three presentation slides, the PPTX export should be the preferred choice when they ask for PowerPoint, otherwise the HTML presentation already uses a 3-slide layout.
 - If the user asks for the chart as an image or JPEG attachment, set includeJpeg=true.
 - If the user explicitly asks for only one attachment format, send only that format and do not add extra chart attachments unless requested.
 - If the user asks in one message to create a chart and send it by email, do both in the same turn. Do not ask a follow-up question about formats unless the request is ambiguous.

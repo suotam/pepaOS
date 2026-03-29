@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { deleteDataRecord, getDataRecord, isDataEntity, updateDataRecord } from '../../../../../lib/data-admin'
+import { deleteDataRecord, getDataRecordDetail, isDataEntity, updateDataRecord } from '../../../../../lib/data-admin'
 
 export const dynamic = 'force-dynamic'
 
@@ -20,8 +20,8 @@ function assertEntity(entity: string) {
 export async function GET(_request: NextRequest, context: RouteContext) {
   try {
     const entity = assertEntity(context.params.entity)
-    const record = await getDataRecord(entity, context.params.id)
-    return NextResponse.json({ record })
+    const detail = await getDataRecordDetail(entity, context.params.id)
+    return NextResponse.json(detail)
   } catch (error) {
     return NextResponse.json(
       { error: error instanceof Error ? error.message : 'Failed to load record' },
