@@ -681,6 +681,18 @@ function getPresentationSlides(chart: PendingChart): PresentationSlideSpec[] {
   )
 }
 
+function formatPptxBulletText(lines?: string[]) {
+  if (!Array.isArray(lines) || lines.length === 0) {
+    return 'Bez doplňujících bodů.'
+  }
+
+  return lines
+    .map((line) => String(line).trim())
+    .filter(Boolean)
+    .map((line) => `• ${line}`)
+    .join('\n')
+}
+
 async function createChartNarrativeSpec(chart: PendingChart): Promise<ChartNarrativeSpec | null> {
   if (!openai) return null
 
@@ -1186,113 +1198,156 @@ async function createChartPdfBase64(chart: PendingChart) {
 }
 
 async function createPresentationPptxBase64(chart: PendingChart) {
-  const pptx = new PptxGenJS()
-  pptx.layout = 'LAYOUT_WIDE'
-  pptx.author = REPORT_BRAND_NAME
-  pptx.company = REPORT_BRAND_NAME
-  pptx.subject = getChartHeadline(chart)
-  pptx.title = getChartHeadline(chart)
-  pptx.theme = {
-    headFontFace: 'Aptos Display',
-    bodyFontFace: 'Aptos',
-  }
+  try {
+    const pptx = new PptxGenJS()
+    pptx.layout = 'LAYOUT_WIDE'
+    pptx.author = REPORT_BRAND_NAME
+    pptx.company = REPORT_BRAND_NAME
+    pptx.subject = getChartHeadline(chart)
+    pptx.title = getChartHeadline(chart)
+    pptx.theme = {
+      headFontFace: 'Aptos Display',
+      bodyFontFace: 'Aptos',
+    }
 
-  const chartJpegDataUri = `data:image/jpeg;base64,${await createChartJpegBase64(chart)}`
-  const generatedAt = new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
-  const slides = getPresentationSlides(chart)
+    const chartJpegDataUri = `data:image/jpeg;base64,${await createChartJpegBase64(chart)}`
+    const generatedAt = new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
+    const slides = getPresentationSlides(chart)
 
-  slides.forEach((slide, index) => {
-    const pptSlide = pptx.addSlide()
-    pptSlide.background = { color: index === 0 ? 'F8FAFC' : 'FFFFFF' }
+    slides.forEach((slide, index) => {
+      const pptSlide = pptx.addSlide()
+      pptSlide.background = { color: index === 0 ? 'F8FAFC' : 'FFFFFF' }
 
-    if (slide.layout === 'cover' || index === 0) {
-      pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.3, y: 0.3, w: 12.7, h: 1, fill: { color: '0F172A' }, line: { color: '0F172A' } })
-      pptSlide.addText(REPORT_BRAND_TAGLINE, { x: 0.55, y: 0.55, w: 4.8, h: 0.25, fontSize: 10, bold: true, color: 'BAE6FD' })
-      pptSlide.addText(slide.title, { x: 0.55, y: 1.55, w: 9.2, h: 0.65, fontSize: 24, bold: true, color: '0F172A' })
+      if (slide.layout === 'cover' || index === 0) {
+        pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.3, y: 0.3, w: 12.7, h: 1, fill: { color: '0F172A' }, line: { color: '0F172A' } })
+        pptSlide.addText(REPORT_BRAND_TAGLINE, { x: 0.55, y: 0.55, w: 4.8, h: 0.25, fontSize: 10, bold: true, color: 'BAE6FD' })
+        pptSlide.addText(slide.title, { x: 0.55, y: 1.55, w: 9.2, h: 0.65, fontSize: 24, bold: true, color: '0F172A' })
+        if (slide.subtitle) {
+          pptSlide.addText(slide.subtitle, { x: 0.55, y: 2.2, w: 8.8, h: 0.6, fontSize: 12, color: '475569' })
+        }
+        if (slide.insight) {
+          pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.55, y: 3.0, w: 7.9, h: 1.4, rectRadius: 0.12, fill: { color: 'FFFFFF' }, line: { color: 'DBEAFE' } })
+          pptSlide.addText(slide.insight, { x: 0.8, y: 3.35, w: 7.3, h: 0.7, fontSize: 13, color: '334155', breakLine: true })
+        }
+        if (Array.isArray(slide.kpis) && slide.kpis.length > 0) {
+          slide.kpis.slice(0, 3).forEach((item, kpiIndex) => {
+            pptSlide.addShape(pptx.ShapeType.roundRect, { x: 8.8, y: 1.65 + kpiIndex * 1.25, w: 3.4, h: 0.95, rectRadius: 0.1, fill: { color: 'EFF6FF' }, line: { color: 'BFDBFE' } })
+            pptSlide.addText(item.label, { x: 9.05, y: 1.88 + kpiIndex * 1.25, w: 2.9, h: 0.2, fontSize: 9, bold: true, color: '1D4ED8' })
+            pptSlide.addText(item.value, { x: 9.05, y: 2.13 + kpiIndex * 1.25, w: 2.9, h: 0.3, fontSize: 18, bold: true, color: '0F172A' })
+          })
+        }
+        pptSlide.addText(`Vygenerováno: ${generatedAt}`, { x: 0.55, y: 6.8, w: 3.5, h: 0.25, fontSize: 10, color: '64748B' })
+        pptSlide.addText(REPORT_BRAND_NAME, { x: 8.2, y: 6.75, w: 4.1, h: 0.25, align: 'right', fontSize: 11, color: '64748B' })
+        return
+      }
+
+      pptSlide.addText(slide.title, { x: 0.55, y: 0.45, w: 7.0, h: 0.42, fontSize: 22, bold: true, color: '0F172A' })
       if (slide.subtitle) {
-        pptSlide.addText(slide.subtitle, { x: 0.55, y: 2.2, w: 8.8, h: 0.6, fontSize: 12, color: '475569' })
+        pptSlide.addText(slide.subtitle, { x: 0.55, y: 0.88, w: 8.8, h: 0.28, fontSize: 11, color: '64748B' })
       }
+
+      if (slide.layout === 'chart-summary') {
+        pptSlide.addImage({ data: chartJpegDataUri, x: 0.55, y: 1.25, w: 6.15, h: 3.75 })
+        pptSlide.addShape(pptx.ShapeType.roundRect, { x: 7.05, y: 1.25, w: 5.65, h: 4.15, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+        pptSlide.addText('Klíčové body', { x: 7.35, y: 1.55, w: 2.6, h: 0.25, fontSize: 15, bold: true, color: '0F172A' })
+        pptSlide.addText(formatPptxBulletText(slide.bullets), { x: 7.3, y: 1.95, w: 5.0, h: 2.45, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 })
+        if (slide.insight) {
+          pptSlide.addText('Executive insight', { x: 7.35, y: 4.55, w: 2.8, h: 0.22, fontSize: 13, bold: true, color: '0F172A' })
+          pptSlide.addText(slide.insight, { x: 7.35, y: 4.86, w: 5.0, h: 0.55, fontSize: 10, color: '475569', breakLine: true })
+        }
+        if (Array.isArray(slide.kpis) && slide.kpis.length > 0) {
+          slide.kpis.slice(0, 3).forEach((item, kpiIndex) => {
+            pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.75 + kpiIndex * 2.05, y: 5.35, w: 1.85, h: 0.95, rectRadius: 0.1, fill: { color: 'EFF6FF' }, line: { color: 'BFDBFE' } })
+            pptSlide.addText(item.label, { x: 0.95 + kpiIndex * 2.05, y: 5.58, w: 1.45, h: 0.18, fontSize: 8, bold: true, color: '1D4ED8' })
+            pptSlide.addText(item.value, { x: 0.95 + kpiIndex * 2.05, y: 5.83, w: 1.45, h: 0.24, fontSize: 14, bold: true, color: '0F172A' })
+          })
+        }
+        return
+      }
+
+      pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.55, y: 1.15, w: 5.8, h: 5.55, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+      pptSlide.addShape(pptx.ShapeType.roundRect, { x: 6.6, y: 1.15, w: 6.1, h: 5.55, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+      pptSlide.addText('Doporučené kroky', { x: 0.85, y: 1.45, w: 2.6, h: 0.25, fontSize: 15, bold: true, color: '0F172A' })
+      pptSlide.addText(formatPptxBulletText(slide.bullets), { x: 0.8, y: 1.85, w: 5.0, h: 3.65, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 })
       if (slide.insight) {
-        pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.55, y: 3.0, w: 7.9, h: 1.4, rectRadius: 0.12, fill: { color: 'FFFFFF' }, line: { color: 'DBEAFE' } })
-        pptSlide.addText(slide.insight, { x: 0.8, y: 3.35, w: 7.3, h: 0.7, fontSize: 13, color: '334155', breakLine: true })
+        pptSlide.addText('Komentář', { x: 0.85, y: 5.72, w: 2.0, h: 0.2, fontSize: 13, bold: true, color: '0F172A' })
+        pptSlide.addText(slide.insight, { x: 0.85, y: 6.0, w: 5.0, h: 0.45, fontSize: 10, color: '475569', breakLine: true })
       }
+
+      pptSlide.addText('Top data a KPI', { x: 6.9, y: 1.45, w: 2.6, h: 0.25, fontSize: 15, bold: true, color: '0F172A' })
       if (Array.isArray(slide.kpis) && slide.kpis.length > 0) {
-        slide.kpis.slice(0, 3).forEach((item, kpiIndex) => {
-          pptSlide.addShape(pptx.ShapeType.roundRect, { x: 8.8 + (kpiIndex % 1) * 0, y: 1.65 + kpiIndex * 1.25, w: 3.4, h: 0.95, rectRadius: 0.1, fill: { color: 'EFF6FF' }, line: { color: 'BFDBFE' } })
-          pptSlide.addText(item.label, { x: 9.05, y: 1.88 + kpiIndex * 1.25, w: 2.9, h: 0.2, fontSize: 9, bold: true, color: '1D4ED8' })
-          pptSlide.addText(item.value, { x: 9.05, y: 2.13 + kpiIndex * 1.25, w: 2.9, h: 0.3, fontSize: 18, bold: true, color: '0F172A' })
+        slide.kpis.slice(0, 4).forEach((item, rowIndex) => {
+          pptSlide.addText(item.label, { x: 6.95, y: 1.92 + rowIndex * 0.72, w: 3.95, h: 0.22, fontSize: 11, bold: true, color: '0F172A' })
+          pptSlide.addText(item.value, { x: 10.95, y: 1.92 + rowIndex * 0.72, w: 1.0, h: 0.22, fontSize: 11, align: 'right', color: '334155' })
+          pptSlide.addShape(pptx.ShapeType.line, { x: 6.9, y: 2.3 + rowIndex * 0.72, w: 5.15, h: 0, line: { color: 'E2E8F0', width: 1 } })
+        })
+      } else {
+        getTopChartRows(chart, 6).forEach((row, rowIndex) => {
+          pptSlide.addText(`${rowIndex + 1}. ${row.label}`, { x: 6.95, y: 1.92 + rowIndex * 0.62, w: 4.0, h: 0.22, fontSize: 11, bold: true, color: '0F172A' })
+          pptSlide.addText(String(row.value), { x: 11.05, y: 1.92 + rowIndex * 0.62, w: 0.9, h: 0.22, fontSize: 11, align: 'right', color: '334155' })
+          pptSlide.addShape(pptx.ShapeType.line, { x: 6.9, y: 2.28 + rowIndex * 0.62, w: 5.15, h: 0, line: { color: 'E2E8F0', width: 1 } })
         })
       }
-      pptSlide.addText(`Vygenerováno: ${generatedAt}`, { x: 0.55, y: 6.8, w: 3.5, h: 0.25, fontSize: 10, color: '64748B' })
-      pptSlide.addText(REPORT_BRAND_NAME, { x: 8.2, y: 6.75, w: 4.1, h: 0.25, align: 'right', fontSize: 11, color: '64748B' })
-      return
-    }
+    })
 
-    pptSlide.addText(slide.title, { x: 0.55, y: 0.45, w: 7.0, h: 0.42, fontSize: 22, bold: true, color: '0F172A' })
-    if (slide.subtitle) {
-      pptSlide.addText(slide.subtitle, { x: 0.55, y: 0.88, w: 8.8, h: 0.28, fontSize: 11, color: '64748B' })
-    }
+    const output = await pptx.write({ outputType: 'nodebuffer' })
+    const normalizedBuffer =
+      output instanceof Uint8Array
+        ? Buffer.from(output)
+        : output instanceof ArrayBuffer
+          ? Buffer.from(new Uint8Array(output))
+          : Buffer.isBuffer(output)
+            ? output
+            : Buffer.from(String(output))
+    return normalizedBuffer.toString('base64')
+  } catch (error) {
+    console.log('Failed to create advanced PPTX presentation, using fallback deck:', error)
 
-    if (slide.layout === 'chart-summary') {
-      pptSlide.addImage({ data: chartJpegDataUri, x: 0.55, y: 1.25, w: 6.15, h: 3.75 })
-      pptSlide.addShape(pptx.ShapeType.roundRect, { x: 7.05, y: 1.25, w: 5.65, h: 4.15, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
-      pptSlide.addText('Klíčové body', { x: 7.35, y: 1.55, w: 2.6, h: 0.25, fontSize: 15, bold: true, color: '0F172A' })
-      pptSlide.addText(
-        (slide.bullets || []).map((line) => ({ text: `${line}`, options: { bullet: { indent: 12 } } })),
-        { x: 7.3, y: 1.95, w: 5.0, h: 2.45, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 }
-      )
-      if (slide.insight) {
-        pptSlide.addText('Executive insight', { x: 7.35, y: 4.55, w: 2.8, h: 0.22, fontSize: 13, bold: true, color: '0F172A' })
-        pptSlide.addText(slide.insight, { x: 7.35, y: 4.86, w: 5.0, h: 0.55, fontSize: 10, color: '475569', breakLine: true })
-      }
-      if (Array.isArray(slide.kpis) && slide.kpis.length > 0) {
-        slide.kpis.slice(0, 3).forEach((item, kpiIndex) => {
-          pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.75 + kpiIndex * 2.05, y: 5.35, w: 1.85, h: 0.95, rectRadius: 0.1, fill: { color: 'EFF6FF' }, line: { color: 'BFDBFE' } })
-          pptSlide.addText(item.label, { x: 0.95 + kpiIndex * 2.05, y: 5.58, w: 1.45, h: 0.18, fontSize: 8, bold: true, color: '1D4ED8' })
-          pptSlide.addText(item.value, { x: 0.95 + kpiIndex * 2.05, y: 5.83, w: 1.45, h: 0.24, fontSize: 14, bold: true, color: '0F172A' })
-        })
-      }
-      return
-    }
+    const fallback = new PptxGenJS()
+    fallback.layout = 'LAYOUT_WIDE'
+    fallback.author = REPORT_BRAND_NAME
+    fallback.company = REPORT_BRAND_NAME
+    fallback.subject = getChartHeadline(chart)
+    fallback.title = getChartHeadline(chart)
 
-    pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.55, y: 1.15, w: 5.8, h: 5.55, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
-    pptSlide.addShape(pptx.ShapeType.roundRect, { x: 6.6, y: 1.15, w: 6.1, h: 5.55, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
-    pptSlide.addText('Doporučené kroky', { x: 0.85, y: 1.45, w: 2.6, h: 0.25, fontSize: 15, bold: true, color: '0F172A' })
-    pptSlide.addText(
-      (slide.bullets || []).map((line) => ({ text: `${line}`, options: { bullet: { indent: 12 } } })),
-      { x: 0.8, y: 1.85, w: 5.0, h: 3.65, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 }
+    const chartJpegDataUri = `data:image/jpeg;base64,${await createChartJpegBase64(chart)}`
+    const generatedAt = new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
+    const slides = buildFallbackPresentationSlides(chart)
+
+    const cover = fallback.addSlide()
+    cover.background = { color: 'F8FAFC' }
+    cover.addText(getChartHeadline(chart), { x: 0.6, y: 1.3, w: 8.8, h: 0.6, fontSize: 24, bold: true, color: '0F172A' })
+    cover.addText(getChartSubheadline(chart), { x: 0.6, y: 2.0, w: 8.8, h: 0.5, fontSize: 12, color: '475569' })
+    cover.addText(`Vygenerováno: ${generatedAt}`, { x: 0.6, y: 2.75, w: 3.5, h: 0.2, fontSize: 10, color: '64748B' })
+
+    const chartSlide = fallback.addSlide()
+    chartSlide.background = { color: 'FFFFFF' }
+    chartSlide.addText(slides[1]?.title || 'Graf a shrnutí', { x: 0.55, y: 0.45, w: 6.0, h: 0.35, fontSize: 20, bold: true, color: '0F172A' })
+    chartSlide.addImage({ data: chartJpegDataUri, x: 0.55, y: 1.05, w: 6.2, h: 3.75 })
+    chartSlide.addText(formatPptxBulletText(slides[1]?.bullets), { x: 7.15, y: 1.2, w: 5.0, h: 3.8, fontSize: 11, color: '334155', breakLine: true })
+
+    const actionsSlide = fallback.addSlide()
+    actionsSlide.background = { color: 'FFFFFF' }
+    actionsSlide.addText(slides[2]?.title || 'Doporučené další kroky', { x: 0.55, y: 0.45, w: 6.0, h: 0.35, fontSize: 20, bold: true, color: '0F172A' })
+    actionsSlide.addText(formatPptxBulletText(slides[2]?.bullets), { x: 0.7, y: 1.25, w: 5.4, h: 4.8, fontSize: 11, color: '334155', breakLine: true })
+    actionsSlide.addText(
+      getTopChartRows(chart, 6)
+        .map((row, index) => `${index + 1}. ${row.label}: ${row.value}`)
+        .join('\n'),
+      { x: 6.8, y: 1.25, w: 5.0, h: 4.8, fontSize: 11, color: '334155', breakLine: true }
     )
-    if (slide.insight) {
-      pptSlide.addText('Komentář', { x: 0.85, y: 5.72, w: 2.0, h: 0.2, fontSize: 13, bold: true, color: '0F172A' })
-      pptSlide.addText(slide.insight, { x: 0.85, y: 6.0, w: 5.0, h: 0.45, fontSize: 10, color: '475569', breakLine: true })
-    }
 
-    pptSlide.addText('Top data a KPI', { x: 6.9, y: 1.45, w: 2.6, h: 0.25, fontSize: 15, bold: true, color: '0F172A' })
-    if (Array.isArray(slide.kpis) && slide.kpis.length > 0) {
-      slide.kpis.slice(0, 4).forEach((item, rowIndex) => {
-        pptSlide.addText(item.label, { x: 6.95, y: 1.92 + rowIndex * 0.72, w: 3.95, h: 0.22, fontSize: 11, bold: true, color: '0F172A' })
-        pptSlide.addText(item.value, { x: 10.95, y: 1.92 + rowIndex * 0.72, w: 1.0, h: 0.22, fontSize: 11, align: 'right', color: '334155' })
-        pptSlide.addShape(pptx.ShapeType.line, { x: 6.9, y: 2.3 + rowIndex * 0.72, w: 5.15, h: 0, line: { color: 'E2E8F0', width: 1 } })
-      })
-    } else {
-      getTopChartRows(chart, 6).forEach((row, rowIndex) => {
-        pptSlide.addText(`${rowIndex + 1}. ${row.label}`, { x: 6.95, y: 1.92 + rowIndex * 0.62, w: 4.0, h: 0.22, fontSize: 11, bold: true, color: '0F172A' })
-        pptSlide.addText(String(row.value), { x: 11.05, y: 1.92 + rowIndex * 0.62, w: 0.9, h: 0.22, fontSize: 11, align: 'right', color: '334155' })
-        pptSlide.addShape(pptx.ShapeType.line, { x: 6.9, y: 2.28 + rowIndex * 0.62, w: 5.15, h: 0, line: { color: 'E2E8F0', width: 1 } })
-      })
-    }
-  })
-
-  const output = await pptx.write({ outputType: 'nodebuffer' })
-  const normalizedBuffer =
-    output instanceof Uint8Array
-      ? Buffer.from(output)
-      : output instanceof ArrayBuffer
-        ? Buffer.from(new Uint8Array(output))
-        : Buffer.isBuffer(output)
-          ? output
-          : Buffer.from(String(output))
-  return normalizedBuffer.toString('base64')
+    const output = await fallback.write({ outputType: 'nodebuffer' })
+    const normalizedBuffer =
+      output instanceof Uint8Array
+        ? Buffer.from(output)
+        : output instanceof ArrayBuffer
+          ? Buffer.from(new Uint8Array(output))
+          : Buffer.isBuffer(output)
+            ? output
+            : Buffer.from(String(output))
+    return normalizedBuffer.toString('base64')
+  }
 }
 
 function createChartEmailHtml(chart: PendingChart, body?: string | null) {
