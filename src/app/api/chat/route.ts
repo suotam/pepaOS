@@ -43,6 +43,17 @@ type PendingChart = {
   createdAt?: string
   reportSpec?: ChartNarrativeSpec
 }
+type PresentationSlideSpec = {
+  layout?: 'cover' | 'chart-summary' | 'actions'
+  title: string
+  subtitle?: string
+  bullets?: string[]
+  insight?: string
+  kpis?: Array<{
+    label: string
+    value: string
+  }>
+}
 type ChartNarrativeSpec = {
   headline?: string
   subheadline?: string
@@ -56,6 +67,9 @@ type ChartNarrativeSpec = {
     showSliceLabels?: boolean
     aggregateSmallSlices?: boolean
     sortDescending?: boolean
+  }
+  presentation?: {
+    slides?: PresentationSlideSpec[]
   }
 }
 type ChatMessage = { role: 'user' | 'assistant' | 'tool'; content: string }
@@ -567,6 +581,106 @@ function createRecommendedActions(chart: PendingChart) {
   return actions
 }
 
+function getPresentationKpis(chart: PendingChart) {
+  const summary = getChartKpiSummary(chart)
+  return [
+    {
+      label: 'Celkem',
+      value: String(summary.total),
+    },
+    {
+      label: 'Položek',
+      value: String(summary.itemCount),
+    },
+    ...(summary.top
+      ? [
+          {
+            label: 'Nejsilnější segment',
+            value: String(summary.top.label),
+          },
+        ]
+      : []),
+  ].slice(0, 3)
+}
+
+function buildFallbackPresentationSlides(chart: PendingChart): PresentationSlideSpec[] {
+  const title = getChartHeadline(chart)
+  const subtitle = getChartSubheadline(chart)
+  const insights = createExecutiveInsights(chart)
+  const actions = createRecommendedActions(chart)
+
+  return [
+    {
+      layout: 'cover',
+      title,
+      subtitle,
+      insight:
+        chart.reportSpec?.executiveSummary ||
+        'Stručný management přehled vytvořený nad aktuálními daty v PepaOS.',
+    },
+    {
+      layout: 'chart-summary',
+      title: 'Klíčové poznatky a vizualizace',
+      subtitle: subtitle || 'Shrnutí hlavních signálů z dostupných dat.',
+      bullets: insights.slice(0, 4),
+      insight: chart.reportSpec?.executiveSummary || insights[0],
+      kpis: getPresentationKpis(chart),
+    },
+    {
+      layout: 'actions',
+      title: 'Doporučené další kroky',
+      subtitle: 'Návrh priorit pro další operativní práci týmu.',
+      bullets: actions.slice(0, 4),
+      insight: insights[1] || insights[0] || chart.reportSpec?.executiveSummary,
+      kpis: getTopChartRows(chart, 3).map((row) => ({
+        label: normalizeExportLabel(row.label, 'Polozka'),
+        value: String(row.value),
+      })),
+    },
+  ]
+}
+
+function normalizePresentationSlideSpec(raw: any, fallback: PresentationSlideSpec): PresentationSlideSpec {
+  const parsedBullets = Array.isArray(raw?.bullets)
+    ? raw.bullets.map((item: any) => String(item).trim()).filter(Boolean).slice(0, 5)
+    : fallback.bullets
+
+  const parsedKpis = Array.isArray(raw?.kpis)
+    ? raw.kpis
+        .map((item: any) =>
+          item && typeof item === 'object'
+            ? {
+                label: String(item.label ?? '').trim(),
+                value: String(item.value ?? '').trim(),
+              }
+            : null
+        )
+        .filter((item: { label: string; value: string } | null): item is { label: string; value: string } => Boolean(item?.label && item?.value))
+        .slice(0, 4)
+    : fallback.kpis
+
+  return {
+    layout:
+      raw?.layout === 'cover' || raw?.layout === 'chart-summary' || raw?.layout === 'actions'
+        ? raw.layout
+        : fallback.layout,
+    title: typeof raw?.title === 'string' && raw.title.trim() ? raw.title.trim() : fallback.title,
+    subtitle: typeof raw?.subtitle === 'string' && raw.subtitle.trim() ? raw.subtitle.trim() : fallback.subtitle,
+    bullets: parsedBullets?.length ? parsedBullets : fallback.bullets,
+    insight: typeof raw?.insight === 'string' && raw.insight.trim() ? raw.insight.trim() : fallback.insight,
+    kpis: parsedKpis?.length ? parsedKpis : fallback.kpis,
+  }
+}
+
+function getPresentationSlides(chart: PendingChart): PresentationSlideSpec[] {
+  const fallbackSlides = buildFallbackPresentationSlides(chart)
+  const rawSlides = Array.isArray(chart.reportSpec?.presentation?.slides) ? chart.reportSpec?.presentation?.slides || [] : []
+
+  return fallbackSlides.map((fallbackSlide, index) =>
+    rawSlides[index] ? normalizePresentationSlideSpec(rawSlides[index], fallbackSlide) : fallbackSlide
+  )
+}
+
 async function createChartNarrativeSpec(chart: PendingChart): Promise<ChartNarrativeSpec | null> {
   if (!openai) return null
 
@@ -587,7 +701,7 @@ async function createChartNarrativeSpec(chart: PendingChart): Promise<ChartNarra
         {
           role: 'system',
           content:
-            'You create concise executive report specs in Czech for business charts. Return valid JSON only with keys headline, subheadline, executiveSummary, insights, recommendedActions, layout. Keep headline short. Return 3 insights and 3 recommendedActions max. layout may contain preferredChartType, maxCategories, xLabelMaxLength, showSliceLabels, aggregateSmallSlices, sortDescending. Prefer bar charts for many categories such as cities. Do not use markdown.',
+            'You create concise executive report specs in Czech for business charts. Return valid JSON only with keys headline, subheadline, executiveSummary, insights, recommendedActions, layout, presentation. Keep headline short. Return 3 insights and 3 recommendedActions max. layout may contain preferredChartType, maxCategories, xLabelMaxLength, showSliceLabels, aggregateSmallSlices, sortDescending. Prefer bar charts for many categories such as cities. presentation must contain exactly 3 slides in Czech. Each slide may contain layout (cover, chart-summary, actions), title, subtitle, bullets, insight, kpis. kpis must be an array of objects with label and value. Use concise management language. Do not use markdown.',
         },
         {
           role: 'user',
@@ -616,6 +730,18 @@ async function createChartNarrativeSpec(chart: PendingChart): Promise<ChartNarra
               showSliceLabels: typeof parsed.layout.showSliceLabels === 'boolean' ? parsed.layout.showSliceLabels : undefined,
               aggregateSmallSlices: typeof parsed.layout.aggregateSmallSlices === 'boolean' ? parsed.layout.aggregateSmallSlices : undefined,
               sortDescending: typeof parsed.layout.sortDescending === 'boolean' ? parsed.layout.sortDescending : undefined,
+            }
+          : undefined,
+      presentation:
+        parsed.presentation && typeof parsed.presentation === 'object'
+          ? {
+              slides: Array.isArray(parsed.presentation.slides)
+                ? parsed.presentation.slides
+                    .slice(0, 3)
+                    .map((slide: any, index: number) =>
+                      normalizePresentationSlideSpec(slide, buildFallbackPresentationSlides(chart)[index] || buildFallbackPresentationSlides(chart)[0])
+                    )
+                : undefined,
             }
           : undefined,
     }
@@ -860,18 +986,43 @@ function createChartDataTableHtml(chart: PendingChart, limit = 10) {
 
 function createPresentationHtml(chart: PendingChart) {
   const title = escapeXml(getChartHeadline(chart))
-  const description = escapeXml(getChartSubheadline(chart))
-  const summaryItems = createExecutiveInsights(chart)
-    .slice(0, 6)
-    .map((line) => `<li>${escapeXml(line)}</li>`)
-    .join('')
-  const recommendedActions = createRecommendedActions(chart)
-    .map((line) => `<li>${escapeXml(line)}</li>`)
-    .join('')
-
+  const slides = getPresentationSlides(chart)
   const generatedAt = escapeXml(
     new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
   )
+
+  const slideHtml = slides
+    .map((slide, index) => {
+      const safeTitle = escapeXml(slide.title)
+      const safeSubtitle = slide.subtitle ? `<p>${escapeXml(slide.subtitle)}</p>` : ''
+      const bulletList =
+        Array.isArray(slide.bullets) && slide.bullets.length > 0
+          ? `<ul>${slide.bullets.map((line) => `<li>${escapeXml(line)}</li>`).join('')}</ul>`
+          : '<p style="color:#64748b;">Bez dalších bodů.</p>'
+      const insightBlock = slide.insight
+        ? `<div class="panel"><h2 style="font-size:22px;margin:0 0 16px;">Hlavní insight</h2><p style="margin:0;color:#334155;line-height:1.7;">${escapeXml(slide.insight)}</p></div>`
+        : ''
+      const kpiBlock =
+        Array.isArray(slide.kpis) && slide.kpis.length > 0
+          ? `<div class="panel"><h2 style="font-size:22px;margin:0 0 16px;">Klíčové ukazatele</h2><div style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;">${slide.kpis
+              .map(
+                (item) =>
+                  `<div style="padding:14px;border:1px solid #dbeafe;border-radius:18px;background:#eff6ff;"><div style="font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:#1d4ed8;font-weight:700;">${escapeXml(item.label)}</div><div style="margin-top:8px;font-size:22px;font-weight:700;color:#0f172a;">${escapeXml(item.value)}</div></div>`
+              )
+              .join('')}</div></div>`
+          : `<div class="panel"><h2 style="font-size:22px;margin:0 0 16px;">Top data</h2>${createChartDataTableHtml(chart, 6)}</div>`
+
+      if (slide.layout === 'cover' || index === 0) {
+        return `<section class="slide"><span class="eyebrow">${escapeXml(REPORT_BRAND_NAME)}</span><h1>${safeTitle}</h1>${safeSubtitle}<p class="meta">Vygenerováno: ${generatedAt}</p>${slide.insight ? `<div class="panel" style="margin-top:28px;"><p style="margin:0;color:#334155;line-height:1.8;">${escapeXml(slide.insight)}</p></div>` : ''}</section>`
+      }
+
+      if (slide.layout === 'chart-summary') {
+        return `<section class="slide"><h2>${safeTitle}</h2>${safeSubtitle}<div class="grid"><div class="panel chart">${createChartSvg(chart)}</div><div class="panel"><h2 style="font-size:22px;margin:0 0 16px;">Klíčové body</h2>${bulletList}</div></div><div class="grid" style="margin-top:22px;">${insightBlock || '<div class="panel"></div>'}${kpiBlock}</div></section>`
+      }
+
+      return `<section class="slide"><h2>${safeTitle}</h2>${safeSubtitle}<div class="grid"><div class="panel">${bulletList}</div>${kpiBlock}</div>${slide.insight ? `<div class="panel" style="margin-top:22px;"><h2 style="font-size:22px;margin:0 0 16px;">Komentář</h2><p style="margin:0;color:#334155;line-height:1.7;">${escapeXml(slide.insight)}</p></div>` : ''}</section>`
+    })
+    .join('')
 
   return [
     '<!doctype html>',
@@ -892,9 +1043,7 @@ function createPresentationHtml(chart: PendingChart) {
     '</style>',
     '</head>',
     '<body>',
-    `<section class="slide"><span class="eyebrow">${escapeXml(REPORT_BRAND_NAME)}</span><h1>${title}</h1><p>${description}</p><p class="meta">Vygenerováno: ${generatedAt}</p></section>`,
-    `<section class="slide"><h2>Vizualizace a datový přehled</h2><div class="grid"><div class="panel chart">${createChartSvg(chart)}</div><div class="panel"><h2 style="font-size:22px;margin:0 0 16px;">Klíčové body</h2><ul>${summaryItems}</ul></div></div></section>`,
-    `<section class="slide"><h2>Doporučené další kroky</h2><div class="grid"><div class="panel"><ul>${recommendedActions}</ul></div><div class="panel"><h2 style="font-size:22px;margin:0 0 16px;">Top data</h2>${createChartDataTableHtml(chart, 8)}</div></div></section>`,
+    slideHtml,
     '</body>',
     '</html>',
   ].join('')
@@ -1050,42 +1199,88 @@ async function createPresentationPptxBase64(chart: PendingChart) {
 
   const chartJpegDataUri = `data:image/jpeg;base64,${await createChartJpegBase64(chart)}`
   const generatedAt = new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
+  const slides = getPresentationSlides(chart)
 
-  const cover = pptx.addSlide()
-  cover.background = { color: 'F8FAFC' }
-  cover.addShape(pptx.ShapeType.roundRect, { x: 0.3, y: 0.3, w: 12.7, h: 1, fill: { color: '0F172A' }, line: { color: '0F172A' } })
-  cover.addText(REPORT_BRAND_TAGLINE, { x: 0.55, y: 0.55, w: 4.8, h: 0.25, fontSize: 10, bold: true, color: 'BAE6FD' })
-  cover.addText(getChartHeadline(chart), { x: 0.55, y: 1.55, w: 8.5, h: 0.6, fontSize: 24, bold: true, color: '0F172A' })
-  cover.addText(getChartSubheadline(chart), { x: 0.55, y: 2.2, w: 8.7, h: 0.45, fontSize: 12, color: '475569' })
-  cover.addText(`Vygenerováno: ${generatedAt}`, { x: 0.55, y: 3.05, w: 3.5, h: 0.3, fontSize: 10, color: '64748B' })
-  cover.addText(REPORT_BRAND_NAME, { x: 8.2, y: 6.7, w: 4.1, h: 0.25, align: 'right', fontSize: 11, color: '64748B' })
+  slides.forEach((slide, index) => {
+    const pptSlide = pptx.addSlide()
+    pptSlide.background = { color: index === 0 ? 'F8FAFC' : 'FFFFFF' }
 
-  const summarySlide = pptx.addSlide()
-  summarySlide.background = { color: 'FFFFFF' }
-  summarySlide.addText('Graf a hlavní zjištění', { x: 0.55, y: 0.45, w: 4.5, h: 0.4, fontSize: 22, bold: true, color: '0F172A' })
-  summarySlide.addImage({ data: chartJpegDataUri, x: 0.55, y: 1.05, w: 6.2, h: 3.75 })
-  summarySlide.addShape(pptx.ShapeType.roundRect, { x: 7.1, y: 1.05, w: 5.6, h: 4.6, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
-  summarySlide.addText('Executive summary', { x: 7.4, y: 1.35, w: 2.8, h: 0.3, fontSize: 15, bold: true, color: '0F172A' })
-  summarySlide.addText(
-    createExecutiveInsights(chart).slice(0, 4).map((line) => ({ text: `${line}`, options: { bullet: { indent: 12 } } })),
-    { x: 7.35, y: 1.8, w: 5.0, h: 3.2, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 }
-  )
+    if (slide.layout === 'cover' || index === 0) {
+      pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.3, y: 0.3, w: 12.7, h: 1, fill: { color: '0F172A' }, line: { color: '0F172A' } })
+      pptSlide.addText(REPORT_BRAND_TAGLINE, { x: 0.55, y: 0.55, w: 4.8, h: 0.25, fontSize: 10, bold: true, color: 'BAE6FD' })
+      pptSlide.addText(slide.title, { x: 0.55, y: 1.55, w: 9.2, h: 0.65, fontSize: 24, bold: true, color: '0F172A' })
+      if (slide.subtitle) {
+        pptSlide.addText(slide.subtitle, { x: 0.55, y: 2.2, w: 8.8, h: 0.6, fontSize: 12, color: '475569' })
+      }
+      if (slide.insight) {
+        pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.55, y: 3.0, w: 7.9, h: 1.4, rectRadius: 0.12, fill: { color: 'FFFFFF' }, line: { color: 'DBEAFE' } })
+        pptSlide.addText(slide.insight, { x: 0.8, y: 3.35, w: 7.3, h: 0.7, fontSize: 13, color: '334155', breakLine: true })
+      }
+      if (Array.isArray(slide.kpis) && slide.kpis.length > 0) {
+        slide.kpis.slice(0, 3).forEach((item, kpiIndex) => {
+          pptSlide.addShape(pptx.ShapeType.roundRect, { x: 8.8 + (kpiIndex % 1) * 0, y: 1.65 + kpiIndex * 1.25, w: 3.4, h: 0.95, rectRadius: 0.1, fill: { color: 'EFF6FF' }, line: { color: 'BFDBFE' } })
+          pptSlide.addText(item.label, { x: 9.05, y: 1.88 + kpiIndex * 1.25, w: 2.9, h: 0.2, fontSize: 9, bold: true, color: '1D4ED8' })
+          pptSlide.addText(item.value, { x: 9.05, y: 2.13 + kpiIndex * 1.25, w: 2.9, h: 0.3, fontSize: 18, bold: true, color: '0F172A' })
+        })
+      }
+      pptSlide.addText(`Vygenerováno: ${generatedAt}`, { x: 0.55, y: 6.8, w: 3.5, h: 0.25, fontSize: 10, color: '64748B' })
+      pptSlide.addText(REPORT_BRAND_NAME, { x: 8.2, y: 6.75, w: 4.1, h: 0.25, align: 'right', fontSize: 11, color: '64748B' })
+      return
+    }
 
-  const actionsSlide = pptx.addSlide()
-  actionsSlide.background = { color: 'FFFFFF' }
-  actionsSlide.addText('Doporučené kroky a top položky', { x: 0.55, y: 0.45, w: 5.6, h: 0.4, fontSize: 22, bold: true, color: '0F172A' })
-  actionsSlide.addShape(pptx.ShapeType.roundRect, { x: 0.55, y: 1.1, w: 5.75, h: 5.6, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
-  actionsSlide.addShape(pptx.ShapeType.roundRect, { x: 6.6, y: 1.1, w: 6.15, h: 5.6, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
-  actionsSlide.addText('Doporučení', { x: 0.85, y: 1.4, w: 2.2, h: 0.3, fontSize: 15, bold: true, color: '0F172A' })
-  actionsSlide.addText(
-    createRecommendedActions(chart).map((line) => ({ text: `${line}`, options: { bullet: { indent: 12 } } })),
-    { x: 0.8, y: 1.85, w: 5.0, h: 4.2, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 }
-  )
-  actionsSlide.addText('Top položky', { x: 6.9, y: 1.4, w: 2.2, h: 0.3, fontSize: 15, bold: true, color: '0F172A' })
-  getTopChartRows(chart, 6).forEach((row, index) => {
-    actionsSlide.addText(`${index + 1}. ${row.label}`, { x: 6.95, y: 1.9 + index * 0.62, w: 4.15, h: 0.25, fontSize: 11, bold: true, color: '0F172A' })
-    actionsSlide.addText(String(row.value), { x: 11.2, y: 1.9 + index * 0.62, w: 1.0, h: 0.25, fontSize: 11, align: 'right', color: '334155' })
-    actionsSlide.addShape(pptx.ShapeType.line, { x: 6.9, y: 2.3 + index * 0.62, w: 5.3, h: 0, line: { color: 'E2E8F0', width: 1 } })
+    pptSlide.addText(slide.title, { x: 0.55, y: 0.45, w: 7.0, h: 0.42, fontSize: 22, bold: true, color: '0F172A' })
+    if (slide.subtitle) {
+      pptSlide.addText(slide.subtitle, { x: 0.55, y: 0.88, w: 8.8, h: 0.28, fontSize: 11, color: '64748B' })
+    }
+
+    if (slide.layout === 'chart-summary') {
+      pptSlide.addImage({ data: chartJpegDataUri, x: 0.55, y: 1.25, w: 6.15, h: 3.75 })
+      pptSlide.addShape(pptx.ShapeType.roundRect, { x: 7.05, y: 1.25, w: 5.65, h: 4.15, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+      pptSlide.addText('Klíčové body', { x: 7.35, y: 1.55, w: 2.6, h: 0.25, fontSize: 15, bold: true, color: '0F172A' })
+      pptSlide.addText(
+        (slide.bullets || []).map((line) => ({ text: `${line}`, options: { bullet: { indent: 12 } } })),
+        { x: 7.3, y: 1.95, w: 5.0, h: 2.45, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 }
+      )
+      if (slide.insight) {
+        pptSlide.addText('Executive insight', { x: 7.35, y: 4.55, w: 2.8, h: 0.22, fontSize: 13, bold: true, color: '0F172A' })
+        pptSlide.addText(slide.insight, { x: 7.35, y: 4.86, w: 5.0, h: 0.55, fontSize: 10, color: '475569', breakLine: true })
+      }
+      if (Array.isArray(slide.kpis) && slide.kpis.length > 0) {
+        slide.kpis.slice(0, 3).forEach((item, kpiIndex) => {
+          pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.75 + kpiIndex * 2.05, y: 5.35, w: 1.85, h: 0.95, rectRadius: 0.1, fill: { color: 'EFF6FF' }, line: { color: 'BFDBFE' } })
+          pptSlide.addText(item.label, { x: 0.95 + kpiIndex * 2.05, y: 5.58, w: 1.45, h: 0.18, fontSize: 8, bold: true, color: '1D4ED8' })
+          pptSlide.addText(item.value, { x: 0.95 + kpiIndex * 2.05, y: 5.83, w: 1.45, h: 0.24, fontSize: 14, bold: true, color: '0F172A' })
+        })
+      }
+      return
+    }
+
+    pptSlide.addShape(pptx.ShapeType.roundRect, { x: 0.55, y: 1.15, w: 5.8, h: 5.55, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+    pptSlide.addShape(pptx.ShapeType.roundRect, { x: 6.6, y: 1.15, w: 6.1, h: 5.55, rectRadius: 0.12, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+    pptSlide.addText('Doporučené kroky', { x: 0.85, y: 1.45, w: 2.6, h: 0.25, fontSize: 15, bold: true, color: '0F172A' })
+    pptSlide.addText(
+      (slide.bullets || []).map((line) => ({ text: `${line}`, options: { bullet: { indent: 12 } } })),
+      { x: 0.8, y: 1.85, w: 5.0, h: 3.65, fontSize: 11, color: '334155', breakLine: true, paraSpaceAfter: 10 }
+    )
+    if (slide.insight) {
+      pptSlide.addText('Komentář', { x: 0.85, y: 5.72, w: 2.0, h: 0.2, fontSize: 13, bold: true, color: '0F172A' })
+      pptSlide.addText(slide.insight, { x: 0.85, y: 6.0, w: 5.0, h: 0.45, fontSize: 10, color: '475569', breakLine: true })
+    }
+
+    pptSlide.addText('Top data a KPI', { x: 6.9, y: 1.45, w: 2.6, h: 0.25, fontSize: 15, bold: true, color: '0F172A' })
+    if (Array.isArray(slide.kpis) && slide.kpis.length > 0) {
+      slide.kpis.slice(0, 4).forEach((item, rowIndex) => {
+        pptSlide.addText(item.label, { x: 6.95, y: 1.92 + rowIndex * 0.72, w: 3.95, h: 0.22, fontSize: 11, bold: true, color: '0F172A' })
+        pptSlide.addText(item.value, { x: 10.95, y: 1.92 + rowIndex * 0.72, w: 1.0, h: 0.22, fontSize: 11, align: 'right', color: '334155' })
+        pptSlide.addShape(pptx.ShapeType.line, { x: 6.9, y: 2.3 + rowIndex * 0.72, w: 5.15, h: 0, line: { color: 'E2E8F0', width: 1 } })
+      })
+    } else {
+      getTopChartRows(chart, 6).forEach((row, rowIndex) => {
+        pptSlide.addText(`${rowIndex + 1}. ${row.label}`, { x: 6.95, y: 1.92 + rowIndex * 0.62, w: 4.0, h: 0.22, fontSize: 11, bold: true, color: '0F172A' })
+        pptSlide.addText(String(row.value), { x: 11.05, y: 1.92 + rowIndex * 0.62, w: 0.9, h: 0.22, fontSize: 11, align: 'right', color: '334155' })
+        pptSlide.addShape(pptx.ShapeType.line, { x: 6.9, y: 2.28 + rowIndex * 0.62, w: 5.15, h: 0, line: { color: 'E2E8F0', width: 1 } })
+      })
+    }
   })
 
   const output = await pptx.write({ outputType: 'nodebuffer' })
