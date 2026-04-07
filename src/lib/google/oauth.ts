@@ -11,6 +11,17 @@ const SCOPES = [
   'https://www.googleapis.com/auth/userinfo.profile',
 ]
 
+function isInvalidGrantError(error: unknown) {
+  const message =
+    (error as any)?.response?.data?.error_description ||
+    (error as any)?.response?.data?.error ||
+    (error as any)?.response?.data?.error?.message ||
+    (error as any)?.message ||
+    ''
+
+  return String(message).toLowerCase().includes('invalid_grant')
+}
+
 export function getOAuthClient() {
   const clientId = process.env.GOOGLE_CLIENT_ID
   const clientSecret = process.env.GOOGLE_CLIENT_SECRET
@@ -49,6 +60,12 @@ export async function exchangeCodeForToken(code: string, userId: string) {
 
   // Store tokens in Supabase
   const expiryDate = tokens.expiry_date ? new Date(tokens.expiry_date) : null
+  const { data: existingConnection } = await supabase
+    .from('connected_accounts')
+    .select('refresh_token')
+    .eq('user_id', userId)
+    .eq('provider', 'google')
+    .maybeSingle()
   
   const { error } = await supabase.from('connected_accounts').upsert({
     user_id: userId,
@@ -56,7 +73,7 @@ export async function exchangeCodeForToken(code: string, userId: string) {
     provider_user_id: tokens.id_token ? extractUserIdFromIdToken(tokens.id_token) : null,
     provider_email: null, // Will be set when we fetch user info
     access_token: tokens.access_token,
-    refresh_token: tokens.refresh_token || null,
+    refresh_token: tokens.refresh_token || existingConnection?.refresh_token || null,
     token_expiry: expiryDate,
     scopes: SCOPES,
     updated_at: new Date().toISOString(),
@@ -106,14 +123,23 @@ export async function getAuthenticatedGoogleClient(userId: string) {
 
   // Set up token refresh handler
   oauth2Client.on('tokens', async (tokens) => {
-    if (tokens.refresh_token) {
-      await supabase.from('connected_accounts').update({
-        refresh_token: tokens.refresh_token,
-        token_expiry: tokens.expiry_date ? new Date(tokens.expiry_date) : null,
-        updated_at: new Date().toISOString(),
-      }).eq('user_id', userId)
-    }
+    await supabase.from('connected_accounts').update({
+      access_token: tokens.access_token || data.access_token,
+      refresh_token: tokens.refresh_token || data.refresh_token,
+      token_expiry: tokens.expiry_date ? new Date(tokens.expiry_date) : data.token_expiry,
+      updated_at: new Date().toISOString(),
+    }).eq('user_id', userId).eq('provider', 'google')
   })
+
+  try {
+    await oauth2Client.getAccessToken()
+  } catch (error) {
+    if (isInvalidGrantError(error)) {
+      await disconnectGoogle(userId)
+      throw new Error('Google autorizace vypršela nebo byla zneplatněna. Připoj Google účet znovu.')
+    }
+    throw error
+  }
 
   return oauth2Client
 }
@@ -144,10 +170,36 @@ export async function getConnectionStatus(userId: string) {
     return { connected: false, email: null }
   }
 
-  return {
-    connected: true,
-    email: data.provider_email,
-    connectedAt: data.created_at,
+  try {
+    const auth = await getAuthenticatedGoogleClient(userId)
+    const oauth2 = google.oauth2({ version: 'v2', auth })
+    const response = await oauth2.userinfo.get()
+    const email = response.data.email || data.provider_email || null
+
+    if (email && email !== data.provider_email) {
+      await supabase
+        .from('connected_accounts')
+        .update({ provider_email: email, updated_at: new Date().toISOString() })
+        .eq('user_id', userId)
+        .eq('provider', 'google')
+    }
+
+    return {
+      connected: true,
+      email,
+      connectedAt: data.created_at,
+    }
+  } catch (statusError) {
+    if (isInvalidGrantError(statusError) || String((statusError as any)?.message || '').includes('Google autorizace vypršela')) {
+      return { connected: false, email: null }
+    }
+
+    console.error('Failed to validate Google connection status:', statusError)
+    return {
+      connected: true,
+      email: data.provider_email,
+      connectedAt: data.created_at,
+    }
   }
 }
 
