@@ -689,7 +689,7 @@ function formatPptxBulletText(lines?: string[]) {
   return lines
     .map((line) => String(line).trim())
     .filter(Boolean)
-    .map((line) => `• ${line}`)
+    .map((line) => `- ${line}`)
     .join('\n')
 }
 
@@ -1310,32 +1310,55 @@ async function createPresentationPptxBase64(chart: PendingChart) {
     fallback.subject = getChartHeadline(chart)
     fallback.title = getChartHeadline(chart)
 
-    const chartJpegDataUri = `data:image/jpeg;base64,${await createChartJpegBase64(chart)}`
     const generatedAt = new Date(chart.createdAt || Date.now()).toLocaleString('cs-CZ', { timeZone: 'Europe/Prague' })
     const slides = buildFallbackPresentationSlides(chart)
+    const topRowsText = getTopChartRows(chart, 6)
+      .map((row, index) => `${index + 1}. ${row.label}: ${row.value}`)
+      .join('\n')
 
     const cover = fallback.addSlide()
     cover.background = { color: 'F8FAFC' }
     cover.addText(getChartHeadline(chart), { x: 0.6, y: 1.3, w: 8.8, h: 0.6, fontSize: 24, bold: true, color: '0F172A' })
     cover.addText(getChartSubheadline(chart), { x: 0.6, y: 2.0, w: 8.8, h: 0.5, fontSize: 12, color: '475569' })
     cover.addText(`Vygenerováno: ${generatedAt}`, { x: 0.6, y: 2.75, w: 3.5, h: 0.2, fontSize: 10, color: '64748B' })
+    if (slides[0]?.insight) {
+      cover.addShape(fallback.ShapeType.roundRect, { x: 0.6, y: 3.3, w: 7.6, h: 1.25, rectRadius: 0.08, fill: { color: 'FFFFFF' }, line: { color: 'DBEAFE' } })
+      cover.addText(slides[0].insight, { x: 0.85, y: 3.65, w: 7.1, h: 0.55, fontSize: 12, color: '334155', breakLine: true })
+    }
 
     const chartSlide = fallback.addSlide()
     chartSlide.background = { color: 'FFFFFF' }
-    chartSlide.addText(slides[1]?.title || 'Graf a shrnutí', { x: 0.55, y: 0.45, w: 6.0, h: 0.35, fontSize: 20, bold: true, color: '0F172A' })
-    chartSlide.addImage({ data: chartJpegDataUri, x: 0.55, y: 1.05, w: 6.2, h: 3.75 })
-    chartSlide.addText(formatPptxBulletText(slides[1]?.bullets), { x: 7.15, y: 1.2, w: 5.0, h: 3.8, fontSize: 11, color: '334155', breakLine: true })
+    chartSlide.addText(slides[1]?.title || 'Shrnutí a hlavní zjištění', { x: 0.55, y: 0.45, w: 7.2, h: 0.35, fontSize: 20, bold: true, color: '0F172A' })
+    if (slides[1]?.subtitle) {
+      chartSlide.addText(slides[1].subtitle!, { x: 0.55, y: 0.88, w: 9.5, h: 0.22, fontSize: 11, color: '64748B' })
+    }
+    chartSlide.addShape(fallback.ShapeType.roundRect, { x: 0.55, y: 1.3, w: 5.9, h: 4.8, rectRadius: 0.1, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+    chartSlide.addShape(fallback.ShapeType.roundRect, { x: 6.75, y: 1.3, w: 5.95, h: 4.8, rectRadius: 0.1, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+    chartSlide.addText('Klíčové body', { x: 0.85, y: 1.6, w: 2.5, h: 0.2, fontSize: 14, bold: true, color: '0F172A' })
+    chartSlide.addText(formatPptxBulletText(slides[1]?.bullets), { x: 0.85, y: 1.95, w: 5.0, h: 2.5, fontSize: 11, color: '334155', breakLine: true })
+    chartSlide.addText('Top segmenty', { x: 7.05, y: 1.6, w: 2.5, h: 0.2, fontSize: 14, bold: true, color: '0F172A' })
+    chartSlide.addText(topRowsText || 'Bez dat.', { x: 7.05, y: 1.95, w: 5.0, h: 2.8, fontSize: 11, color: '334155', breakLine: true })
+    if (slides[1]?.insight) {
+      chartSlide.addText('Executive insight', { x: 0.85, y: 4.95, w: 2.6, h: 0.2, fontSize: 13, bold: true, color: '0F172A' })
+      chartSlide.addText(slides[1].insight!, { x: 0.85, y: 5.25, w: 11.2, h: 0.45, fontSize: 10, color: '475569', breakLine: true })
+    }
 
     const actionsSlide = fallback.addSlide()
     actionsSlide.background = { color: 'FFFFFF' }
     actionsSlide.addText(slides[2]?.title || 'Doporučené další kroky', { x: 0.55, y: 0.45, w: 6.0, h: 0.35, fontSize: 20, bold: true, color: '0F172A' })
-    actionsSlide.addText(formatPptxBulletText(slides[2]?.bullets), { x: 0.7, y: 1.25, w: 5.4, h: 4.8, fontSize: 11, color: '334155', breakLine: true })
-    actionsSlide.addText(
-      getTopChartRows(chart, 6)
-        .map((row, index) => `${index + 1}. ${row.label}: ${row.value}`)
-        .join('\n'),
-      { x: 6.8, y: 1.25, w: 5.0, h: 4.8, fontSize: 11, color: '334155', breakLine: true }
-    )
+    if (slides[2]?.subtitle) {
+      actionsSlide.addText(slides[2].subtitle!, { x: 0.55, y: 0.88, w: 9.5, h: 0.22, fontSize: 11, color: '64748B' })
+    }
+    actionsSlide.addShape(fallback.ShapeType.roundRect, { x: 0.55, y: 1.3, w: 5.9, h: 4.9, rectRadius: 0.1, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+    actionsSlide.addShape(fallback.ShapeType.roundRect, { x: 6.75, y: 1.3, w: 5.95, h: 4.9, rectRadius: 0.1, fill: { color: 'F8FAFC' }, line: { color: 'E2E8F0' } })
+    actionsSlide.addText('Doporučené kroky', { x: 0.85, y: 1.6, w: 2.5, h: 0.2, fontSize: 14, bold: true, color: '0F172A' })
+    actionsSlide.addText(formatPptxBulletText(slides[2]?.bullets), { x: 0.85, y: 1.95, w: 5.0, h: 2.9, fontSize: 11, color: '334155', breakLine: true })
+    actionsSlide.addText('Top data a KPI', { x: 7.05, y: 1.6, w: 2.5, h: 0.2, fontSize: 14, bold: true, color: '0F172A' })
+    actionsSlide.addText(topRowsText || 'Bez dat.', { x: 7.05, y: 1.95, w: 5.0, h: 2.9, fontSize: 11, color: '334155', breakLine: true })
+    if (slides[2]?.insight) {
+      actionsSlide.addText('Komentář', { x: 0.85, y: 5.1, w: 2.0, h: 0.2, fontSize: 13, bold: true, color: '0F172A' })
+      actionsSlide.addText(slides[2].insight!, { x: 0.85, y: 5.4, w: 11.0, h: 0.35, fontSize: 10, color: '475569', breakLine: true })
+    }
 
     const output = await fallback.write({ outputType: 'nodebuffer' })
     const normalizedBuffer =
